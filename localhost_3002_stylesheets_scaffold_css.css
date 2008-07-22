@@ -1,0 +1,150 @@
+body {
+background-color: #fff; color: #333;
+}
+body {
+font-size: 13px; line-height: 18px; font-family: georgia, verdana, arial, helvetica, sans-serif;
+}
+p {
+font-size: 13px; line-height: 18px; font-family: georgia, verdana, arial, helvetica, sans-serif;
+}
+ol {
+font-size: 13px; line-height: 18px; font-family: georgia, verdana, arial, helvetica, sans-serif;
+}
+ul {
+font-size: 13px; line-height: 18px; font-family: georgia, verdana, arial, helvetica, sans-serif;
+}
+td {
+font-size: 13px; line-height: 18px; font-family: georgia, verdana, arial, helvetica, sans-serif;
+}
+H1 {
+text-transform: uppercase; font-family: arial, helvetica, sans-serif;
+}
+H2 {
+text-transform: uppercase; font-family: arial, helvetica, sans-serif;
+}
+H3 {
+text-transform: uppercase; font-family: arial, helvetica, sans-serif;
+}
+pre {
+font-size: 11px; background-color: #eee; padding: 10px;
+}
+a {
+color: #000;
+}
+a:visited {
+color: #666;
+}
+a:hover {
+background-color: #000; color: #fff;
+}
+.fieldWithErrors {
+background-color: red; display: table; padding: 2px;
+}
+#errorExplanation {
+padding-bottom: 12px; margin-bottom: 20px; background-color: #f0f0f0; border: 2px solid red; padding: 7px; width: 400px;
+}
+#errorExplanation h2 {
+font-weight: bold; font-size: 12px; margin: -7px; background-color: #c00; padding: 5px 5px 5px 15px; color: #fff; text-align: left;
+}
+#errorExplanation p {
+margin-bottom: 0; padding: 5px; color: #333;
+}
+#errorExplanation ul li {
+list-style: square; font-size: 12px;
+}
+div.uploadStatus {
+margin: 5px;
+}
+div.progressBar {
+margin: 5px;
+}
+div.progressBar div.border {
+background-color: #fff; border: 1px solid gray; width: 100%;
+}
+div.progressBar div.background {
+background-color: #333; height: 18px; width: 0%;
+}
+TABLE TD {
+border-bottom: solid 1px #CCC;
+}
+DIV.projectTitle {
+margin-right: 10px; float: left;
+}
+DIV.addCSS {
+font-size: 10px; background-color: #EEE; border: solid 1px #CCC; padding: 0 2px; float: left;
+}
+DIV.addCSS A {
+text-decoration: none; color: #CCC;
+}
+DIV.addCSS A:hover {
+background-color: #EFEFEF; text-decoration: underline; color: #999;
+}
+UL.stylesheet {
+list-style: none; margin: 0; padding: 0;
+}
+LI.rule {
+margin-bottom: 10px;
+}
+LI.rule STRONG {
+color: #900;
+}
+LI.rule STRONG A {
+text-decoration: none; color: #900;
+}
+LI.rule STRONG A:hover {
+background-color: #FFF; text-decoration: underline; color: #900;
+}
+LI.rule UL {
+list-style: none; margin: 0; padding: 0;
+}
+UL.declarations LI {
+margin-left: 30px;
+}
+UL.declarations LI STRONG {
+color: #666;
+}
+UL.declarations LI STRONG A {
+color: #666;
+}
+UL.declarations LI A {
+text-decoration: none;
+}
+UL.declarations LI A:hover {
+background-color: #FFF; text-decoration: underline; color: #00F;
+}
+UL.declarations LI.highlight {
+background: #EEE url(../images/disabled.gif) top left repeat-x;
+}
+.contextMenu {
+padding-bottom: 9px; padding-right: 8px; background: url(/images/contextmenu_ds.png) bottom right no-repeat; display: none; z-index: 1004; position: absolute; width: 500px;
+}
+.contextMenu .contextmenuArrow {
+left: -9px; background: url(/images/context_pointer_left.png) top left no-repeat; height: 23px; z-index: 1002; position: absolute; top: 12px; width: 10px;
+}
+.contextMenu .contextmenuArrow.rightArrow {
+background: url(/images/context_pointer_right.png) top left no-repeat;
+}
+.contextMenu  .arrowTop #contextmenuArrow {
+background: url(/images/context_pointer_up.png) top center no-repeat; height: 33px; z-index: 1003; position: absolute; top: -10px; width: 19px;
+}
+.contextContent {
+overflow: hidden; padding-top: 10px; background-color: #FFF; border: solid 1px #CCC; min-height: 250px; padding: 5px; z-index: 1;
+}
+.closer {
+background: url(/images/icon_close.gif) top center no-repeat; cursor: pointer; height: 11px; z-index: 1008; position: absolute; top: 4px; right: 12px; width: 11px;
+}
+* html .contextMenu {
+background-image: none;
+}
+* html .contextMenu .contextmenuArrow {
+background-image: url(/images/context_pointer_left.gif);
+}
+* html .contextMenu .contextmenuArrow.rightArrow {
+background-image: url(/images/context_pointer_right.gif);
+}
+* html .contextMenu  .arrowTop #contextmenuArrow {
+background-image: url(/images/context_pointer_up.gif);
+}
+.closer {
+background: url(/images/icon_close.gif) top center no-repeat; cursor: pointer; height: 11px; z-index: 1008; position: absolute; top: 4px; right: 12px; width: 11px;
+}
