@@ -1,0 +1,1908 @@
+BODY {
+background: #fff; margin-top: 0;
+}
+.ldn {
+text-align: right;
+}
+.ldi {
+text-align: center;
+}
+.row-e {
+background-color: #EEE;
+}
+.row-o {
+background-color: #FFF;
+}
+.floatright {
+float: right;
+}
+.floatleft {
+float: left;
+}
+.left {
+text-align: left;
+}
+.align1 {
+text-align: left;
+}
+.center {
+text-align: center;
+}
+.align2 {
+text-align: center;
+}
+.right {
+text-align: right;
+}
+.align3 {
+text-align: right;
+}
+.normaltext {
+font-weight: normal;
+}
+.datatabletitle {
+font: bold 11px Tahoma; width: 100%;
+}
+TABLE.paging {
+border-bottom: 0px; color: #000; font: 11px Tahoma; border-top: 0px; width: 100%;
+}
+TABLE.paging TR {
+height: 20px;
+}
+TABLE.paging TD.count {
+padding-left: 3px; font: bold Verdana; text-align: left;
+}
+TABLE.paging TD.controls {
+padding-right: 3px; white-space: nowrap; vertical-align: middle; text-align: RIGHT;
+}
+TABLE.paging TD.controls .disabled {
+font-weight: bold; color: #ccc;
+}
+TABLE.paging TD.controls .selected {
+font-weight: bold;
+}
+TABLE.paging TD.controls A {
+font-weight: bold; text-decoration: none; color: #666666;
+}
+TABLE.paging TD.controls A:active {
+font-weight: bold; text-decoration: none; color: #666666;
+}
+TABLE.paging TD.controls A:visited {
+font-weight: bold; text-decoration: none; color: #666666;
+}
+TABLE.paging TD.controls A:hover {
+font-weight: bold; color: #F90;
+}
+TABLE.paging TD.controls A .arrows {
+color: #F60;
+}
+TABLE.paging TD.controls IMG.sep {
+margin-right: 4px; border: none; vertical-align: middle; margin-left: 4px;
+}
+SPAN.anchor {
+text-decoration: none; color: #009;
+}
+SPAN.anchorHover {
+cursor: pointer; text-decoration: underline; color: #F90;
+}
+TABLE.headlines {
+border-collapse: collapse; font: 11px Tahoma; table-layout: auto; width: 100%;
+}
+TABLE.headlines TD.hr {
+font-weight: bold; background-color: #D7DFEF; white-space: nowrap; vertical-align: middle; height: 20px;
+}
+.datatabletitle {
+border-bottom: 1px solid #9B9B9B; padding: 10px 1px 2px 1px; vertical-align: bottom; font: bold 11px Tahoma;
+}
+TABLE.headlines TR.hr TD {
+background-color: #D7DFEF;
+}
+TABLE.headlines TABLE.headlines {
+font: 100% Tahoma;
+}
+TABLE.headlines A:hover {
+cursor: pointer; text-decoration: underline;
+}
+TABLE.headlines SPAN.anchorHover {
+cursor: pointer; text-decoration: underline;
+}
+A.figl:hover {
+cursor: pointer; text-decoration: underline;
+}
+.recommendationsgauge {
+margin-bottom: 15px; margin: 0 auto; background: url(/Controls/images/element_recommendations.gif) top left no-repeat; height: 45px; position: relative; width: 190px;
+}
+.recommendationsgauge DIV {
+position: absolute; top: 38px;
+}
+.recommendationsgauge DIV.markerImage {
+left: 3px; background: url(/Controls/images/arrow_down_blue_ds.gif) top left no-repeat; height: 10px; position: absolute; width: 10px; top: 3px;
+}
+.recommendationsgauge DIV.sell {
+left: 15px;
+}
+.recommendationsgauge DIV.hold {
+left: 83px;
+}
+.recommendationsgauge DIV.buy {
+left: 160px;
+}
+TABLE.headlines TR {
+height: 20px;
+}
+TABLE.headlines TD {
+padding-right: 5px; padding-left: 5px;
+}
+*> TABLE.headlines TD {
+font-size: 11px;
+}
+TABLE.headlines TR.hr IMG.sort {
+border: none;
+}
+TABLE.headlines TR.hr TD {
+font-weight: bold; white-space: nowrap; vertical-align: middle;
+}
+TABLE.headlines TR.hra TD {
+font-weight: bold; vertical-align: middle;
+}
+.tf {
+padding: 5px;
+}
+TABLE.headlines TR.dr IMG.icon {
+border: none;
+}
+TABLE.headlines TR.dr TD A {
+text-decoration: none;
+}
+TABLE.headlines TR.dr TD A:active {
+text-decoration: none;
+}
+TABLE.headlines TR.dr TD A:visited {
+text-decoration: none;
+}
+TABLE.headlines TR.dr TD A:hover {
+text-decoration: underline;
+}
+TABLE.headlines TR.group {
+height: 20px;
+}
+TABLE.headlines TR.group TD {
+font-weight: bold;
+}
+TABLE.headlines TR.group IMG.control {
+margin-right: 2px; border: none; vertical-align: middle;
+}
+TABLE.headlines TR.fr {
+margin-top: 10px;
+}
+TABLE.headlines TR.fr TD.more {
+color: #333; font: 10px Verdana; text-align: right;
+}
+TABLE.headlines TR.fr TD.more TABLE DIV {
+font-size: 10px; text-align: right;
+}
+TABLE.headlines TR.dr TD A {
+font-family: verdana; color: #009;
+}
+TABLE.headlines TR.dr TD A:active {
+font-family: verdana; color: #009;
+}
+TABLE.headlines TR.dr TD A:visited {
+color: #800080;
+}
+TABLE.headlines TR.dr TD A:hover {
+font-family: verdana; color: #F90;
+}
+TABLE.headlines IMG.sort {
+border: none;
+}
+TABLE.headlines IMG.icon {
+border: none;
+}
+TABLE.headlines .neg {
+color: red;
+}
+TABLE.headlines .sel {
+font-weight: bold;
+}
+TABLE.estimates {
+border-collapse: collapse; font: 11px Tahoma; table-layout: auto; width: 100%;
+}
+TABLE.estimates A {
+text-decoration: none;
+}
+TABLE.estimates A:active {
+text-decoration: none;
+}
+TABLE.estimates A:visited {
+text-decoration: none;
+}
+TABLE.estimates SPAN.anchor {
+text-decoration: none;
+}
+TABLE.estimates A:hover {
+text-decoration: underline;
+}
+TABLE.estimates SPAN.anchorHover {
+text-decoration: underline;
+}
+TABLE.estimates TR {
+height: 20px;
+}
+TABLE.estimates TD {
+padding-right: 5px; padding-left: 5px;
+}
+TABLE.estimates TR.hr {
+padding-right: 5px; font-weight: bold; padding-left: 5px;
+}
+TABLE.estimates TR.hr TD.head {
+font-size: 11px; text-align: right;
+}
+TABLE.estimates TR.hr TD.headSub.span {
+text-align: center;
+}
+TABLE.estimates TR.hr TD.span {
+text-align: center;
+}
+TABLE.estimates TR.hr TD.headSub {
+padding-right: 5px; font-size: 85%; vertical-align: middle; text-align: RIGHT;
+}
+TABLE.estimates TR.group {
+font-weight: bold;
+}
+TABLE.estimates TR.group IMG.control {
+margin-right: 2px; border: none; vertical-align: middle;
+}
+TABLE.estimates TR.group TD.rh {
+white-space: nowrap; text-align: left;
+}
+TABLE.estimates TR.group TD.rh .label {
+float: left;
+}
+TABLE.estimates TR.group TD.rh .snap {
+padding-left: 7px; float: left;
+}
+TABLE.estimates TR.group TD.rh .suppress {
+float: right;
+}
+TABLE.estimates TR.actual TD {
+font-weight: bold;
+}
+TABLE.estimates TR.dr TD.rh {
+padding-right: 3px; text-align: right;
+}
+TABLE.estimates TR.dr TD.rh .analyst {
+float: left;
+}
+TABLE.estimates TR.dr TD.rh .label {
+float: right;
+}
+TABLE.estimates TD.bar {
+padding-right: 0px; vertical-align: middle; padding-left: 0px; width: 75%;
+}
+TABLE.estimates TD.bar DIV.barContainer {
+height: 100%; vertical-align: middle; width: 100%; float: left;
+}
+TABLE.estimates TD.bar DIV.barContainer DIV.bar {
+height: 20px; text-align: right; float: left;
+}
+TABLE.estimates TD.bar DIV.barContainer DIV.value {
+padding: 3px 2px; height: 100%; float: left;
+}
+DIV.estFootnote {
+padding: 7px; font: 11px Tahoma;
+}
+TABLE.estimates .neg {
+color: red;
+}
+TABLE.estimates .sel {
+font-weight: bold;
+}
+TABLE.consensus TR.hr TD.ldt {
+font-weight: bold; text-align: center;
+}
+TABLE.consensus TR.hr TD.headSub.span {
+text-align: center;
+}
+TABLE.consensus TR.dr TD.ldn {
+text-align: right;
+}
+TABLE.consensus TR.dr TD.ldt {
+text-align: right;
+}
+TABLE.fundamentals {
+border-collapse: collapse; font: 11px Tahoma; table-layout: auto;
+}
+TABLE.fundamentals A {
+text-decoration: none;
+}
+TABLE.fundamentals A:active {
+text-decoration: none;
+}
+TABLE.fundamentals A:visited {
+text-decoration: none;
+}
+TABLE.fundamentals SPAN.anchor {
+text-decoration: none;
+}
+TABLE.fundamentals A:hover {
+text-decoration: underline;
+}
+TABLE.fundamentals SPAN.anchorHover {
+text-decoration: underline;
+}
+TABLE.fundamentals TR {
+height: 20px;
+}
+TABLE.fundamentals TD {
+padding-right: 5px; padding-left: 5px;
+}
+TABLE.fundamentals IMG.control {
+margin-right: 5px; vertical-align: middle; margin-left: 2px;
+}
+TABLE.fundamentals TR.hr {
+text-align: right;
+}
+TABLE.fundamentals TR.hr TD.head {
+font-weight: bold;
+}
+TABLE.fundamentals TR.hr TD.head.left {
+text-align: left;
+}
+TABLE.fundamentals TR.hr TD.head.center {
+text-align: center;
+}
+TABLE.fundamentals.industrycomparison TR.hr TD.rh {
+font-weight: bold; text-align: left;
+}
+TABLE.fundamentals.fullreport TR.hr TD.rh.first {
+font-weight: bold; text-align: left;
+}
+TABLE.fundamentals TR.dr TD.rh {
+text-align: left;
+}
+TABLE.fundamentals TR.dr TD.rh.right {
+text-align: right;
+}
+TABLE.fundamentals TR.dr.group TD {
+font-weight: bold;
+}
+TABLE.fundamentals TR.dr.group TD.rh {
+font-weight: bold;
+}
+TABLE.fundamentals.fullreport.momentum TR.dr.group TD.rh.first {
+text-align: right;
+}
+TABLE.fundamentals .neg {
+color: red;
+}
+TABLE.fundamentals .sel {
+font-weight: bold;
+}
+TABLE.fundamentals TD.indentlvl1 {
+padding-left: 20px;
+}
+TABLE.fundamentals TD.indentlvl2 {
+padding-left: 25px;
+}
+TABLE.fundamentals TD.indentlvl3 {
+padding-left: 35px;
+}
+TABLE.fundamentals.ratios TD.math {
+background-color: #EEE; border-bottom: none; border-top: none; text-align: right;
+}
+TABLE.fundamentals.ratios TD.bb {
+border-bottom: solid 1px #B5B5B5;
+}
+TABLE.fundamentals TR.rh TD.ssd {
+font-weight: normal; background-color: #C3CDDD; border-bottom: 1px solid #FFF; border-left: 1px solid #FFF;
+}
+TABLE.fundamentals TD.topBorder {
+border-top: solid 3px #B5B5B5;
+}
+TABLE.datatable {
+border-collapse: collapse; font: 11px Tahoma; table-layout: auto;
+}
+TABLE.datatable A {
+text-decoration: none;
+}
+TABLE.datatable A:active {
+text-decoration: none;
+}
+TABLE.datatable A:hover {
+text-decoration: underline;
+}
+TABLE.datatable A:visited {
+text-decoration: none;
+}
+TABLE.datatable TR {
+height: 20px;
+}
+TABLE.datatable TD {
+padding-right: 5px; padding-left: 5px;
+}
+TABLE.datatable .neg {
+color: red;
+}
+TABLE.datatable .sel {
+font-weight: bold;
+}
+TABLE.datatable TD.indentlvl1 {
+padding-left: 20px;
+}
+TABLE.datatable TD.indentlvl2 {
+padding-left: 25px;
+}
+TABLE.datatable TD.indentlvl3 {
+padding-left: 35px;
+}
+TABLE.datatable TR.hr {
+padding-right: 5px; padding-left: 5px;
+}
+TABLE.datatable TD.head {
+font-weight: bold;
+}
+TABLE.datatable TR.dr TD.rh {
+padding-right: 3px; text-align: right;
+}
+TABLE.datatable IMG.control {
+margin-right: 5px; border: none; vertical-align: middle; margin-left: 2px;
+}
+TABLE.datatable TR.group {
+font-weight: bold;
+}
+TABLE.datatable TR.dr.group TD.rh {
+font-weight: bold;
+}
+TABLE.datatable TR.group TD.rh {
+white-space: nowrap; text-align: left;
+}
+TABLE.datatable.ecowin TD.ldd {
+text-align: left;
+}
+TABLE.estimates TR.group TD.rh {
+white-space: normal;
+}
+TABLE.datatable TR.group TD.rh {
+white-space: normal;
+}
+.templatecontainer {
+margin: 1%; background-color: #FFFFFF; border: 1px solid #7FA1BC; padding: 1%; height: 115px; width: 45%; float: left;
+}
+.templatecontainer .templatemeta {
+padding-right: 5px; width: 48%; float: left;
+}
+.templatecontainer img {
+border: 1px solid #007FBE; float: right;
+}
+DIV.pFoot {
+padding: 3px 0; width: 100%;
+}
+*> DIV.pFoot {
+clear: both; width: 99%;
+}
+TABLE.pFoot {
+border-top: 1px solid #ccc; width: 100%;
+}
+TABLE.pFoot A {
+text-decoration: none; color: #009;
+}
+TABLE.pFoot A:active {
+text-decoration: none; color: #009;
+}
+TABLE.pFoot A:visited {
+text-decoration: none; color: #009;
+}
+TABLE.pFoot A:hover {
+text-decoration: underline; color: #F90;
+}
+TABLE.pFoot TD.left {
+padding-top: 1px; text-align: left; width: 50%;
+}
+TABLE.pFoot TD.left .copyRight {
+color: #333; font: 56% verdana;
+}
+TABLE.pFoot TD.left TABLE.links {
+font: 64% tahoma;
+}
+TABLE.pFoot TD.left TABLE.links .lnkLabel {
+padding-right: 4px; font-weight: bold; color: #666;
+}
+TABLE.pFoot TD.right {
+padding-top: 1px; text-align: right; width: 50%;
+}
+TABLE.pFoot TD.right .copyRight {
+font-size: 56%; padding-top: 6px; font-family: verdana; color: #333;
+}
+TABLE.pFoot TD.right TABLE.links {
+font: bold 64% tahoma;
+}
+TABLE.pFoot TD.left TABLE.links .sep {
+padding-right: 4px; padding-left: 4px;
+}
+TABLE.pFoot TD.right TABLE.links .sep {
+padding-right: 4px; padding-left: 4px;
+}
+TABLE.pFoot TD.right TABLE.links IMG.sep {
+vertical-align: middle;
+}
+.DocViewerHeading {
+overflow: hidden; background: url(/controls/img/navigation/servicemenubg.gif) repeat-x; background-image: none; height: 28px; width: 100%;
+}
+.DocViewerHeading .BasicBrandLogo {
+margin: 0; background-repeat: no-repeat; background-color: transparent; background-image: url(/controls/img/navigation/CoBranding/ReutersLogo.gif); padding: 0; height: 28px; width: 230px;
+}
+DIV.customizationcomponentActive {
+margin: 5px; border: 1px solid #FF0000;
+}
+DIV.customizationcomponent {
+margin: 5px; border: 1px solid #6699FF;
+}
+*html DIV.customizationcomponent {
+width: 100%;
+}
+*+html DIV.customizationcomponent {
+width: 100%;
+}
+.componentDrag {
+border: 10px solid #69F; filter: alpha(opacity=75);
+}
+DIV.customizationcomponentDragOver {
+margin: 5px; margin-top: 0px; width: 100%;
+}
+TABLE.customizationcomponent {
+background-color: #C3CDDD; border-bottom: 1px solid #9B9B9B; padding: 2px 1px; font: bold 11px tahoma; width: 100%;
+}
+TABLE.customizationcomponent TR.hr TD {
+padding: 0 0 1px 1px; height: 18px; vertical-align: bottom; text-align: left;
+}
+.contentWidgetDropArea {
+margin: 5px; border: 1px black dashed;
+}
+DIV.quickEdit {
+background-color: #FFF; border-bottom: 1px solid #CCC; padding: 2px;
+}
+TABLE.quickEdit {
+font: 11px tahoma;
+}
+.quickEditItemLabel {
+padding-left: 5px;
+}
+.quickEditItem {
+padding-right: 5px;
+}
+.quickEdit INPUT {
+vertical-align: middle;
+}
+.quickEdit INPUT {
+font: 1em "Verdana", sans-serif;
+}
+.quickEdit SELECT {
+font: 1em "Verdana", sans-serif;
+}
+.quickEdit TEXTAREA {
+font: 1em "Verdana", sans-serif;
+}
+.quickEdit TEXTAREA {
+line-height: 14px; height: 100px; width: 200px;
+}
+.rtsContextMenu {
+font-size: 8pt; border-color: ThreeDHighlight ThreeDShadow ThreeDShadow ThreeDHighlight; margin: 0px; background-color: ThreeDFace; border: 2px solid; white-space: nowrap; padding: 1px; font: menu;
+}
+.rtsContextMenu .menuItem {
+padding: 2px; color: #999; position: relative;
+}
+.rtsContextMenu .menuItemEnabled {
+padding: 2px; color: black; position: relative;
+}
+.rtsContextMenu .menuItemHover {
+cursor: hand; background-color: Highlight; padding: 2px; color: HighlightText;
+}
+.rtsContextMenu   SPAN.icon {
+width: 16px;
+}
+.rtsContextMenu   SPAN.rightIcon {
+padding-left: 3px; text-align: right;
+}
+.rtsContextMenu .popmenuseparator {
+font-size: 1px; margin: 0px; background-color: #999; border-bottom: 1px solid ThreeDShadow; padding: 0px; border-top: 1px solid ThreeDHighlight;
+}
+.flexMessage {
+font-size: 10px; padding-top: 4px; font-family: Verdana; vertical-align: middle; height: 18px; color: Red; margin-left: 20px;
+}
+.flexNav {
+margin: 5px; background-color: White; height: 20px;
+}
+.flexNavItem {
+font-weight: normal; font-size: 10px; cursor: hand; font-family: Verdana; height: 18px; color: #000099; float: right;
+}
+.flexNavSeparator {
+margin-right: 6px; height: 18px; float: right; margin-left: 8px;
+}
+.flexNavSeparator span {
+overflow: hidden; background: url(/controls/img/navigation/sep.gif) centre center no-repeat; height: 11px; position: relative; top: 5px; width: 1px;
+}
+.flexCol {
+border: white solid 1px; vertical-align: top;
+}
+.flexColDragOver {
+cursor: hand; border: dashed 1px black; width: 50%;
+}
+.flexColResizeAdjacant {
+border-left: solid 1px #999;
+}
+.flexColResizeOver {
+cursor: e-resize; border-right: dashed 1px #ccc;
+}
+.flexColHeader {
+margin-bottom: 5px; color: #eee; text-align: right;
+}
+.flexColHeader .headerLabel {
+margin-right: 5px; padding-right: 5px; background-color: #909CDD; border-bottom: solid 1px #666; padding-left: 5px; font: bold 11px tahoma;
+}
+.flexColHeader .headerLabelOver {
+margin-right: 5px; padding-right: 5px; background-color: #ccc; cursor: pointer; padding-left: 5px; color: #666; font: bold 11px tahoma; text-align: center;
+}
+.flexColResizeRight {
+border-right: dashed 1px black;
+}
+.flexCompDragOver {
+cursor: pointer; border: dashed 1px red;
+}
+.flexColResizeOver2 {
+background: url(/controls/img/flex/dashed_line_v.gif) center center repeat-y; cursor: e-resize;
+}
+.flexRowResizeOver {
+background: url(/controls/img/flex/dashed_line_h.gif) center center repeat-x; cursor: n-resize;
+}
+.flexColResizeDown {
+background: url(/controls/img/flex/solid_line_v.gif) center center repeat-y; cursor: e-resize;
+}
+.flexRowResizeDown {
+background: url(/controls/img/flex/solid_line_h.gif) center center repeat-x; cursor: n-resize;
+}
+.flexColMenu {
+background-color: #F8F8F8; border: solid 1px #105DA9; filter: progid:DXImageTransform.Microsoft.Shadow(color='#105DA9', Direction=135, Strength=2); display: none; position: absolute; width: 182px;
+}
+.flexColMenu .itemDisabled {
+padding: 0px; height: 22px; color: #000;
+}
+.flexColMenu .itemDisabled td {
+color: #999;
+}
+.flexColMenu .label {
+overflow: hidden; text-overflow: ellipsis; height: 22px; vertical-align: middle; padding-left: 5px; font: 11px  Tahoma; width: 159px;
+}
+.flexColMenu .icon {
+overflow: hidden; background-color: #C4D2E5; padding: 2px 2px 0 2px; height: 22px; color: #fff; width: 23px;
+}
+.flexColMenu .itemOver {
+cursor: pointer; background-color: #105DA9; color: #fff;
+}
+.flexColMenu .itemOver .label {
+border: 1px solid white;
+}
+.flexColMenu .itemOver td {
+color: #fff;
+}
+.popupMask {
+opacity: .4; left: 0px; background-repeat: repeat; background-color: #333333; display: none; background-image: none; filter: alpha(opacity=40); z-index: 200; position: absolute; top: 0px;
+}
+.dropshadow {
+background: url(/controls/img/propertyeditor/dropshadow_ie.png) bottom right no-repeat; height: 555px; width: 603px;
+}
+*html .dropshadow {
+background: none;
+}
+.propertyeditor {
+height: 555px; z-index: 2090;
+}
+.propertyeditor .header {
+margin-right: 5px; padding: 7px;
+}
+.propertyeditor .header H1 {
+margin: 0; padding: 0; font: bold 11px "Verdana", sans-serif; float: left; width: 530px;
+}
+.propertyeditor .close {
+background: url(/controls/img/propertyeditor/icon_close.gif) top left no-repeat;
+}
+.propertyeditor .navbar {
+padding-top: 10px; background: #FFF url(/controls/img/Navigation/Tabbar/propertyeditortab_bg.gif) repeat-x bottom;
+}
+*html .propertyeditor .navbar {
+height: 0px;
+}
+.propertyeditor UL {
+list-style: none; margin: 0; padding: 0;
+}
+.propertyeditor LI.tab-off {
+border-left: solid 1px #9C9C9C; margin-left: 5px; float: left;
+}
+.propertyeditor LI.tab-on {
+border-left: solid 1px #9C9C9C; margin-left: 5px; float: left;
+}
+.propertyeditor LI.tab-off A {
+text-decoration: none; padding: 6px 9px 5px 9px; display: block; vertical-align: middle; font: normal 11px "Tahoma", sans-serif;
+}
+.propertyeditor LI.tab-on A {
+text-decoration: none; padding: 6px 9px 5px 9px; display: block; vertical-align: middle; font: normal 11px "Tahoma", sans-serif;
+}
+.propertyeditor LI.tab-off A {
+background: url(/controls/img/Navigation/Tabbar/tabpropertyeditor_off.gif) no-repeat right top; color: #009;
+}
+.propertyeditor LI.tab-off A:hover {
+text-decoration: underline; color: #F90;
+}
+.propertyeditor LI.tab-on A {
+font-weight: bold; background: url(/controls/img/Navigation/Tabbar/tabpropertyeditor_on.gif) no-repeat right top; border-bottom: solid 1px #FFF; color: #000;
+}
+.propertyeditor .contentwrapper {
+margin-right: 14px; background: #F5F5F5; border: solid 1px #9C9C9C; padding: 11px 2px 0 8px; height: 440px; border-top: 0; margin-left: 10px;
+}
+.propertyeditor .content {
+padding-right: 7px; padding-top: 15px; overflow-x: hidden; overflow-y: auto; height: expression(440 - 13);
+}
+*>.propertyeditor .content {
+height: 424px; width: 577px;
+}
+.propertyeditor .content TABLE.contentTable {
+border-collapse: collapse; font: 11px "Verdana", sans-serif; width: 100%;
+}
+*html .propertyeditor .content TABLE.contentTable {
+width: 95%;
+}
+.propertyitemLabel {
+font-weight: bold; border-bottom: solid 1px #D8D8D8; padding: 4px 0px 4px 0px; vertical-align: top; text-align: right; width: 80px;
+}
+.propertyitem {
+border-bottom: solid 1px #D8D8D8; padding: 4px 0px 4px 10px; vertical-align: top; text-align: left;
+}
+.propertyItem {
+border-bottom: solid 1px #D8D8D8; padding: 4px 0px 4px 10px; vertical-align: top; text-align: left;
+}
+.propertyitemClear {
+border-bottom: solid 1px #D8D8D8; padding: 4px 0px 4px 0px; vertical-align: top; text-align: right;
+}
+.propertyItemClear {
+border-bottom: solid 1px #D8D8D8; padding: 4px 0px 4px 0px; vertical-align: top; text-align: right;
+}
+.propertyeditor FORM A {
+text-decoration: none; color: #00438A;
+}
+.propertyeditor FORM A:hover {
+text-decoration: underline; color: orange;
+}
+.propertyeditor .currentselection {
+color: #666;
+}
+.propertyeditor .content TABLE .sel {
+font-weight: bold; vertical-align: top; text-align: right; width: 200px;
+}
+.propertyeditor INPUT {
+vertical-align: middle; font: 1em "Verdana", sans-serif;
+}
+.propertyeditor SELECT {
+vertical-align: middle; font: 1em "Verdana", sans-serif;
+}
+.propertyeditor TEXTAREA {
+vertical-align: middle; font: 1em "Verdana", sans-serif;
+}
+.propertyeditor TEXTAREA {
+line-height: 14px; height: 100px; width: 200px;
+}
+.propertyeditor .buttons {
+padding: 5px 15px 15px 5px; text-align: right;
+}
+.tableClass {
+width: 100%;
+}
+.account .datatabletitle {
+border-bottom: 1px solid #9B9B9B; padding: 10px 1px 2px 1px; vertical-align: bottom; font: bold 11px Tahoma;
+}
+.account .content {
+padding: 4px;
+}
+.account .datatabletitle.noul {
+border-bottom: none;
+}
+DIV.account {
+border: solid 1px #7F9DB9; font: 11px tahoma;
+}
+DIV.account .sel {
+font-weight: bold;
+}
+DIV.account P {
+padding-top: 5px;
+}
+TABLE.account .sel {
+font-weight: bold;
+}
+DIV.account P {
+font-size: 100%; padding-top: 5px;
+}
+TABLE.entbrokers {
+border-collapse: collapse; font: 100% tahoma;
+}
+TABLE.entbrokers.iframe {
+font: 11px tahoma;
+}
+TABLE.entbrokers TR {
+height: 20px;
+}
+TABLE.entbrokers TD {
+padding-right: 5px; padding-left: 5px; color: #000;
+}
+TABLE.entbrokers .brokername {
+width: 279px;
+}
+TABLE.entbrokers .entstatus {
+width: 151px;
+}
+TABLE.entbrokers .dates {
+width: 100px;
+}
+TABLE.entbrokers .req {
+width: 27px;
+}
+TABLE.entbrokers TR.hr TD.head {
+font-weight: bold; color: #009;
+}
+TABLE.entbrokers TR.hr TD.head A {
+text-decoration: none; color: #009;
+}
+TABLE.entbrokers TR.hr TD.head A:hover {
+text-decoration: underline; color: #F90;
+}
+.account .entlistcontainer {
+overflow: hidden; margin: 0; padding: 0; border-top: 1px solid #C8C8C8;
+}
+.account .entlistcontainer DIV {
+overflow: hidden; margin: 0; padding: 0; width: 100%;
+}
+.account .buttoncontainer {
+padding-top: 8px; float: right;
+}
+TABLE.ownership {
+border-collapse: collapse; color: #000; font: 11px Tahoma; table-layout: auto;
+}
+TABLE.ownership TR {
+height: 20px;
+}
+TABLE.ownership TD {
+padding-right: 5px; border: 1px solid #FFF; padding-left: 5px;
+}
+TABLE.ownership TR.dr TD.rh {
+background-color: #EEE; text-align: right;
+}
+TABLE.ownership .sel {
+font-weight: bold;
+}
+TABLE.ownership.contactlist TABLE {
+border-collapse: collapse; font: 100% Tahoma;
+}
+TABLE.ownership.contactlist TR.dr {
+height: auto;
+}
+TABLE.ownership.contactlist TD.ldt {
+margin: 0; border: 0; padding: 0 0 1px 0; height: auto; width: 50%;
+}
+TABLE.ownership.contactlist TD.ldt TABLE {
+font-size: 11px;
+}
+TABLE.ownership.contactlist TD.ldt.fundmgrsubmit {
+vertical-align: top;
+}
+TABLE.ownership TABLE.equityfocus TD {
+border: none;
+}
+UL.alpha {
+list-style: none; margin: 0; padding: 3px 0;
+}
+UL.alpha LI.first {
+background: none; font-family: Verdana; padding: 0 2px; display: inline;
+}
+UL.alpha LI {
+background: url(/controls/img/sep.gif) no-repeat 0 3px; font-family: Verdana; padding: 0 7px; display: inline; width: 14px;
+}
+UL.alpha LI A {
+text-decoration: none; color: #009;
+}
+UL.alpha LI A:hover {
+text-decoration: underline; color: #F90;
+}
+DIV.button {
+display: inline;
+}
+DIV.button TABLE.default {
+border: 0px; display: inline;
+}
+DIV.button TABLE.default TD.L {
+background: url(/controls/img/btn/leftDef.gif) no-repeat;
+}
+DIV.button TABLE.default TD.R {
+background: url(/controls/img/btn/rightDef.gif) no-repeat;
+}
+DIV.button TABLE.default TD.M BUTTON {
+background: url(/controls/img/btn/tileDef.gif) repeat-x; cursor: hand; border: 0px; color: #000; height: 18px; font: 11px tahoma; width: auto;
+}
+DIV.button TABLE.defaultChg TD.L {
+background: url(/controls/img/btn/leftSel.gif) no-repeat;
+}
+DIV.button TABLE.defaultChg TD.R {
+background: url(/controls/img/btn/rightSel.gif) no-repeat;
+}
+DIV.button TABLE.defaultChg TD.M BUTTON {
+background: url(/controls/img/btn/tileSel.gif) repeat-x; color: #009;
+}
+TABLE.button {
+margin: 0; display: inline;
+}
+TABLE.button TD {
+padding-right: 1px; background: url(/controls/img/defaultbutton/button_right_bg.gif) center right no-repeat; border: 0;
+}
+TABLE.button BUTTON {
+margin-right: 1px; background: transparent; margin: 0; cursor: pointer; border: 0; height: 20px; padding-left: 2px; font: 11px tahoma;
+}
+*> TABLE.button BUTTON {
+padding-bottom: 3px; padding-left: 10px;
+}
+TABLE.button BUTTON.butDef {
+background: url(/controls/img/defaultbutton/button_left_bg.gif) center left no-repeat;
+}
+TABLE.button BUTTON.prefAddButton {
+background: url(/controls/img/defaultbutton/button_left_bg.gif) center left no-repeat;
+}
+TABLE.button BUTTON.buttonLeftSpace {
+background: url(/controls/img/defaultbutton/button_left_bg.gif) center left no-repeat; margin-left: 8px;
+}
+TABLE.button BUTTON.butDefPrpty {
+background: url(/controls/img/defaultbutton/button_left_bg.gif) center left no-repeat; width: 60px;
+}
+TABLE.button TD.butSel {
+background: url(/controls/img/defaultbutton/button_right_bg_on.gif) center right no-repeat;
+}
+TABLE.button BUTTON.butSel {
+background: url(/controls/img/defaultbutton/button_left_bg_on.gif) center left no-repeat;
+}
+.headlines TABLE.button TD {
+padding-right: 2px;
+}
+.searchSection {
+background: #ECECEC; border: solid #CCC 1px; padding: 3px; color: #000; font: 11px Tahoma, sans-serif;
+}
+.searchSectionPersonalization {
+padding: 3px; color: #000; font: 11px tahoma;
+}
+.searchSectionHeader {
+margin-top: 9px; color: #000; font: bold 11px;
+}
+.searchSectionSubHeader {
+font: bold 11px;
+}
+.searchScopeSection {
+padding-bottom: 3px; font-size: 11px; padding-top: 3px; background: #ececec; margin-top: 3px; color: #000; border-top: solid #999 1px;
+}
+.searchSectionText {
+color: #000; font: normal 11px;
+}
+.searchSection INPUT {
+font-size: 11px; vertical-align: middle; color: #000;
+}
+.searchSection SELECT {
+font-size: 11px; vertical-align: middle; color: #000;
+}
+.searchSection TABLE {
+font-size: 11px; vertical-align: middle; color: #000;
+}
+.addRemoveSearchField {
+width: 275px;
+}
+search_companySelectionsField {
+width: 275px;
+}
+.search_companySelectableField {
+width: 275px;
+}
+.addRemoveSearchFieldNarrow {
+width: 175px;
+}
+.addRemoveSourceField {
+width: 185px;
+}
+.search_buttons_top {
+padding-bottom: 5px; border-bottom: solid #999 1px; text-align: right; width: 100%;
+}
+.search_buttons_bottom {
+padding-top: 5px; text-align: right; border-top: solid #999 1px; width: 100%;
+}
+.search_companyLookupField {
+width: 225px;
+}
+.search_companyLookupShortField {
+width: 125px;
+}
+.search_customDate IMG {
+vertical-align: middle;
+}
+.searchFieldLabel {
+font-size: 11px; color: #000;
+}
+.searchSection LABEL {
+font-size: 11px; color: #000;
+}
+.searchFieldLabelShort {
+font-size: 11px; color: #000; text-align: right; width: 30px;
+}
+.searchGroupLabel {
+font-size: 11px; color: #000; margin-left: 10px;
+}
+DIV .search_removeButton {
+margin-bottom: 3px; margin-top: 3px; text-align: center;
+}
+DIV .search_addButton {
+margin-right: 10px; margin-left: 10px;
+}
+.floatingFrame {
+border: solid 1px #999; display: none; z-index: 99; border-top: 0; position: absolute;
+}
+.frame_titleBar {
+margin: 0; padding-top: 3px; cursor: pointer; background-color: #CCC; height: 20px;
+}
+.static {
+position: static;
+}
+.frame_titleBar IMG {
+margin: 0; padding: 0;
+}
+*> .frame_titleBar IFRAME {
+display: none;
+}
+.frame_title {
+padding: 3px; color: #000; font: bold 11px verdana;
+}
+A.viewer-close {
+font-size: 14px; cursor: pointer; color: #fff;
+}
+TABLE.criteria {
+border: solid 1px #CCC;
+}
+*> TABLE.criteria {
+border-collapse: separate;
+}
+TABLE.criteria TR.hr TD.head {
+font-weight: normal; background-color: #E5E9EF; border-bottom: solid 1px #CCC;
+}
+TABLE.criteria TR.dr TD.rh {
+width: 120px;
+}
+TABLE.criteria TR.dr TD.ldt {
+font-size: 90%;
+}
+TABLE.criteria TR.dr TD.ldt.first {
+border-right: solid 1px #CCC;
+}
+TABLE.criteria .dis {
+color: #666;
+}
+TABLE.criteria .criteriaInfo {
+background: url(/controls/img/sep.gif) top left no-repeat; color: #666; padding-left: 10px; margin-left: 5px;
+}
+.chinese select.finput {
+font-size: 12px;
+}
+.chinese input.finput {
+font-size: 12px;
+}
+.chinese div.finput {
+font-size: 12px;
+}
+.chinese select.finputHi {
+font-size: 12px;
+}
+.chinese input.finputHi {
+font-size: 12px;
+}
+.chinese div.finputHi {
+font-size: 12px;
+}
+.chinese span.fnameHi {
+font-size: 12px;
+}
+.chinese span.fname {
+font-size: 12px;
+}
+.chinese td.fname {
+font-size: 12px;
+}
+.chinese .pftcontainer {
+width: 400px;
+}
+SPAN.ficp {
+font: bold 9px;
+}
+TD.fictl {
+color: #000; font: normal 10px verdana;
+}
+.fithl {
+padding-right: 4px; text-alignment: left; vertical-alignment: bottom; padding-left: 5px; font: bold 7.5pt verdana;
+}
+form.filter {
+margin: 8px 0 2px 0;
+}
+span.fname {
+margin-right: 7px; white-space: nowrap; color: black; font: normal 9px Verdana, Arial; margin-left: 7px;
+}
+td.fname {
+margin-right: 7px; color: black; font: normal 9px Verdana, Arial; margin-left: 7px;
+}
+select.finput {
+margin: 3px 7px 6px 7px; font: normal 9px Verdana; text-align: left;
+}
+input.finput {
+margin: 3px 7px 6px 7px; font: normal 9px Verdana; text-align: left;
+}
+div.finput {
+margin: 3px 7px 6px 7px; font: normal 9px Verdana; text-align: left;
+}
+a.finput {
+padding: 4px 2px;
+}
+a.finput:active {
+padding: 4px 2px;
+}
+A.finput:visited {
+padding: 4px 2px;
+}
+a.finputSel {
+background: #F7F8FA; padding: 4px 2px;
+}
+a.finputSel:active {
+background: #F7F8FA; padding: 4px 2px;
+}
+A.finputSel:visited {
+background: #F7F8FA; padding: 4px 2px;
+}
+a.finputHi {
+background: #F7F8FA; padding: 4px 2px; color: #F60;
+}
+a.finputHi:active {
+background: #F7F8FA; padding: 4px 2px; color: #F60;
+}
+A.finputHi:visited {
+background: #F7F8FA; padding: 4px 2px; color: #F60;
+}
+span.fnameHi {
+margin-right: 7px; white-space: nowrap; color: #F60; font: normal 9px Verdana, Arial; margin-left: 7px;
+}
+select.finputHi {
+margin: 3px 7px 6px 7px; color: #F60; font: normal 9px Verdana; text-align: left;
+}
+input.finputHi {
+margin: 3px 7px 6px 7px; color: #F60; font: normal 9px Verdana; text-align: left;
+}
+div.finputHi {
+margin: 3px 7px 6px 7px; color: #F60; font: normal 9px Verdana; text-align: left;
+}
+a.finputHi {
+background: #F7F8FA; padding: 4px 2px; color: #F60;
+}
+a.finputHi:active {
+background: #F7F8FA; padding: 4px 2px; color: #F60;
+}
+A.finputHi:visited {
+background: #F7F8FA; padding: 4px 2px; color: #F60;
+}
+input.fsdef {
+border: none; height: 18px; position: relative; width: 78px;
+}
+input.fsubmitdefault {
+border: none; height: 18px; position: relative; width: 78px;
+}
+td.ftrl {
+background-repeat: no-repeat; background-color: #E5E9EF; background-image: url(/controls/img/filter2/toprow-left.gif?251); height: 44px; width: 4px;
+}
+td.ftrr {
+filter: FlipH; height: 44px; width: 4px;
+}
+td.ftrm {
+background-color: #E5E9EF; background-image: url(/controls/img/filter2/toprow-middle.gif?251); height: 44px;
+}
+td.ftrm1 {
+height: 300px;
+}
+td.forr {
+height: 44px; text-align: center; width: 116px;
+}
+td.ftworr {
+height: 88px; text-align: center; width: 116px;
+}
+td.ftworrb {
+height: 93px; text-align: center; width: 116px;
+}
+td.ftworowrightwithbottom {
+height: 93px; text-align: center; width: 116px;
+}
+td.fthrrr {
+height: 132px; text-align: center; width: 116px;
+}
+td.fthreerowright {
+height: 132px; text-align: center; width: 116px;
+}
+td.ftrss {
+height: 44px; width: 2px;
+}
+td.ftrls {
+height: 44px; width: 2px;
+}
+td.fbrl {
+height: 5px; width: 4px;
+}
+td.fbrm {
+height: 5px;
+}
+td.fbrls {
+height: 5px; width: 2px;
+}
+td.fbrr {
+height: 5px; text-align: center; width: 116px;
+}
+td.fbrr2 {
+filter: FlipH; height: 5px; width: 4px;
+}
+td.fbotrowright2 {
+filter: FlipH; height: 5px; width: 4px;
+}
+td.fmrl {
+height: 44px; width: 4px;
+}
+td.fmrmb {
+height: 44px;
+}
+td.fmedrowmiddlewithbottom {
+height: 44px;
+}
+td.fmrm {
+height: 44px;
+}
+td.fmrss {
+height: 44px; width: 2px;
+}
+td.fmrls {
+height: 44px; width: 2px;
+}
+td.fonerr {
+height: 44px; text-align: center; width: 116px;
+}
+td.fonerowright {
+height: 44px; text-align: center; width: 116px;
+}
+TD.ftworr DIV.moreLink {
+padding-top: 5px; text-align: center;
+}
+TD.ftworr TD.moreLink {
+padding-top: 5px; text-align: center;
+}
+TD.ftworrb DIV.moreLink {
+padding-top: 5px; text-align: center;
+}
+TD.ftworrb TD.moreLink {
+padding-top: 5px; text-align: center;
+}
+TD.forr DIV.moreLink {
+padding-top: 5px; text-align: center;
+}
+TD.forr TD.moreLink {
+padding-top: 5px; text-align: center;
+}
+TD.fthrrr DIV.moreLink {
+padding-top: 5px; text-align: center;
+}
+*> TD.ftworr DIV.moreLink {
+padding-left: 7px;
+}
+*> TD.ftworr TD.moreLink {
+padding-left: 7px;
+}
+*> TD.ftworrb DIV.moreLink {
+padding-left: 7px;
+}
+*> TD.ftworrb *> TD.moreLink {
+padding-left: 7px;
+}
+*> TD.forr DIV.moreLink {
+padding-left: 7px;
+}
+*> TD.forr TD.moreLink {
+padding-left: 7px;
+}
+*> TD.fthrrr DIV.moreLink {
+padding-left: 7px;
+}
+FORM.filter {
+margin: 0px 0px 10px 0px;
+}
+TABLE.filter {
+border: 0px; margin-left: 1px;
+}
+#rcg_content_body FORM.filter {
+margin-top: 10px;
+}
+TABLE.filter TR.top TD.L {
+background: #E5E9EF url(/controls/img/filter/fltTopLeft.gif?251) no-repeat;
+}
+TABLE.filter TR.top TD.LZ {
+background: #E5E9EF url(/controls/img/filter/fltTop.gif?251) repeat-x;
+}
+TABLE.filter TR.top TD.sep {
+background: url(/controls/img/filter/fltTopSep.gif?251) no-repeat;
+}
+TABLE.filter TR.top TD.RZ {
+background: #F7EDDD url(/controls/img/filter/fltTop.gif?251) repeat-x;
+}
+TABLE.filter TR.top TD.R {
+background: #F7EDDD url(/controls/img/filter/fltTopRight.gif?251) no-repeat;
+}
+TABLE.filter TR.mid TD.L {
+background: #E5E9EF url(/controls/img/filter/fltLeft.gif?251) repeat-y;
+}
+TABLE.filter TR.mid TD.LZ {
+background-color: #E5E9EF; vertical-align: middle;
+}
+TABLE.filter TR.mid TD.sep {
+background: url(/controls/img/filter/fltHSep.gif?251) repeat-y;
+}
+TABLE.filter TR.mid TD.RZ {
+background-color: #F7EDDD; padding: 6px 1px 7px 2px; vertical-align: middle;
+}
+TABLE.filter TR.mid TD.R {
+background: #F7EDDD url(/controls/img/filter/fltRight.gif?251) repeat-y;
+}
+TABLE.filter TR.bot TD.L {
+background: #E5E9EF url(/controls/img/filter/fltBotLeft.gif?251) no-repeat;
+}
+TABLE.filter TR.bot TD.LZ {
+background: #E5E9EF url(/controls/img/filter/fltBot.gif?251) repeat-x;
+}
+TABLE.filter TR.bot TD.sep {
+background: url(/controls/img/filter/fltBotSep.gif?251) no-repeat;
+}
+TABLE.filter TR.bot TD.RZ {
+background: #F7EDDD url(/controls/img/filter/fltBot.gif?251) repeat-x;
+}
+TABLE.filter TR.bot TD.R {
+background: #F7EDDD url(/controls/img/filter/fltBotRight.gif?251) no-repeat;
+}
+TABLE.filter DIV.content {
+border: 0px; padding: 0px; color: #000; float: left; width: 100%;
+}
+TABLE.filter DIV.content DIV {
+border: 0px; padding: 0px; float: left;
+}
+TABLE.filter DIV.content DIV.group {
+background: url(/controls/img/filter/fltHSep.gif) repeat-y; padding: 0px 7px 8px 10px;
+}
+TABLE.filter DIV.content DIV.subGroup {
+background: url(/controls/img/filter/fltHSepSm.gif) no-repeat left middle; padding: 0px 7px 8px 10px;
+}
+TABLE.filter DIV.content DIV.first {
+background: none;
+}
+TABLE.filter DIV.content .label {
+font-size: 60%; white-space: nowrap; font-family: Tahoma;
+}
+TABLE.filter DIV.content INPUT.flt {
+font-size: 65%; font-family: Tahoma; color: #000;
+}
+TABLE.filter DIV.content SELECT.flt {
+color: #000; font: 65% Tahoma;
+}
+TABLE.filter DIV.content .changed {
+color: #F60;
+}
+TABLE.filter DIV.content INPUT.changed {
+color: #F60;
+}
+TABLE.filter DIV.content SELECT.changed {
+color: #F60;
+}
+TABLE.filter DIV.content DIV.dpRange {
+padding-right: 14px;
+}
+TABLE.filter DIV.content DIV.dpFrom {
+padding-right: 7px;
+}
+TABLE.filter DIV.content DIV IMG {
+vertical-align: middle;
+}
+.onlyPrint {
+display: none;
+}
+.noPrint {
+display: none;
+}
+.clearboth {
+clear: both;
+}
+.ContentColumnContainer {
+width: 100%; float: left;
+}
+*> .ContentColumnContainer {
+float: none;
+}
+#viewerBody .ContentColumnContainer {
+float: none;
+}
+.ContentLeftColumn {
+padding-right: 5px; vertical-align: top; float: left; width: 50%;
+}
+.ContentRightColumn {
+padding-left: 5px; vertical-align: top; float: left; width: 49%;
+}
+*> .ContentLeftColumn {
+padding-right: 0; margin-right: 1%; width: 49%;
+}
+*> .ContentRightColumn {
+margin-right: 1%; padding-left: 0; width: 49%;
+}
+.sepBoth {
+padding: 0 7px; display: inline;
+}
+A.figl {
+font-weight: normal; text-decoration: none; color: #009;
+}
+A.figl:active {
+font-weight: normal; text-decoration: none; color: #009;
+}
+A.figl:visited {
+font-weight: normal; text-decoration: none; color: #009;
+}
+A.figl:hover {
+font-weight: normal; text-decoration: underline; color: #f90;
+}
+.ContentColumnContainer {
+width: 100%; float: none;
+}
+.ContentLeftColumn {
+padding: 10px; display: block; height: 100%; float: none; width: 100%;
+}
+.ContentRightColumn {
+padding: 10px; display: block; float: none; width: 100%;
+}
+*html DIV#pageComponent DIV.Content SPAN DIV.Content SPAN.ContentRightColumn {
+margin-right: 0; padding-left: 0; width: 49%;
+}
+*html DIV#pageComponent DIV.Content SPAN DIV.Content SPAN.ContentLeftColumn {
+margin-right: 0; width: 50%;
+}
+.messagecontainer {
+margin: 0 0 0 3px; background-color: #EBF1FA; border: 1px solid #94AFD3; padding: 5px; font: normal 11px Tahoma;
+}
+.messagecontainer H2 {
+margin: 0; padding: 7px 0; font: bold 140% Tahoma; text-align: left;
+}
+.messagecontainer IMG {
+padding-right: 10px; float: left;
+}
+.errorcontainer {
+margin: 0 0 0 7; border: 0; padding: 0; width: 100%;
+}
+.errorcontainer H2 {
+margin: 0; padding: 15px 0 0 0; color: #FE6503; font: bold 130% Tahoma; text-align: left;
+}
+.errorcontainer P {
+margin: 0; padding: 15 0 0 0; font: normal 90% Verdana; text-align: left;
+}
+P.errorCode {
+margin: 0; padding: 25 0 0 0; font: bold 80% Verdana; text-align: left;
+}
+SPAN.errorHighlight {
+font-weight: bold;
+}
+DIV.calheader {
+font-weight: bold; padding-bottom: 3px; font-size: 12px; text-align: center; position: relative; width: 100%;
+}
+A.calnavleft {
+left: 3px; background: url(/controls/img/Navigation/dblleft_arrow.gif) top left no-repeat; cursor: pointer; height: 12px; position: absolute; width: 12px; top: 2px;
+}
+A.calnavright {
+background: url(/controls/img/Navigation/dblright_arrow.gif) top right no-repeat; cursor: pointer; height: 12px; position: absolute; width: 12px; right: 3px; top: 2px;
+}
+.EventDayTitle {
+background-color: #d7dfef; height: 17px; text-align: right; width: 100%;
+}
+TD.outercal TABLE.datatable TD.headsub {
+font-weight: bold; background-color: #FFF;
+}
+TD.outercal DIV.calcontainer {
+margin-bottom: 10px; background-color: #FFF; border: solid 1px #7F9DB9; position: relative; width: 158px;
+}
+TD.outercal .datatable {
+font: 12px Tahoma; width: 100%;
+}
+TD.outercal .datatable TD {
+padding: 0; height: 10px; text-align: center;
+}
+TD.outercal .datatable .datatable A {
+color: #000;
+}
+TD.outercal .current {
+background-color: #D3ECA5;
+}
+TD.innercal DIV.calcontainer {
+background-color: #FFF; border: solid 1px #7F9DB9; padding: 0 1px; width: 100%;
+}
+TD.innercal A.innerleft {
+left: 20px; background: url(/controls/img/Navigation/left_arrow.gif) top left no-repeat;
+}
+TD.innercal A.innerright {
+background: url(/controls/img/Navigation/right_arrow.gif) top right no-repeat; right: 20px;
+}
+TD.innercal TABLE.datatable TD {
+font-size: 11px; border-right: none; border-left: none;
+}
+TD.innercal TABLE.datatable TR.hr TD {
+height: 50px;
+}
+TD.innercal TABLE.datatable TABLE.datatable TD.headsub {
+font-weight: bold; font-size: 12px; background-color: #C3CDDD; border-top: none;
+}
+TD.innercal TABLE.datatable TD.calbody {
+border: none; padding: 0;
+}
+TD.calbody TABLE.datatable TD {
+background-color: #EEE; border-right: solid 1px #FFF; padding: 0; vertical-align: top; border-left: solid 1px #FFF; border-top: solid 1px #FFF;
+}
+TD.month TABLE.datatable TR.cal TD.calitem {
+height: 100px;
+}
+TD.week TABLE.datatable TR.cal TD.calitem {
+height: 100px;
+}
+TD.calbody TABLE.datatable TABLE.datatable TD {
+padding: 1px 5px;
+}
+TD.calbody TABLE.calitem {
+background-color: transparent; border: none;
+}
+TD.calbody TABLE.calitem TD {
+background-color: transparent; border: none;
+}
+TD.innercal TD.month TR.dr TD.current {
+background-color: #D3ECA5;
+}
+TD.innercal TD.week TR.dr TD.current {
+background-color: #D3ECA5;
+}
+TD.calbody TABLE.datatable TD.dis {
+background-color: #e5e9ef;
+}
+TD.calbody TABLE.datatable TD.disalt {
+background-color: #e5e9ef;
+}
+TD.innercal TABLE.datatable TABLE.headlines TR.hr TD {
+font-weight: bold; background-color: #D7DFEF; white-space: nowrap; vertical-align: middle; height: 20px;
+}
+TD.innercal TABLE.datatable TABLE.headlines TD.row-e {
+background-color: #EEE;
+}
+TD.innercal TABLE.datatable TABLE.headlines TD.row-o {
+background-color: #FFF;
+}
+TD.innercal TABLE.datatable TABLE.headlines TD {
+padding: 0 5px;
+}
+*> #TodayView A {
+text-decoration: none;
+}
+*> #dayView A {
+text-decoration: none;
+}
+*> #weekView A {
+text-decoration: none;
+}
+*> #monthView A {
+text-decoration: none;
+}
+*> #listView A {
+text-decoration: none;
+}
+IFRAME.defaultStatusManager {
+border: 0; filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+}
+DIV.defaultStatusManager {
+filter: progid:DXImageTransform.Microsoft.DropShadow(OffX=2, OffY=2, Color="#CCCCCC", Positive="true") progid:DXImageTransform.Microsoft.Alpha(opacity=96); background-image: url(/controls/img/Progress-Popup-background.gif); vertical-align: middle; text-align: center;
+}
+DIV.defaultStatusManager P {
+font: bold 14px Verdana; text-align: center; position: relative; top: 90px;
+}
+DIV.popupStatusManager {
+background-color: #EEE; border: solid 1px black; filter: progid:DXImageTransform.Microsoft.DropShadow(OffX=2, OffY=2, Color="#CCCCCC", Positive="true") progid:DXImageTransform.Microsoft.Alpha(opacity=85); vertical-align: middle; text-align: center;
+}
+DIV.popupStatusManager P {
+font: bold 14px Verdana; text-align: center; position: relative; top: 20px;
+}
+TABLE.quotelist {
+border-collapse: collapse; color: #000; font: 100% Tahoma; width: 100%;
+}
+TABLE.quotelist A {
+text-decoration: none; color: #009;
+}
+TABLE.quotelist A:active {
+text-decoration: none; color: #009;
+}
+TABLE.quotelist A:visited {
+text-decoration: none; color: #009;
+}
+TABLE.quotelist SPAN.anchor {
+text-decoration: none; color: #009;
+}
+A.figl {
+text-decoration: none; color: #009;
+}
+TABLE.quotelist A:hover {
+cursor: pointer; text-decoration: underline; color: #F90;
+}
+TABLE.quotelist SPAN.anchorHover {
+cursor: pointer; text-decoration: underline; color: #F90;
+}
+A.figl:hover {
+cursor: pointer; text-decoration: underline; color: #F90;
+}
+TABLE.quotelist TR {
+height: 20px;
+}
+TABLE.quotelist TD INPUT.editable {
+background-color: white; border: 0px; color: black;
+}
+TABLE.quotelist TD {
+border: 1px solid black; color: #000;
+}
+TABLE.quotelist TD DIV {
+overflow: hidden;
+}
+TABLE.quotelist TR TD DIV.flash {
+overflow: hidden; background-color: yellow;
+}
+TABLE.header {
+border-collapse: collapse; border: none; height: 20px; color: #000; font: 100% Tahoma; width: 100%;
+}
+TABLE.header TR.hr TD {
+font-weight: bold; background-color: #404376; border: solid 1px black; height: 20px; vertical-align: middle; color: #F8F7FF;
+}
+TABLE.header TR.hr TD DIV {
+overflow: hidden;
+}
+TABLE.header TR.hr TD.active {
+font-weight: bold; cursor: pointer; background-color: white; border: solid 1px black; height: 20px; vertical-align: middle; color: purple;
+}
+TABLE.header TR.hr TD.flexColResizeDown {
+border-collapse: separate; cursor: e-resize; background-color: black; border: solid 0px black; height: 1px; vertical-align: top; width: 1px;
+}
+DIV.quoteListTableWrapper {
+background: #EBF2FC;
+}
+.row-even {
+background-color: #E1E1DF;
+}
+.row-odd {
+background-color: #FFFFFF;
+}
+.customStyle1 TABLE.header TR.hr TD.active {
+font-weight: bold; cursor: pointer; background-color: yellow; border: solid 1px black; height: 20px; vertical-align: middle; color: purple;
+}
+.customStyle1 .row-even {
+background-color: yellow;
+}
+.customStyle1 .row-odd {
+background-color: green;
+}
+.customStyle2 TABLE.header TR.hr TD {
+background-color: aqua; border: solid 1px black; height: 40px; vertical-align: top;
+}
+TABLE.quotelistFooter {
+border-collapse: collapse; color: #000; font: 100% Tahoma; table-layout: auto; width: 100%;
+}
+TABLE.quotelistFooter TR {
+height: 20px;
+}
+TABLE.quotelistFooter TD {
+background: #01C579; border: 1px solid #FFF; color: #000;
+}
+TABLE.quotelistFooter TR TD DIV {
+overflow: hidden;
+}
+TABLE.quotelistFooter TR TD DIV.flash {
+overflow: hidden; background-color: yellow;
+}
+DIV.quoteListTableWrapper {
+background: #EBF2FC;
+}
+.CreateQuoteAlertGrid TABLE.header TR.hr TD {
+padding-right: 5px; font-weight: bold; background-color: green; border-bottom: 0px; border: none; padding-left: 5px; height: 20px; vertical-align: middle;
+}
+.CreateQuoteAlertGrid .row-even TD {
+background-color: #DFE8F4;
+}
+.CreateQuoteAlertGrid .row-odd TD {
+background-color: #DFE8F4;
+}
+.CreateQuoteAlertGrid TABLE.quotelist TD {
+padding-right: 3px; border: none; padding-left: 4px; color: #000;
+}
+.ManageAlerts TABLE.header {
+border-collapse: collapse; border: none; height: 20px; font: 100% Tahoma; width: 100%;
+}
+.ManageAlerts TABLE.header TR.hr TD {
+font-weight: bold; background: #eee; background-color: #D7DFFF; border-bottom: 0px; border: solid 1px #eee; height: 20px; vertical-align: middle; color: black;
+}
+.ManageAlerts TABLE.header TR.hr TD div {
+padding-left: 8px;
+}
+.ManageAlerts .row-even TD {
+background-color: #FFF;
+}
+.ManageAlerts .row-odd TD {
+background-color: #F9F9F9;
+}
+.ManageAlerts TABLE.quotelist TD {
+border-collapse: collapse; border-right: solid 1px #FFF; border: none; color: #000; border-left: solid 1px #FFF; border-top: solid 1px #e9e9e9;
+}
+.ManageAlerts TABLE.quotelist TD div {
+padding-left: 5px;
+}
+.AlertsBg {
+color: #000; font: 12px arial;
+}
+.ManageAlertsDivTop {
+padding-top: 5px; background: URL(/Controls/img/bg_filter_blue.gif); padding-left: 5px; color: #FFF; height: 24px; font: bold 12px arial; text-align: right;
+}
+.ManageAlertsDivBottom {
+padding-top: 5px; background: URL(/Controls/img/bg_filter_blue.gif); padding-left: 5px; color: #FFF; height: 24px; font: bold 12px arial; text-align: left;
+}
+.AlertType {
+padding-bottom: 5px; background: URL(/Controls/img/bg_company_title.gif); padding-left: 5px; color: #000; height: 16px; font: bold 12px arial;
+}
+.statusMessage {
+visibility: hidden; font-size: medium; margin-top: -20px; background-color: #FFF; height: 21px; text-align: center; margin-left: 300px; width: 700px;
+}
+.readOnly1 TABLE.quotelist TR {
+vertical-align: bottom; height: 35px;
+}
+.readOnly1 TABLE.quotelist TD INPUT.editable {
+background-color: yellow; border: 0px; color: black;
+}
+.readOnly1 TABLE.quotelist TD {
+padding-bottom: 3px; border-bottom: 1px solid #CCCCCC; border: 0px; padding-left: 3px; color: #000;
+}
+.readOnly1 TABLE.header {
+border-collapse: collapse; background-color: white; color: #000; font: 100% Tahoma; table-layout: auto; width: 100%;
+}
+.readOnly1 TABLE.header TR.hr TD {
+font-weight: normal; background-color: #F6F6F6; border: 0px; white-space: nowrap; height: 20px; vertical-align: middle; color: #828080;
+}
+.readOnly1 .row-even {
+background-color: white;
+}
+.readOnly1 .row-odd {
+background-color: white;
+}
+.confirmation {
+padding-bottom: 5px; background: #FFC url(/rk/images/icons/icon_createnewsalert.gif) left center no-repeat; padding-top: 5px; border: solid 1px #D2D4BF; padding-left: 25px; position: relative;
+}
+.alertsConfirmation {
+padding-bottom: 5px; background: #FFC url(/rk/images/icons/icon_createnewsalert.gif) left center no-repeat; padding-top: 5px; border: solid 1px #D2D4BF; padding-left: 25px; position: relative;
+}
+.alertsConfirmation {
+font-size: large; margin-bottom: 0px; padding: 0px; height: 21px; text-align: center;
+}
+.confirmation IMG {
+cursor: pointer; position: absolute; top: 5px; right: 5px;
+}
+.alertsConfirmation IMG {
+cursor: pointer; position: absolute; top: 5px; right: 5px;
+}
+.dynamicToolbar TABLE {
+font-size: x-small; border-collapse: collapse; background-color: #CFD9E5; border: none;
+}
+.dynamicToolbar TABLE TD.active {
+font-weight: bold; cursor: pointer;
+}
+TABLE.contextMenu {
+font-weight: bold; font-size: 12px; border-color: ThreeDHighlight ThreeDShadow ThreeDShadow ThreeDHighlight; background-color: #FFFFFF; border: 1px solid; height: 1px;
+}
+TABLE.contextMenu TR.active {
+background-color: #404376; color: #F8F7FF;
+}
+TABLE.contextMenu TR TD.label {
+padding: 0px; text-align: left; width: 120px;
+}
+TABLE.contextMenu TR TD.leftContent {
+background-color: #D5DFEB; padding: 0px; width: 25px;
+}
+TABLE.contextMenu TR TD.shortCut {
+padding: 0px;
+}
+TABLE.contextMenu TR TD.leftIcon {
+width: 1px;
+}
+TABLE.contextMenu TR TD.rightIcon {
+width: 1px;
+}
+.confirmation {
+padding-bottom: 5px; background: #FFC url(/Controls/images/icons/icon_createnewsalert.gif) left center no-repeat; padding-top: 5px; border: solid 1px #D2D4BF; height: 12px; padding-left: 25px; position: relative;
+}
+.confirmation IMG {
+cursor: pointer; position: absolute; top: 5px; right: 5px;
+}
+.calcliteralfield {
+color: #5DAAC4;
+}
+.calctextfield {
+color: #5DAAC4;
+}
+.calctextfield {
+border: solid 1px #7E9DB9; text-align: right;
+}
+.calcselfield {
+border: solid 1px #7E9DB9; text-align: right;
+}
+.calcselfield {
+font-weight: bold; background-color: #c9e8e8;
+}
+.align1cal {
+text-align: left;
+}
+.tableFixedButton {
+width: 70px;
+}
+td.bforr {
+background-repeat: no-repeat; background-color: #F7EDDD; background-image: url(/controls/img/filter2/toprow-right.gif?251); height: 44px; text-align: center; width: 115px;
+}
+td.bfbrr {
+background-repeat: no-repeat; background-color: #F7EDDD; background-image: url(/controls/img/filter2/botrow-right.gif?251); height: 5px; text-align: center; width: 99px;
+}
+.data-oddMBS {
+background-color: #EFEFEF; border-right: 1px solid #9B9B9B; border-bottom: 1px dashed #9B9B9B;
+}
+.tb-lineMBS {
+font-size: 70%; border: 1px solid #9B9B9B; font-family: Tahoma; table-layout: auto;
+}
+.data-oddMBS-inner {
+font-size: 100%; padding-top: 3px; font-family: Tahoma; height: 20px; color: #000000;
+}
+select.finput-thin {
+font-size: 90%; margin: 1px 7px 0px; text-align: left;
+}
+.Banner2Text {
+font-weight: bold; font-size: 16px; font-family: Tahoma; padding-left: 6px; color: #000000;
+}
+div.filterTitleUXG2 {
+padding-right: 4px; padding-bottom: 2px; font-weight: bold; font-variant: normal; font-size: 11px; padding-top: 2px; line-height: normal; font-family: Tahoma; vertical-align: bottom; padding-left: 4px; font-style: normal;
+}
+TABLE.buttonTC {
+padding-right: 13px; margin: 0; display: table-cell; padding-left: 13px;
+}
+div.box_tabs {
+background: transparent url(/Controls/images/box_tabs_border_bg.gif) repeat-x scroll left bottom;
+}
+div.box_tabs ul li.first {
+background-position: 0px 0px;
+}
+div.box_tabs ul li.tab-on {
+padding-bottom: 1px; cursor: default; border-bottom: medium none; background-image: url(/Controls/images/box_tabs_active_bg.gif);
+}
+div.box_tabs ul li.tab-on div {
+font-weight: bold; background-image: url(/Controls/images/box_tabs_active_bg_right.gif);
+}
+div.box_tabs ul li {
+background: transparent url(/Controls/images/box_tabs_inactive_bg.gif) repeat scroll -1px 0px; cursor: pointer; border-bottom: 1px solid #CCCCCC; float: left;
+}
+div.box_tabs ul li div {
+background: transparent url(/Controls/images/box_tabs_inactive_bg_right.gif) no-repeat scroll right top; padding: 3px 5px; float: left;
+}
+.box_tabs_body {
+border-color: #CCCCCC; border-width: 1px; border-style: none solid solid; padding: 3px;
+}
+.reaTable {
+font: normal 11px Verdana;
+}
