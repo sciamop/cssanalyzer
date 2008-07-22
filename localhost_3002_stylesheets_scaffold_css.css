@@ -28,13 +28,13 @@ text-transform: uppercase; font-family: arial, helvetica, sans-serif;
 pre {
 font-size: 11px; background-color: #eee; padding: 10px;
 }
-a {
+A {
 color: #000;
 }
-a:visited {
+A:visited {
 color: #666;
 }
-a:hover {
+A:hover {
 background-color: #000; color: #fff;
 }
 .fieldWithErrors {
@@ -147,4 +147,7 @@ background-image: url(/images/context_pointer_up.gif);
 }
 .closer {
 background: url(/images/icon_close.gif) top center no-repeat; cursor: pointer; height: 11px; z-index: 1008; position: absolute; top: 4px; right: 12px; width: 11px;
+}
+.aRuleToSeeWhatHappensWhenThereIsACahnge {
+color: #F90;
 }
