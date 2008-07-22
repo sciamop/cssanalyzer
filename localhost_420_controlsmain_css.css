@@ -1,5 +1,5 @@
 BODY {
-background: #fff; margin-top: 0; blah: blah;
+background: #fff; margin-top: 0;
 }
 .ldn {
 text-align: right;
@@ -242,15 +242,6 @@ TABLE.estimates TR.hr TD.headSub.span {
 text-align: center;
 }
 TABLE.estimates TR.hr TD.span {
-text-align: center;
-}
-TABLE.estimates TR.hr TD.span {
-text-align: center;
-}
-TABLE.estimates TR.hr TD.span {
-text-align: center;
-}
-TABLE.xxxxx TR.hr TD.span {
 text-align: center;
 }
 TABLE.estimates TR.hr TD.headSub {
