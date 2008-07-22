@@ -247,6 +247,9 @@ text-align: center;
 TABLE.estimates TR.hr TD.span {
 text-align: center;
 }
+TABLE.xxx TR.hr TD.span {
+text-align: center;
+}
 TABLE.estimates TR.hr TD.headSub {
 padding-right: 5px; font-size: 85%; vertical-align: middle; text-align: RIGHT;
 }
