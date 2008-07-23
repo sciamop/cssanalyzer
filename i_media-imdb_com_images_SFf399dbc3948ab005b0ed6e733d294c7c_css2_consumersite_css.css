@@ -1,0 +1,582 @@
+.a2z {
+font-family: Arial,Helvetica,sans-serif; text-align: center;
+}
+.aspectratio {
+font-weight: bold; font-family: Arial,Helvetica,sans-serif;
+}
+.attention {
+background-color: #FFFF99;
+}
+.awardheader {
+font-weight: bold; background-color: #ffffdb; font-family: Arial,Helvetica,sans-serif;
+}
+.awardindent {
+margin-left: 20pt;
+}
+.awardlabel {
+font-size: 80%; font-family: Arial,Helvetica,sans-serif; color: #ff0000;
+}
+.awardsubheader {
+font-weight: bold; font-size: 90%; font-family: Arial,Helvetica,sans-serif;
+}
+.bghilite {
+background-color: #ffffdb;
+}
+.blackcatheader {
+font-weight: bold; font-size: 80%; font-family: Arial,Helvetica,sans-serif; white-space: nowrap; color: black; vertical-align: top;
+}
+.blacklink {
+text-decoration: none; color: #000000;
+}
+.boardhead {
+font-size: 60%; font-family: Arial,Helvetica,sans-serif;
+}
+.bucket {
+font-family: arial,helvetica,san-serif;
+}
+.buyghost {
+color: #888888;
+}
+.buylinks {
+font-family: Arial,Helvetica,sans-serif; text-align: center;
+}
+.byline {
+font-weight: bold; font-size: 75%; font-family: Arial,Helvetica,sans-serif;
+}
+.catheader {
+font-weight: bold; font-size: 80%; font-family: Arial,Helvetica,sans-serif; white-space: nowrap; vertical-align: top;
+}
+.ch {
+font-weight: bold; font-size: 80%; font-family: Arial,Helvetica,sans-serif; white-space: nowrap; vertical-align: baseline;
+}
+.coming_soon_links li {
+margin: 0; background-repeat: no-repeat; background-image: url(/images/f96.gif); padding-left: 1em;
+}
+.coming_soon_links ul {
+font-size: 10pt; font-family: Arial, Helvetica, sans-serif; padding-left: 0; list-style-type: none; margin-left: 0;
+}
+.commentaction {
+font-family: Arial,Helvetica,sans-serif;
+}
+.commentator {
+font-weight: bold;
+}
+.commenttease {
+vertical-align: top; font-style: italic;
+}
+.coolheadline {
+font-weight: bold; font-family: Arial,Helvetica,sans-serif;
+}
+.coolpara {
+font-size: 90%;
+}
+.copyright {
+font-size: 80%; font-family: Arial,Helvetica,sans-serif;
+}
+.date {
+font-size: 80%; font-family: Arial,Helvetica,sans-serif; color: #993366;
+}
+.disclaimer {
+font-weight: lighter; font: 10pt Arial,Helvetica,sans-serif;
+}
+.dvdatt {
+font-family: Arial,Helvetica,sans-serif;
+}
+.eyebrow {
+font-weight: bold; font-size: 10px; text-decoration: none; text-transform: uppercase; font-family: verdana,arial,helvetica,sans-serif; color: #FFFFFF;
+}
+.fade {
+font-size: x-small; font-family: arial,helvetica,sans-serif; color: #666666;
+}
+.footer {
+font-size: 80%; font-family: Arial,Helvetica,sans-serif;
+}
+.fromusers {
+font-weight: bold; font-family: Arial,Helvetica,sans-serif;
+}
+.ghost {
+color: #888888; font-style: normal;
+}
+.h1 {
+font-size: medium; font-family: arial,helvetica,sans-serif; color: #000000;
+}
+.h3 {
+font-size: small; font-family: arial,helvetica,sans-serif; color: #000000;
+}
+.homenavcol {
+font-size: 80%; font-family: Arial,Helvetica,sans-serif;
+}
+.inproda2z {
+font-size: 90%; font-family: Arial,Helvetica,sans-serif;
+}
+.inprodsmalltext {
+font-size: 80%; font-family: Arial,Helvetica,sans-serif;
+}
+.inprodtext {
+font-size: 90%; font-family: Arial,Helvetica,sans-serif;
+}
+.inprodtitle {
+font-weight: bold; font-size: 105%; font-family: Arial,Helvetica,sans-serif;
+}
+.lhscol {
+background-color: #FFFFCC;
+}
+.lhsef {
+font-weight: normal; font-size: 75%; font-family: Arial, Helvetica, sans-serif;
+}
+.lhsegf {
+font-weight: normal; font-size: 75%; font-family: Arial, Helvetica, sans-serif; color: #777777;
+}
+.maintitle {
+font-weight: bold; font-family: Arial,Helvetica,sans-serif;
+}
+.more {
+font-size: 80%; font-style: normal;
+}
+.n1 {
+font-weight: bold; text-indent: 3px; font-family: Arial,Helvetica,sans-serif; color: #000000;
+}
+.n2 {
+font-size: 75%; background-color: #eeeecc; text-indent: 15px; font-family: Arial,Helvetica,sans-serif;
+}
+.n2s {
+font-size: 75%; background-color: #ffffff; text-indent: 15px; font-family: Arial,Helvetica,sans-serif;
+}
+.navheader {
+font-weight: bold; font-size: 110%; margin-bottom: 3px; font-family: Arial,Helvetica,sans-serif; text-align: center;
+}
+.navline1 {
+font-weight: bold; text-indent: 3px; font-family: Arial,Helvetica,sans-serif; color: #000000;
+}
+.navline2 {
+font-size: 75%; background-color: #eeeecc; text-indent: 15px; font-family: Arial,Helvetica,sans-serif;
+}
+.navline2ni {
+font-family: Arial,Helvetica,sans-serif;
+}
+.navline2s {
+font-size: 75%; background-color: #ffffff; text-indent: 15px; font-family: Arial,Helvetica,sans-serif;
+}
+.navline2sni {
+background-color: #ffffff; font-family: Arial,Helvetica,sans-serif;
+}
+.navline3 {
+font-size: 75%; text-indent: 20px; font-family: Arial,Helvetica,sans-serif;
+}
+.navline3s {
+font-size: 75%; background-color: #ffffff; text-indent: 20px; font-family: Arial,Helvetica,sans-serif;
+}
+.nh {
+font-weight: bold; font-size: 110%; margin-bottom: 3px; font-family: Arial,Helvetica,sans-serif; text-align: center;
+}
+.orange {
+font-size: x-small; font-family: arial,helvetica,sans-serif; color: #CC6600;
+}
+.other {
+font-size: 75%; margin: 2px; font-family: Arial, Helvetica, sans-serif;
+}
+.plotoutline {
+vertical-align: top;
+}
+.qsearch {
+font-weight: bold; font-size: 75%;
+}
+.qstxt {
+font-size: 65%; font-family: Arial, Helvetica, sans-serif;
+}
+.red {
+font-size: x-small; font-family: arial,helvetica,sans-serif; color: #990000;
+}
+.red {
+color: red;
+}
+.results1 {
+font-weight: bold; font-family: Arial,Helvetica,sans-serif;
+}
+.results2 {
+font-weight: bold; font-family: Arial,Helvetica,sans-serif;
+}
+.sans {
+font-size: small; font-family: arial,helvetica,sans-serif;
+}
+.sbheadline {
+font-size: 120%; font-family: Arial,Helvetica,sans-serif;
+}
+.search1 {
+font-weight: bold; font-family: Arial,Helvetica,sans-serif;
+}
+.search2 {
+font-weight: bold; font-family: Arial,Helvetica,sans-serif;
+}
+.search3 {
+font-weight: bold; font-family: Arial,Helvetica,sans-serif;
+}
+.searchcell1 {
+background-color: #cccc99;
+}
+.searchcell2 {
+background-color: #ffffff;
+}
+.searchradio {
+font-size: 80%; font-family: Arial,Helvetica,sans-serif;
+}
+.serif {
+font-size: small; font-family: times,serif;
+}
+.shadedcol {
+background-color: #FFFFCC;
+}
+.small {
+font-size: x-small; font-family: arial,helvetica,sans-serif;
+}
+.smalltxt {
+font-size: 80%; font-family: Arial,Helvetica,sans-serif;
+}
+.splashLine {
+font-weight: bold; font-size: 12px; font-family: Arial, Helvetica, sans-serif;
+}
+.spoiler {
+border: 1px solid red; background-image: url(/images/spoilers.gif);
+}
+.keyword-spoiler {
+background-image: url(/images/keyword-spoilers.gif);
+}
+.spoiler span {
+visibility: hidden;
+}
+.keyword-spoiler span {
+visibility: hidden;
+}
+.spoiler.hover {
+border: none; background-image: none;
+}
+.keyword-spoiler.hover {
+border: none; background-image: none;
+}
+.spoiler.hover span {
+visibility: visible;
+}
+.keyword-spoiler.hover span {
+visibility: visible;
+}
+.srchbld {
+font-weight: bold; font-size: 75%; font-family: Arial, Helvetica, sans-serif;
+}
+.srchsml {
+font-size: 65%; font-family: Arial, Helvetica, sans-serif;
+}
+.studioarchive {
+font-size: 60%; font-family: Arial,Helvetica,sans-serif;
+}
+.studiodate {
+font-weight: bold; font-size: 110%; font-family: Arial,Helvetica,sans-serif; text-align: center;
+}
+.studioheadline {
+font-weight: bold; font-family: Arial,Helvetica,sans-serif;
+}
+.studiopara {
+font-size: 90%; text-align: justify;
+}
+.tagline {
+font-family: Arial,Helvetica,sans-serif; font-style: italic;
+}
+.thirteen {
+font: 13pt Courier;
+}
+.tiny {
+font-size: xx-small; font-family: verdana,arial,helvetica,sans-serif;
+}
+.topheader {
+font-weight: bold; font-size: 80%; font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+.topinfo {
+font-size: 80%;
+}
+.topsearchheader {
+font-weight: bold; font-family: Arial,Helvetica,sans-serif;
+}
+.topsearchpara {
+font-size: 90%; text-align: justify;
+}
+.topsearchsmalltext {
+font-size: 80%; font-family: Arial,Helvetica,sans-serif;
+}
+.topsearchsmalltext {
+font-size: 80%; font-family: Arial,Helvetica,sans-serif;
+}
+.transl {
+color: #545454; font-style: normal;
+}
+.userregbold {
+font-weight: bold; font-family: Arial,Helvetica,sans-serif;
+}
+.userregheader {
+font-weight: bold; font-family: Arial,Helvetica,sans-serif;
+}
+.userregpara {
+font-size: 90%; font-family: Arial,Helvetica,sans-serif; text-align: justify;
+}
+.white {
+color: #ffffff;
+}
+.writers {
+vertical-align: top;
+}
+A.eyebrow:link {
+text-decoration: none;
+}
+H1 {
+font-weight: bold; font-size: 18pt; font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+H2 {
+font-size: 16pt; font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+H3 {
+font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+H4 {
+font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+#loginRegister a:hover {
+background-color: #FFFF66; text-decoration: underline;
+}
+#loginRegister a:active {
+background-color: #FFFF66; text-decoration: underline;
+}
+#loginRegister a:link {
+color: #CC0000;
+}
+#loginRegister a:visited {
+color: #CC0000;
+}
+#loginRegister {
+font-weight: normal; font-size: 9px; white-space: nowrap; font-family: Verdana, Arial, Helvetica, sans-serif; vertical-align: middle; color: #CC0000; text-align: right;
+}
+#subHead {
+height: 70px;
+}
+#subNav a:hover {
+background-color: #FFFF66; text-decoration: underline;
+}
+#subNav a:active {
+background-color: #FFFF66; text-decoration: underline;
+}
+#subNav a:link {
+color: #3046C1;
+}
+#subNav a:visited {
+color: #3046C1;
+}
+#subNav {
+font-weight: bold; font-size: 10px; white-space: nowrap; font-family: Verdana, Arial, Helvetica, sans-serif; vertical-align: middle; color: #3046C1; text-align: center;
+}
+body {
+margin-top: 5px;
+}
+#nb15 {
+padding-top: 5px; min-width: 900px; font-family: Arial, Helvetica, sans-serif; width: 100%;
+}
+#nb15 a {
+text-decoration: none;
+}
+#nb15 a:hover {
+text-decoration: underline;
+}
+#nb15home {
+height: 21px;
+}
+#nb15home img {
+position: absolute;
+}
+#nb15home.supertab {
+overflow: hidden; height: 57px; position: absolute;
+}
+#nb15home.supertab img {
+position: relative; top: -21px;
+}
+#nb15botbg {
+background: url(/images/nb15/searchbg.gif) #ffffcc repeat-x bottom; width: 100%;
+}
+#nb15topbg {
+background: url(/images/nb15/sprocket.gif) repeat-x; height: 33px;
+}
+#nb15tabs {
+background: url(/images/nb15/navbar.gif) no-repeat top; height: 31px; position: absolute; width: 713px; margin-left: 177px;
+}
+#nb15tabs a {
+overflow: hidden; height: 31px; position: absolute; width: 77px;
+}
+#nb15tabs a i {
+visibility: hidden;
+}
+a#nb15nowplaying {
+width: 78px;
+}
+a#nb15news {
+left: 78px;
+}
+a#nb15mm {
+left: 155px;
+}
+a#nb15dvd {
+left: 232px;
+}
+a#nb15imdbtv {
+left: 309px;
+}
+a#nb15boards {
+left: 386px;
+}
+a#nb15showtimes {
+left: 463px;
+}
+a#nb15pro {
+left: 540px; width: 86px;
+}
+a#nb15resume {
+left: 626px; width: 86px;
+}
+#nb15tabs a:hover {
+background-image: url(/images/nb15/navbar.gif);
+}
+a#nb15nowplaying:hover {
+background-position: 0px -31px;
+}
+a#nb15news:hover {
+background-position: -78px -31px;
+}
+a#nb15mm:hover {
+background-position: -155px -31px;
+}
+a#nb15dvd:hover {
+background-position: -232px -31px;
+}
+a#nb15imdbtv:hover {
+background-position: -309px -31px;
+}
+a#nb15boards:hover {
+background-position: -386px -31px;
+}
+a#nb15showtimes:hover {
+background-position: -463px -31px;
+}
+a#nb15pro:hover {
+background-position: -540px -31px;
+}
+a#nb15resume:hover {
+background-position: -626px -31px;
+}
+#nb15sub {
+font-size: 13px; clear: left; color: #999999; text-align: center; width: 617px; margin-left: 177px;
+}
+#nb15sub div {
+max-width: 445px; margin-right: auto; margin-left: auto;
+}
+#nb15sub a {
+font-weight: bold; font-size: 12px; text-decoration: none; color: #283f66;
+}
+#nb15personal {
+max-width: 200px; text-align: right; float: right;
+}
+#nb15personal span {
+left: -25px; font-size: 9px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #999999; position: relative; top: 33px;
+}
+#nb15personal a {
+font-weight: bold; text-decoration: none; color: #660000;
+}
+#nb15search {
+padding-bottom: 5px; font-size: 10px; padding: 4px; text-align: center; width: 617px; margin-left: 177px;
+}
+#nb15search a {
+color: #283f66;
+}
+#nb15search .search {
+font-weight: bold; font-size: 13px; border: 0px;
+}
+#nb15search * {
+vertical-align: middle;
+}
+#nb15search img {
+vertical-align: bottom;
+}
+#nb15search input {
+font-size: 12px; font-family: Arial, Helvetica, sans-serif;
+}
+#nb15search select {
+font-size: 12px; font-family: Arial, Helvetica, sans-serif;
+}
+#nb15search option {
+font-size: 12px; font-family: Arial, Helvetica, sans-serif;
+}
+#nb15search button {
+font-size: 12px; font-family: Arial, Helvetica, sans-serif;
+}
+#nb15search form {
+margin: 0px; display: inline;
+}
+#nb15search #nb15go {
+margin: 0px; background: transparent url(/images/nb15/go.gif) no-repeat center top; cursor: hand; border: 0px; height: 17px; margin-left: 2px; width: 31px;
+}
+#nb15search #nb15go_image {
+margin: 0px; cursor: hand; border: 0px; height: 17px; margin-left: 2px; width: 31px;
+}
+#nb15search #nb15go_submit {
+font-weight: bold; cursor: pointer; background-color: #e2cb3e;
+}
+* html #nb15topbg {
+padding-left: 900px;
+}
+* html #nb15iesux {
+position: relative; margin-left: -900px;
+}
+* html #nb15personal {
+position: absolute; width: 200px; right: 0px;
+}
+.imdb_lb {
+max-width: 728px; background: #ffffff; border: 1px #000000 solid; font-family: Arial, Helvetica, sans-serif; height: 105px; max-height: 106px; width: 728px;
+}
+.imdb_lb .header {
+font-size: 10px; background: #eeeeee; border-bottom: 1px #000000 solid; padding: 1px; height: 12px; text-align: left; width: 726px;
+}
+.imdb_lb .header a {
+color: #000099;
+}
+.imdb_lb .header .branding {
+display: block; color: #000000; float: right;
+}
+.imdb_lb .body {
+overflow: hidden; background: #ffffff; text-decoration: none; padding: 0px 2px 3px 2px; display: block; color: #000000; height: 86px; text-align: center; max-height: 90px; width: 724px;
+}
+.imdb_lb h1 {
+font-size: 20pt; margin: 0; text-decoration: underline; padding: 0; color: #000099;
+}
+.imdb_lb p {
+font-size: 12pt; margin-bottom: 1em; margin: 0; padding: 0; color: #000000;
+}
+.imdb_sk {
+max-width: 160px; background: #ffffff; border: 1px #000000 solid; font-family: Arial, Helvetica, sans-serif; text-align: center; width: 160px;
+}
+.imdb_sk .header {
+max-width: 158px; font-size: 10px; background: #eeeeee; padding: 1px; display: block; height: 12px; text-align: center; width: 160px;
+}
+.imdb_sk .branding {
+max-width: 158px; font-size: 10px; background: #eeeeee; padding: 1px; display: block; height: 12px; text-align: center; width: 160px;
+}
+.imdb_sk .header {
+border-bottom: 1px #000000 solid;
+}
+.imdb_sk .header a {
+color: #000099;
+}
+.imdb_sk .branding {
+color: #000000; border-top: 1px #000000 solid;
+}
+.imdb_sk .body {
+max-width: 158px; overflow: hidden; text-decoration: none; word-wrap: break-word; padding: 0px 2px 3px 2px; display: block; color: #000000; height: 600px; text-align: center; max-height: 600px; width: 158px;
+}
+.imdb_sk h1 {
+font-size: 15pt; margin: 0; text-decoration: underline; word-wrap: break-word; padding: 2px 0px 0px 0px; color: #000099;
+}
+.imdb_sk p {
+font-size: 12pt; margin-bottom: 1em; margin: 0; word-wrap: break-word; padding: 0; color: #000000;
+}
