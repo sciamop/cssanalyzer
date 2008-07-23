@@ -1,0 +1,87 @@
+body {
+margin: 0; min-width: 760px; padding: 0;
+}
+#masthead {
+margin: 0; height: 65px; heigh\t: 57px;
+}
+#slogan {
+margin: 0; height: 40px; position: absolute; z-index: 100; width: 300px; top: 10px; right: 22px;
+}
+#content {
+margin: 45px 0 0 103px; width: 73%; float: left;
+}
+html>body #content {
+margin: 45px -203px 0 203px;
+}
+#home #content {
+margin: 45px 0 0; width: 67%;
+}
+#article #content {
+width: expression(document.body.clientWidth > 750? "60%": "60%" );
+}
+#article #footer {
+width: expression(document.body.clientWidth > 750? "60%": "60%" );
+}
+#home #currentFeature {
+margin-right: 20px; margin-left: 203px;
+}
+#home #pastFeature {
+margin-right: 20px; margin-left: 203px;
+}
+#home p.archive {
+margin-right: 20px; margin-left: 203px;
+}
+#content .pullquote cite {
+display: block;
+}
+#sidebar {
+margin-top: 45px; width: 31%; float: left;
+}
+#sidebar h2 {
+margin: 0; height: 30px;
+}
+#sidebar h2 a {
+display: block; width: 50%;
+}
+#globalNav {
+left: 0; list-style: none; margin: 0; min-width: 760px; padding: 10px 0; height: 41px; heigh\t: 12px; position: absolute; width: 100%; top: 65px;
+}
+#globalNav li {
+list-style: none; width: auto; float: left;
+}
+#articlesLink {
+margin-left: 90px;
+}
+html>body #articlesLink {
+margin-left: 180px;
+}
+#sortNav {
+margin: 0; padding: 0; position: absolute; width: 180px; top: 106px;
+}
+#sortNav li {
+height: 26px; margin-left: 0; width: 185px;
+}
+#sortNav li.search {
+height: auto;
+}
+#sortNav li a {
+display: block; height: 25px; padding-left: 30px; width: 150px;
+}
+#sortNav li.active {
+margin-right: -5px;
+}
+#sortNav li.search form {
+margin: 0; padding: 8px 0 8px 15px; width: 163px;
+}
+#sideAds {
+left: 0; position: absolute; width: 180px; top: 440px;
+}
+#footer {
+clear: both; padding-top: 0.5em; text-align: center; margin-left: 203px; width: 73%;
+}
+html>body #footer {
+margin: 0 -203px 0 203px;
+}
+#sbgoog {
+left: -17px; margin-top: 30px; position: relative;
+}
