@@ -1,0 +1,2349 @@
+TABLE.button {
+display: inline;
+}
+TABLE.button TD {
+padding-right: 1px; background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_right_bg.gif') center right no-repeat; border: 0; font-family: none;
+}
+TABLE.button BUTTON {
+margin-right: 1px; background: transparent; margin: 0; cursor: pointer; border: 0; height: 20px; padding-left: 2px; font: 11px tahoma;
+}
+*> TABLE.button BUTTON {
+padding-bottom: 3px; padding-left: 10px;
+}
+TABLE.button BUTTON.butDef {
+background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
+}
+TABLE.button BUTTON.butDefHi {
+background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
+}
+TABLE.button BUTTON.prefAddButton {
+background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
+}
+TABLE.button BUTTON.fibutton {
+background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
+}
+TABLE.button BUTTON.prefButton {
+background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
+}
+TABLE.button BUTTON.prefBotButton {
+background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
+}
+TABLE.button BUTTON.buttonLeftSpace.fibutton {
+background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
+}
+TABLE.button BUTTON.buttonLeftSpace {
+background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat; margin-left: 8px;
+}
+TABLE.button BUTTON.butDefPrpty {
+background: url('http://www.knowledge.reuters.com/insight/images/defaultbutton/dropdownbg.2.5.gif') center left no-repeat; width: 60px;
+}
+TABLE.button TD.butSel {
+background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_right_bg_on.gif') center right no-repeat;
+}
+TABLE.button BUTTON.butSel {
+background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_left_bg_on.gif') center left no-repeat;
+}
+TABLE.button BUTTON.butSelHi {
+background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_left_bg_on.gif') center left no-repeat;
+}
+TABLE.button BUTTON.butSelHi {
+color: #F60;
+}
+TABLE.button BUTTON.butSel {
+color: #009;
+}
+form.filterMenu {
+padding-bottom: 10px; margin: 0;
+}
+SPAN.filtercriterionprefix {
+font-weight: bold; font-size: 9px;
+}
+SPAN.ficp {
+font-weight: bold; font-size: 9px;
+}
+TABLE.fist {
+background-color: #E5E9EF; border: 1px solid #BCBCBC; height: 22px; border-top: 1px dotted #CCC;
+}
+TABLE.filtersummarytable {
+background-color: #E5E9EF; border: 1px solid #BCBCBC; height: 22px; border-top: 1px dotted #CCC;
+}
+TABLE.fibt-t {
+background-color: #E5E9EF; border-bottom: 0; border-right: 1px solid #BCBCBC; border-left: 1px solid #BCBCBC; border-top: 1px solid #fff;
+}
+TABLE.filterbodytable-top {
+background-color: #E5E9EF; border-bottom: 0; border-right: 1px solid #BCBCBC; border-left: 1px solid #BCBCBC; border-top: 1px solid #fff;
+}
+DIV.fibt-t {
+background-color: #E5E9EF; border-bottom: 0; border-right: 1px solid #BCBCBC; border-left: 1px solid #BCBCBC; border-top: 1px solid #fff;
+}
+TABLE.fibt-m {
+background-color: #E5E9EF; border-bottom: 0; border-right: 1px solid #BCBCBC; border-left: 1px solid #BCBCBC; border-top: 0;
+}
+TABLE.filterbodytable-middle {
+background-color: #E5E9EF; border-bottom: 0; border-right: 1px solid #BCBCBC; border-left: 1px solid #BCBCBC; border-top: 0;
+}
+TABLE.fibt-b {
+padding-bottom: 1px; background-color: #E5E9EF; border: 1px solid #BCBCBC; border-top: none;
+}
+TABLE.filterbodytable-bottom {
+padding-bottom: 1px; background-color: #E5E9EF; border: 1px solid #BCBCBC; border-top: none;
+}
+TD.fictl {
+color: #000; font: normal 10px verdana;
+}
+TD.filtercriteratextleft {
+color: #000; font: normal 10px verdana;
+}
+.fithl {
+padding-right: 4px; text-alignment: left; vertical-alignment: bottom; padding-left: 5px; font: bold 7.5pt verdana;
+}
+filtertableheaderleft {
+padding-right: 4px; text-alignment: left; vertical-alignment: bottom; padding-left: 5px; font: bold 7.5pt verdana;
+}
+TD.fihc {
+background-color: #E5E9EF; border-right: 1px solid #BCBCBC; height: 1px; border-left: 1px solid #BCBCBC; font: normal 1px Tahoma;
+}
+TD.filterhorizontalcell {
+background-color: #E5E9EF; border-right: 1px solid #BCBCBC; height: 1px; border-left: 1px solid #BCBCBC; font: normal 1px Tahoma;
+}
+DIV.fihc {
+background-color: #E5E9EF; border-right: 1px solid #BCBCBC; height: 1px; border-left: 1px solid #BCBCBC; font: normal 1px Tahoma;
+}
+.fitc {
+padding-right: 2px; padding-left: 4px;
+}
+.filtertogglecell {
+padding-right: 2px; padding-left: 4px;
+}
+A.figl {
+font-weight: normal; text-decoration: none; color: #009;
+}
+A.figl:active {
+font-weight: normal; text-decoration: none; color: #009;
+}
+A.figl:visited {
+font-weight: normal; text-decoration: none; color: #009;
+}
+A.figl:hover {
+font-weight: normal; text-decoration: underline; color: #f90;
+}
+.firhl {
+padding-left: 4px; font: bold 7.5pt tahoma; text-align: left;
+}
+.filterrowheaderleft {
+padding-left: 4px; font: bold 7.5pt tahoma; text-align: left;
+}
+SPAN.firhl {
+padding-left: 4px; font: bold 7.5pt tahoma; position: relative; text-align: left; top: -2px;
+}
+.fileft {
+text-align: left;
+}
+.filterleft {
+text-align: left;
+}
+.firight {
+text-align: right;
+}
+.filterright {
+text-align: right;
+}
+INPUT.firb {
+margin-left: 4px;
+}
+INPUT.filterradiobutton {
+margin-left: 4px;
+}
+.firit {
+padding-left: 1px; font: 7.5pt tahoma; position: relative; top: -2px;
+}
+.filterradioinputtext {
+padding-left: 1px; font: 7.5pt tahoma; position: relative; top: -2px;
+}
+.firit-d {
+padding-left: 1px; color: #999; font: 7.5pt tahoma; position: relative; top: -2px;
+}
+.filterradioinputtext-disabled {
+padding-left: 1px; color: #999; font: 7.5pt tahoma; position: relative; top: -2px;
+}
+IMG.fins-b {
+margin-right: 2px; margin-left: 7px;
+}
+IMG.filternavseperator-body {
+margin-right: 2px; margin-left: 7px;
+}
+TD.fihc-nb {
+background-color: #E5E9EF; height: 1px; font: normal 1px tahoma;
+}
+TD.filterhorizontalcell-noborder {
+background-color: #E5E9EF; height: 1px; font: normal 1px tahoma;
+}
+DIV.fihd {
+margin-right: 3px; margin-bottom: 3px; border-bottom: 1px solid #CCC; margin-left: 3px;
+}
+DIV.filterhorizontaldiv {
+margin-right: 3px; margin-bottom: 3px; border-bottom: 1px solid #CCC; margin-left: 3px;
+}
+.fiddm {
+font-weight: normal; text-alignment: left; font: 11px tahoma; margin-left: 4px;
+}
+.filterdropdownmenu {
+font-weight: normal; text-alignment: left; font: 11px tahoma; margin-left: 4px;
+}
+.fibutton {
+margin-right: 8px; cursor: pointer; color: #009; font: normal 11px tahoma;
+}
+.fibutton-d {
+margin-right: 8px; cursor: default; font: normal 11px tahoma;
+}
+.fibuttonhover {
+margin-right: 8px; cursor: pointer; color: #f90; font: normal 11px tahoma;
+}
+.fibutton-s {
+margin-right: 2px; cursor: pointer; color: #009; font: normal 9px Verdana;
+}
+.fibutton-s-hover {
+margin-right: 2px; cursor: pointer; color: #f90; font: normal 9px Verdana;
+}
+.fihand {
+cursor: pointer;
+}
+.filterhand {
+cursor: pointer;
+}
+.fiqbg {
+padding-right: 9px;
+}
+filterquarterbuttongroup {
+padding-right: 9px;
+}
+.fi5pxleft {
+padding-left: 5px; text-align: left;
+}
+.filter5pixelsleft {
+padding-left: 5px; text-align: left;
+}
+.fiqbn {
+cursor: pointer; background-color: #999; border: 1px solid #666; display: inline; padding: 2px 3px; height: 18px; color: #fff; font: normal 10px Verdana;
+}
+filterquarterbuttonnormal {
+cursor: pointer; background-color: #999; border: 1px solid #666; display: inline; padding: 2px 3px; height: 18px; color: #fff; font: normal 10px Verdana;
+}
+.fltOptBtnSel {
+cursor: pointer; background-color: #999; border: 1px solid #666; display: inline; padding: 2px 3px; height: 18px; color: #fff; font: normal 10px Verdana;
+}
+.fiqbnc {
+cursor: pointer; background-color: #999; border: 1px solid #666; display: inline; padding: 2px 3px; height: 18px; color: #fff; font: normal 10px Verdana;
+}
+filterquarterbuttoncurrent {
+cursor: pointer; background-color: #999; border: 1px solid #666; display: inline; padding: 2px 3px; height: 18px; color: #fff; font: normal 10px Verdana;
+}
+.fltOptBtnSel-cur {
+cursor: pointer; background-color: #999; border: 1px solid #666; display: inline; padding: 2px 3px; height: 18px; color: #fff; font: normal 10px Verdana;
+}
+.fiqbn-a {
+cursor: pointer; background-color: #999; border: 1px solid #666; display: inline; padding: 2px 3px; height: 18px; color: #fff; font: normal 10px Verdana;
+}
+filterquarterbuttonnormal-active {
+cursor: pointer; background-color: #999; border: 1px solid #666; display: inline; padding: 2px 3px; height: 18px; color: #fff; font: normal 10px Verdana;
+}
+.fltOptBtnSel-act {
+cursor: pointer; background-color: #999; border: 1px solid #666; display: inline; padding: 2px 3px; height: 18px; color: #fff; font: normal 10px Verdana;
+}
+.fiqbn-h {
+cursor: pointer; background-color: #999; border: 1px solid #666; display: inline; padding: 2px 3px; height: 18px; color: #fff; font: normal 10px Verdana;
+}
+filterquarterbuttonnormal-hover {
+cursor: pointer; background-color: #999; border: 1px solid #666; display: inline; padding: 2px 3px; height: 18px; color: #fff; font: normal 10px Verdana;
+}
+.fltOptBtnSel-hov {
+cursor: pointer; background-color: #999; border: 1px solid #666; display: inline; padding: 2px 3px; height: 18px; color: #fff; font: normal 10px Verdana;
+}
+.fiqbn {
+cursor: default;
+}
+filterquarterbuttonnormal {
+cursor: default;
+}
+.fltOptBtnSel {
+cursor: default;
+}
+.fiqbnc {
+font-weight: bold; color: #CF0;
+}
+filterquarterbuttoncurrent {
+font-weight: bold; color: #CF0;
+}
+.fltOptBtnSel-cur {
+font-weight: bold; color: #CF0;
+}
+.fiqbn-a {
+font-weight: bold; background-color: #fff; color: #000;
+}
+filterquarterbuttonnormal-active {
+font-weight: bold; background-color: #fff; color: #000;
+}
+.fltOptBtnSel-act {
+font-weight: bold; background-color: #fff; color: #000;
+}
+.fiqbn-ac {
+font-weight: bold; background-color: #fff; color: #CF0;
+}
+filterquarterbuttoncurrent-active {
+font-weight: bold; background-color: #fff; color: #CF0;
+}
+.fltOptBtnSel-cur-act {
+font-weight: bold; background-color: #fff; color: #CF0;
+}
+.fiqbn-h {
+font-weight: bold; background-color: #999; color: #CF0;
+}
+filterquarterbuttonnormal-hover {
+font-weight: bold; background-color: #999; color: #CF0;
+}
+.fltOptBtnSel-hov {
+font-weight: bold; background-color: #999; color: #CF0;
+}
+.figh {
+color: #000; font: normal 10px Tahoma; text-align: center;
+}
+.filtergroupheader {
+color: #000; font: normal 10px Tahoma; text-align: center;
+}
+.fltGrpHdr {
+color: #000; font: normal 10px Tahoma; text-align: center;
+}
+.ficrkl {
+padding-left: 4px; font: bold 8pt Tahoma; text-align: left;
+}
+filtercheckboxrowheaderleft {
+padding-left: 4px; font: bold 8pt Tahoma; text-align: left;
+}
+.rkSelector_menu {
+padding-bottom: 1px; padding-top: 1px; line-height: 10px; background-color: #e5e9ef; cursor: default; border-bottom: solid 1px #606264; border-right: solid 1px #919397; padding-left: 6px; color: #009; height: 1px; border-left: solid 1px #fff; font: bold 11px Tahoma; border-top: solid 1px #fff; z-index: 100; position: absolute; width: 1px;
+}
+.rkSelector_menuOver {
+line-height: 10px; background-color: #e5e9ef; cursor: default; border-bottom: solid 1px #606264; border-right: solid 1px #919397; padding: 1px 6px; color: #f90; height: 1px; border-left: solid 1px #fff; font: bold 11px Tahoma; border-top: solid 1px #fff; position: absolute; width: 1px;
+}
+.rkSelector_menuOption {
+cursor: default; padding: 2px 4px 4px 16px; display: none; font: 8pt Tahoma, Arial; z-index: 100; position: absolute; width: 100%;
+}
+TABLE.fibt {
+background-color: #E5E9EF; border-bottom: 1px solid #BCBCBC; border-right: 1px solid #BCBCBC; border-left: 1px solid #BCBCBC; border-top: 1px solid #fff;
+}
+TABLE.filterbodytable {
+background-color: #E5E9EF; border-bottom: 1px solid #BCBCBC; border-right: 1px solid #BCBCBC; border-left: 1px solid #BCBCBC; border-top: 1px solid #fff;
+}
+form.filter {
+margin: 8px 0 2px 0;
+}
+span.fname {
+margin-right: 7px; white-space: nowrap; color: black; font: normal 9px Verdana, Arial; margin-left: 7px;
+}
+td.fname {
+margin-right: 7px; color: black; font: normal 9px Verdana, Arial; margin-left: 7px;
+}
+.ftext {
+margin: 3px 7px 6px 7px; white-space: nowrap; padding: 3px; color: black; font: normal 10px Verdana, Arial;
+}
+.ftextRO {
+margin: 3px 7px 6px 7px; background: #F7F8FA; white-space: nowrap; padding: 3px; color: black; font: normal 9px Verdana, Arial;
+}
+span.fnameHi {
+margin-right: 7px; white-space: nowrap; color: #F60; font: normal 9px Verdana, Arial; margin-left: 7px;
+}
+select.finput {
+margin: 3px 7px 6px 7px; font: normal 9px Verdana; text-align: left;
+}
+input.finput {
+margin: 3px 7px 6px 7px; font: normal 9px Verdana; text-align: left;
+}
+div.finput {
+margin: 3px 7px 6px 7px; font: normal 9px Verdana; text-align: left;
+}
+select.finputHi {
+margin: 3px 7px 6px 7px; color: #F60; font: normal 9px Verdana; text-align: left;
+}
+input.finputHi {
+margin: 3px 7px 6px 7px; color: #F60; font: normal 9px Verdana; text-align: left;
+}
+div.finputHi {
+margin: 3px 7px 6px 7px; color: #F60; font: normal 9px Verdana; text-align: left;
+}
+a.finput {
+padding: 4px 2px;
+}
+a.finput:active {
+padding: 4px 2px;
+}
+A.finput:visited {
+padding: 4px 2px;
+}
+a.finputSel {
+background: #F7F8FA; padding: 4px 2px;
+}
+a.finputSel:active {
+background: #F7F8FA; padding: 4px 2px;
+}
+A.finputSel:visited {
+background: #F7F8FA; padding: 4px 2px;
+}
+a.finputHi {
+background: #F7F8FA; padding: 4px 2px; color: #F60;
+}
+a.finputHi:active {
+background: #F7F8FA; padding: 4px 2px; color: #F60;
+}
+A.finputHi:visited {
+background: #F7F8FA; padding: 4px 2px; color: #F60;
+}
+input.fsdef {
+background-repeat: no-repeat; border: none; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/submit-default.gif'); height: 18px; position: relative; width: 78px;
+}
+input.fsubmitdefault {
+background-repeat: no-repeat; border: none; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/submit-default.gif'); height: 18px; position: relative; width: 78px;
+}
+input.fshi {
+background: url('http://www.knowledge.reuters.com/rk/images/filters2/submit-hl.gif'); background-repeat: no-repeat; border: none; height: 18px; position: relative; width: 78px;
+}
+input.fsubmithighlighted {
+background: url('http://www.knowledge.reuters.com/rk/images/filters2/submit-hl.gif'); background-repeat: no-repeat; border: none; height: 18px; position: relative; width: 78px;
+}
+input.fsc {
+background-repeat: no-repeat; border: none; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/submitchanged-default.gif'); height: 18px; position: relative; width: 78px;
+}
+input.fsubmitchanged {
+background-repeat: no-repeat; border: none; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/submitchanged-default.gif'); height: 18px; position: relative; width: 78px;
+}
+input.fscHi {
+background-repeat: no-repeat; border: none; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/submitchanged-hl.gif'); height: 18px; position: relative; width: 78px;
+}
+input.fsubmitchangedhighlighted {
+background-repeat: no-repeat; border: none; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/submitchanged-hl.gif'); height: 18px; position: relative; width: 78px;
+}
+td.ftrl {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-left.gif?251');
+}
+td.ftoprowleft {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-left.gif?251');
+}
+td.ftrr {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-left.gif?251');
+}
+td.ftoprowright {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-left.gif?251');
+}
+td.ftrm {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-middle.gif?251');
+}
+td.ftoprowmiddle {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-middle.gif?251');
+}
+td.ftrm1 {
+background-color: #e5e9ef; background-repeat: no-repeat;
+}
+td.forr {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-right.2.4.gif?251');
+}
+td.fonerowright {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-right.2.4.gif?251');
+}
+td.ftworr {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/tworow-right.2.4.gif?251');
+}
+td.ftworowright {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/tworow-right.2.4.gif?251');
+}
+td.fonerr {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/tworow-right.2.4.gif?251');
+}
+td.fonerowright {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/tworow-right.2.4.gif?251');
+}
+td.ftworrb {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/tworow-right-bottom.2.4.gif?251');
+}
+td.ftworowrightwithbottom {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/tworow-right-bottom.2.4.gif?251');
+}
+td.fthrrr {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/threerow-right.2.4.gif?251');
+}
+td.fthreerowright {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/threerow-right.2.4.gif?251');
+}
+td.ftrss {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-ssep.gif?251');
+}
+td.ftoprowsmallseparator {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-ssep.gif?251');
+}
+td.ftrls {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-lsep.gif?251');
+}
+td.ftoprowlargeseparator {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-lsep.gif?251');
+}
+td.fbrl {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/botrow-left.gif?251');
+}
+td.fbotrowleft {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/botrow-left.gif?251');
+}
+td.fbrm {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/botrow-middle.gif?251');
+}
+td.fbotrowmiddle {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/botrow-middle.gif?251');
+}
+td.fbrls {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/botrow-lsep.gif?251');
+}
+td.fbotrowlargeseparator {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/botrow-lsep.gif?251');
+}
+td.fbrr {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/botrow-right.2.4.gif?251');
+}
+td.fbotrowright {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/botrow-right.2.4.gif?251');
+}
+td.fbrr2 {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/botrow-left.gif?251');
+}
+td.fbotrowright2 {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/botrow-left.gif?251');
+}
+td.fmrl {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/medrow-left.gif?251');
+}
+td.fmedrowleft {
+background-repeat: no-repeat; background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/medrow-left.gif?251');
+}
+td.fmrm {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-middle.gif?251');
+}
+td.fmedrowmiddle {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-middle.gif?251');
+}
+td.fmrmb {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/medrow-middle-bottom.gif?251');
+}
+td.fmedrowmiddlewithbottom {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/medrow-middle-bottom.gif?251');
+}
+td.fmrss {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-ssep.gif?251');
+}
+td.fmedrowsmallseparator {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-ssep.gif?251');
+}
+td.fmrls {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-lsep.gif?251');
+}
+td.fmedrowlargeseparator {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/toprow-lsep.gif?251');
+}
+.fcr-t {
+border: solid 1px #BCBCBC; width: 100%;
+}
+.criteriatable {
+border: solid 1px #BCBCBC; width: 100%;
+}
+.fcr-h {
+padding-right: 5px; background-color: #E5E9EF; border-bottom: solid 1px #BCBCBC; padding-left: 5px; font: 11px Tahoma;
+}
+.criteriaheader {
+padding-right: 5px; background-color: #E5E9EF; border-bottom: solid 1px #BCBCBC; padding-left: 5px; font: 11px Tahoma;
+}
+.fcr-rhl {
+width: 10%;
+}
+.criteriatdrowheaderleft {
+width: 10%;
+}
+.fcr-ril {
+width: 40%;
+}
+.fcr-rir {
+width: 40%;
+}
+.criteriatdrowitemleft {
+width: 40%;
+}
+.criteriatdrowitemright {
+width: 40%;
+}
+.fcr-rhr {
+border-left: solid 1px #BCBCBC; width: 10%;
+}
+.criteriatdrowheaderright {
+border-left: solid 1px #BCBCBC; width: 10%;
+}
+.fcr-mrhil {
+width: 25%;
+}
+.criteriaTdTwoColumnRowHeaderAndItemLeft {
+width: 25%;
+}
+.fcr-mrhir {
+border-left: solid 1px #BCBCBC; width: 25%;
+}
+.criteriaTdTwoColumnRowHeaderAndItemRight {
+border-left: solid 1px #BCBCBC; width: 25%;
+}
+.fcr-mrhl {
+width: 12.5%;
+}
+.fcr-mril {
+width: 12.5%;
+}
+.fcr-mrir {
+width: 12.5%;
+}
+.criteriaTdTwoColumnRowHeaderLeft {
+width: 12.5%;
+}
+.criteriaTdTwoColumnRowItemLeft {
+width: 12.5%;
+}
+.criteriaTdTwoColumnRowItemRight {
+width: 12.5%;
+}
+.fcr-mrhr {
+border-left: solid 1px #BCBCBC; width: 12.5%;
+}
+.criteriaTdTwoColumnRowHeaderRight {
+border-left: solid 1px #BCBCBC; width: 12.5%;
+}
+.fcr-xrh {
+background-color: #EEE; border-right: solid 1px #fff; padding: 2px 2px 0 3px; height: 100%; font: 11px Tahoma; text-align: right; border-top: solid 1px #fff; width: 100%;
+}
+.criteriarowheader {
+background-color: #EEE; border-right: solid 1px #fff; padding: 2px 2px 0 3px; height: 100%; font: 11px Tahoma; text-align: right; border-top: solid 1px #fff; width: 100%;
+}
+.fcr-xor {
+background-color: #fff; border-right: solid 3px #fff; padding: 2px 2px 0 3px; height: 100%; font: 10px Tahoma; border-top: solid 1px #fff; width: 100%;
+}
+.criteriaoddrow {
+background-color: #fff; border-right: solid 3px #fff; padding: 2px 2px 0 3px; height: 100%; font: 10px Tahoma; border-top: solid 1px #fff; width: 100%;
+}
+.fcr-xer {
+background-color: #EEE; border-right: solid 3px #fff; padding: 2px 2px 0 3px; height: 100%; font: 10px Tahoma; border-top: solid 1px #fff; width: 100%;
+}
+.criteriaevenrow {
+background-color: #EEE; border-right: solid 3px #fff; padding: 2px 2px 0 3px; height: 100%; font: 10px Tahoma; border-top: solid 1px #fff; width: 100%;
+}
+.fcr-xmor {
+background-color: #fff; border-right: solid 3px #fff; padding: 3px 3px 0 5px; height: 100%; font: 11px Tahoma; border-top: solid 1px #fff; width: 100%;
+}
+.criteriaTwoColumnOddRow {
+background-color: #fff; border-right: solid 3px #fff; padding: 3px 3px 0 5px; height: 100%; font: 11px Tahoma; border-top: solid 1px #fff; width: 100%;
+}
+.fcr-xmer {
+background-color: #EEE; border-right: solid 3px #fff; padding: 3px 3px 0 5px; height: 100%; font: 11px Tahoma; border-top: solid 1px #fff; width: 100%;
+}
+.criteriaTwoColumnEvenRow {
+background-color: #EEE; border-right: solid 3px #fff; padding: 3px 3px 0 5px; height: 100%; font: 11px Tahoma; border-top: solid 1px #fff; width: 100%;
+}
+.fcr-xmor-s {
+background-color: #fff; border-right: solid 3px #fff; padding: 3px 3px 0 5px; height: 100%; font: bold 11px Tahoma; border-top: solid 1px #fff; width: 100%;
+}
+.criteriaTwoColumnOddRow-s {
+background-color: #fff; border-right: solid 3px #fff; padding: 3px 3px 0 5px; height: 100%; font: bold 11px Tahoma; border-top: solid 1px #fff; width: 100%;
+}
+.fcr-xmer-s {
+background-color: #EEE; border-right: solid 3px #fff; padding: 3px 3px 0 5px; height: 100%; font: bold 11px Tahoma; border-top: solid 1px #fff; width: 100%;
+}
+.criteriaTwoColumnEvenRow-s {
+background-color: #EEE; border-right: solid 3px #fff; padding: 3px 3px 0 5px; height: 100%; font: bold 11px Tahoma; border-top: solid 1px #fff; width: 100%;
+}
+.fcr-lt {
+color: #777575;
+}
+.criterialighttext {
+color: #777575;
+}
+.dis {
+color: #777575;
+}
+span.flabel {
+padding-right: 1px; white-space: nowrap; color: black; font: normal 9px Verdana, Arial; position: relative; top: -2px;
+}
+span.flabelHi {
+padding-right: 1px; white-space: nowrap; color: #F60; font: normal 9px Verdana, Arial; position: relative; top: -2px;
+}
+td.ftworl {
+background: url('http://www.knowledge.reuters.com/rk/images/filters2/tworow-left.gif') no-repeat; height: 88px; width: 4px;
+}
+td.ftworowleft {
+background: url('http://www.knowledge.reuters.com/rk/images/filters2/tworow-left.gif') no-repeat; height: 88px; width: 4px;
+}
+td.ftworm {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/tworow-middle.gif'); height: 88px;
+}
+td.ftworowmiddle {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/tworow-middle.gif'); height: 88px;
+}
+td.fthrm {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/threerow-middle.gif'); height: 132px;
+}
+td.fthreerowmiddle {
+background-image: url('http://www.knowledge.reuters.com/rk/images/filters2/threerow-middle.gif'); height: 132px;
+}
+td.fthrrl {
+background: url('http://www.knowledge.reuters.com/rk/images/filters2/threerow-left.gif') no-repeat; height: 132px; width: 4px;
+}
+td.fthreerowleft {
+background: url('http://www.knowledge.reuters.com/rk/images/filters2/threerow-left.gif') no-repeat; height: 132px; width: 4px;
+}
+.navsep {
+margin-right: 8px; background: url('http://www.knowledge.reuters.com/rk/images/Navigation/sep.gif') no-repeat; display: inline; height: 11px; margin-left: 6px; width: 1px;
+}
+*>DIV.pftcontainer {
+whitespace: nowrap; width: 355px; float: left;
+}
+BODY {
+overflow: auto;
+}
+.fothl {
+color: #333; font: normal 9px Verdana; text-align: left;
+}
+footertableheaderleft {
+color: #333; font: normal 9px Verdana; text-align: left;
+}
+A.fogl {
+text-decoration: none; color: #009; font: normal 9px Verdana;
+}
+A.fogl:active {
+text-decoration: none; color: #009; font: normal 9px Verdana;
+}
+A.fogl:visited {
+text-decoration: none; color: #009; font: normal 9px Verdana;
+}
+A.fogl:hover {
+text-decoration: underline; color: #f90; font: normal 9px Verdana;
+}
+A.fogl-s {
+text-decoration: none; color: #009; font: bold 9px Verdana;
+}
+A.fogl-s:active {
+text-decoration: none; color: #009; font: bold 9px Verdana;
+}
+A.fogl-s:visited {
+text-decoration: none; color: #009; font: bold 9px Verdana;
+}
+A.fogl-s:hover {
+text-decoration: underline; color: #f90; font: bold 9px Verdana;
+}
+.forhl {
+padding-right: 5px; color: #666; font: bold 10px Tahoma; text-align: left;
+}
+.footerrowheaderleft {
+padding-right: 5px; color: #666; font: bold 10px Tahoma; text-align: left;
+}
+.forhr {
+color: #666; font: bold 10px Tahoma; text-align: right;
+}
+.footerrowheaderright {
+color: #666; font: bold 10px Tahoma; text-align: right;
+}
+.forhl-d {
+padding-right: 3px; padding-left: 4px; color: #666; font: bold 10px Tahoma; text-align: left;
+}
+.footerrowheaderleft-devider {
+padding-right: 3px; padding-left: 4px; color: #666; font: bold 10px Tahoma; text-align: left;
+}
+.fotdl {
+color: #333; font: normal 9px Verdana; text-align: left;
+}
+.footertextdataleft {
+color: #333; font: normal 9px Verdana; text-align: left;
+}
+.fotdr {
+color: #333; font: normal 9px Verdana; text-align: right;
+}
+.footertextdataright {
+color: #333; font: normal 9px Verdana; text-align: right;
+}
+TD.fohc {
+background-color: #fff; height: 1px; font: bold 1px Tahoma; border-left: 0;
+}
+TD.fohorizontalcell {
+background-color: #fff; height: 1px; font: bold 1px Tahoma; border-left: 0;
+}
+DIV.fohd {
+margin-bottom: 1px; background-color: #fff; border-bottom: 1px solid #CCC;
+}
+DIV.fohorizontaldiv {
+margin-bottom: 1px; background-color: #fff; border-bottom: 1px solid #CCC;
+}
+.folsc {
+padding-right: 5px; padding-left: 4px; font: normal 1px Tahoma; width: 1px;
+}
+.folinkseperatorcell {
+padding-right: 5px; padding-left: 4px; font: normal 1px Tahoma; width: 1px;
+}
+.fols {
+margin-top: 2px;
+}
+.folinkseperator {
+margin-top: 2px;
+}
+.foglr {
+text-align: right;
+}
+.fogloballinksright {
+text-align: right;
+}
+.foright {
+text-align: right;
+}
+.foss {
+font-size: 8px; color: #333; position: relative; top: -4px;
+}
+.footersuperscript {
+font-size: 8px; color: #333; position: relative; top: -4px;
+}
+.ToolBarContainer {
+text-align: right; width: 20%;
+}
+.ToolBarContainer img {
+position: relative; top: 2px;
+}
+.TabbarItem-first {
+margin-left: 7px;
+}
+*> .ToolBarContainer {
+width: 100px;
+}
+.TabbarItem-Level1-inactive-container {
+margin: 0; background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl1_right_on.gif') top right no-repeat; padding: 0; height: 19px; font: bold 11px Tahoma;
+}
+.TabbarItem-Level1-active-container {
+margin: 0; background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl1_right_on.gif') top right no-repeat; padding: 0; height: 19px; font: bold 11px Tahoma;
+}
+*> .TabbarItem-Level1-inactive-container {
+height: 20px;
+}
+*>.TabbarItem-Level1-active-container {
+height: 20px;
+}
+.TabbarItem-Level1-inactive-container {
+background: none;
+}
+.TabbarItem-Level1-inactive-container A {
+background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl1_left_on.gif') top left no-repeat; text-decoration: none; padding: 5px 5px 0 5px; display: block; color: #000; height: 26px;
+}
+.TabbarItem-Level1-active-container A {
+background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl1_left_on.gif') top left no-repeat; text-decoration: none; padding: 5px 5px 0 5px; display: block; color: #000; height: 26px;
+}
+.TabbarItem-Level1-active-container A:hover {
+color: #000;
+}
+*> .TabbarItem-Level1-inactive-container A {
+height: 19px;
+}
+.TabbarItem-Level1-active-container A {
+height: 19px;
+}
+*html .TabbarItem-Level1-inactive-container A {
+height: 26px;
+}
+.TabbarItem-Level1-active-container A {
+height: 26px;
+}
+.TabbarItem-Level1-inactive-container A {
+padding-right: 7px; background: none; padding-left: 7px; color: #369;
+}
+.TabbarItem-Level1-inactive-container A {
+padding-right: 7px; background: none; padding-left: 7px; color: #369;
+}
+.TabbarItem-Level1-inactive-container A:hover {
+padding-right: 7px; background: none; padding-left: 7px; color: #369;
+}
+.Guides {
+background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_bg.2.5.gif') bottom repeat-x; height: 21px;
+}
+.NavigationLevel2 {
+background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_bg.2.5.gif') bottom repeat-x; height: 21px;
+}
+*html .NavigationLevel2 {
+height: 100%;
+}
+.NavigationLevel2 TABLE {
+margin-left: 5px;
+}
+.NavigationLevel2 .NavigationLevel2ext {
+width: 90px;
+}
+.NavigationBar5 {
+padding: 5px 0 0 1px; vertical-align: top; height: auto; position: relative; top: -2px; width: 900px;
+}
+#NavigationBar5 {
+padding: 5px 0 0 1px; vertical-align: top; height: auto; position: relative; top: -2px; width: 900px;
+}
+.NavigationPortfolio {
+background: transparent url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_bg.2.5.gif') bottom repeat-x;
+}
+*html .NavigationPortfolio {
+height: 100%;
+}
+.NavigationLevel2-off {
+white-space: nowrap; border-left: solid 1px #9C9C9C; margin-left: 2px;
+}
+.NavigationLevel2-on {
+white-space: nowrap; border-left: solid 1px #9C9C9C; margin-left: 2px;
+}
+.NavigationLevel2-off A {
+margin-right: 2px; text-decoration: none; white-space: nowrap; padding: 3px 5px 4px 5px; display: block; vertical-align: middle; font: normal 11px Tahoma;
+}
+.NavigationLevel2-on A {
+margin-right: 2px; text-decoration: none; white-space: nowrap; padding: 3px 5px 4px 5px; display: block; vertical-align: middle; font: normal 11px Tahoma;
+}
+.NavigationLevel2-off A {
+background: #EEE url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_off.gif?26') right top no-repeat; color: #009;
+}
+.NavigationLevel2-off A:link {
+background: #EEE url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_off.gif?26') right top no-repeat; color: #009;
+}
+.NavigationLevel2-off A:visited {
+background: #EEE url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_off.gif?26') right top no-repeat; color: #009;
+}
+.NavigationLevel2-off A:active {
+background: #EEE url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_off.gif?26') right top no-repeat; color: #009;
+}
+.NavigationLevel2-off A:hover {
+text-decoration: underline; color: #F90;
+}
+.NavigationLevel2-on A {
+font-weight: bold; background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_on.gif?26') right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
+}
+.NavigationLevel2-on A:link {
+font-weight: bold; background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_on.gif?26') right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
+}
+.NavigationLevel2-on A:visited {
+font-weight: bold; background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_on.gif?26') right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
+}
+.NavigationLevel2-on A:active {
+font-weight: bold; background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_on.gif?26') right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
+}
+.NavigationLevel2-on A:hover {
+font-weight: bold; background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_on.gif?26') right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
+}
+.NavigationLevel2.popup {
+background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/popuptabs_bg.gif') top repeat-x; height: 21px;
+}
+.popup .NavigationLevel2-off {
+height: 21px;
+}
+.popup .NavigationLevel2-on {
+height: 21px;
+}
+.popup .NavigationLevel2-off A {
+height: 21px;
+}
+.popup .NavigationLevel2-on A {
+height: 21px;
+}
+*>.popup .NavigationLevel2-off {
+height: 13px;
+}
+*>.popup .NavigationLevel2-on {
+height: 13px;
+}
+*>.popup .NavigationLevel2-off A {
+height: 13px;
+}
+*>.popup .NavigationLevel2-on A {
+height: 13px;
+}
+.popup .NavigationLevel2-off A {
+border-bottom: solid 1px #9C9C9C;
+}
+#BrokerSnapshotTabs BR {
+display: none;
+}
+.serviceMenu {
+padding: 6px 6px 0 0; float: right;
+}
+#overview_serviceMenu {
+padding: 6px 6px 0 0; float: right;
+}
+*> .serviceMenu TABLE {
+width: 18px;
+}
+*> .serviceMenu DIV {
+display: inline;
+}
+.serviceMenuItem {
+cursor: pointer; vertical-align: bottom; color: #fff; font: bold 11px Verdana; float: left;
+}
+.serviceMenuItem A {
+text-decoration: none; color: #fff; font: normal 10px Verdana;
+}
+.serviceMenuItem A:visited {
+text-decoration: none; color: #fff; font: normal 10px Verdana;
+}
+.serviceMenuItem A:active {
+text-decoration: none; color: #fff; font: normal 10px Verdana;
+}
+.serviceMenuItem A:link {
+text-decoration: none; color: #fff; font: normal 10px Verdana;
+}
+.serviceMenuItem A:hover {
+text-decoration: none; color: #f90; font: normal 10px Verdana;
+}
+.serviceMenu SPAN:first-child {
+background-image: none;
+}
+*> .serviceMenuItem {
+background: url('http://www.knowledge.reuters.com/rk/images/navigation/sep.gif') top left no-repeat; padding: 0 6px;
+}
+.serviceMenuItems {
+background: url('http://www.knowledge.reuters.com/rk/images/navigation/sep.gif') top left no-repeat; padding: 0 6px;
+}
+.serviceMenuItemSeparator {
+margin-right: 6px; float: left; margin-left: 6px;
+}
+.serviceMenuItemSeparator span {
+overflow: hidden; background: url('http://www.knowledge.reuters.com/rk/images/navigation/sep.gif') center no-repeat; height: 11px; position: relative; top: 0px; width: 1px;
+}
+*> .serviceMenuItemSeparator {
+display: none;
+}
+#LinksMenu_DocViewer SPAN.serviceMenuItemSeparator {
+display: inline; float: left;
+}
+#LinksMenu_DocViewer SPAN.serviceMenuItemSeparator SPAN {
+background: url('http://www.knowledge.reuters.com/rk/images/navigation/sep.gif') center no-repeat; display: block; width: 15px;
+}
+#LinksMenu_DocViewer .linksMenuItem A {
+background-image: none; padding-left: 0;
+}
+.serviceMenuSub {
+cursor: pointer; background-color: #F8F8F8; border: solid 1px #105DA9; filter: progid:DXImageTransform.Microsoft.Shadow(color='#105DA9', Direction=135, Strength=2); display: none; position: absolute;
+}
+.serviceMenuSubItemContainer {
+overflow: hidden; vertical-align: middle; height: 22px; width: 205px;
+}
+.serviceMenuSubItem {
+overflow: hidden; cursor: pointer; background-color: #F8F8F8; text-overflow: ellipsis; padding-left: 5px; height: 22px; color: #000; font: 11px Tahoma; width: 182px;
+}
+*> .serviceMenuSubItem {
+padding-top: 3px; display: block; position: relative;
+}
+.serviceMenuSubItemOver {
+overflow: hidden; cursor: pointer; background-color: #105DA9; border: 1px solid #fff; text-overflow: ellipsis; padding-left: 5px; height: 22px; color: #fff; font: 11px Tahoma; width: 182px;
+}
+*> .serviceMenuSubItemOver {
+padding-top: 3px; display: block; position: relative;
+}
+.serviceMenuSubItemIcon {
+overflow: hidden; cursor: pointer; background-color: #C4D2E5; padding: 2px 2px 0 2px; height: 22px; color: #fff; font: 11px Tahoma; width: 23px;
+}
+*> .serviceMenuSubItemIcon {
+display: block; float: left;
+}
+.serviceMenuSubItem_separator_icon {
+overflow: hidden; cursor: default; background-color: #C4D2E5; height: 7px; width: 23px;
+}
+.serviceMenuSubItem_separator {
+margin-right: 1px; overflow: hidden; margin-top: 2px; cursor: default; background-color: #154996; height: 1px; margin-left: 1px; width: 180px;
+}
+.serviceMenuSubItemText {
+overflow: hidden; padding-top: 3px; text-overflow: ellipsis; width: 144px;
+}
+.serviceMenuSubItemMore {
+padding-top: 4px; text-align: right; width: 29px;
+}
+*> .serviceMenuSubItemMore {
+padding-top: 0; position: absolute; right: 20px; top: 4px;
+}
+.linksMenu {
+white-space: nowrap;
+}
+#overview_linksMenu {
+white-space: nowrap;
+}
+td.linksMenu {
+padding: 2px 0 0 20px;
+}
+.linksMenuItem {
+cursor: pointer; vertical-align: bottom; color: #000099; font: bold 11px Verdana; float: left;
+}
+.linksMenuItem A {
+text-decoration: none; color: #009; font: normal 10px Verdana;
+}
+.linksMenuItem A:visited {
+text-decoration: none; color: #009; font: normal 10px Verdana;
+}
+.linksMenuItem A:active {
+text-decoration: none; color: #009; font: normal 10px Verdana;
+}
+.linksMenuItem A:link {
+text-decoration: none; color: #009; font: normal 10px Verdana;
+}
+.linksMenuItem A:hover {
+text-decoration: none; color: #ff9900; font: normal 10px Verdana;
+}
+*>.linksMenuItem A {
+background: url('http://www.knowledge.reuters.com/rk/images/navigation/sep.gif') 5px no-repeat; padding: 0 0 0 12px; display: block;
+}
+*>.linksMenuItem IMG {
+background: url('http://www.knowledge.reuters.com/rk/images/navigation/sep.gif') 5px no-repeat; padding: 0 0 0 12px;
+}
+span.cascadingSelectContainer {
+position: relative; top: 1px;
+}
+span.cascadingSelect {
+vertical-align: middle; height: 100%; padding-left: 4; color: #000; font: bold 11px Tahoma;
+}
+select.cascadingSelect {
+padding-right: 2px; background-color: #fff; vertical-align: middle; color: #000; font: normal 11px Tahoma; width: 150px;
+}
+.CrumbTrailNavigation {
+background-color: #FFF; padding-left: 7px; height: 28px; width: 100%;
+}
+.crumbTrailHeader {
+color: #000; font: bold 11px Tahoma;
+}
+.crumbTrailItem {
+padding-right: 4px; vertical-align: middle; color: #000; font: 11px Tahoma;
+}
+.crumbTrailItem a:hover {
+text-decoration: underline; color: #f90;
+}
+TABLE.crumbTrailDropDownContainer {
+display: inline;
+}
+.crumbTrailDropDownContainer {
+vertical-align: middle; margin-left: 4px;
+}
+.crumbTrailDropDownOff {
+padding-left: 5px; vertical-align: middle; height: 100%; font: 60% Tahoma;
+}
+.crumbTrailDropDown {
+padding-left: 5px; vertical-align: middle; height: 100%; font: 60% Tahoma;
+}
+.crumbTrailDropDown {
+color: #009;
+}
+*>.crumbTrailDropDown {
+padding-bottom: 7px; padding-left: 10px; vertical-align: none;
+}
+.crumbTrailDropDownOff {
+padding-bottom: 7px; padding-left: 10px; vertical-align: none;
+}
+.crumbTrailDropDownOff {
+color: #ccc;
+}
+.crumbTrailDropDownArrow {
+padding-right: 5px; cursor: hand; padding-left: 0;
+}
+.crumbTrailDropDownArrow img {
+vertical-align: middle;
+}
+*>.crumbTrailDropDownArrow img {
+padding-bottom: 7px; vertical-align: none;
+}
+.crumbTrailSeparator {
+padding-right: 4px; color: Black; vertical-align: middle; font: bold 9px Tahoma;
+}
+#GICS A {
+font-weight: bold;
+}
+.crumbTrailMenu {
+background-color: #fff; border: solid 1px #105DA9; display: none; z-index: 5; position: absolute;
+}
+.crumbTrailMenuItem {
+cursor: hand; background-color: #fff; border: 1px solid #fff; padding: 2px 0; color: #000; font: 11px Tahoma;
+}
+.crumbTrailMenuItemOver {
+cursor: hand; background-color: #fff; border: 1px solid #105DA9; padding: 2px 0; color: #000; font: 11px Tahoma;
+}
+.crumbTrailMenuItemMore {
+padding-top: 2px; text-align: right; width: 29px;
+}
+.NavigationBar1 {
+overflow: hidden; height: 28px; width: 100%;
+}
+#NavigationBar1 {
+overflow: hidden; height: 28px; width: 100%;
+}
+.NavigationBar2 {
+background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_bg.gif') bottom left repeat-x; background-color: #D5D5D5; border-right: solid 1px #9B9B9B; height: 26px; border-left: solid 1px #9B9B9B;
+}
+#NavigationBar2 {
+background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl2_bg.gif') bottom left repeat-x; background-color: #D5D5D5; border-right: solid 1px #9B9B9B; height: 26px; border-left: solid 1px #9B9B9B;
+}
+.NavigationBar3 {
+background-color: #EFEFEF; border-right: solid 1px #9B9B9B; border-bottom: solid 1px #9B9B9B; padding: 0 7px 0 7px; vertical-align: middle; height: 23px; border-left: solid 1px #9B9B9B; width: 100%;
+}
+#NavigationBar3 {
+background-color: #EFEFEF; border-right: solid 1px #9B9B9B; border-bottom: solid 1px #9B9B9B; padding: 0 7px 0 7px; vertical-align: middle; height: 23px; border-left: solid 1px #9B9B9B; width: 100%;
+}
+.NavigationBar4 {
+padding: 0 3px 0 3px; vertical-align: top; height: auto; position: relative; top: -2px; width: auto;
+}
+#NavigationBar4 {
+padding: 0 3px 0 3px; vertical-align: top; height: auto; position: relative; top: -2px; width: auto;
+}
+#NavigationLevel2_tb {
+background: url('http://www.knowledge.reuters.com/rk/images/Navigation/thirdlevelbot.gif') bottom repeat-x; border-right: solid 1px #9B9B9B; padding: 3px 0; height: 19px; border-left: solid 1px #9B9B9B; width: 100%;
+}
+*html #NavigationLevel2_tb {
+padding: 0;
+}
+#NavigationLevel2_tb SPAN.TabbarItem-Level3-inactive-container:last-child {
+background-image: none;
+}
+#NavigationLevel2_tb SPAN.TabbarItem-Level3-active-container:last-child {
+background-image: none;
+}
+#NavigationLevel2_tb:last-child {
+background-image: none;
+}
+.TabbarItem-Level3-inactive-container {
+margin-right: 0; background: url('http://www.knowledge.reuters.com/rk/images/navigation/sep.2.5.gif') right center no-repeat; cursor: pointer; padding: 2px 6px 2px 6px; vertical-align: middle; font: 11px Tahoma;
+}
+.TabbarItem-Level3-active-container {
+margin-right: 0; background: url('http://www.knowledge.reuters.com/rk/images/navigation/sep.2.5.gif') right center no-repeat; cursor: pointer; padding: 2px 6px 2px 6px; vertical-align: middle; font: 11px Tahoma;
+}
+.TabbarItem-Level3-active-container {
+font-weight: bold; color: Black;
+}
+.TabbarItem-Level3-inactive-container {
+font-weight: normal;
+}
+.TabbarItem-Level3-inactive-container A {
+text-decoration: none; color: #009;
+}
+.TabbarItem-Level3-inactive-container A:visited {
+text-decoration: none; color: #009;
+}
+.TabbarItem-Level3-inactive-container A:active {
+text-decoration: none; color: #009;
+}
+.TabbarItem-Level3-inactive-container A:link {
+text-decoration: none; color: #009;
+}
+.TabbarItem-Level3-inactive-container A:hover {
+text-decoration: underline; color: #f90;
+}
+.SearchContainer {
+padding-top: 2px; height: 100%; padding-left: 10px; float: left;
+}
+.NavigationLevel1TabbarContainer {
+padding-top: 2px; height: 22px; float: right;
+}
+.Logo {
+border: 0; float: left;
+}
+.Item-Separator {
+position: relative; top: 2px;
+}
+.serviceMenuSubScroller {
+padding-top: 4px; cursor: pointer; background-color: #105DA9; border: solid 1px #105DA9; display: none; height: 16px; text-align: center; position: absolute; width: 207px;
+}
+select.cascadingSelectHi {
+padding-right: 2px; background-color: #fff; vertical-align: middle; color: #F60; font: normal 11px Tahoma; width: 150px;
+}
+span.cascadingSelectHi {
+vertical-align: middle; height: 100%; padding-left: 4; color: #F60; font: bold 11px Tahoma;
+}
+.crumbTrailMenuLeft img.leftGradSpacer {
+width: 24px;
+}
+.crumbTrailMenuVerticalPad {
+width: 4px;
+}
+.crumbTrailMenuScroller {
+background: #CDCDCD url('http://www.knowledge.reuters.com/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: pointer; background-color: red; border: 1px solid #105DA9; color: #105DA9; height: 20px; font: 11px webdings; text-align: center;
+}
+.crumbTrailMenuScrollerOn {
+background: #CDCDCD url('http://www.knowledge.reuters.com/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: pointer; background-color: red; border: 1px solid #105DA9; color: #105DA9; height: 20px; font: 11px webdings; text-align: center;
+}
+.crumbTrailMenuScrollerOn {
+background-color: yellow;
+}
+.crumbTrailMenuItemText {
+overflow: hidden; text-overflow: ellipsis; padding: 0; display: inline; padding-left: 4px; width: 200px;
+}
+.crumbTrailMenuItemSeparator {
+background: #7795B1;
+}
+.crumbTrailMenuItemIcon {
+position: relative; top: 3px;
+}
+.crumbTrailItem a {
+text-decoration: none; color: #009;
+}
+.crumbTrailItem a:visited {
+text-decoration: none; color: #009;
+}
+.crumbTrailItem a:active {
+text-decoration: none; color: #009;
+}
+.quickSearch_label {
+padding-right: 3px; text-decoration: none; display: inline; vertical-align: middle; color: #000; font: normal 11px Tahoma;
+}
+.quickSearch_submit {
+margin-right: 3px; background: #CDCDCD url('http://www.knowledge.reuters.com/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; text-transform: uppercase; display: inline; padding: 1px 3px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: bold 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; margin-left: 7px;
+}
+.quickSearch_submitOn {
+margin-right: 3px; background: #CDCDCD url('http://www.knowledge.reuters.com/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; text-transform: uppercase; display: inline; padding: 1px 3px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: bold 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; margin-left: 7px;
+}
+.quickSearch_input {
+margin-right: 5px; vertical-align: middle; color: black; font: normal 11px Tahoma; width: 150px;
+}
+.quickSearch_select {
+vertical-align: middle; color: black; font: normal 11px Tahoma;
+}
+.quickSearch_select_ds {
+vertical-align: middle; color: Gray; font: normal 11px Tahoma;
+}
+.sp_headerCell {
+background-color: #E5E9Ef;
+}
+.sp_injectorDiv {
+padding-right: 4px; padding-left: 7px;
+}
+.sp_sepStyle {
+padding-right: 7px; padding-left: 7px;
+}
+.sp_resultDiv {
+padding-right: 3px; margin-top: 3px; height: 305px; overflow-y: auto; width: 460px;
+}
+.sp_inlineResultDiv {
+padding-right: 3px; margin-top: 3px;
+}
+.sp_searchTLP {
+color: #000; padding-left: 4px; font: 11px Tahoma;
+}
+.sp_searchBoxCtl {
+color: #000; font: 11px Tahoma; width: 140px;
+}
+.sp_searchMsgsHeader {
+background-color: #fff; color: #666; font: bold 10px Verdana;
+}
+.sp_searchMsg {
+background-color: #ffffcc; border: 1px solid #D8D8D8; padding: .1cm .1cm .1cm .1cm; font: 8pt Tahoma;
+}
+.sp_footerTable {
+background-color: #e8eff9; border: 1px solid #D8DEE7; table-layout: auto;
+}
+.searchT {
+color: #000; font: 11px Tahoma;
+}
+.searchTL {
+padding-right: 7px; text-decoration: none; color: #009; font: 9px Tahoma; letter-spacing: 0.1mm;
+}
+.searchTL:hover {
+text-decoration: underline; color: #f90; font: 9px Tahoma;
+}
+.searchTB {
+color: #000; font: bold 11px Tahoma;
+}
+.searchTBL {
+color: #009; font: bold 11px Tahoma;
+}
+.searchTRL {
+text-decoration: none; color: #009; font: 11px Tahoma;
+}
+.searchTRL:hover {
+text-decoration: underline; color: #f90;
+}
+.searchV {
+color: #000; font: bold 10px Verdana;
+}
+.searchCtl {
+color: #000; font: 11px Tahoma;
+}
+.searchCtlDropDown {
+border: 1px solid #8080FF; color: #000; font: 11px Tahoma; width: 80px;
+}
+.searchCloseBtn {
+margin: 8px 0 0 0; background: #CDCDCD url('http://www.knowledge.reuters.com/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; display: inline; padding: 1px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; width: 85px;
+}
+searchCloseBtn_hover {
+margin: 8px 0 0 0; background: #CDCDCD url('http://www.knowledge.reuters.com/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; display: inline; padding: 1px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; width: 85px;
+}
+.searchCloseBtn_hover {
+border: 1px solid #009;
+}
+.searchGoBtn {
+margin-right: 0; background: #CDCDCD url('http://www.knowledge.reuters.com/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: hand; border-bottom: solid 1px black; border-right: solid 1px black; text-transform: uppercase; display: inline; padding: 1px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: bold 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; margin-left: 0; width: 23px;
+}
+.quickSearch {
+padding-left: 7px; color: black; font: normal 11px Tahoma; width: 300px;
+}
+.advSearch_label {
+padding-top: 1px; text-decoration: none; color: #000; font: normal 11px Verdana;
+}
+.advSearch_label A {
+text-decoration: none; color: #000; font: normal 10px Verdana;
+}
+.advSearch_label A:visited {
+text-decoration: none; color: #000; font: normal 10px Verdana;
+}
+.advSearch_label A:link {
+text-decoration: none; color: #000; font: normal 10px Verdana;
+}
+.quickSearch_submit_outline {
+margin-right: 3px; border-bottom: solid 1px black; border-right: solid 1px black; display: inline; vertical-align: middle; border-left: solid 1px #6A6A6A; border-top: solid 1px #6A6A6A; margin-left: 7px;
+}
+.quickSearch_submitSel {
+margin-right: 3px; background: #FEB685 url('http://www.knowledge.reuters.com/rk/images/navigation/quicksearchbutton_bg.gif') top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; text-transform: uppercase; display: inline; padding: 1px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: bold 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; margin-left: 7px; width: 23px;
+}
+.resolution_label {
+text-decoration: none; display: inline; color: black; font: normal 11px Tahoma;
+}
+.resolution_box {
+border: 1px solid #CCC; text-transform: uppercase; padding: 2px; font: bold 11px Tahoma;
+}
+.resolution_submit {
+background: url('http://www.knowledge.reuters.com/rk/images/navigation/searchbutton_bg.gif') repeat-x; cursor: pointer; border: solid 1px #000; text-transform: uppercase; display: inline; padding: 2px; color: #009; height: 15px; font: 11px Tahoma; text-align: center; width: 23px;
+}
+.resolution_submitOn {
+background: url('http://www.knowledge.reuters.com/rk/images/navigation/searchbutton_bg.gif') repeat-x; cursor: pointer; border: solid 1px #000; text-transform: uppercase; display: inline; padding: 2px; color: #009; height: 15px; font: 11px Tahoma; text-align: center; width: 23px;
+}
+.resolution_submitOn {
+border: 1px solid #ffcccc; color: #900;
+}
+.resolution_resolvedLink {
+cursor: pointer; text-transform: uppercase; color: #000; font: 11px Tahoma;
+}
+.resolution_table {
+border: none; padding: 0;
+}
+.resolution_header {
+font: 13px Tahoma;
+}
+.quickSearch_separator {
+margin-right: 4px; position: relative; top: -1px; margin-left: 4px;
+}
+.searchResultTable {
+height: 10px; width: 100%;
+}
+.altSearchResultRow {
+background-color: #EEE; height: 10px; width: 100%;
+}
+IFRAME.defaultStatusManager {
+border: 0; filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+}
+DIV.defaultStatusManager {
+filter: progid:DXImageTransform.Microsoft.DropShadow(OffX=2, OffY=2, Color="#CCCCCC", Positive="true") progid:DXImageTransform.Microsoft.Alpha(opacity=96); background-image: url('http://www.knowledge.reuters.com/rk/images/Progress-Popup-background.gif'); vertical-align: middle; text-align: center;
+}
+DIV.defaultStatusManager P {
+font: bold 14px Verdana; text-align: center; position: relative; top: 90px;
+}
+DIV.popupStatusManager {
+background-color: #EEE; border: solid 1px black; filter: progid:DXImageTransform.Microsoft.DropShadow(OffX=2, OffY=2, Color="#CCCCCC", Positive="true") progid:DXImageTransform.Microsoft.Alpha(opacity=85); vertical-align: middle; text-align: center;
+}
+DIV.popupStatusManager P {
+font: bold 14px Verdana; text-align: center; position: relative; top: 20px;
+}
+BODY {
+margin: 0; padding: 0;
+}
+div.Content {
+padding: 0; vertical-align: top; width: 100%;
+}
+DIV.Content SPAN DIV.Content {
+width: expression((eval('document.body.clientWidth') < 900) ? 800 + 'px' : 'auto');
+}
+.MarketsContentContainer {
+whitespace: nowrap; width: 100%; float: left;
+}
+.MarketsContent7030LeftColumn {
+vertical-align: top; float: left; width: 70%;
+}
+*html .MarketsContent7030LeftColumn {
+padding-right: 10px;
+}
+.MarketsContent7030RightColumn {
+padding: 0; vertical-align: top; float: left; width: 30%;
+}
+.MarketsContent6040LeftColumn {
+vertical-align: top; float: left; width: 60%;
+}
+* html .MarketsContent6040LeftColumn {
+padding-right: 10px;
+}
+.MarketsContent6040RightColumn {
+padding: 0; vertical-align: top; float: left; width: 40%;
+}
+.MarketsContentFixedIncomeLeftColumn {
+padding: 0; vertical-align: top; float: left; width: 485px;
+}
+*>.MarketsContentFixedIncomeLeftColumn {
+width: 50%;
+}
+*html .MarketsContentFixedIncomeLeftColumn {
+padding-right: 10px;
+}
+.MarketsContentFixedIncomeRightColumn {
+padding: 0; vertical-align: top; float: left;
+}
+*>.MarketsContentFixedIncomeRightColumn {
+width: 50%;
+}
+*>.MarketsContentFixedIncomeRightColumn DIV.SectionContainer {
+padding-left: 20px;
+}
+.HomeContentLeftColumn {
+padding: 0 10px 0 0; vertical-align: top; float: left; width: 300px;
+}
+*>.HomeContentLeftColumn {
+margin-left: -360px; width: 350px;
+}
+.HomeContentRightColumn {
+padding: 0; vertical-align: top; float: left;
+}
+*>.multi-column-container {
+padding-left: 360px;
+}
+.ContentLeftColumn {
+padding-right: 5px; vertical-align: top; float: left; width: 50%;
+}
+.ContentRightColumn {
+padding-left: 5px; vertical-align: top; float: left; width: 49%;
+}
+#companyOverviewHandler .ContentColumnContainer {
+clear: both; height: 1200px; position: relative;
+}
+#companyOverviewHandler .ContentColumnContainer .ContentColumnContainer {
+height: auto;
+}
+#companyOverviewHandler .ContentLeftColumn {
+left: 0; clear: both; position: absolute; float: none; width: 50%;
+}
+#companyOverviewHandler .ContentRightColumn {
+left: 50%; clear: both; padding-left: 1%; position: absolute; float: none; width: 49%;
+}
+.ContentAnyColumn {
+vertical-align: top; float: left; width: 100%;
+}
+*>.ContentLeftColumn {
+padding-right: 0;
+}
+*>.ContentRightColumn {
+display: inline;
+}
+.ContentLeftColumnOf3 {
+vertical-align: top; float: left; width: 18.9%;
+}
+.ContentMiddleColumnOf3 {
+vertical-align: top; float: left; width: 39.9%;
+}
+.ContentRightColumnOf3 {
+vertical-align: top; float: left; width: 39.9%;
+}
+div.ContentBottom {
+padding: 0; vertical-align: top; width: 100%;
+}
+.DocViewerHeading .BasicBrandLogo {
+background-image: url('http://www.knowledge.reuters.com/rk/images/navigation/CoBranding/ReutersLogo.gif');
+}
+div.DocViewerBody {
+width: expression((eval('document.body.clientWidth') < 500) ? 500 + 'px' : 'auto');
+}
+.ContentContainer {
+margin: 0 3px 0 3px; width: 100%;
+}
+*> .ContentContainer {
+margin: 0 3px 0 3px; width: auto;
+}
+.SectionContainer {
+width: 100%;
+}
+#issuerDescriptionSection.SectionContainer {
+clear: both;
+}
+#Deals.SectionContainer {
+clear: both;
+}
+#RatiosBoxHeader {
+clear: both;
+}
+.ContentWidget {
+margin: 5px; border: 1px solid #6699FF; width: 100%;
+}
+p.factivaText {
+font: 70% Verdana, Sans-Serif;
+}
+.factivaTextTitle {
+padding-right: 10px; background-color: #fff; padding-left: 10px; height: 20px; font: bold 150% Verdana, Sans-serif;
+}
+.factivaTextBody {
+padding-right: 10px; background-color: #fff; padding-left: 10px; height: 20px; font: 100% Verdana, Sans-serif;
+}
+.factivaCopy {
+padding-right: 6px; padding-bottom: 6px; padding-top: 9px; background-color: #fff; color: #9C0; padding-left: 6px; font: 11px Verdana, Sans-serif;
+}
+font.factivaBlack {
+font-weight: bold; color: Black;
+}
+.factivaRule {
+color: #9C0;
+}
+DIV.messagecontainer {
+margin: 0 3px 0 3px; padding: 0;
+}
+table.messagetable {
+margin: 0; background-color: #EBF1FA; border: 1px solid #94AFD3; padding: 0; width: 100%;
+}
+tr.messagetable {
+background-color: #EBF1FA;
+}
+td.messageicon {
+padding-right: 5px; padding: 0; vertical-align: middle;
+}
+td.messagetext {
+border: none; padding: 0; width: 99%;
+}
+div.message1Text {
+margin: 0; padding: 0; font: bold 100% Tahoma; text-align: left;
+}
+div.message2Text {
+padding-top: 10px; margin: 0; padding: 0; font: normal 70% Tahoma; text-align: left;
+}
+table.errorTable {
+margin: 0 0 0 7px; border: 0; padding: 0; width: 100%;
+}
+div.errorTitle {
+margin: 0; padding: 15px 0 0 0; color: #FE6503; font: bold 130% Tahoma; text-align: left;
+}
+div.errorPara {
+padding: 15px 0 0 0; font: normal 90% Verdana; text-align: left;
+}
+div.errorCode {
+padding: 25px 0 0 0; font: bold 80% Verdana; text-align: left;
+}
+span.errorHighlight {
+font-weight: bold;
+}
+.footnote {
+padding: 0; color: #333; font: normal 9px Verdana; border-top: 1 solid #CCC; text-align: left;
+}
+.warningText {
+background-color: #F7EDDD; border-right: 0; border: 1px solid #fff; padding: 3px; color: #000; font: 70% Verdana; text-align: left;
+}
+BODY {
+overflow: visible;
+}
+DIV.body {
+width: 100%;
+}
+.ContentContainer {
+width: 100%;
+}
+div.Content {
+vertical-align: top; width: 100%;
+}
+span.HomeContentLeftColumn {
+display: block; width: 100%;
+}
+span.HomeContentRightColumn {
+display: block; width: 100%;
+}
+.ContentColumnContainer {
+width: 100%; float: none;
+}
+.ContentLeftColumn {
+padding: 10px; display: block; height: 100%; float: none; width: 100%;
+}
+.ContentRightColumn {
+padding: 10px; display: block; float: none; width: 100%;
+}
+div.ContentBottom {
+display: block; width: 100%;
+}
+.MarketsContent7030LeftColumn {
+display: block; width: 100%;
+}
+.MarketsContent7030RightColumn {
+display: block; width: 100%;
+}
+.MarketsContent6040LeftColumn {
+display: block; width: 100%;
+}
+.MarketsContent6040RightColumn {
+display: block; width: 100%;
+}
+.MarketsContentFixedIncomeLeftColumn {
+display: block; width: 100%;
+}
+.MarketsContentFixedIncomeRightColumn {
+display: block; width: 100%;
+}
+TABLE.fundamentals TD.rh DIV.floatleft {
+border: solid 0px #FFF; float: none;
+}
+TABLE.fundamentals TD.rh DIV.floatright {
+display: none;
+}
+*> #companyFullReportHandler DIV.ContentRightColumn {
+clear: both; display: block; width: 90%; float: none;
+}
+*> #companyFullReportHandler DIV.ContentLeftColumn {
+clear: both; display: block; width: 90%; float: none;
+}
+*> #companyFullReportHandler SPAN.ContentRightColumn {
+clear: both; display: block; width: 90%; float: none;
+}
+*> #companyFullReportHandler SPAN.ContentLeftColumn {
+clear: both; display: block; width: 90%; float: none;
+}
+*> #companyFullReportHandler DIV.ContentColumnContainer {
+clear: both; display: block; width: 90%; float: none;
+}
+*> #companyFullReportHandler SPAN.ContentColumnContainer {
+clear: both; display: block; width: 90%; float: none;
+}
+.Footer {
+margin: 0 3px; width: 100%;
+}
+span.paging-item {
+padding-right: 2px; padding-left: 2px;
+}
+.SectionContent {
+width: 100%;
+}
+.BoxContainer {
+margin-bottom: 20px; margin-left: 10px;
+}
+.BoxHeader {
+background: #EEE; margin: 0; border-bottom: 0; border: #CCC 1px solid; padding: 2px; color: #666; padding-left: 5px; font: bold 11px verdana,geneva,sans-serif; text-align: right;
+}
+.BoxHeaderTitle {
+clear: left; white-space: nowrap; float: left;
+}
+.BoxContent {
+margin: 0; border-right: #CCC 1px solid; border-bottom: 0; padding: 2px; border-left: #CCC 1px solid;
+}
+.BoxFooter {
+border-top: #CCC 1px solid;
+}
+.sepBoth {
+padding: 0 7px; display: inline;
+}
+.sepLeft {
+padding: 0; display: inline; padding-left: 7px;
+}
+.sepRight {
+padding-right: 7px; padding: 0; display: inline;
+}
+.buttonLeftSpace {
+margin-left: 8px;
+}
+.moreLink {
+padding-right: 5px; text-decoration: none; padding-left: 5px; font: 70% Tahoma; text-align: right;
+}
+*>.moreLink TABLE {
+font: 95% Tahoma; text-align: right;
+}
+.chartDiv2 {
+text-align: center;
+}
+.topBorder {
+border-top: solid 3px #B5B5B5;
+}
+TD.topBorder {
+border-top: solid 3px #B5B5B5;
+}
+.purchaseField {
+text-align: right; width: 60px;
+}
+.edgarSubMenu {
+left: 0; overflow: auto; height: 100%; position: absolute; width: 188px;
+}
+.edgarSubContent {
+margin-left: 188px;
+}
+.edgarSubConstantParts {
+margin-top: 20px;
+}
+TR.hr {
+height: 20px;
+}
+td.titlenb {
+vertical-align: bottom; color: #000; font: bold 70% Tahoma;
+}
+td.titlenoborder {
+vertical-align: bottom; color: #000; font: bold 70% Tahoma;
+}
+.userAdminBold {
+color: #003399; font: bold 12px Verdana;
+}
+.userAdmin {
+color: #003399; font: 12px Verdana;
+}
+.popupMask {
+opacity: .4; left: 0px; background-repeat: repeat; background-color: #333; display: none; background-image: none; filter: alpha(opacity=40); z-index: 200; position: absolute; top: 0px;
+}
+.popupContainer {
+left: 0px; padding: 0px; display: none; z-index: 201; position: absolute; top: 0px;
+}
+.popupInner {
+background-color: #FFF; border: 2px solid #000000;
+}
+.popupFrame {
+margin: 0px; height: 100%; z-index: 202; position: relative; width: 100%;
+}
+.popupTitleBar {
+font-weight: bold; background-color: #486CAE; border-right: 1px solid #204095; border-bottom: 2px solid #000000; padding: 5px; height: 1.3em; color: #FFF; border-left: 1px solid #78A3F2; z-index: 203; position: relative; border-top: 1px solid #78A3F2;
+}
+.popupTitle {
+font-size: 1.1em; float: left;
+}
+.popupControls {
+cursor: hand; float: right;
+}
+BODY {
+margin: 0; padding: 0; color: #000;
+}
+A {
+text-decoration: none; color: #00438A;
+}
+A:hover {
+color: #F60;
+}
+A.morelink {
+font-size: 10px; color: #868686;
+}
+.clr {
+clear: both;
+}
+.jumpstartcontainer {
+overflow-x: hidden;
+}
+.jumpstartcontainer .datatabletitle {
+background-color: #E9E9E9; white-space: nowrap; padding: 2px 4px; height: 14px; vertical-align: bottom; font: bold 11px Tahoma; position: relative; width: auto;
+}
+.jumpstartcontainer .datatabletitle A {
+color: #FFF;
+}
+TABLE.jumpstartcontainer TD.orange {
+background-color: #FFEFE5;
+}
+TABLE.jumpstartcontainer TD.blue {
+background-color: #DFE9F5;
+}
+.jumpstart {
+font: 11px tahoma; width: 100%;
+}
+.jumpstart H2 {
+margin-bottom: 0; margin-top: 0;
+}
+.jumpstart H3 {
+font-size: 11px; margin-bottom: 2px; margin-top: 0;
+}
+.jumpstart A {
+text-decoration: none; color: #00438A;
+}
+.jumpstart A:hover {
+text-decoration: none; color: #F60;
+}
+.jumpstart TD {
+border-right: solid 1px #FFF; vertical-align: top; border-left: solid 1px #FFF;
+}
+.jumpstart TD.Withoutbottom {
+border-bottom: none; border-right: solid 1px #FFF; vertical-align: top; border-left: solid 1px #FFF;
+}
+.jumpstart TD.Withoutallborder {
+border-bottom: none; border-right: none; vertical-align: top; border-left: none; border-top: none;
+}
+.jumpstart TD.blue {
+background-color: #DFE9F5;
+}
+.jumpstart TD.gray {
+background-color: #F0F0F0;
+}
+.jumpstart TD.orange {
+background-color: #FFEFE5;
+}
+.jumpstart TD.white {
+background-color: #FFF;
+}
+.jumpstart UL {
+list-style: none; margin: 0; padding: 3px 5px 7px 5px;
+}
+.jumpstart DIV {
+list-style: none; margin: 0; padding: 3px 5px 7px 5px;
+}
+.jumpstart LI {
+padding: 4px 0;
+}
+.jumpstart TABLE.itemtable {
+margin-top: 4px; font: 11px tahoma;
+}
+.jumpstart TABLE.itemtable TD {
+border: none;
+}
+.jumpstartbanner {
+background-position: top left no-repeat; background-repeat: no-repeat; background-color: #5B7399; border-bottom: solid 2px #FFF; height: 133px;
+}
+.jumpstart .upgrade {
+background-color: #FFF; margin-top: 4px; border: solid 1px #999; color: #666; text-align: center;
+}
+.jumpstart .upgrade A {
+text-decoration: underline;
+}
+.jumpstart .upgrade A:hover {
+text-decoration: underline;
+}
+.jumpstartcontainer .white .highlight {
+background-color: #F7EDDD;
+}
+DIV.calheader {
+font-weight: bold; padding-bottom: 3px; font-size: 12px; text-align: center; position: relative; width: 100%;
+}
+A.calnavleft {
+left: 3px; background: url('http://www.knowledge.reuters.com/rk/images/Navigation/dblleft_arrow.gif') top left no-repeat; cursor: pointer; height: 12px; position: absolute; width: 12px; top: 2px;
+}
+A.calnavright {
+background: url('http://www.knowledge.reuters.com/rk/images/Navigation/dblright_arrow.gif') top right no-repeat; cursor: pointer; height: 12px; position: absolute; width: 12px; right: 3px; top: 2px;
+}
+TD.outercal TABLE.datatable TD.headsub {
+font-weight: bold; background-color: #FFF;
+}
+TD.outercal DIV.calcontainer {
+margin-bottom: 10px; background-color: #FFF; border: solid 1px #7F9DB9; position: relative; width: 158px;
+}
+TD.outercal .datatable {
+font: 12px Tahoma; width: 100%;
+}
+TD.outercal .datatable TD {
+padding: 0; height: 10px; text-align: center;
+}
+TD.outercal .datatable .datatable A {
+color: #000;
+}
+TD.outercal .current {
+background-color: #D3ECA5;
+}
+TD.innercal DIV.calcontainer {
+background-color: #FFF; border: solid 1px #7F9DB9; padding: 0 1px; width: 100%;
+}
+TD.innercal A.innerleft {
+left: 20px; background: url('http://www.knowledge.reuters.com/rk/images/Navigation/left_arrow.gif') top left no-repeat;
+}
+TD.innercal A.innerright {
+background: url('http://www.knowledge.reuters.com/rk/images/Navigation/right_arrow.gif') top right no-repeat; right: 20px;
+}
+TD.innercal TABLE.datatable TD {
+font-size: 11px; border-right: none; border-left: none;
+}
+TD.innercal TABLE.datatable TR.hr TD {
+height: 50px;
+}
+TD.innercal TABLE.datatable TABLE.datatable TD.headsub {
+font-weight: bold; font-size: 12px; background-color: #C3CDDD; border-top: none;
+}
+TD.innercal TABLE.datatable TD.calbody {
+border: none; padding: 0;
+}
+TD.calbody TABLE.datatable TD {
+background-color: #EEE; border-right: solid 1px #FFF; padding: 0; vertical-align: top; border-left: solid 1px #FFF; border-top: solid 1px #FFF;
+}
+TD.month TABLE.datatable TR.cal TD.calitem {
+height: 100px;
+}
+TD.week TABLE.datatable TR.cal TD.calitem {
+height: 100px;
+}
+TD.calbody TABLE.datatable TABLE.datatable TD {
+padding: 1px 5px;
+}
+TD.calbody TABLE.calitem {
+background-color: transparent; border: none;
+}
+TD.calbody TABLE.calitem TD {
+background-color: transparent; border: none;
+}
+TD.innercal TD.month TR.dr TD.current {
+background-color: #D3ECA5;
+}
+TD.innercal TD.week TR.dr TD.current {
+background-color: #D3ECA5;
+}
+TD.calbody TABLE.datatable TD.dis {
+background-color: #e5e9ef;
+}
+TD.calbody TABLE.datatable TD.disalt {
+background-color: #e5e9ef;
+}
+TD.innercal TABLE.datatable TABLE.headlines TR.hr TD {
+font-weight: bold; background-color: #D7DFEF; white-space: nowrap; vertical-align: middle; height: 20px;
+}
+TABLE.headlines TD.hr {
+font-weight: bold; background-color: #D7DFEF; white-space: nowrap; vertical-align: middle; height: 20px;
+}
+TD.innercal TABLE.datatable TABLE.headlines TD.row-e {
+background-color: #EEE;
+}
+TD.innercal TABLE.datatable TABLE.headlines TD.row-o {
+background-color: #FFF;
+}
+TD.innercal TABLE.datatable TABLE.headlines TD {
+padding: 0 5px;
+}
+PRE {
+font: 125% monospace; *font-size: 100%;
+}
+CODE {
+font: 125% monospace; *font-size: 100%;
+}
+*> FORM {
+margin: 0;
+}
+.tdl {
+padding-right: 5px; font-size: 11px; text-decoration: none; font-family: Tahoma; padding-left: 5px; color: #000000; text-align: LEFT;
+}
+TABLE.headlines A {
+color: #009;
+}
+TABLE.headlines A:active {
+color: #009;
+}
+TABLE.headlines A:visited {
+color: #009;
+}
+TABLE.headlines SPAN.anchor {
+color: #009;
+}
+A.figl {
+color: #009;
+}
+TABLE.estimates A {
+color: #009;
+}
+TABLE.estimates A:active {
+color: #009;
+}
+TABLE.estimates A:visited {
+color: #009;
+}
+TABLE.estimates SPAN.anchor {
+color: #009;
+}
+TABLE.fundamentals A {
+color: #009;
+}
+TABLE.fundamentals A:active {
+color: #009;
+}
+TABLE.fundamentals A:visited {
+color: #009;
+}
+TABLE.fundamentals SPAN.anchor {
+color: #009;
+}
+TABLE.datatable A {
+color: #009;
+}
+TABLE.datatable A:active {
+color: #009;
+}
+TABLE.headlines A:hover {
+color: #F90;
+}
+TABLE.headlines SPAN.anchorHover {
+color: #F90;
+}
+A.figl:hover {
+color: #F90;
+}
+TABLE.estimates A:hover {
+color: #F90;
+}
+TABLE.estimates SPAN.anchorHover {
+color: #F90;
+}
+TABLE.fundamentals A:hover {
+color: #F90;
+}
+TABLE.fundamentals SPAN.anchorHover {
+color: #F90;
+}
+TABLE.datatable A:hover {
+color: #F90;
+}
+TABLE.datatable A:visited {
+color: #006;
+}
+TABLE.headlines TD {
+border: 1px solid #FFF; color: #000;
+}
+TABLE.estimates TD {
+border: 1px solid #FFF; color: #000;
+}
+TABLE.fundamentals TD {
+border: 1px solid #FFF; color: #000;
+}
+TABLE.headlines TR.hr TD {
+background-color: #D7DFEF;
+}
+TABLE.headlines TR.hra TD {
+background-color: #D7DFEF;
+}
+.tf {
+background-color: #F3F3F3; border: 1px solid #CCCCCC;
+}
+TABLE.headlines TR.hr TD.sel {
+background-color: #B2B2E0;
+}
+TABLE.headlines TR.dr TD A {
+font-family: verdana; color: #009;
+}
+TABLE.headlines TR.dr TD A:active {
+font-family: verdana; color: #009;
+}
+TABLE.headlines TR.dr TD A:visited {
+color: #800080;
+}
+TABLE.headlines TR.dr TD A:hover {
+font-family: verdana; color: #F90;
+}
+TABLE.headlines TR.group {
+background-color: #ABC4EA;
+}
+TABLE.headlines TR.fr TD.more {
+border-top: solid 1px #CCC;
+}
+TABLE.headlines TR.row-e TD.rh {
+background-color: #EEE;
+}
+TABLE.headlines TR.row-o TD.rh {
+background-color: #EEE;
+}
+TABLE.paging {
+background-color: #E5E9EF; border: 1px solid #FFF;
+}
+TABLE.estimates TR.hr {
+background-color: #ABC4EA;
+}
+TABLE.consensus TR.hr TD.headSub {
+background-color: #D7DFEF;
+}
+TABLE.estimates TR.group {
+background-color: #C3CDDD;
+}
+TABLE.estimates.consensus TR.group TD.rh.first {
+background-color: #C3CDDD;
+}
+TABLE.estimates TR.group TD.current {
+background-color: #D3ECA5;
+}
+TABLE.estimates TR.dr TD.rh {
+background-color: #EEE;
+}
+TABLE.estimates TR.dr TD.rh .analyst {
+color: #669313;
+}
+TABLE.estimates TR.hr TD.current {
+background-color: #D3ECA5;
+}
+TABLE.estimates TR.row-e TD.current {
+background-color: #D3ECA5;
+}
+TABLE.estimates TR.row-o TD.current {
+background-color: #F4FFE0;
+}
+TABLE.estimates TD.bar DIV.barContainer DIV.bar {
+background-color: #D3ECA5;
+}
+TABLE.estimates TD.bar DIV.barContainer DIV.value {
+background-color: #FFF;
+}
+TABLE.estimates TD.bar DIV.barContainer DIV.zero {
+background-color: #FFF;
+}
+TABLE.estimates TD.bar DIV.barContainer DIV.buy {
+background: #EDF3FF;
+}
+TABLE.estimates TD.bar DIV.barContainer DIV.outPerf {
+background: #D4E1FE;
+}
+TABLE.estimates TD.bar DIV.barContainer DIV.hold {
+background: #ABC4FB;
+}
+TABLE.estimates TD.bar DIV.barContainer DIV.underPerf {
+background: #82A6F5;
+}
+TABLE.estimates TD.bar DIV.barContainer DIV.sell {
+background: #6089E5;
+}
+TABLE.estimates TD.bar DIV.barContainer DIV.noOpinion {
+background: #3763BF;
+}
+TABLE.fundamentals TR.hr TD.head {
+background-color: #ABC4EA;
+}
+TABLE.fundamentals TR.hr TD.rh {
+background-color: #D7DFEF;
+}
+TABLE.fundamentals TR.dr TD.rh {
+background-color: #EEE;
+}
+TABLE.fundamentals.securities TR.dr TD.rh.first {
+background-color: #C3CDDD;
+}
+TABLE.fundamentals TR.dr.group TD {
+background-color: #C3CDDD;
+}
+TABLE.fundamentals TR.dr.group TD.rh {
+background-color: #C3CDDD;
+}
+TABLE.fundamentals.fullreport.momentum TR.dr.group TD.rh.first {
+background-color: #EEE;
+}
+TABLE.fundamentals TR.dr.group TD.total {
+background-color: #ABC4EA;
+}
+TABLE.fundamentals TD.separator {
+border-top: solid 3px #B5B5B5;
+}
+TABLE.fundamentals TD.fr {
+background-color: #FAFAFA;
+}
+TABLE.fundamentals.ratios TD.math {
+background-color: #EEE;
+}
+TABLE.fundamentals TR.rh TD.ssd {
+background-color: #C3CDDD; border-bottom: 1px solid #FFFFFF; border-left: 1px solid #FFFFFF;
+}
+TABLE.datatable TD {
+border: 1px solid #FFF;
+}
+TABLE.datatable TR.hr {
+background-color: #ABC4EA;
+}
+TABLE.datatable TR.dr TD.rh {
+background-color: #EEE;
+}
+TABLE.datatable TR.hr TD.rh {
+background-color: #D7DFEF;
+}
+TABLE.datatable TR.dr TD.rh.first {
+background-color: #D7DFEF;
+}
+TABLE.datatable TR.group {
+background-color: #C3CDDD;
+}
+TABLE.datatable TR.dr.group TD.rh {
+background-color: #C3CDDD;
+}
+TABLE.datatable TR.hr TD.current {
+background-color: #D3ECA5;
+}
+TABLE.datatable TR.group TD.current {
+background-color: #D3ECA5;
+}
+TABLE.datatable TR.row-e TD.current {
+background-color: #EAF4D6;
+}
+TABLE.datatable TR.row-o TD.current {
+background-color: #F4FFE0;
+}
+TABLE.datatable.ecowin TR.hr {
+background-color: #F1F1F1;
+}
+TABLE.datatable.ecowin .row-e {
+background-color: #EAEAEA;
+}
+.datatabletitle {
+border-bottom: 1px solid #9B9B9B; padding: 10px 1px 2px 1px; vertical-align: bottom; font: bold 11px Tahoma;
+}
+td.fmrmb {
+background-color: #E5E9EF;
+}
+td.fmrss {
+background-color: #E5E9EF;
+}
+td.fmrls {
+background-color: #E5E9EF;
+}
+td.fmrm {
+background-color: #E5E9EF;
+}
+td.fbrls {
+background-color: #E5E9EF;
+}
+td.fbrl {
+background-color: #E5E9EF;
+}
+td.ftrl {
+background-color: #E5E9EF;
+}
+td.ftrr {
+background-color: #E5E9EF;
+}
+td.ftrm {
+background-color: #E5E9EF;
+}
+td.ftrss {
+background-color: #E5E9EF;
+}
+td.ftrls {
+background-color: #E5E9EF;
+}
+td.fbrm {
+background-color: #E5E9EF;
+}
+td.fmrl {
+background-color: #E5E9EF;
+}
+td.fthrrl {
+background-color: #E5E9EF;
+}
+td.fthrm {
+background-color: #E5E9EF;
+}
+td.fbrr {
+background-color: #F7EDDD;
+}
+td.fonerr {
+background-color: #F7EDDD;
+}
+td.fonerowright {
+background-color: #F7EDDD;
+}
+td.fthrrr {
+background-color: #F7EDDD;
+}
+td.fthreerowright {
+background-color: #F7EDDD;
+}
+td.ftworrb {
+background-color: #F7EDDD;
+}
+td.ftworowrightwithbottom {
+background-color: #F7EDDD;
+}
+td.forr {
+background-color: #F7EDDD;
+}
+td.ftworr {
+background-color: #F7EDDD;
+}
+DIV.quickEdit {
+background-color: #E0ECEE; border-bottom: 1px solid #6699FF;
+}
+.propertyeditor {
+background: url('http://www.knowledge.reuters.com/controls/img/propertyeditor/bg_editor.gif') top left no-repeat; width: 600px;
+}
+.propertyeditor .header {
+background: url('http://www.knowledge.reuters.com/controls/img/propertyeditor/header_bg.gif') bottom left repeat-x;
+}
+.propertyeditor .navbar {
+margin-right: 14px; padding-left: 10px; margin-left: 10px;
+}
+.propertyeditor .content {
+border-top: solid 1px #C3C3C3; width: 565px;
+}
+*>.propertyeditor .content {
+width: 558px;
+}
