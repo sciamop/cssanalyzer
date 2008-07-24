@@ -1,0 +1,201 @@
+.mw-plusminus-null {
+color: #aaa;
+}
+.texvc {
+direction: ltr; unicode-bidi: embed;
+}
+img.tex {
+vertical-align: middle;
+}
+span.texhtml {
+font-family: serif;
+}
+#toolbar {
+clear: both;
+}
+#wpTextbox1 {
+clear: both;
+}
+div#mw-js-message {
+margin: 1em 5%; background-color: #fcfcfc; border: solid 1px #ddd; padding: 0.5em 2.5%;
+}
+.editsection {
+margin-left: 5px; float: right;
+}
+table.filehistory {
+border-collapse: collapse; border: 1px solid #ccc;
+}
+table.filehistory th {
+border: 1px solid #ccc; padding: 0 0.2em 0 0.2em; vertical-align: top;
+}
+table.filehistory td {
+border: 1px solid #ccc; padding: 0 0.2em 0 0.2em; vertical-align: top;
+}
+table.filehistory th {
+text-align: left;
+}
+table.filehistory td.mw-imagepage-filesize {
+white-space: nowrap;
+}
+table.filehistory th.mw-imagepage-filesize {
+white-space: nowrap;
+}
+table.filehistory td.filehistory-selected {
+font-weight: bold;
+}
+li span.deleted {
+text-decoration: line-through; color: #888; font-style: italic;
+}
+span.history-deleted {
+text-decoration: line-through; color: #888; font-style: italic;
+}
+body.ltr td.mw-label {
+text-align: right;
+}
+body.ltr td.mw-input {
+text-align: left;
+}
+body.ltr td.mw-submit {
+text-align: left;
+}
+body.rtl td.mw-label {
+text-align: left;
+}
+body.rtl td.mw-input {
+text-align: right;
+}
+body.rtl td.mw-submit {
+text-align: right;
+}
+td.mw-label {
+vertical-align: top;
+}
+td.mw-submit {
+white-space: nowrap;
+}
+body.rtl .thumbcaption {
+text-align: right;
+}
+body.rtl .magnify {
+float: left;
+}
+body.ltr .thumbcaption {
+text-align: left;
+}
+body.ltr .magnify {
+float: right;
+}
+.mw-hidden-cats-hidden {
+display: none;
+}
+.catlinks-allhidden {
+display: none;
+}
+p.mw-ipb-conveniencelinks {
+font-size: 90%; float: right;
+}
+p.mw-filedelete-editreasons {
+font-size: 90%; float: right;
+}
+p.mw-delete-editreasons {
+font-size: 90%; float: right;
+}
+div.searchresult {
+font-size: 95%; width: 38em;
+}
+.mw-search-results li {
+padding-bottom: 1em;
+}
+.mw-search-result-data {
+font-size: 97%; color: green;
+}
+div#mw-search-interwiki {
+border-color: #AAAAAA; margin-top: 2ex; border-width: 1px; border-style: solid; width: 18em; float: right;
+}
+div#mw-search-interwiki li {
+font-size: 95%;
+}
+.mw-search-interwiki-more {
+font-size: 90%; float: right;
+}
+span.searchalttitle {
+font-size: 95%;
+}
+div.searchdidyoumean {
+padding-bottom: 1ex; font-size: 127%; padding-top: 1ex;
+}
+.mw-userrights-disabled {
+color: #888;
+}
+table.mw-userrights-groups * td {
+padding-right: 1.5em;
+}
+table.mw-userrights-groups * th {
+padding-right: 1.5em;
+}
+.os-suggest {
+visibility: hidden; left: 0px; font-size: 95%; border-color: #AAAAAA; overflow: auto; background-color: white; border-width: 1px; border-style: solid; overflow-x: hidden; z-index: 99; position: absolute; width: 0px; top: 0px;
+}
+table.os-suggest-results {
+font-size: 95%; border-collapse: collapse; cursor: pointer; border: 0; width: 100%;
+}
+td.os-suggest-result {
+background-color: Window; padding: 2px; white-space: nowrap; color: WindowText;
+}
+td.os-suggest-result-hl {
+background-color: Window; padding: 2px; white-space: nowrap; color: WindowText;
+}
+td.os-suggest-result-hl {
+background-color: #4C59A6; color: white;
+}
+td.os-suggest-result-hl-webkit {
+background-color: #4C59A6; color: white;
+}
+td.os-suggest-result-hl {
+background-color: Highlight; color: HighlightText;
+}
+.os-suggest-toggle {
+left: 1ex; font-size: 65%; position: relative;
+}
+.os-suggest-toggle-def {
+visibility: hidden; left: 0px; font-size: 65%; position: absolute; top: 0px;
+}
+.autocomment {
+color: gray;
+}
+#pagehistory .history-user {
+margin-right: 0.2em; margin-left: 0.4em;
+}
+#pagehistory span.minor {
+font-weight: bold;
+}
+#pagehistory li {
+border: 1px solid white;
+}
+#pagehistory li.selected {
+background-color: #f9f9f9; border: 1px dashed #aaa;
+}
+table.mw-listgrouprights-table {
+border-collapse: collapse; border: 1px solid #ccc;
+}
+table.mw-listgrouprights-table tr {
+vertical-align: top;
+}
+table.mw-listgrouprights-table td {
+border: 1px solid #ccc; padding: 0.5em 0.2em 0.5em 0.2em;
+}
+table.mw-listgrouprights-table th {
+border: 1px solid #ccc; padding: 0.5em 0.2em 0.5em 0.2em;
+}
+h4.mw-specialpagesgroup {
+margin: .3em 0em 0em 0em; background-color: #dcdcdc; padding: 2px;
+}
+.mw-specialpagerestricted {
+font-weight: bold;
+}
+#shared-image-dup {
+font-style: italic;
+}
+#shared-image-conflict {
+font-style: italic;
+}
