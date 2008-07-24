@@ -1,0 +1,270 @@
+#trafficpreview .papreviewheader {
+border-bottom: 1px solid #556066;
+}
+#localsubheader {
+background: #e3e8ee; padding: 2px 10px; font: bold 85% verdana; border-top: 1px solid #c1cbd4;
+}
+#localsubheader a {
+padding-right: 3px; background: url(http://l.yimg.com/a/i/ww/sp/btn.gif) no-repeat 0 2px; padding-left: 15px; color: #16387f;
+}
+#localsubheader a.off {
+background-position: 0 2px; color: #16387f;
+}
+#localsubheader a.on {
+background-position: 0 -22px; color: #333;
+}
+#local {
+overflow: hidden; border-bottom: 1px solid #9BACB4; height: 189px; border-top: 1px solid #9BACB4; position: relative;
+}
+#localmap {
+height: 189px; z-index: 99; position: relative; width: 336px;
+}
+#locallist {
+left: 0; overflow: auto; background: #fff; padding: 0; height: 189px; border-left: 1px solid #fff; z-index: 100; position: absolute; width: 100%; top: 0;
+}
+#locallist dl {
+padding-bottom: 6px; padding-top: 6px; margin-bottom: 1px; color: #313131; padding-left: 40px; font: 85% verdana; border-top: 1px solid #ccc;
+}
+#locallist dl.first {
+border-top: 0px;
+}
+#locallist dl.trafficlist {
+min-height: 40px; padding-left: 44px; _height: 52px;
+}
+#locallist dt {
+font-family: verdana; color: #19387B;
+}
+#locallist dl.trafficlist dt {
+font-weight: normal;
+}
+#locallist dl.trafficlist dd {
+overflow: hidden; line-height: 100%; white-space: nowrap;
+}
+#trafficpreview .papreviewfooter {
+padding: 1px 10px 3px; font: normal 77% verdana; border-top: 1px solid #ECECEC;
+}
+#trafficpreview .papreviewfooter .fright {
+font-weight: bold; float: right;
+}
+#trafficpreview .papreviewfooter .fleft {
+float: left;
+}
+#palocalsubfooter {
+background: #E3E8EE; border-bottom: 1px solid #666; padding: 2px 10px 2px; font: normal 77% verdana;
+}
+#palocalsubfooter li {
+padding-right: 5px; border-right: 1px solid #c8c8c8; display: inline;
+}
+#palocalsubfooter li.last {
+border-right: 0; padding-left: 5px; border-left: 1px solid #9f9f9f;
+}
+#palocalsubfooter a {
+color: #19387b;
+}
+#palocalsubfooter a.on {
+font-weight: bold; color: #333;
+}
+#trafficpreview .papreviewfooter .fright a {
+color: #19387b;
+}
+.palocalerror {
+opacity: 0.9; padding-bottom: 0.5em; left: 50%; background: #fff; margin-top: -2em; border: 1px solid #ccc; filter: alpha(opacity=90); height: auto; text-align: center; z-index: 200; position: absolute; margin-left: -11em; width: 20em; top: 50%;
+}
+.localloading {
+opacity: 0.9; padding-bottom: 0.5em; left: 50%; background: #fff; margin-top: -2em; border: 1px solid #ccc; filter: alpha(opacity=90); height: auto; text-align: center; z-index: 200; position: absolute; margin-left: -11em; width: 20em; top: 50%;
+}
+.palocalerror {
+padding: 5px 1em 0; margin-left: -10em; width: 18em;
+}
+.localloading {
+padding: 10px;
+}
+.localloading .loading {
+margin: 10px 0;
+}
+.trafficlist {
+background: url(http://l.yimg.com/a/i/ww/t8/traffic_icon.png) no-repeat 0 100px;
+}
+.trafficlist .sign {
+left: 0; color: #fff; font: 9px verdana; text-align: center; position: absolute; margin-left: 8px; width: 29px; top: 22px;
+}
+.i {
+background-position: 5px -191px;
+}
+.us .sign {
+color: #000; top: 20px;
+}
+.us {
+background-position: 5px -91px;
+}
+.ca {
+background-position: 5px 9px;
+}
+.rt .sign {
+color: #000; top: 17px;
+}
+.rt {
+background-position: 5px -291px;
+}
+#localymapinfo {
+opacity: .9; left: 2px; background: #fff; border: 2px solid #f00; padding: 5px; display: none; height: 50px; color: #000; position: absolute; width: 12em; top: 2px;
+}
+#trafficpreview .close {
+background: #eee; line-height: 9px; text-decoration: none; border: 1px solid #ccc; padding: 0 2px 1px; color: #000; font: 10px verdana; position: absolute; top: 3px; right: 3px;
+}
+#lmsg {
+margin-right: 12px; margin-top: -13px; font: 77% verdana; z-index: 50; width: 150px;
+}
+#lmsg.events {
+*margin-top: -12px; margin-top: -17px;
+}
+#lmsg.events img {
+z-index: 51;
+}
+#lmsg.events dt {
+font-weight: bold;
+}
+#lmsg.traffic dt {
+font-weight: bold;
+}
+#lmsg.events img {
+margin-bottom: -4px;
+}
+#lmsg.events dd {
+padding-top: 2px;
+}
+#localmap div span {
+display: block;
+}
+span#edityservicescx {
+margin-right: -1px; padding: 1px; display: block; text-align: right; position: relative;
+}
+#edityservices {
+font-size: 0px; text-indent: -5000px; display: block; height: 11px; margin-left: auto; width: 43px;
+}
+#edityservices:hover {
+text-decoration: none;
+}
+#trough-overlay-cx {
+left: 0; overflow: hidden; z-index: 900; position: absolute; top: 0;
+}
+#trough-overlay {
+overflow: hidden; min-width: 592px; *overflow: visible; padding: 2px 0 0 2px; _width: 44.5em; z-index: 200; position: absolute; width: 44em; right: 0; top: 0;
+}
+#trough-overlay.edit {
+width: 47em;
+}
+#trough-overlay .shadow1 {
+background: #b1b1b1; display: block;
+}
+#trough-overlay .shadow2 {
+left: -1px; background: #8b8b8b; display: block; position: relative; top: -1px;
+}
+#trough-overlay-content {
+left: -1px; background: #85a9cb url(http://l.yimg.com/a/i/ww/t5/grd-4px.gif) left -3100px repeat-x; min-width: 540px; border: 1px solid #184473; padding: 10px 6px; _width: 100%; position: relative; top: -1px;
+}
+#trough-overlay h2 {
+margin: 0 0 10px 10px; color: #fff; font: bold 122% arial;
+}
+#trough-overlay p {
+margin: -10px 0 10px 10px; color: #fff; font: normal 92% arial;
+}
+#trough-close {
+background: url(http://l.yimg.com/a/i/ww/t5/trough-close-2.gif) center left no-repeat; padding: 0 0 0 10px; display: block; color: #fff; font: bold 77% verdana; position: absolute; right: 5px; top: 6px;
+}
+#trough-overlay-bd {
+background: #fff url(http://l.yimg.com/a/i/ww/t5/shd-tr.gif) no-repeat; padding: 3px 0 0 3px;
+}
+#trough-overlay-bd ol {
+width: 20%; float: left;
+}
+#trough-overlay.edit li {
+font-weight: normal; white-space: nowrap;
+}
+#trough-overlay.edit li input {
+*margin-right: -3px;
+}
+#trough-overlay.edit li.on {
+font-weight: bold;
+}
+#trough-overlay-bd li {
+*margin-bottom: 6px; margin-bottom: 9px; font: bold 85% verdana;
+}
+#trough-overlay-bd li a {
+white-space: nowrap;
+}
+#trough-overlay-bd div {
+*padding: 5px 17px 4px; padding: 10px 17px 0; _width: 100%; zoom: 1;
+}
+#properties {
+background: #f1f6fa; color: #333;
+}
+#properties {
+*margin: 0; margin: -1px; *border: 0; border: 1px solid transparent;
+}
+#properties-intl {
+*margin: 0; margin: -1px; *border: 0; border: 1px solid transparent;
+}
+#trough-overlay.edit #properties {
+background: #fdfac3;
+}
+#properties-intl {
+background: #fff url(http://l.yimg.com/a/i/ww/t5/grd-2px.gif) repeat-x;
+}
+#seriously {
+background: #fff url(http://l.yimg.com/a/i/ww/t5/grd-2px.gif) repeat-x;
+}
+div#seriously {
+margin-right: -1px; *margin: 0; padding: 7px 17px; font: bold 85% verdana; text-align: right;
+}
+#seriously a {
+margin-right: -7px; display: block;
+}
+#trough-overlay.edit #properties-intl {
+background-color: #fffcd9;
+}
+#trough-actions {
+margin: 5px 0 0; position: relative; top: 2px;
+}
+.trough-actions {
+margin: 5px 0 0; position: relative; top: 2px;
+}
+#trough-actions-top {
+position: absolute; right: 10px; top: 12px;
+}
+#trough-actions li {
+margin-left: 10px; float: right;
+}
+.trough-actions li {
+margin-left: 10px; float: right;
+}
+#trough-actions li a {
+display: block; color: #fff;
+}
+.trough-actions li a {
+display: block; color: #fff;
+}
+#trough-actions .submit {
+padding: 0 5px;
+}
+.trough-actions .submit {
+padding: 0 5px;
+}
+#overlay-save button {
+background: #ffc027;
+}
+.overlay-save button {
+background: #ffc027;
+}
+#trough-actions li#overlay-default {
+margin-left: 5px; float: left;
+}
+.trough-actions li.overlay-default {
+margin-left: 5px; float: left;
+}
+#overlay-default a {
+border-width: 0 1px; border: 1px solid #fff; padding: 0 5px; font: bold 77% verdana; position: relative; top: 2px;
+}
+.overlay-default a {
+border-width: 0 1px; border: 1px solid #fff; padding: 0 5px; font: bold 77% verdana; position: relative; top: 2px;
+}
