@@ -2,7 +2,7 @@ TABLE.button {
 display: inline;
 }
 TABLE.button TD {
-padding-right: 1px; background: url(/rk/images/defaultbutton/button_right_bg.gif) center right no-repeat; border: 0; font-family: none;
+padding-right: 1px; background: url('http://localhost:420/rk/images/defaultbutton/button_right_bg.gif') center right no-repeat; border: 0; font-family: none;
 }
 TABLE.button BUTTON {
 margin-right: 1px; background: transparent; margin: 0; cursor: pointer; border: 0; height: 20px; padding-left: 2px; font: 11px tahoma;
@@ -11,40 +11,40 @@ margin-right: 1px; background: transparent; margin: 0; cursor: pointer; border: 
 padding-bottom: 3px; padding-left: 10px;
 }
 TABLE.button BUTTON.butDef {
-background: url(/rk/images/defaultbutton/button_left_bg.gif) center left no-repeat;
+background: url('http://localhost:420/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
 }
 TABLE.button BUTTON.butDefHi {
-background: url(/rk/images/defaultbutton/button_left_bg.gif) center left no-repeat;
+background: url('http://localhost:420/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
 }
 TABLE.button BUTTON.prefAddButton {
-background: url(/rk/images/defaultbutton/button_left_bg.gif) center left no-repeat;
+background: url('http://localhost:420/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
 }
 TABLE.button BUTTON.fibutton {
-background: url(/rk/images/defaultbutton/button_left_bg.gif) center left no-repeat;
+background: url('http://localhost:420/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
 }
 TABLE.button BUTTON.prefButton {
-background: url(/rk/images/defaultbutton/button_left_bg.gif) center left no-repeat;
+background: url('http://localhost:420/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
 }
 TABLE.button BUTTON.prefBotButton {
-background: url(/rk/images/defaultbutton/button_left_bg.gif) center left no-repeat;
+background: url('http://localhost:420/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
 }
 TABLE.button BUTTON.buttonLeftSpace.fibutton {
-background: url(/rk/images/defaultbutton/button_left_bg.gif) center left no-repeat;
+background: url('http://localhost:420/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat;
 }
 TABLE.button BUTTON.buttonLeftSpace {
-background: url(/rk/images/defaultbutton/button_left_bg.gif) center left no-repeat; margin-left: 8px;
+background: url('http://localhost:420/rk/images/defaultbutton/button_left_bg.gif') center left no-repeat; margin-left: 8px;
 }
 TABLE.button BUTTON.butDefPrpty {
-background: url(/insight/images/defaultbutton/dropdownbg.2.5.gif) center left no-repeat; width: 60px;
+background: url('http://localhost:420/insight/images/defaultbutton/dropdownbg.2.5.gif') center left no-repeat; width: 60px;
 }
 TABLE.button TD.butSel {
-background: url(/rk/images/defaultbutton/button_right_bg_on.gif) center right no-repeat;
+background: url('http://localhost:420/rk/images/defaultbutton/button_right_bg_on.gif') center right no-repeat;
 }
 TABLE.button BUTTON.butSel {
-background: url(/rk/images/defaultbutton/button_left_bg_on.gif) center left no-repeat;
+background: url('http://localhost:420/rk/images/defaultbutton/button_left_bg_on.gif') center left no-repeat;
 }
 TABLE.button BUTTON.butSelHi {
-background: url(/rk/images/defaultbutton/button_left_bg_on.gif) center left no-repeat;
+background: url('http://localhost:420/rk/images/defaultbutton/button_left_bg_on.gif') center left no-repeat;
 }
 TABLE.button BUTTON.butSelHi {
 color: #F60;
@@ -398,151 +398,151 @@ A.finputHi:visited {
 background: #F7F8FA; padding: 4px 2px; color: #F60;
 }
 input.fsdef {
-background-repeat: no-repeat; border: none; background-image: url(/rk/images/filters2/submit-default.gif); height: 18px; position: relative; width: 78px;
+background-repeat: no-repeat; border: none; background-image: url('http://localhost:420/rk/images/filters2/submit-default.gif'); height: 18px; position: relative; width: 78px;
 }
 input.fsubmitdefault {
-background-repeat: no-repeat; border: none; background-image: url(/rk/images/filters2/submit-default.gif); height: 18px; position: relative; width: 78px;
+background-repeat: no-repeat; border: none; background-image: url('http://localhost:420/rk/images/filters2/submit-default.gif'); height: 18px; position: relative; width: 78px;
 }
 input.fshi {
-background: url(/rk/images/filters2/submit-hl.gif); background-repeat: no-repeat; border: none; height: 18px; position: relative; width: 78px;
+background: url('http://localhost:420/rk/images/filters2/submit-hl.gif'); background-repeat: no-repeat; border: none; height: 18px; position: relative; width: 78px;
 }
 input.fsubmithighlighted {
-background: url(/rk/images/filters2/submit-hl.gif); background-repeat: no-repeat; border: none; height: 18px; position: relative; width: 78px;
+background: url('http://localhost:420/rk/images/filters2/submit-hl.gif'); background-repeat: no-repeat; border: none; height: 18px; position: relative; width: 78px;
 }
 input.fsc {
-background-repeat: no-repeat; border: none; background-image: url(/rk/images/filters2/submitchanged-default.gif); height: 18px; position: relative; width: 78px;
+background-repeat: no-repeat; border: none; background-image: url('http://localhost:420/rk/images/filters2/submitchanged-default.gif'); height: 18px; position: relative; width: 78px;
 }
 input.fsubmitchanged {
-background-repeat: no-repeat; border: none; background-image: url(/rk/images/filters2/submitchanged-default.gif); height: 18px; position: relative; width: 78px;
+background-repeat: no-repeat; border: none; background-image: url('http://localhost:420/rk/images/filters2/submitchanged-default.gif'); height: 18px; position: relative; width: 78px;
 }
 input.fscHi {
-background-repeat: no-repeat; border: none; background-image: url(/rk/images/filters2/submitchanged-hl.gif); height: 18px; position: relative; width: 78px;
+background-repeat: no-repeat; border: none; background-image: url('http://localhost:420/rk/images/filters2/submitchanged-hl.gif'); height: 18px; position: relative; width: 78px;
 }
 input.fsubmitchangedhighlighted {
-background-repeat: no-repeat; border: none; background-image: url(/rk/images/filters2/submitchanged-hl.gif); height: 18px; position: relative; width: 78px;
+background-repeat: no-repeat; border: none; background-image: url('http://localhost:420/rk/images/filters2/submitchanged-hl.gif'); height: 18px; position: relative; width: 78px;
 }
 td.ftrl {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/toprow-left.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/toprow-left.gif?251');
 }
 td.ftoprowleft {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/toprow-left.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/toprow-left.gif?251');
 }
 td.ftrr {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/toprow-left.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/toprow-left.gif?251');
 }
 td.ftoprowright {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/toprow-left.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/toprow-left.gif?251');
 }
 td.ftrm {
-background-image: url(/rk/images/filters2/toprow-middle.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/toprow-middle.gif?251');
 }
 td.ftoprowmiddle {
-background-image: url(/rk/images/filters2/toprow-middle.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/toprow-middle.gif?251');
 }
 td.ftrm1 {
 background-color: #e5e9ef; background-repeat: no-repeat;
 }
 td.forr {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/toprow-right.2.4.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/toprow-right.2.4.gif?251');
 }
 td.fonerowright {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/toprow-right.2.4.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/toprow-right.2.4.gif?251');
 }
 td.ftworr {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/tworow-right.2.4.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/tworow-right.2.4.gif?251');
 }
 td.ftworowright {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/tworow-right.2.4.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/tworow-right.2.4.gif?251');
 }
 td.fonerr {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/tworow-right.2.4.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/tworow-right.2.4.gif?251');
 }
 td.fonerowright {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/tworow-right.2.4.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/tworow-right.2.4.gif?251');
 }
 td.ftworrb {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/tworow-right-bottom.2.4.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/tworow-right-bottom.2.4.gif?251');
 }
 td.ftworowrightwithbottom {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/tworow-right-bottom.2.4.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/tworow-right-bottom.2.4.gif?251');
 }
 td.fthrrr {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/threerow-right.2.4.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/threerow-right.2.4.gif?251');
 }
 td.fthreerowright {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/threerow-right.2.4.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/threerow-right.2.4.gif?251');
 }
 td.ftrss {
-background-image: url(/rk/images/filters2/toprow-ssep.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/toprow-ssep.gif?251');
 }
 td.ftoprowsmallseparator {
-background-image: url(/rk/images/filters2/toprow-ssep.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/toprow-ssep.gif?251');
 }
 td.ftrls {
-background-image: url(/rk/images/filters2/toprow-lsep.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/toprow-lsep.gif?251');
 }
 td.ftoprowlargeseparator {
-background-image: url(/rk/images/filters2/toprow-lsep.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/toprow-lsep.gif?251');
 }
 td.fbrl {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/botrow-left.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/botrow-left.gif?251');
 }
 td.fbotrowleft {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/botrow-left.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/botrow-left.gif?251');
 }
 td.fbrm {
-background-image: url(/rk/images/filters2/botrow-middle.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/botrow-middle.gif?251');
 }
 td.fbotrowmiddle {
-background-image: url(/rk/images/filters2/botrow-middle.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/botrow-middle.gif?251');
 }
 td.fbrls {
-background-image: url(/rk/images/filters2/botrow-lsep.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/botrow-lsep.gif?251');
 }
 td.fbotrowlargeseparator {
-background-image: url(/rk/images/filters2/botrow-lsep.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/botrow-lsep.gif?251');
 }
 td.fbrr {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/botrow-right.2.4.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/botrow-right.2.4.gif?251');
 }
 td.fbotrowright {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/botrow-right.2.4.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/botrow-right.2.4.gif?251');
 }
 td.fbrr2 {
-background-image: url(/rk/images/filters2/botrow-left.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/botrow-left.gif?251');
 }
 td.fbotrowright2 {
-background-image: url(/rk/images/filters2/botrow-left.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/botrow-left.gif?251');
 }
 td.fmrl {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/medrow-left.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/medrow-left.gif?251');
 }
 td.fmedrowleft {
-background-repeat: no-repeat; background-image: url(/rk/images/filters2/medrow-left.gif?251);
+background-repeat: no-repeat; background-image: url('http://localhost:420/rk/images/filters2/medrow-left.gif?251');
 }
 td.fmrm {
-background-image: url(/rk/images/filters2/toprow-middle.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/toprow-middle.gif?251');
 }
 td.fmedrowmiddle {
-background-image: url(/rk/images/filters2/toprow-middle.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/toprow-middle.gif?251');
 }
 td.fmrmb {
-background-image: url(/rk/images/filters2/medrow-middle-bottom.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/medrow-middle-bottom.gif?251');
 }
 td.fmedrowmiddlewithbottom {
-background-image: url(/rk/images/filters2/medrow-middle-bottom.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/medrow-middle-bottom.gif?251');
 }
 td.fmrss {
-background-image: url(/rk/images/filters2/toprow-ssep.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/toprow-ssep.gif?251');
 }
 td.fmedrowsmallseparator {
-background-image: url(/rk/images/filters2/toprow-ssep.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/toprow-ssep.gif?251');
 }
 td.fmrls {
-background-image: url(/rk/images/filters2/toprow-lsep.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/toprow-lsep.gif?251');
 }
 td.fmedrowlargeseparator {
-background-image: url(/rk/images/filters2/toprow-lsep.gif?251);
+background-image: url('http://localhost:420/rk/images/filters2/toprow-lsep.gif?251');
 }
 .fcr-t {
 border: solid 1px #BCBCBC; width: 100%;
@@ -674,31 +674,31 @@ span.flabelHi {
 padding-right: 1px; white-space: nowrap; color: #F60; font: normal 9px Verdana, Arial; position: relative; top: -2px;
 }
 td.ftworl {
-background: url(/rk/images/filters2/tworow-left.gif) no-repeat; height: 88px; width: 4px;
+background: url('http://localhost:420/rk/images/filters2/tworow-left.gif') no-repeat; height: 88px; width: 4px;
 }
 td.ftworowleft {
-background: url(/rk/images/filters2/tworow-left.gif) no-repeat; height: 88px; width: 4px;
+background: url('http://localhost:420/rk/images/filters2/tworow-left.gif') no-repeat; height: 88px; width: 4px;
 }
 td.ftworm {
-background-image: url(/rk/images/filters2/tworow-middle.gif); height: 88px;
+background-image: url('http://localhost:420/rk/images/filters2/tworow-middle.gif'); height: 88px;
 }
 td.ftworowmiddle {
-background-image: url(/rk/images/filters2/tworow-middle.gif); height: 88px;
+background-image: url('http://localhost:420/rk/images/filters2/tworow-middle.gif'); height: 88px;
 }
 td.fthrm {
-background-image: url(/rk/images/filters2/threerow-middle.gif); height: 132px;
+background-image: url('http://localhost:420/rk/images/filters2/threerow-middle.gif'); height: 132px;
 }
 td.fthreerowmiddle {
-background-image: url(/rk/images/filters2/threerow-middle.gif); height: 132px;
+background-image: url('http://localhost:420/rk/images/filters2/threerow-middle.gif'); height: 132px;
 }
 td.fthrrl {
-background: url(/rk/images/filters2/threerow-left.gif) no-repeat; height: 132px; width: 4px;
+background: url('http://localhost:420/rk/images/filters2/threerow-left.gif') no-repeat; height: 132px; width: 4px;
 }
 td.fthreerowleft {
-background: url(/rk/images/filters2/threerow-left.gif) no-repeat; height: 132px; width: 4px;
+background: url('http://localhost:420/rk/images/filters2/threerow-left.gif') no-repeat; height: 132px; width: 4px;
 }
 .navsep {
-margin-right: 8px; background: url(/rk/images/Navigation/sep.gif) no-repeat; display: inline; height: 11px; margin-left: 6px; width: 1px;
+margin-right: 8px; background: url('http://localhost:420/rk/images/Navigation/sep.gif') no-repeat; display: inline; height: 11px; margin-left: 6px; width: 1px;
 }
 *>DIV.pftcontainer {
 whitespace: nowrap; width: 355px; float: left;
@@ -818,10 +818,10 @@ margin-left: 7px;
 width: 100px;
 }
 .TabbarItem-Level1-inactive-container {
-margin: 0; background: url(/rk/images/Navigation/Tabbar/tablvl1_right_on.gif) top right no-repeat; padding: 0; height: 19px; font: bold 11px Tahoma;
+margin: 0; background: url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl1_right_on.gif') top right no-repeat; padding: 0; height: 19px; font: bold 11px Tahoma;
 }
 .TabbarItem-Level1-active-container {
-margin: 0; background: url(/rk/images/Navigation/Tabbar/tablvl1_right_on.gif) top right no-repeat; padding: 0; height: 19px; font: bold 11px Tahoma;
+margin: 0; background: url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl1_right_on.gif') top right no-repeat; padding: 0; height: 19px; font: bold 11px Tahoma;
 }
 *> .TabbarItem-Level1-inactive-container {
 height: 20px;
@@ -833,10 +833,10 @@ height: 20px;
 background: none;
 }
 .TabbarItem-Level1-inactive-container A {
-background: url(/rk/images/Navigation/Tabbar/tablvl1_left_on.gif) top left no-repeat; text-decoration: none; padding: 5px 5px 0 5px; display: block; color: #000; height: 26px;
+background: url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl1_left_on.gif') top left no-repeat; text-decoration: none; padding: 5px 5px 0 5px; display: block; color: #000; height: 26px;
 }
 .TabbarItem-Level1-active-container A {
-background: url(/rk/images/Navigation/Tabbar/tablvl1_left_on.gif) top left no-repeat; text-decoration: none; padding: 5px 5px 0 5px; display: block; color: #000; height: 26px;
+background: url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl1_left_on.gif') top left no-repeat; text-decoration: none; padding: 5px 5px 0 5px; display: block; color: #000; height: 26px;
 }
 .TabbarItem-Level1-active-container A:hover {
 color: #000;
@@ -863,10 +863,10 @@ padding-right: 7px; background: none; padding-left: 7px; color: #369;
 padding-right: 7px; background: none; padding-left: 7px; color: #369;
 }
 .Guides {
-background: url(/rk/images/Navigation/Tabbar/tablvl2_bg.2.5.gif) bottom repeat-x; height: 21px;
+background: url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_bg.2.5.gif') bottom repeat-x; height: 21px;
 }
 .NavigationLevel2 {
-background: url(/rk/images/Navigation/Tabbar/tablvl2_bg.2.5.gif) bottom repeat-x; height: 21px;
+background: url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_bg.2.5.gif') bottom repeat-x; height: 21px;
 }
 *html .NavigationLevel2 {
 height: 100%;
@@ -884,7 +884,7 @@ padding: 5px 0 0 1px; vertical-align: top; height: auto; position: relative; top
 padding: 5px 0 0 1px; vertical-align: top; height: auto; position: relative; top: -2px; width: 900px;
 }
 .NavigationPortfolio {
-background: transparent url(/rk/images/Navigation/Tabbar/tablvl2_bg.2.5.gif) bottom repeat-x;
+background: transparent url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_bg.2.5.gif') bottom repeat-x;
 }
 *html .NavigationPortfolio {
 height: 100%;
@@ -902,37 +902,37 @@ margin-right: 2px; text-decoration: none; white-space: nowrap; padding: 3px 5px 
 margin-right: 2px; text-decoration: none; white-space: nowrap; padding: 3px 5px 4px 5px; display: block; vertical-align: middle; font: normal 11px Tahoma;
 }
 .NavigationLevel2-off A {
-background: #EEE url(/rk/images/Navigation/Tabbar/tablvl2_off.gif?26) right top no-repeat; color: #009;
+background: #EEE url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_off.gif?26') right top no-repeat; color: #009;
 }
 .NavigationLevel2-off A:link {
-background: #EEE url(/rk/images/Navigation/Tabbar/tablvl2_off.gif?26) right top no-repeat; color: #009;
+background: #EEE url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_off.gif?26') right top no-repeat; color: #009;
 }
 .NavigationLevel2-off A:visited {
-background: #EEE url(/rk/images/Navigation/Tabbar/tablvl2_off.gif?26) right top no-repeat; color: #009;
+background: #EEE url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_off.gif?26') right top no-repeat; color: #009;
 }
 .NavigationLevel2-off A:active {
-background: #EEE url(/rk/images/Navigation/Tabbar/tablvl2_off.gif?26) right top no-repeat; color: #009;
+background: #EEE url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_off.gif?26') right top no-repeat; color: #009;
 }
 .NavigationLevel2-off A:hover {
 text-decoration: underline; color: #F90;
 }
 .NavigationLevel2-on A {
-font-weight: bold; background: url(/rk/images/Navigation/Tabbar/tablvl2_on.gif?26) right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
+font-weight: bold; background: url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_on.gif?26') right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
 }
 .NavigationLevel2-on A:link {
-font-weight: bold; background: url(/rk/images/Navigation/Tabbar/tablvl2_on.gif?26) right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
+font-weight: bold; background: url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_on.gif?26') right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
 }
 .NavigationLevel2-on A:visited {
-font-weight: bold; background: url(/rk/images/Navigation/Tabbar/tablvl2_on.gif?26) right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
+font-weight: bold; background: url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_on.gif?26') right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
 }
 .NavigationLevel2-on A:active {
-font-weight: bold; background: url(/rk/images/Navigation/Tabbar/tablvl2_on.gif?26) right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
+font-weight: bold; background: url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_on.gif?26') right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
 }
 .NavigationLevel2-on A:hover {
-font-weight: bold; background: url(/rk/images/Navigation/Tabbar/tablvl2_on.gif?26) right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
+font-weight: bold; background: url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_on.gif?26') right top no-repeat; border-bottom: solid 1px #FFF; color: #000;
 }
 .NavigationLevel2.popup {
-background: url(/rk/images/Navigation/Tabbar/popuptabs_bg.gif) top repeat-x; height: 21px;
+background: url('http://localhost:420/rk/images/Navigation/Tabbar/popuptabs_bg.gif') top repeat-x; height: 21px;
 }
 .popup .NavigationLevel2-off {
 height: 21px;
@@ -998,16 +998,16 @@ text-decoration: none; color: #f90; font: normal 10px Verdana;
 background-image: none;
 }
 *> .serviceMenuItem {
-background: url(/rk/images/navigation/sep.gif) top left no-repeat; padding: 0 6px;
+background: url('http://localhost:420/rk/images/navigation/sep.gif') top left no-repeat; padding: 0 6px;
 }
 .serviceMenuItems {
-background: url(/rk/images/navigation/sep.gif) top left no-repeat; padding: 0 6px;
+background: url('http://localhost:420/rk/images/navigation/sep.gif') top left no-repeat; padding: 0 6px;
 }
 .serviceMenuItemSeparator {
 margin-right: 6px; float: left; margin-left: 6px;
 }
 .serviceMenuItemSeparator span {
-overflow: hidden; background: url(/rk/images/navigation/sep.gif) center no-repeat; height: 11px; position: relative; top: 0px; width: 1px;
+overflow: hidden; background: url('http://localhost:420/rk/images/navigation/sep.gif') center no-repeat; height: 11px; position: relative; top: 0px; width: 1px;
 }
 *> .serviceMenuItemSeparator {
 display: none;
@@ -1016,7 +1016,7 @@ display: none;
 display: inline; float: left;
 }
 #LinksMenu_DocViewer SPAN.serviceMenuItemSeparator SPAN {
-background: url(/rk/images/navigation/sep.gif) center no-repeat; display: block; width: 15px;
+background: url('http://localhost:420/rk/images/navigation/sep.gif') center no-repeat; display: block; width: 15px;
 }
 #LinksMenu_DocViewer .linksMenuItem A {
 background-image: none; padding-left: 0;
@@ -1088,10 +1088,10 @@ text-decoration: none; color: #009; font: normal 10px Verdana;
 text-decoration: none; color: #ff9900; font: normal 10px Verdana;
 }
 *>.linksMenuItem A {
-background: url(/rk/images/navigation/sep.gif) 5px no-repeat; padding: 0 0 0 12px; display: block;
+background: url('http://localhost:420/rk/images/navigation/sep.gif') 5px no-repeat; padding: 0 0 0 12px; display: block;
 }
 *>.linksMenuItem IMG {
-background: url(/rk/images/navigation/sep.gif) 5px no-repeat; padding: 0 0 0 12px;
+background: url('http://localhost:420/rk/images/navigation/sep.gif') 5px no-repeat; padding: 0 0 0 12px;
 }
 span.cascadingSelectContainer {
 position: relative; top: 1px;
@@ -1172,10 +1172,10 @@ overflow: hidden; height: 28px; width: 100%;
 overflow: hidden; height: 28px; width: 100%;
 }
 .NavigationBar2 {
-background: url(/rk/images/Navigation/Tabbar/tablvl2_bg.gif) bottom left repeat-x; background-color: #D5D5D5; border-right: solid 1px #9B9B9B; height: 26px; border-left: solid 1px #9B9B9B;
+background: url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_bg.gif') bottom left repeat-x; background-color: #D5D5D5; border-right: solid 1px #9B9B9B; height: 26px; border-left: solid 1px #9B9B9B;
 }
 #NavigationBar2 {
-background: url(/rk/images/Navigation/Tabbar/tablvl2_bg.gif) bottom left repeat-x; background-color: #D5D5D5; border-right: solid 1px #9B9B9B; height: 26px; border-left: solid 1px #9B9B9B;
+background: url('http://localhost:420/rk/images/Navigation/Tabbar/tablvl2_bg.gif') bottom left repeat-x; background-color: #D5D5D5; border-right: solid 1px #9B9B9B; height: 26px; border-left: solid 1px #9B9B9B;
 }
 .NavigationBar3 {
 background-color: #EFEFEF; border-right: solid 1px #9B9B9B; border-bottom: solid 1px #9B9B9B; padding: 0 7px 0 7px; vertical-align: middle; height: 23px; border-left: solid 1px #9B9B9B; width: 100%;
@@ -1190,7 +1190,7 @@ padding: 0 3px 0 3px; vertical-align: top; height: auto; position: relative; top
 padding: 0 3px 0 3px; vertical-align: top; height: auto; position: relative; top: -2px; width: auto;
 }
 #NavigationLevel2_tb {
-background: url(/rk/images/Navigation/thirdlevelbot.gif) bottom repeat-x; border-right: solid 1px #9B9B9B; padding: 3px 0; height: 19px; border-left: solid 1px #9B9B9B; width: 100%;
+background: url('http://localhost:420/rk/images/Navigation/thirdlevelbot.gif') bottom repeat-x; border-right: solid 1px #9B9B9B; padding: 3px 0; height: 19px; border-left: solid 1px #9B9B9B; width: 100%;
 }
 *html #NavigationLevel2_tb {
 padding: 0;
@@ -1205,10 +1205,10 @@ background-image: none;
 background-image: none;
 }
 .TabbarItem-Level3-inactive-container {
-margin-right: 0; background: url(/rk/images/navigation/sep.2.5.gif) right center no-repeat; cursor: pointer; padding: 2px 6px 2px 6px; vertical-align: middle; font: 11px Tahoma;
+margin-right: 0; background: url('http://localhost:420/rk/images/navigation/sep.2.5.gif') right center no-repeat; cursor: pointer; padding: 2px 6px 2px 6px; vertical-align: middle; font: 11px Tahoma;
 }
 .TabbarItem-Level3-active-container {
-margin-right: 0; background: url(/rk/images/navigation/sep.2.5.gif) right center no-repeat; cursor: pointer; padding: 2px 6px 2px 6px; vertical-align: middle; font: 11px Tahoma;
+margin-right: 0; background: url('http://localhost:420/rk/images/navigation/sep.2.5.gif') right center no-repeat; cursor: pointer; padding: 2px 6px 2px 6px; vertical-align: middle; font: 11px Tahoma;
 }
 .TabbarItem-Level3-active-container {
 font-weight: bold; color: Black;
@@ -1259,10 +1259,10 @@ width: 24px;
 width: 4px;
 }
 .crumbTrailMenuScroller {
-background: #CDCDCD url(/rk/images/navigation/searchbutton_bg.gif) top repeat-x; cursor: pointer; background-color: red; border: 1px solid #105DA9; color: #105DA9; height: 20px; font: 11px webdings; text-align: center;
+background: #CDCDCD url('http://localhost:420/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: pointer; background-color: red; border: 1px solid #105DA9; color: #105DA9; height: 20px; font: 11px webdings; text-align: center;
 }
 .crumbTrailMenuScrollerOn {
-background: #CDCDCD url(/rk/images/navigation/searchbutton_bg.gif) top repeat-x; cursor: pointer; background-color: red; border: 1px solid #105DA9; color: #105DA9; height: 20px; font: 11px webdings; text-align: center;
+background: #CDCDCD url('http://localhost:420/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: pointer; background-color: red; border: 1px solid #105DA9; color: #105DA9; height: 20px; font: 11px webdings; text-align: center;
 }
 .crumbTrailMenuScrollerOn {
 background-color: yellow;
@@ -1289,10 +1289,10 @@ text-decoration: none; color: #009;
 padding-right: 3px; text-decoration: none; display: inline; vertical-align: middle; color: #000; font: normal 11px Tahoma;
 }
 .quickSearch_submit {
-margin-right: 3px; background: #CDCDCD url(/rk/images/navigation/searchbutton_bg.gif) top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; text-transform: uppercase; display: inline; padding: 1px 3px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: bold 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; margin-left: 7px;
+margin-right: 3px; background: #CDCDCD url('http://localhost:420/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; text-transform: uppercase; display: inline; padding: 1px 3px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: bold 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; margin-left: 7px;
 }
 .quickSearch_submitOn {
-margin-right: 3px; background: #CDCDCD url(/rk/images/navigation/searchbutton_bg.gif) top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; text-transform: uppercase; display: inline; padding: 1px 3px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: bold 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; margin-left: 7px;
+margin-right: 3px; background: #CDCDCD url('http://localhost:420/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; text-transform: uppercase; display: inline; padding: 1px 3px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: bold 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; margin-left: 7px;
 }
 .quickSearch_input {
 margin-right: 5px; vertical-align: middle; color: black; font: normal 11px Tahoma; width: 150px;
@@ -1364,16 +1364,16 @@ color: #000; font: 11px Tahoma;
 border: 1px solid #8080FF; color: #000; font: 11px Tahoma; width: 80px;
 }
 .searchCloseBtn {
-margin: 8px 0 0 0; background: #CDCDCD url(/rk/images/navigation/searchbutton_bg.gif) top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; display: inline; padding: 1px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; width: 85px;
+margin: 8px 0 0 0; background: #CDCDCD url('http://localhost:420/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; display: inline; padding: 1px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; width: 85px;
 }
 searchCloseBtn_hover {
-margin: 8px 0 0 0; background: #CDCDCD url(/rk/images/navigation/searchbutton_bg.gif) top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; display: inline; padding: 1px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; width: 85px;
+margin: 8px 0 0 0; background: #CDCDCD url('http://localhost:420/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; display: inline; padding: 1px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; width: 85px;
 }
 .searchCloseBtn_hover {
 border: 1px solid #009;
 }
 .searchGoBtn {
-margin-right: 0; background: #CDCDCD url(/rk/images/navigation/searchbutton_bg.gif) top repeat-x; cursor: hand; border-bottom: solid 1px black; border-right: solid 1px black; text-transform: uppercase; display: inline; padding: 1px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: bold 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; margin-left: 0; width: 23px;
+margin-right: 0; background: #CDCDCD url('http://localhost:420/rk/images/navigation/searchbutton_bg.gif') top repeat-x; cursor: hand; border-bottom: solid 1px black; border-right: solid 1px black; text-transform: uppercase; display: inline; padding: 1px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: bold 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; margin-left: 0; width: 23px;
 }
 .quickSearch {
 padding-left: 7px; color: black; font: normal 11px Tahoma; width: 300px;
@@ -1394,7 +1394,7 @@ text-decoration: none; color: #000; font: normal 10px Verdana;
 margin-right: 3px; border-bottom: solid 1px black; border-right: solid 1px black; display: inline; vertical-align: middle; border-left: solid 1px #6A6A6A; border-top: solid 1px #6A6A6A; margin-left: 7px;
 }
 .quickSearch_submitSel {
-margin-right: 3px; background: #FEB685 url(/rk/images/navigation/quicksearchbutton_bg.gif) top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; text-transform: uppercase; display: inline; padding: 1px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: bold 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; margin-left: 7px; width: 23px;
+margin-right: 3px; background: #FEB685 url('http://localhost:420/rk/images/navigation/quicksearchbutton_bg.gif') top repeat-x; cursor: pointer; border-bottom: solid 1px black; border-right: solid 1px black; text-transform: uppercase; display: inline; padding: 1px; color: #009; height: 15px; border-left: solid 1px #6A6A6A; font: bold 11px Tahoma; border-top: solid 1px #6A6A6A; text-align: center; margin-left: 7px; width: 23px;
 }
 .resolution_label {
 text-decoration: none; display: inline; color: black; font: normal 11px Tahoma;
@@ -1403,10 +1403,10 @@ text-decoration: none; display: inline; color: black; font: normal 11px Tahoma;
 border: 1px solid #CCC; text-transform: uppercase; padding: 2px; font: bold 11px Tahoma;
 }
 .resolution_submit {
-background: url(/rk/images/navigation/searchbutton_bg.gif) repeat-x; cursor: pointer; border: solid 1px #000; text-transform: uppercase; display: inline; padding: 2px; color: #009; height: 15px; font: 11px Tahoma; text-align: center; width: 23px;
+background: url('http://localhost:420/rk/images/navigation/searchbutton_bg.gif') repeat-x; cursor: pointer; border: solid 1px #000; text-transform: uppercase; display: inline; padding: 2px; color: #009; height: 15px; font: 11px Tahoma; text-align: center; width: 23px;
 }
 .resolution_submitOn {
-background: url(/rk/images/navigation/searchbutton_bg.gif) repeat-x; cursor: pointer; border: solid 1px #000; text-transform: uppercase; display: inline; padding: 2px; color: #009; height: 15px; font: 11px Tahoma; text-align: center; width: 23px;
+background: url('http://localhost:420/rk/images/navigation/searchbutton_bg.gif') repeat-x; cursor: pointer; border: solid 1px #000; text-transform: uppercase; display: inline; padding: 2px; color: #009; height: 15px; font: 11px Tahoma; text-align: center; width: 23px;
 }
 .resolution_submitOn {
 border: 1px solid #ffcccc; color: #900;
@@ -1433,7 +1433,7 @@ IFRAME.defaultStatusManager {
 border: 0; filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
 }
 DIV.defaultStatusManager {
-filter: progid:DXImageTransform.Microsoft.DropShadow(OffX=2, OffY=2, Color="#CCCCCC", Positive="true") progid:DXImageTransform.Microsoft.Alpha(opacity=96); background-image: url(/rk/images/Progress-Popup-background.gif); vertical-align: middle; text-align: center;
+filter: progid:DXImageTransform.Microsoft.DropShadow(OffX=2, OffY=2, Color="#CCCCCC", Positive="true") progid:DXImageTransform.Microsoft.Alpha(opacity=96); background-image: url('http://localhost:420/rk/images/Progress-Popup-background.gif'); vertical-align: middle; text-align: center;
 }
 DIV.defaultStatusManager P {
 font: bold 14px Verdana; text-align: center; position: relative; top: 90px;
@@ -1544,7 +1544,7 @@ div.ContentBottom {
 padding: 0; vertical-align: top; width: 100%;
 }
 .DocViewerHeading .BasicBrandLogo {
-background-image: url(/rk/images/navigation/CoBranding/ReutersLogo.gif);
+background-image: url('http://localhost:420/rk/images/navigation/CoBranding/ReutersLogo.gif');
 }
 div.DocViewerBody {
 width: expression((eval('document.body.clientWidth') < 500) ? 500 + 'px' : 'auto');
@@ -1901,10 +1901,10 @@ DIV.calheader {
 font-weight: bold; padding-bottom: 3px; font-size: 12px; text-align: center; position: relative; width: 100%;
 }
 A.calnavleft {
-left: 3px; background: url(/rk/images/Navigation/dblleft_arrow.gif) top left no-repeat; cursor: pointer; height: 12px; position: absolute; width: 12px; top: 2px;
+left: 3px; background: url('http://localhost:420/rk/images/Navigation/dblleft_arrow.gif') top left no-repeat; cursor: pointer; height: 12px; position: absolute; width: 12px; top: 2px;
 }
 A.calnavright {
-background: url(/rk/images/Navigation/dblright_arrow.gif) top right no-repeat; cursor: pointer; height: 12px; position: absolute; width: 12px; right: 3px; top: 2px;
+background: url('http://localhost:420/rk/images/Navigation/dblright_arrow.gif') top right no-repeat; cursor: pointer; height: 12px; position: absolute; width: 12px; right: 3px; top: 2px;
 }
 TD.outercal TABLE.datatable TD.headsub {
 font-weight: bold; background-color: #FFF;
@@ -1928,10 +1928,10 @@ TD.innercal DIV.calcontainer {
 background-color: #FFF; border: solid 1px #7F9DB9; padding: 0 1px; width: 100%;
 }
 TD.innercal A.innerleft {
-left: 20px; background: url(/rk/images/Navigation/left_arrow.gif) top left no-repeat;
+left: 20px; background: url('http://localhost:420/rk/images/Navigation/left_arrow.gif') top left no-repeat;
 }
 TD.innercal A.innerright {
-background: url(/rk/images/Navigation/right_arrow.gif) top right no-repeat; right: 20px;
+background: url('http://localhost:420/rk/images/Navigation/right_arrow.gif') top right no-repeat; right: 20px;
 }
 TD.innercal TABLE.datatable TD {
 font-size: 11px; border-right: none; border-left: none;
@@ -2333,10 +2333,10 @@ DIV.quickEdit {
 background-color: #E0ECEE; border-bottom: 1px solid #6699FF;
 }
 .propertyeditor {
-background: url(/controls/img/propertyeditor/bg_editor.gif) top left no-repeat; width: 600px;
+background: url('http://localhost:420/controls/img/propertyeditor/bg_editor.gif') top left no-repeat; width: 600px;
 }
 .propertyeditor .header {
-background: url(/controls/img/propertyeditor/header_bg.gif) bottom left repeat-x;
+background: url('http://localhost:420/controls/img/propertyeditor/header_bg.gif') bottom left repeat-x;
 }
 .propertyeditor .navbar {
 margin-right: 14px; padding-left: 10px; margin-left: 10px;
