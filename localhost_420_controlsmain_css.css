@@ -110,13 +110,13 @@ A.figl:hover {
 cursor: pointer; text-decoration: underline;
 }
 .recommendationsgauge {
-margin-bottom: 15px; margin: 0 auto; background: url(/Controls/images/element_recommendations.gif) top left no-repeat; height: 45px; position: relative; width: 190px;
+margin-bottom: 15px; margin: 0 auto; background: url('http://localhost:420/Controls/images/element_recommendations.gif') top left no-repeat; height: 45px; position: relative; width: 190px;
 }
 .recommendationsgauge DIV {
 position: absolute; top: 38px;
 }
 .recommendationsgauge DIV.markerImage {
-left: 3px; background: url(/Controls/images/arrow_down_blue_ds.gif) top left no-repeat; height: 10px; position: absolute; width: 10px; top: 3px;
+left: 3px; background: url('http://localhost:420/Controls/images/arrow_down_blue_ds.gif') top left no-repeat; height: 10px; position: absolute; width: 10px; top: 3px;
 }
 .recommendationsgauge DIV.sell {
 left: 15px;
@@ -566,10 +566,10 @@ TABLE.pFoot TD.right TABLE.links IMG.sep {
 vertical-align: middle;
 }
 .DocViewerHeading {
-overflow: hidden; background: url(/controls/img/navigation/servicemenubg.gif) repeat-x; background-image: none; height: 28px; width: 100%;
+overflow: hidden; background: url('http://localhost:420/controls/img/navigation/servicemenubg.gif') repeat-x; background-image: none; height: 28px; width: 100%;
 }
 .DocViewerHeading .BasicBrandLogo {
-margin: 0; background-repeat: no-repeat; background-color: transparent; background-image: url(/controls/img/navigation/CoBranding/ReutersLogo.gif); padding: 0; height: 28px; width: 230px;
+margin: 0; background-repeat: no-repeat; background-color: transparent; background-image: url('http://localhost:420/controls/img/navigation/CoBranding/ReutersLogo.gif'); padding: 0; height: 28px; width: 230px;
 }
 DIV.customizationcomponentActive {
 margin: 5px; border: 1px solid #FF0000;
@@ -659,7 +659,7 @@ font-weight: normal; font-size: 10px; cursor: hand; font-family: Verdana; height
 margin-right: 6px; height: 18px; float: right; margin-left: 8px;
 }
 .flexNavSeparator span {
-overflow: hidden; background: url(/controls/img/navigation/sep.gif) centre center no-repeat; height: 11px; position: relative; top: 5px; width: 1px;
+overflow: hidden; background: url('http://localhost:420/controls/img/navigation/sep.gif') centre center no-repeat; height: 11px; position: relative; top: 5px; width: 1px;
 }
 .flexCol {
 border: white solid 1px; vertical-align: top;
@@ -689,16 +689,16 @@ border-right: dashed 1px black;
 cursor: pointer; border: dashed 1px red;
 }
 .flexColResizeOver2 {
-background: url(/controls/img/flex/dashed_line_v.gif) center center repeat-y; cursor: e-resize;
+background: url('http://localhost:420/controls/img/flex/dashed_line_v.gif') center center repeat-y; cursor: e-resize;
 }
 .flexRowResizeOver {
-background: url(/controls/img/flex/dashed_line_h.gif) center center repeat-x; cursor: n-resize;
+background: url('http://localhost:420/controls/img/flex/dashed_line_h.gif') center center repeat-x; cursor: n-resize;
 }
 .flexColResizeDown {
-background: url(/controls/img/flex/solid_line_v.gif) center center repeat-y; cursor: e-resize;
+background: url('http://localhost:420/controls/img/flex/solid_line_v.gif') center center repeat-y; cursor: e-resize;
 }
 .flexRowResizeDown {
-background: url(/controls/img/flex/solid_line_h.gif) center center repeat-x; cursor: n-resize;
+background: url('http://localhost:420/controls/img/flex/solid_line_h.gif') center center repeat-x; cursor: n-resize;
 }
 .flexColMenu {
 background-color: #F8F8F8; border: solid 1px #105DA9; filter: progid:DXImageTransform.Microsoft.Shadow(color='#105DA9', Direction=135, Strength=2); display: none; position: absolute; width: 182px;
@@ -728,7 +728,7 @@ color: #fff;
 opacity: .4; left: 0px; background-repeat: repeat; background-color: #333333; display: none; background-image: none; filter: alpha(opacity=40); z-index: 200; position: absolute; top: 0px;
 }
 .dropshadow {
-background: url(/controls/img/propertyeditor/dropshadow_ie.png) bottom right no-repeat; height: 555px; width: 603px;
+background: url('http://localhost:420/controls/img/propertyeditor/dropshadow_ie.png') bottom right no-repeat; height: 555px; width: 603px;
 }
 *html .dropshadow {
 background: none;
@@ -743,10 +743,10 @@ margin-right: 5px; padding: 7px;
 margin: 0; padding: 0; font: bold 11px "Verdana", sans-serif; float: left; width: 530px;
 }
 .propertyeditor .close {
-background: url(/controls/img/propertyeditor/icon_close.gif) top left no-repeat;
+background: url('http://localhost:420/controls/img/propertyeditor/icon_close.gif') top left no-repeat;
 }
 .propertyeditor .navbar {
-padding-top: 10px; background: #FFF url(/controls/img/Navigation/Tabbar/propertyeditortab_bg.gif) repeat-x bottom;
+padding-top: 10px; background: #FFF url('http://localhost:420/controls/img/Navigation/Tabbar/propertyeditortab_bg.gif') repeat-x bottom;
 }
 *html .propertyeditor .navbar {
 height: 0px;
@@ -767,13 +767,13 @@ text-decoration: none; padding: 6px 9px 5px 9px; display: block; vertical-align:
 text-decoration: none; padding: 6px 9px 5px 9px; display: block; vertical-align: middle; font: normal 11px "Tahoma", sans-serif;
 }
 .propertyeditor LI.tab-off A {
-background: url(/controls/img/Navigation/Tabbar/tabpropertyeditor_off.gif) no-repeat right top; color: #009;
+background: url('http://localhost:420/controls/img/Navigation/Tabbar/tabpropertyeditor_off.gif') no-repeat right top; color: #009;
 }
 .propertyeditor LI.tab-off A:hover {
 text-decoration: underline; color: #F90;
 }
 .propertyeditor LI.tab-on A {
-font-weight: bold; background: url(/controls/img/Navigation/Tabbar/tabpropertyeditor_on.gif) no-repeat right top; border-bottom: solid 1px #FFF; color: #000;
+font-weight: bold; background: url('http://localhost:420/controls/img/Navigation/Tabbar/tabpropertyeditor_on.gif') no-repeat right top; border-bottom: solid 1px #FFF; color: #000;
 }
 .propertyeditor .contentwrapper {
 margin-right: 14px; background: #F5F5F5; border: solid 1px #9C9C9C; padding: 11px 2px 0 8px; height: 440px; border-top: 0; margin-left: 10px;
@@ -941,7 +941,7 @@ UL.alpha LI.first {
 background: none; font-family: Verdana; padding: 0 2px; display: inline;
 }
 UL.alpha LI {
-background: url(/controls/img/sep.gif) no-repeat 0 3px; font-family: Verdana; padding: 0 7px; display: inline; width: 14px;
+background: url('http://localhost:420/controls/img/sep.gif') no-repeat 0 3px; font-family: Verdana; padding: 0 7px; display: inline; width: 14px;
 }
 UL.alpha LI A {
 text-decoration: none; color: #009;
@@ -956,28 +956,28 @@ DIV.button TABLE.default {
 border: 0px; display: inline;
 }
 DIV.button TABLE.default TD.L {
-background: url(/controls/img/btn/leftDef.gif) no-repeat;
+background: url('http://localhost:420/controls/img/btn/leftDef.gif') no-repeat;
 }
 DIV.button TABLE.default TD.R {
-background: url(/controls/img/btn/rightDef.gif) no-repeat;
+background: url('http://localhost:420/controls/img/btn/rightDef.gif') no-repeat;
 }
 DIV.button TABLE.default TD.M BUTTON {
-background: url(/controls/img/btn/tileDef.gif) repeat-x; cursor: hand; border: 0px; color: #000; height: 18px; font: 11px tahoma; width: auto;
+background: url('http://localhost:420/controls/img/btn/tileDef.gif') repeat-x; cursor: hand; border: 0px; color: #000; height: 18px; font: 11px tahoma; width: auto;
 }
 DIV.button TABLE.defaultChg TD.L {
-background: url(/controls/img/btn/leftSel.gif) no-repeat;
+background: url('http://localhost:420/controls/img/btn/leftSel.gif') no-repeat;
 }
 DIV.button TABLE.defaultChg TD.R {
-background: url(/controls/img/btn/rightSel.gif) no-repeat;
+background: url('http://localhost:420/controls/img/btn/rightSel.gif') no-repeat;
 }
 DIV.button TABLE.defaultChg TD.M BUTTON {
-background: url(/controls/img/btn/tileSel.gif) repeat-x; color: #009;
+background: url('http://localhost:420/controls/img/btn/tileSel.gif') repeat-x; color: #009;
 }
 TABLE.button {
 margin: 0; display: inline;
 }
 TABLE.button TD {
-padding-right: 1px; background: url(/controls/img/defaultbutton/button_right_bg.gif) center right no-repeat; border: 0;
+padding-right: 1px; background: url('http://localhost:420/controls/img/defaultbutton/button_right_bg.gif') center right no-repeat; border: 0;
 }
 TABLE.button BUTTON {
 margin-right: 1px; background: transparent; margin: 0; cursor: pointer; border: 0; height: 20px; padding-left: 2px; font: 11px tahoma;
@@ -986,22 +986,22 @@ margin-right: 1px; background: transparent; margin: 0; cursor: pointer; border: 
 padding-bottom: 3px; padding-left: 10px;
 }
 TABLE.button BUTTON.butDef {
-background: url(/controls/img/defaultbutton/button_left_bg.gif) center left no-repeat;
+background: url('http://localhost:420/controls/img/defaultbutton/button_left_bg.gif') center left no-repeat;
 }
 TABLE.button BUTTON.prefAddButton {
-background: url(/controls/img/defaultbutton/button_left_bg.gif) center left no-repeat;
+background: url('http://localhost:420/controls/img/defaultbutton/button_left_bg.gif') center left no-repeat;
 }
 TABLE.button BUTTON.buttonLeftSpace {
-background: url(/controls/img/defaultbutton/button_left_bg.gif) center left no-repeat; margin-left: 8px;
+background: url('http://localhost:420/controls/img/defaultbutton/button_left_bg.gif') center left no-repeat; margin-left: 8px;
 }
 TABLE.button BUTTON.butDefPrpty {
-background: url(/controls/img/defaultbutton/button_left_bg.gif) center left no-repeat; width: 60px;
+background: url('http://localhost:420/controls/img/defaultbutton/button_left_bg.gif') center left no-repeat; width: 60px;
 }
 TABLE.button TD.butSel {
-background: url(/controls/img/defaultbutton/button_right_bg_on.gif) center right no-repeat;
+background: url('http://localhost:420/controls/img/defaultbutton/button_right_bg_on.gif') center right no-repeat;
 }
 TABLE.button BUTTON.butSel {
-background: url(/controls/img/defaultbutton/button_left_bg_on.gif) center left no-repeat;
+background: url('http://localhost:420/controls/img/defaultbutton/button_left_bg_on.gif') center left no-repeat;
 }
 .headlines TABLE.button TD {
 padding-right: 2px;
@@ -1124,7 +1124,7 @@ TABLE.criteria .dis {
 color: #666;
 }
 TABLE.criteria .criteriaInfo {
-background: url(/controls/img/sep.gif) top left no-repeat; color: #666; padding-left: 10px; margin-left: 5px;
+background: url('http://localhost:420/controls/img/sep.gif') top left no-repeat; color: #666; padding-left: 10px; margin-left: 5px;
 }
 .chinese select.finput {
 font-size: 12px;
@@ -1238,13 +1238,13 @@ input.fsubmitdefault {
 border: none; height: 18px; position: relative; width: 78px;
 }
 td.ftrl {
-background-repeat: no-repeat; background-color: #E5E9EF; background-image: url(/controls/img/filter2/toprow-left.gif?251); height: 44px; width: 4px;
+background-repeat: no-repeat; background-color: #E5E9EF; background-image: url('http://localhost:420/controls/img/filter2/toprow-left.gif?251'); height: 44px; width: 4px;
 }
 td.ftrr {
 filter: FlipH; height: 44px; width: 4px;
 }
 td.ftrm {
-background-color: #E5E9EF; background-image: url(/controls/img/filter2/toprow-middle.gif?251); height: 44px;
+background-color: #E5E9EF; background-image: url('http://localhost:420/controls/img/filter2/toprow-middle.gif?251'); height: 44px;
 }
 td.ftrm1 {
 height: 300px;
@@ -1367,49 +1367,49 @@ border: 0px; margin-left: 1px;
 margin-top: 10px;
 }
 TABLE.filter TR.top TD.L {
-background: #E5E9EF url(/controls/img/filter/fltTopLeft.gif?251) no-repeat;
+background: #E5E9EF url('http://localhost:420/controls/img/filter/fltTopLeft.gif?251') no-repeat;
 }
 TABLE.filter TR.top TD.LZ {
-background: #E5E9EF url(/controls/img/filter/fltTop.gif?251) repeat-x;
+background: #E5E9EF url('http://localhost:420/controls/img/filter/fltTop.gif?251') repeat-x;
 }
 TABLE.filter TR.top TD.sep {
-background: url(/controls/img/filter/fltTopSep.gif?251) no-repeat;
+background: url('http://localhost:420/controls/img/filter/fltTopSep.gif?251') no-repeat;
 }
 TABLE.filter TR.top TD.RZ {
-background: #F7EDDD url(/controls/img/filter/fltTop.gif?251) repeat-x;
+background: #F7EDDD url('http://localhost:420/controls/img/filter/fltTop.gif?251') repeat-x;
 }
 TABLE.filter TR.top TD.R {
-background: #F7EDDD url(/controls/img/filter/fltTopRight.gif?251) no-repeat;
+background: #F7EDDD url('http://localhost:420/controls/img/filter/fltTopRight.gif?251') no-repeat;
 }
 TABLE.filter TR.mid TD.L {
-background: #E5E9EF url(/controls/img/filter/fltLeft.gif?251) repeat-y;
+background: #E5E9EF url('http://localhost:420/controls/img/filter/fltLeft.gif?251') repeat-y;
 }
 TABLE.filter TR.mid TD.LZ {
 background-color: #E5E9EF; vertical-align: middle;
 }
 TABLE.filter TR.mid TD.sep {
-background: url(/controls/img/filter/fltHSep.gif?251) repeat-y;
+background: url('http://localhost:420/controls/img/filter/fltHSep.gif?251') repeat-y;
 }
 TABLE.filter TR.mid TD.RZ {
 background-color: #F7EDDD; padding: 6px 1px 7px 2px; vertical-align: middle;
 }
 TABLE.filter TR.mid TD.R {
-background: #F7EDDD url(/controls/img/filter/fltRight.gif?251) repeat-y;
+background: #F7EDDD url('http://localhost:420/controls/img/filter/fltRight.gif?251') repeat-y;
 }
 TABLE.filter TR.bot TD.L {
-background: #E5E9EF url(/controls/img/filter/fltBotLeft.gif?251) no-repeat;
+background: #E5E9EF url('http://localhost:420/controls/img/filter/fltBotLeft.gif?251') no-repeat;
 }
 TABLE.filter TR.bot TD.LZ {
-background: #E5E9EF url(/controls/img/filter/fltBot.gif?251) repeat-x;
+background: #E5E9EF url('http://localhost:420/controls/img/filter/fltBot.gif?251') repeat-x;
 }
 TABLE.filter TR.bot TD.sep {
-background: url(/controls/img/filter/fltBotSep.gif?251) no-repeat;
+background: url('http://localhost:420/controls/img/filter/fltBotSep.gif?251') no-repeat;
 }
 TABLE.filter TR.bot TD.RZ {
-background: #F7EDDD url(/controls/img/filter/fltBot.gif?251) repeat-x;
+background: #F7EDDD url('http://localhost:420/controls/img/filter/fltBot.gif?251') repeat-x;
 }
 TABLE.filter TR.bot TD.R {
-background: #F7EDDD url(/controls/img/filter/fltBotRight.gif?251) no-repeat;
+background: #F7EDDD url('http://localhost:420/controls/img/filter/fltBotRight.gif?251') no-repeat;
 }
 TABLE.filter DIV.content {
 border: 0px; padding: 0px; color: #000; float: left; width: 100%;
@@ -1418,10 +1418,10 @@ TABLE.filter DIV.content DIV {
 border: 0px; padding: 0px; float: left;
 }
 TABLE.filter DIV.content DIV.group {
-background: url(/controls/img/filter/fltHSep.gif) repeat-y; padding: 0px 7px 8px 10px;
+background: url('http://localhost:420/controls/img/filter/fltHSep.gif') repeat-y; padding: 0px 7px 8px 10px;
 }
 TABLE.filter DIV.content DIV.subGroup {
-background: url(/controls/img/filter/fltHSepSm.gif) no-repeat left middle; padding: 0px 7px 8px 10px;
+background: url('http://localhost:420/controls/img/filter/fltHSepSm.gif') no-repeat left middle; padding: 0px 7px 8px 10px;
 }
 TABLE.filter DIV.content DIV.first {
 background: none;
@@ -1541,10 +1541,10 @@ DIV.calheader {
 font-weight: bold; padding-bottom: 3px; font-size: 12px; text-align: center; position: relative; width: 100%;
 }
 A.calnavleft {
-left: 3px; background: url(/controls/img/Navigation/dblleft_arrow.gif) top left no-repeat; cursor: pointer; height: 12px; position: absolute; width: 12px; top: 2px;
+left: 3px; background: url('http://localhost:420/controls/img/Navigation/dblleft_arrow.gif') top left no-repeat; cursor: pointer; height: 12px; position: absolute; width: 12px; top: 2px;
 }
 A.calnavright {
-background: url(/controls/img/Navigation/dblright_arrow.gif) top right no-repeat; cursor: pointer; height: 12px; position: absolute; width: 12px; right: 3px; top: 2px;
+background: url('http://localhost:420/controls/img/Navigation/dblright_arrow.gif') top right no-repeat; cursor: pointer; height: 12px; position: absolute; width: 12px; right: 3px; top: 2px;
 }
 .EventDayTitle {
 background-color: #d7dfef; height: 17px; text-align: right; width: 100%;
@@ -1571,10 +1571,10 @@ TD.innercal DIV.calcontainer {
 background-color: #FFF; border: solid 1px #7F9DB9; padding: 0 1px; width: 100%;
 }
 TD.innercal A.innerleft {
-left: 20px; background: url(/controls/img/Navigation/left_arrow.gif) top left no-repeat;
+left: 20px; background: url('http://localhost:420/controls/img/Navigation/left_arrow.gif') top left no-repeat;
 }
 TD.innercal A.innerright {
-background: url(/controls/img/Navigation/right_arrow.gif) top right no-repeat; right: 20px;
+background: url('http://localhost:420/controls/img/Navigation/right_arrow.gif') top right no-repeat; right: 20px;
 }
 TD.innercal TABLE.datatable TD {
 font-size: 11px; border-right: none; border-left: none;
@@ -1649,7 +1649,7 @@ IFRAME.defaultStatusManager {
 border: 0; filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
 }
 DIV.defaultStatusManager {
-filter: progid:DXImageTransform.Microsoft.DropShadow(OffX=2, OffY=2, Color="#CCCCCC", Positive="true") progid:DXImageTransform.Microsoft.Alpha(opacity=96); background-image: url(/controls/img/Progress-Popup-background.gif); vertical-align: middle; text-align: center;
+filter: progid:DXImageTransform.Microsoft.DropShadow(OffX=2, OffY=2, Color="#CCCCCC", Positive="true") progid:DXImageTransform.Microsoft.Alpha(opacity=96); background-image: url('http://localhost:420/controls/img/Progress-Popup-background.gif'); vertical-align: middle; text-align: center;
 }
 DIV.defaultStatusManager P {
 font: bold 14px Verdana; text-align: center; position: relative; top: 90px;
@@ -1793,13 +1793,13 @@ padding-left: 5px;
 color: #000; font: 12px arial;
 }
 .ManageAlertsDivTop {
-padding-top: 5px; background: URL(/Controls/img/bg_filter_blue.gif); padding-left: 5px; color: #FFF; height: 24px; font: bold 12px arial; text-align: right;
+padding-top: 5px; background: url('http://localhost:420/Controls/img/bg_filter_blue.gif'); padding-left: 5px; color: #FFF; height: 24px; font: bold 12px arial; text-align: right;
 }
 .ManageAlertsDivBottom {
-padding-top: 5px; background: URL(/Controls/img/bg_filter_blue.gif); padding-left: 5px; color: #FFF; height: 24px; font: bold 12px arial; text-align: left;
+padding-top: 5px; background: url('http://localhost:420/Controls/img/bg_filter_blue.gif'); padding-left: 5px; color: #FFF; height: 24px; font: bold 12px arial; text-align: left;
 }
 .AlertType {
-padding-bottom: 5px; background: URL(/Controls/img/bg_company_title.gif); padding-left: 5px; color: #000; height: 16px; font: bold 12px arial;
+padding-bottom: 5px; background: url('http://localhost:420/Controls/img/bg_company_title.gif'); padding-left: 5px; color: #000; height: 16px; font: bold 12px arial;
 }
 .statusMessage {
 visibility: hidden; font-size: medium; margin-top: -20px; background-color: #FFF; height: 21px; text-align: center; margin-left: 300px; width: 700px;
@@ -1826,10 +1826,10 @@ background-color: white;
 background-color: white;
 }
 .confirmation {
-padding-bottom: 5px; background: #FFC url(/rk/images/icons/icon_createnewsalert.gif) left center no-repeat; padding-top: 5px; border: solid 1px #D2D4BF; padding-left: 25px; position: relative;
+padding-bottom: 5px; background: #FFC url('http://localhost:420/rk/images/icons/icon_createnewsalert.gif') left center no-repeat; padding-top: 5px; border: solid 1px #D2D4BF; padding-left: 25px; position: relative;
 }
 .alertsConfirmation {
-padding-bottom: 5px; background: #FFC url(/rk/images/icons/icon_createnewsalert.gif) left center no-repeat; padding-top: 5px; border: solid 1px #D2D4BF; padding-left: 25px; position: relative;
+padding-bottom: 5px; background: #FFC url('http://localhost:420/rk/images/icons/icon_createnewsalert.gif') left center no-repeat; padding-top: 5px; border: solid 1px #D2D4BF; padding-left: 25px; position: relative;
 }
 .alertsConfirmation {
 font-size: large; margin-bottom: 0px; padding: 0px; height: 21px; text-align: center;
@@ -1868,7 +1868,7 @@ TABLE.contextMenu TR TD.rightIcon {
 width: 1px;
 }
 .confirmation {
-padding-bottom: 5px; background: #FFC url(/Controls/images/icons/icon_createnewsalert.gif) left center no-repeat; padding-top: 5px; border: solid 1px #D2D4BF; height: 12px; padding-left: 25px; position: relative;
+padding-bottom: 5px; background: #FFC url('http://localhost:420/Controls/images/icons/icon_createnewsalert.gif') left center no-repeat; padding-top: 5px; border: solid 1px #D2D4BF; height: 12px; padding-left: 25px; position: relative;
 }
 .confirmation IMG {
 cursor: pointer; position: absolute; top: 5px; right: 5px;
@@ -1895,10 +1895,10 @@ text-align: left;
 width: 70px;
 }
 td.bforr {
-background-repeat: no-repeat; background-color: #F7EDDD; background-image: url(/controls/img/filter2/toprow-right.gif?251); height: 44px; text-align: center; width: 115px;
+background-repeat: no-repeat; background-color: #F7EDDD; background-image: url('http://localhost:420/controls/img/filter2/toprow-right.gif?251'); height: 44px; text-align: center; width: 115px;
 }
 td.bfbrr {
-background-repeat: no-repeat; background-color: #F7EDDD; background-image: url(/controls/img/filter2/botrow-right.gif?251); height: 5px; text-align: center; width: 99px;
+background-repeat: no-repeat; background-color: #F7EDDD; background-image: url('http://localhost:420/controls/img/filter2/botrow-right.gif?251'); height: 5px; text-align: center; width: 99px;
 }
 .data-oddMBS {
 background-color: #EFEFEF; border-right: 1px solid #9B9B9B; border-bottom: 1px dashed #9B9B9B;
@@ -1922,22 +1922,22 @@ TABLE.buttonTC {
 padding-right: 13px; margin: 0; display: table-cell; padding-left: 13px;
 }
 div.box_tabs {
-background: transparent url(/Controls/images/box_tabs_border_bg.gif) repeat-x scroll left bottom;
+background: transparent url('http://localhost:420/Controls/images/box_tabs_border_bg.gif') repeat-x scroll left bottom;
 }
 div.box_tabs ul li.first {
 background-position: 0px 0px;
 }
 div.box_tabs ul li.tab-on {
-padding-bottom: 1px; cursor: default; border-bottom: medium none; background-image: url(/Controls/images/box_tabs_active_bg.gif);
+padding-bottom: 1px; cursor: default; border-bottom: medium none; background-image: url('http://localhost:420/Controls/images/box_tabs_active_bg.gif');
 }
 div.box_tabs ul li.tab-on div {
-font-weight: bold; background-image: url(/Controls/images/box_tabs_active_bg_right.gif);
+font-weight: bold; background-image: url('http://localhost:420/Controls/images/box_tabs_active_bg_right.gif');
 }
 div.box_tabs ul li {
-background: transparent url(/Controls/images/box_tabs_inactive_bg.gif) repeat scroll -1px 0px; cursor: pointer; border-bottom: 1px solid #CCCCCC; float: left;
+background: transparent url('http://localhost:420/Controls/images/box_tabs_inactive_bg.gif') repeat scroll -1px 0px; cursor: pointer; border-bottom: 1px solid #CCCCCC; float: left;
 }
 div.box_tabs ul li div {
-background: transparent url(/Controls/images/box_tabs_inactive_bg_right.gif) no-repeat scroll right top; padding: 3px 5px; float: left;
+background: transparent url('http://localhost:420/Controls/images/box_tabs_inactive_bg_right.gif') no-repeat scroll right top; padding: 3px 5px; float: left;
 }
 .box_tabs_body {
 border-color: #CCCCCC; border-width: 1px; border-style: none solid solid; padding: 3px;
