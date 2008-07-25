@@ -1,0 +1,81 @@
+#lightbox {
+left: 0; line-height: 0; text-align: center; z-index: 100; position: absolute; width: 100%;
+}
+#lightbox a img {
+border: none;
+}
+#outerImageContainer {
+margin: 0 auto; background: transparent url('http://www.stu21o.com/global/blank.gif') no-repeat; height: 250px; position: relative; width: 500px;
+}
+#imageContainer {
+padding: 10px;
+}
+#loading {
+left: 0%; line-height: 0; height: 25%; text-align: center; position: absolute; width: 100%; top: 40%;
+}
+#hoverNav {
+left: 0; height: 100%; z-index: 10; position: absolute; width: 100%; top: 0;
+}
+#imageContainer>#hoverNav {
+left: 0;
+}
+#hoverNav a {
+outline: none;
+}
+#prevLink {
+background: transparent url('http://www.stu21o.com/global/blank.gif') no-repeat; display: block; height: 100%; width: 49%;
+}
+#nextLink {
+background: transparent url('http://www.stu21o.com/global/blank.gif') no-repeat; display: block; height: 100%; width: 49%;
+}
+#prevLink {
+left: 0; float: left;
+}
+#nextLink {
+float: right; right: 0;
+}
+#prevLink:hover {
+background: url('http://www.stu21o.com/global/prevlabel.gif') left 50% no-repeat;
+}
+#prevLink:visited:hover {
+background: url('http://www.stu21o.com/global/prevlabel.gif') left 50% no-repeat;
+}
+#nextLink:hover {
+background: url('http://www.stu21o.com/global/nextlabel.gif') right 50% no-repeat;
+}
+#nextLink:visited:hover {
+background: url('http://www.stu21o.com/global/nextlabel.gif') right 50% no-repeat;
+}
+#imageDataContainer {
+overflow: auto; margin: 0 auto; line-height: 1.5em; background-color: #121212; font: 9px Trebuchet MS, Verdana, Helvetica, sans-serif; width: 100%;
+}
+#imageData {
+padding: 0 10px; color: #666666;
+}
+#imageData #imageDetails {
+text-align: left; float: left; width: 70%;
+}
+#imageData #caption {
+font-weight: bold; font-size: 11px; color: #DDDDDD;
+}
+#imageData #numberDisplay {
+padding-bottom: 1.0em; clear: left; display: block;
+}
+#imageData #bottomNavPrev {
+padding-bottom: 0.7em; background-color: #121212; float: right; width: 20px;
+}
+#imageData #bottomNavPrev img {
+left: 8px; margin: 8px auto 0; display: block;
+}
+#imageData #bottomNavNext {
+padding-bottom: 0.7em; margin: 0 10px 0 0; background-color: #121212; float: right; width: 20px;
+}
+#imageData #bottomNavNext img {
+left: 8px; margin: 8px auto 0; display: block;
+}
+#imageData #bottomNavClose {
+padding-bottom: 0.7em; background-color: #121212; float: right; width: 66px;
+}
+#overlay {
+left: 0; background-color: #000; z-index: 90; position: absolute; top: 0;
+}
