@@ -1,0 +1,109 @@
+@import url('http://www.alistapart.com/css/sub.css');
+#content .title {
+padding-bottom: 0.25em; margin-bottom: 0; border-bottom: none; text-align: center;
+}
+#content .byline {
+margin: 0; text-transform: none; padding: 0 0 1em; text-align: center;
+}
+#content .ishinfo {
+padding-bottom: 1em; margin-bottom: 1.5em; border-bottom: 1px dashed #B2B2B2; text-align: center;
+}
+#content h2 {
+font-size: 1.5em; margin: 1.25em 0 0.25em; color: #000;
+}
+#content p {
+margin-bottom: 1.33em;
+}
+#metastuff {
+background: #F8F7EF; margin: 0.25em 0 0.5em; border-width: 1px 0; border: 1px dashed #B2B2B2; padding: 0.75em 0 0.5em; font: 1em Georgia, serif; text-align: center;
+}
+#content #metastuff li {
+background: none; margin: 0; padding: 0; display: inline;
+}
+#content #metastuff p {
+background: none; margin: 0; padding: 0; display: inline;
+}
+#content #metastuff a {
+border-bottom-width: 0; font: 0.9em Verdana, sans-serif;
+}
+#content #metastuff a:hover {
+border-bottom-width: 1px;
+}
+#content #metastuff b {
+margin: 0 0.5em;
+}
+#content #metastuff p a {
+background: url('http://www.alistapart.com/pix/comment_tn.gif') 0 0 no-repeat; padding-left: 20px;
+}
+#content a.warning {
+overflow: hidden; background: url('http://www.alistapart.com/pix/warning.gif') bottom left no-repeat; margin: 0 10px 10px 0; border: none; height: 50px; position: relative; width: 50px; float: left;
+}
+#content a.warning:hover img {
+visibility: hidden;
+}
+#content .illustration p {
+padding-top: 5px; margin: 0; color: #333; font: italic 95%/1.6em Georgia, serif; border-top: 1px dashed #ccc;
+}
+#content .illustration img {
+margin-bottom: 5px; display: block;
+}
+#content .full p {
+margin-bottom: 20px;
+}
+.illustration {
+margin: 0 0 5px 20px; text-align: center; float: right;
+}
+.otherway {
+margin: 0 20px 5px 0; float: left;
+}
+.left {
+margin: 0 20px 5px 0; float: left;
+}
+.full {
+margin: 0; width: 540px; float: none;
+}
+.half {
+width: 270px;
+}
+.third {
+width: 180px;
+}
+.quarter {
+width: 135px;
+}
+#authorbio img {
+margin: 0.5em 10px 10px 0; float: left;
+}
+#credits {
+padding-top: 1em; margin-top: 1em; border-bottom: 1px dashed #999; font: italic 1em Georgia, serif; text-align: right;
+}
+#content #credits li {
+background: none;
+}
+#content div.discuss {
+background: #F8F7EF url('http://www.alistapart.com/pix/talk-balloon-bigger.gif') 10px 1.75em no-repeat; border-width: 1px 0; border: 1px dashed #999;
+}
+#content div.discuss h2 {
+margin: 0; padding: 0 0 0 70px;
+}
+#content .discuss p {
+margin: 0; padding: 0 0 0 70px;
+}
+#content div.discuss h2 {
+padding-top: 0.5em; border-top: 5px solid white;
+}
+#content div.discuss p {
+padding-bottom: 0.75em; border-bottom: 5px solid white;
+}
+#content .ednote {
+margin: 0; background: #F8F7EF; padding: 0.5em; color: #666;
+}
+#content .ednote p {
+margin: 0; padding: 0.5em;
+}
+#content .callout {
+margin: 0; background: #F8F7EF; border: 1px solid #d2cdb0; padding: 1em; color: #333;
+}
+#content .callout p {
+margin: 0; padding: 1em;
+}
