@@ -46,6 +46,12 @@ background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button
 TABLE.button BUTTON.butSelHi {
 background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_left_bg_on.gif') center left no-repeat;
 }
+TABLE.button BUTTON.butSel2 {
+background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_left_bg_on.gif') center left no-repeat;
+}
+TABLE.button BUTTON.butSelHi2 {
+background: url('http://www.knowledge.reuters.com/rk/images/defaultbutton/button_left_bg_on.gif') center left no-repeat;
+}
 TABLE.button BUTTON.butSelHi {
 color: #F60;
 }
@@ -838,6 +844,9 @@ background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/ta
 .TabbarItem-Level1-active-container A {
 background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl1_left_on.gif') top left no-repeat; text-decoration: none; padding: 5px 5px 0 5px; display: block; color: #000; height: 26px;
 }
+.TabbarItem-Level1-active-container A:visited {
+background: url('http://www.knowledge.reuters.com/rk/images/Navigation/Tabbar/tablvl1_left_on.gif') top left no-repeat; text-decoration: none; padding: 5px 5px 0 5px; display: block; color: #000; height: 26px;
+}
 .TabbarItem-Level1-active-container A:hover {
 color: #000;
 }
@@ -860,6 +869,9 @@ padding-right: 7px; background: none; padding-left: 7px; color: #369;
 padding-right: 7px; background: none; padding-left: 7px; color: #369;
 }
 .TabbarItem-Level1-inactive-container A:hover {
+padding-right: 7px; background: none; padding-left: 7px; color: #369;
+}
+.TabbarItem-Level1-inactive-container a:visited {
 padding-right: 7px; background: none; padding-left: 7px; color: #369;
 }
 .Guides {
@@ -1031,13 +1043,13 @@ overflow: hidden; vertical-align: middle; height: 22px; width: 205px;
 overflow: hidden; cursor: pointer; background-color: #F8F8F8; text-overflow: ellipsis; padding-left: 5px; height: 22px; color: #000; font: 11px Tahoma; width: 182px;
 }
 *> .serviceMenuSubItem {
-padding-top: 3px; display: block; position: relative;
+padding-top: 3px; display: block; position: relative; width: 169px;
 }
 .serviceMenuSubItemOver {
 overflow: hidden; cursor: pointer; background-color: #105DA9; border: 1px solid #fff; text-overflow: ellipsis; padding-left: 5px; height: 22px; color: #fff; font: 11px Tahoma; width: 182px;
 }
 *> .serviceMenuSubItemOver {
-padding-top: 3px; display: block; position: relative;
+padding-top: 3px; display: block; position: relative; width: 169px;
 }
 .serviceMenuSubItemIcon {
 overflow: hidden; cursor: pointer; background-color: #C4D2E5; padding: 2px 2px 0 2px; height: 22px; color: #fff; font: 11px Tahoma; width: 23px;
@@ -2346,4 +2358,7 @@ border-top: solid 1px #C3C3C3; width: 565px;
 }
 *>.propertyeditor .content {
 width: 558px;
+}
+.estimates.selected {
+background-color: #dcdcdc;
 }
