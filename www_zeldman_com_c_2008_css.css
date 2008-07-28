@@ -1,0 +1,430 @@
+@import url('http://www.zeldman.com/c/deck.css');
+html {
+min-width: 742px;
+}
+img {
+border: 0;
+}
+p.access {
+display: none;
+}
+img.counter {
+display: inline; margin-left: 5px;
+}
+body {
+background: #ddb url('http://www.zeldman.com/i04/holder.gif') top center repeat-y; margin: 0; border: 0; padding: 0; color: #552; font: small/18px "Lucida Grande", "Trebuchet MS", "Bitstream Vera Sans", Verdana, Helvetica, sans-serif; text-align: center;
+}
+div#wrapper {
+margin: 0 auto; background: transparent url('http://www.zeldman.com/i04/wrapinner.gif') top left repeat-y; padding: 0; color: #552; text-align: left; width: 742px;
+}
+div#maincontent {
+margin: 0; border: 0; padding: 0; margin-left: 6px; width: 440px; float: left;
+}
+html>body div#maincontent {
+min-height: 800px; margin-left: 12px;
+}
+div#sidebar {
+margin: 0 0 0 472px; border: 0; padding: 0; color: #663; width: 230px;
+}
+div#footer {
+clear: both; margin: 10px 0 0 12px; background: #cc9 url('http://www.zeldman.com/i04/footshadow.gif') top left repeat-x; border-bottom: 10px solid #eed; border: 0; padding: 5px 0; color: #552; border-top: 10px solid #eed; width: 700px;
+}
+div#footer p {
+font-size: 11px; margin: 0; background: transparent url('http://www.zeldman.com/i04/author.gif') center left no-repeat; line-height: 18px; padding: 0 0 0 50px;
+}
+h1 {
+overflow: hidden; margin: 0; border: 0; text-indent: -9999px; padding: 0;
+}
+h1 a:link {
+margin: 0 0 0 12px; background: #cc9 url('http://www.zeldman.com/i04/logohed.gif') top left no-repeat; border: 0; padding: 0; display: block; height: 50px; width: 700px;
+}
+h1 a:visited {
+margin: 0 0 0 12px; background: #cc9 url('http://www.zeldman.com/i04/logohed.gif') top left no-repeat; border: 0; padding: 0; display: block; height: 50px; width: 700px;
+}
+h1 a:hover {
+background: #cca url('http://www.zeldman.com/i04/logohed.gif') top left no-repeat;
+}
+div#globalnav {
+background: #eed; margin: 0 0 0 12px; border: 0; padding: 0; height: 30px; width: 700px;
+}
+div#globalnav ul#menu {
+margin: 0; background: transparent url('http://www.zeldman.com/i04/nav.gif') top left no-repeat; padding: 0; height: 30px; position: relative; width: 700px;
+}
+div#globalnav ul#menu li {
+list-style: none; margin: 0; padding: 0; position: absolute; top: 0;
+}
+ul#menu li {
+display: block; height: 30px;
+}
+ul#menu a {
+display: block; height: 30px;
+}
+ul#depts {
+margin: 0; padding: 0;
+}
+ul#depts li {
+list-style: none; line-height: 1.5em; text-transform: uppercase; padding-left: 0; letter-spacing: 2px; margin-left: 0;
+}
+ul#depts li#contact {
+margin-top: 5px;
+}
+div#globalnav ul#menu li a {
+overflow: hidden; text-decoration: none; text-indent: -9999px;
+}
+#dailymenu {
+left: 0; width: 138px;
+}
+#dwwsmenu {
+left: 139px; width: 248px;
+}
+#glammenu {
+left: 385px; width: 153px;
+}
+#classicsmenu {
+left: 538px; width: 97px;
+}
+#aboutmenu {
+left: 634px; width: 67px;
+}
+#dailymenu a:hover {
+background: transparent url('http://www.zeldman.com/i04/nav.gif') 0 -30px no-repeat;
+}
+#dwwsmenu a:hover {
+background: transparent url('http://www.zeldman.com/i04/nav.gif') -139px -30px no-repeat;
+}
+#glammenu a:hover {
+background: transparent url('http://www.zeldman.com/i04/nav.gif') -385px -30px no-repeat;
+}
+#classicsmenu a:hover {
+background: transparent url('http://www.zeldman.com/i04/nav.gif') -538px -30px no-repeat;
+}
+#aboutmenu a:hover {
+background: transparent url('http://www.zeldman.com/i04/nav.gif') -634px -30px no-repeat;
+}
+body#home #dailymenu {
+background: transparent url('http://www.zeldman.com/i04/nav.gif') 0 -30px no-repeat;
+}
+body#bookhome #dwwsmenu {
+background: transparent url('http://www.zeldman.com/i04/nav.gif') -139px -30px no-repeat;
+}
+body#diary #glammenu {
+background: transparent url('http://www.zeldman.com/i04/nav.gif') -385px -30px no-repeat;
+}
+body.cat-glamorous #glammenu {
+background: transparent url('http://www.zeldman.com/i04/nav.gif') -385px -30px no-repeat;
+}
+body#whiskers #classicsmenu {
+background: transparent url('http://www.zeldman.com/i04/nav.gif') -538px -30px no-repeat;
+}
+body#yak #aboutmenu {
+background: transparent url('http://www.zeldman.com/i04/nav.gif') -634px -30px no-repeat;
+}
+body#bookhome li#dwws a {
+background: transparent; color: #530;
+}
+body#colophonpage li#colophon a {
+background: transparent; color: #530;
+}
+body#lopez li#contact a {
+background: transparent; color: #530;
+}
+body#contrastpage li#contrast a {
+background: transparent; color: #530;
+}
+body#verbal li#pubs a {
+background: transparent; color: #530;
+}
+body#travel li#tour a {
+background: transparent; color: #530;
+}
+body#toys li#tools a {
+background: transparent; color: #530;
+}
+body#outsider li#externals a {
+background: transparent; color: #530;
+}
+body#pleasurepage li#pleasure a {
+background: transparent; color: #530;
+}
+body#syndicate li#xmlfeed a {
+background: transparent; color: #530;
+}
+body.cat-essentials li#essentials a {
+background: transparent; color: #530;
+}
+body#oldposts li#essentials a {
+background: transparent; color: #530;
+}
+a:link {
+font-weight: bold; background: transparent; text-decoration: none; color: #785;
+}
+a:visited {
+font-weight: bold; background: transparent; text-decoration: none; color: #785;
+}
+a:hover {
+font-weight: bold; background: transparent; text-decoration: none; color: #530;
+}
+a:active {
+font-weight: bold; background: transparent; text-decoration: none; color: #785;
+}
+div#maincontent p a:link {
+text-decoration: underline;
+}
+div#maincontent p a:visited {
+text-decoration: underline;
+}
+div#maincontent dd a:link {
+text-decoration: underline;
+}
+div#maincontent dd a:visited {
+text-decoration: underline;
+}
+div#maincontent li a:link {
+text-decoration: underline;
+}
+div#maincontent li a:visited {
+text-decoration: underline;
+}
+div#maincontent p a:hover {
+text-decoration: none;
+}
+div#maincontent dd a:hover {
+text-decoration: none;
+}
+div#maincontent li a:hover {
+text-decoration: none;
+}
+h2 {
+font-weight: bold; margin: 15px 0 7px 0; line-height: 1.2em;
+}
+h3 {
+font-weight: bold; margin: 15px 0 7px 0; line-height: 1.2em;
+}
+h4 {
+font-weight: bold; margin: 15px 0 7px 0; line-height: 1.2em;
+}
+p {
+margin: 0 0 1em 0; line-height: 140%;
+}
+div#maincontent h2 {
+font-size: 18px;
+}
+body#home div#maincontent h2 {
+margin-top: 25px;
+}
+body#home div#maincontent h2.follow {
+margin-top: 5px;
+}
+div#maincontent h3 {
+font-size: 14px; margin-bottom: 5px;
+}
+div.timestamp h3 {
+text-transform: uppercase; letter-spacing: 1px;
+}
+blockquote {
+border: 0; padding: 0; padding-left: 10px; border-left: 1px dotted #785; margin-left: 10px;
+}
+blockquote p {
+font-weight: normal; font-size: 90%; line-height: 18px; font-family: Georgia, "New Century Schoolbook", "Bitstream Vera Serif", Utopia, "Times New Roman", times, serif; text-align: justify;
+}
+dd blockquote {
+font-weight: normal; font-size: 90%; line-height: 18px; font-family: Georgia, "New Century Schoolbook", "Bitstream Vera Serif", Utopia, "Times New Roman", times, serif; text-align: justify;
+}
+code {
+font-weight: normal; font-size: small; font-family: monaco, "Bitstream Vera Sans Mono", "Courier New", courier, monospace;
+}
+pre {
+font-weight: normal; font-size: small; font-family: monaco, "Bitstream Vera Sans Mono", "Courier New", courier, monospace;
+}
+div.timestamp {
+margin: 10px 0 0 0; padding: 0;
+}
+div.timestamp h3 {
+background: transparent url('http://www.zeldman.com/i04/timestampa.gif') no-repeat 0 -200px;
+}
+div#maincontent div.timestamp h3 {
+font-size: 13px; margin: 0; text-transform: none; padding: 0; letter-spacing: normal;
+}
+div.timestamp h3 a:link {
+background: transparent url('http://www.zeldman.com/i04/timestamp.gif') top left no-repeat; margin: 0 10px 0 0; padding: 0 0 0 30px;
+}
+div.timestamp h3 a:visited {
+background: transparent url('http://www.zeldman.com/i04/timestamp.gif') top left no-repeat; margin: 0 10px 0 0; padding: 0 0 0 30px;
+}
+div.timestamp h3 a:hover {
+background: transparent url('http://www.zeldman.com/i04/timestampa.gif') top left no-repeat;
+}
+div#maincontent h2 a:link {
+background: transparent url('http://www.zeldman.com/i04/permaleaf.gif') top left no-repeat; padding: 0 0 0 40px;
+}
+div#maincontent h2 a:visited {
+background: transparent url('http://www.zeldman.com/i04/permaleaf.gif') top left no-repeat; padding: 0 0 0 40px;
+}
+div#maincontent h2 a:hover {
+background: transparent url('http://www.zeldman.com/i04/permaleafa.gif') top left no-repeat;
+}
+div#searchui {
+margin: 10px 0 10px 0; padding: 0;
+}
+#searchui label {
+font-size: 11px; text-transform: uppercase; color: #ffe; letter-spacing: 2px;
+}
+#searchui input.butt {
+font-size: x-small; background: #bc9; color: #552;
+}
+input.hun {
+font-size: x-small; margin: 0 2px; width: 100px;
+}
+#sidebar dl {
+margin: 0; padding: 0;
+}
+#sidebar dt {
+font-size: 95%; margin-bottom: 2px; margin-top: 3px; line-height: 17px; padding-left: 0; margin-left: 0;
+}
+#sidebar dd {
+font-size: 95%; margin-bottom: 2px; margin-top: 3px; line-height: 17px; padding-left: 0; margin-left: 0;
+}
+#sidebar dd {
+font-size: 85%; margin-bottom: 5px; line-height: 17px; margin-left: 10px;
+}
+body #sidebar h2 {
+font-weight: normal; text-shadow: 2px 3px 3px #896; font-size: small; background: #ab8; margin-top: 25px; text-transform: uppercase; padding: 2px 5px 3px 5px; color: #ffe; letter-spacing: 2px;
+}
+#sidebar dd a:link {
+font-weight: normal;
+}
+#sidebar dd a:visited {
+font-weight: normal;
+}
+div#banners {
+background: transparent url('http://www.zeldman.com/i04/enjoy.gif') top left no-repeat; margin: 0; padding: 13px 0 0 0;
+}
+div#banners h5 {
+margin: 0 0 10px 0; padding: 0;
+}
+div#banners h5#alaban {
+margin: 0; text-indent: -9999px; padding: 0; height: 28px; width: 230px;
+}
+div#banners h5#alaban a {
+background: transparent url('http://www.zeldman.com/i04/alaban.gif') top left no-repeat; margin: 3px 0 0 0; text-decoration: none; padding: 0; display: block; height: 100%; width: 100%;
+}
+div#banners h5#alaban a:hover {
+background: transparent url('http://www.zeldman.com/i04/alaban.gif') 0 -28px no-repeat;
+}
+div#banners h5#hcban {
+margin: 10px 0 0 0; text-indent: -9999px; padding: 0; height: 45px; width: 230px;
+}
+div#banners h5#hcban a {
+background: transparent url('http://www.zeldman.com/i04/hcban2.gif') top left no-repeat; margin: 3px 0 0 0; text-decoration: none; padding: 0; display: block; height: 100%; width: 100%;
+}
+div#banners h5#hcban a:hover {
+background: transparent url('http://www.zeldman.com/i04/hcban2.gif') 0 -45px no-repeat;
+}
+div#banners h5#aeaban {
+margin: 10px 0 0 0; text-indent: -9999px; padding: 0; height: 16px; width: 230px;
+}
+div#banners h5#aeaban a {
+background: transparent url('http://www.zeldman.com/i04/aeaban3.gif') top left no-repeat; margin: 3px 0 0 0; text-decoration: none; padding: 0; display: block; height: 100%; width: 100%;
+}
+div#banners h5#aeaban a:hover {
+background: transparent url('http://www.zeldman.com/i04/aeaban3.gif') 0 -16px no-repeat;
+}
+p.button {
+font-size: medium; margin: 25px 0;
+}
+form#buttski {
+margin: 10px auto; padding: 0; text-align: center;
+}
+.butt {
+background: #eed; padding: 2px; color: #552;
+}
+div#maincontent ul {
+margin: 3px 0; padding: 0 0 5px 0;
+}
+div#maincontent ol li {
+list-style: decimal outside; margin: 0 5px 5px 0; line-height: 140%; padding: 0 0 0 5px;
+}
+div#maincontent ul li {
+padding-bottom: 0; list-style: square inside; margin-bottom: 5px; line-height: 140%; padding-left: 5px; margin-left: 5px;
+}
+div#maincontent ul ul li {
+list-style: square inside; margin-top: 10px;
+}
+div#maincontent ul.inlinelist {
+margin: 0; padding: 0;
+}
+div#maincontent .inlinelist li {
+margin: 0; border: 0; padding: 0 5px 0 0; display: inline;
+}
+div#maincontent dl {
+padding-top: 0; margin-top: 5px;
+}
+div#maincontent dl dt {
+padding-bottom: 5px; margin-bottom: 5px; line-height: 140%; border-bottom: 1px solid #cca; border: 0;
+}
+div#maincontent dl dd {
+margin: 0 10px 15px 10px; padding: 0; text-align: justify;
+}
+div#maincontent dl#sockdrawer dd {
+font-size: x-small; margin: 0 0 5px 0; padding: 0; text-align: left;
+}
+.floattenr {
+margin: 0 10px 0 0; float: left;
+}
+body#contrastpage h2.contrast {
+overflow: hidden; margin-top: 0; text-indent: -9999px;
+}
+body#contrastpage h2.contrast a:link {
+margin: 10px 0 5px 0; background: #eed url('http://www.zeldman.com/i04/cmeterdark.gif') top left no-repeat; border: 0; padding: 0; display: block; height: 35px; width: 440px;
+}
+body#contrastpage h2.contrast a:visited {
+margin: 10px 0 5px 0; background: #eed url('http://www.zeldman.com/i04/cmeterdark.gif') top left no-repeat; border: 0; padding: 0; display: block; height: 35px; width: 440px;
+}
+img.rotc {
+background: transparent url('http://www.zeldman.com/i04/bg0432.gif') top left repeat; border: 2px solid #ccb;
+}
+html #maincontent	dd.authorname {
+font-size: 11px; margin-bottom: 5px;
+}
+html #maincontent	dd.authorname a {
+text-transform: uppercase; text-decoration: none; letter-spacing: 1px;
+}
+html #maincontent p.intro {
+margin-top: 10px; font-style: italic;
+}
+html #maincontent h3.sponsor {
+margin-bottom: 7px; margin-top: 3px; text-transform: uppercase; letter-spacing: 1px;
+}
+.impressum {
+text-transform: uppercase; letter-spacing: 1px;
+}
+.endpost {
+padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #ddc;
+}
+dl.endpost {
+padding-bottom: 10px;
+}
+.caps {
+letter-spacing: 0.1em;
+}
+div#maincontent ul.talkrpost {
+list-style: none; margin: 0 0 50px 0;
+}
+div#maincontent ul.talkrpost li {
+font-size: 13px; list-style: none; margin: 0; padding: 0; font-style: italic;
+}
+div#maincontent ul.talkrpost li a {
+text-decoration: none;
+}
+div#maincontent ul.talkrpost li a:before {
+content: "::: ";
+}
+div#sidebar div#sponsors {
+margin: 15px 0 -10px 0; border: 0; padding: 0;
+}
+div#sidebar div#sponsors p {
+font-size: xx-small; margin: 0; line-height: 1em; padding: 0;
+}
+p.cat {
+font-size: 85%;
+}
