@@ -1,0 +1,144 @@
+body {
+margin: 0px; background-color: #FFFFFF; padding: 0px; height: 100%; width: 100%;
+}
+table.body {
+vertical-align: middle; height: 100%; text-align: center; width: 100%;
+}
+form.l_form {
+margin: 0px;
+}
+div.l_outercontainer {
+margin: 0px auto; height: 381px; text-align: left; width: 701px;
+}
+div.multipleLogin_outerContainer {
+left: 50%; margin-top: -155px; height: 310px; position: absolute; margin-left: -350px; width: 699px; top: 50%;
+}
+div.l_outercontainershrunk {
+background: #fff; margin: 0px auto; height: 381px; text-align: left; width: 524px;
+}
+DIV.l_main {
+background: #fff; margin-top: 9px; border: #C4C9CD 1px solid; padding: 0px; float: left;
+}
+div.l_leftimage img {
+visibility: expression(navigator.appVersion.substr(navigator.appVersion.indexOf("MSIE") + 5,3) >= 6 ? 'visible' : 'hidden'); height: 380px; float: left; width: 7px;
+}
+div.l_rightimage img {
+visibility: expression(navigator.appVersion.substr(navigator.appVersion.indexOf("MSIE") + 5,3) >= 6 ? 'visible' : 'hidden'); height: 380px; float: left; width: 7px;
+}
+div.l_splashimage {
+background-repeat: no-repeat; background-image: url('http://nc.knowledge.reuters.com/rk/images/login/rkMainLogin.jpg'); height: 350px; width: 500px; float: left;
+}
+div.l_splashimageRK {
+background-repeat: no-repeat; border: 0px; background-image: url('http://nc.knowledge.reuters.com/rk/images/login/rkMainLogin.jpg'); height: 291px; width: 500px;
+}
+DIV.loginMessageContainer {
+margin-bottom: 5px; border: #adadad 1px solid; padding: 0px;
+}
+.loginMessageContainer {
+font-family: tahoma, geneva, sans-serif;
+}
+.loginMessageContainer A {
+font-weight: bold; text-decoration: none; color: #00438A;
+}
+DIV.loginMessageGradientContainer {
+margin: 0px; background: url('http://nc.knowledge.reuters.com/rk/images/login/rkLoginVerticalGradient.png'); background-color: #dfe8f4; background-repeat: repeat-x; padding: 7px;
+}
+DIV.multipleLogin_mainTextBox {
+font-size: 11px; margin: 10px 0px; background: #ffffff; border: #adadad 1px solid; padding: 10px; height: 100%;
+}
+.multipleLogin_titleText {
+font-weight: bold; font-size: 16px; color: #000000;
+}
+.multipleLogin_errorText {
+font-weight: bold; font-size: 12px; margin-bottom: 15px; color: #cc0000;
+}
+.multipleLogin_cause {
+margin: 15px 9px; color: #000000;
+}
+.multipleLogin_cause .summary {
+font-weight: bold; font-size: 12px; margin-bottom: 1px;
+}
+.multipleLogin_cause .advice {
+padding-left: 13px;
+}
+.multipleLogin_CopyRight {
+color: #666666; font: 9px tahoma, geneva, sans-serif;
+}
+DIV.l_rightsection {
+background: #e7e8ea; padding: 18px 10px; height: 350px; border-left: #C4C9CD 1px solid; text-align: left; width: 160px; float: left;
+}
+DIV.l_instructions {
+padding-right: 8px; padding-bottom: 10px; padding-top: 0px; color: #707070; font: 11px tahoma, geneva, sans-serif;
+}
+DIV.l_text {
+margin-bottom: 0px; margin-top: 2px; font: 11px tahoma, geneva, sans-serif;
+}
+Div.l_textsmall {
+margin-bottom: 2px; margin-top: 2px; font: 10px verdana, geneva, sans-serif;
+}
+Div.l_textsmall_1 {
+display: none;
+}
+input.l_textbox {
+border: #A7AFB3 1px solid; color: #333; height: 16px; font: 11px verdana, geneva, sans-serif; width: 151px;
+}
+input.l_checkbox {
+margin: 0px;
+}
+DIV.l_buttonDiv {
+text-align: right;
+}
+.l_button {
+margin: 2px 4px 2px 4px;
+}
+DIV.l_error {
+font-weight: bold; font-size: 9px; font-family: Tahoma, Verdana, sans-serif; color: #FF0000; height: 25px; text-align: left;
+}
+DIV.l_legal {
+color: #707070; font: 10px tahoma, geneva, sans-serif;
+}
+DIV.l_footer {
+display: none;
+}
+table.l_poweredbylogo {
+display: none;
+}
+DIV.l_Links {
+display: block; padding-left: 10px;
+}
+DIV.l_LinksBrand {
+display: none;
+}
+DIV.l_CopyRight {
+padding-bottom: 2px; padding-top: 20px; color: #707070; font: 9px tahoma, geneva, sans-serif;
+}
+DIV.l_CopyRight_Abn {
+display: none;
+}
+A.l_externallink {
+padding-right: 4px; font-weight: bold; font-size: 11px; text-decoration: none; font-family: Tahoma; padding-left: 4px; color: #003399;
+}
+A.l_externallink:active {
+padding-right: 4px; font-weight: bold; font-size: 11px; text-decoration: none; font-family: Tahoma; padding-left: 4px; color: #003399;
+}
+A.l_externallink:visited {
+padding-right: 4px; font-weight: bold; font-size: 11px; text-decoration: none; font-family: Tahoma; padding-left: 4px; color: #003399;
+}
+A.l_externallink:hover {
+padding-right: 4px; font-weight: bold; font-size: 11px; font-family: Tahoma; padding-left: 4px; color: #ff9900;
+}
+A.l_externallinksmall {
+font-weight: normal; font-size: 10px; text-decoration: none; font-family: Tahoma; color: #003399;
+}
+A.l_externallinksmall:active {
+font-weight: normal; font-size: 10px; text-decoration: none; font-family: Tahoma; color: #003399;
+}
+A.l_externallinksmall:visited {
+font-weight: normal; font-size: 10px; text-decoration: none; font-family: Tahoma; color: #003399;
+}
+A.l_externallinksmall:hover {
+font-weight: normal; font-size: 10px; font-family: Tahoma; color: #ff9900;
+}
+DIV.l_forgetPassword {
+padding-right: 0px; padding-top: 0px; color: #000; font: 9px tahoma, geneva, sans-serif; text-align: left;
+}
