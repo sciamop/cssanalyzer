@@ -92,19 +92,19 @@ div.dp-popup td.disabled {
 cursor: default;
 }
 #facebox .b {
-background: url(/facebox/b.png);
+background: url('http://github.com/facebox/b.png');
 }
 #facebox .tl {
-background: url(/facebox/tl.png);
+background: url('http://github.com/facebox/tl.png');
 }
 #facebox .tr {
-background: url(/facebox/tr.png);
+background: url('http://github.com/facebox/tr.png');
 }
 #facebox .bl {
-background: url(/facebox/bl.png);
+background: url('http://github.com/facebox/bl.png');
 }
 #facebox .br {
-background: url(/facebox/br.png);
+background: url('http://github.com/facebox/br.png');
 }
 #facebox {
 left: 0; text-align: left; z-index: 100; position: absolute; top: 0;
@@ -164,7 +164,7 @@ list-style: none; list-style-position: outside; margin: 0; padding: 0;
 overflow: hidden; font-size: 12px; margin: 0px; cursor: default; display: block; padding: 2px 5px; font: menu; text-align: left;
 }
 .ac_loading {
-background: Window url('/images/modules/ajax/indicator.gif') right center no-repeat;
+background: Window url('http://github.com/images/modules/ajax/indicator.gif') right center no-repeat;
 }
 .ac_over {
 background-color: Highlight; color: HighlightText; text-align: left;
@@ -443,13 +443,13 @@ background-color: #EAF2F5; color: #999;
 background-color: #FFFD98; border: 1px solid #FFC642;
 }
 #site_alert .site {
-background: #FFFD98 url(/images/error/octocat_alert.gif) 0 50% no-repeat;
+background: #FFFD98 url('http://github.com/images/error/octocat_alert.gif') 0 50% no-repeat;
 }
 #site_alert p {
 font-weight: bold; font-size: 110%; padding: 1.25em 0 1.25em 4em;
 }
 #header {
-background: #fcfcfc url(/images/modules/header/header_bg.png) 0 100% repeat-x; height: 6.82em;
+background: #fcfcfc url('http://github.com/images/modules/header/header_bg.png') 0 100% repeat-x; height: 6.82em;
 }
 #header a {
 color: #fff;
@@ -506,7 +506,7 @@ text-decoration: underline;
 overflow: hidden;
 }
 #header .userbox .inbox {
-background: url('/images/modules/inbox/message.png') 0 .1em no-repeat; cursor: pointer; margin-top: .7em; padding-left: 20px; float: left;
+background: url('http://github.com/images/modules/inbox/message.png') 0 .1em no-repeat; cursor: pointer; margin-top: .7em; padding-left: 20px; float: left;
 }
 #header .userbox a {
 color: #4183c4;
@@ -521,7 +521,7 @@ margin: 0 auto -8.6em; min-height: 100%; height: 100%;
 padding-bottom: 4em; height: 8.6em;
 }
 #footer {
-overflow: hidden; background: #bbccd9 url(/images/modules/footer/bg.png) 0 0 repeat-x; color: #cadcea; height: 8.6em;
+overflow: hidden; background: #bbccd9 url('http://github.com/images/modules/footer/bg.png') 0 0 repeat-x; color: #cadcea; height: 8.6em;
 }
 #footer a {
 text-decoration: underline; color: white;
@@ -635,19 +635,19 @@ width: 31em;
 width: 31em;
 }
 #repo_menu {
-overflow: hidden; background: #eaeaea url(/images/modules/repo_menu/bg.png) 0 0 repeat-x; text-align: left;
+overflow: hidden; background: #eaeaea url('http://github.com/images/modules/repo_menu/bg.png') 0 0 repeat-x; text-align: left;
 }
 #repo_menu ul {
-overflow: hidden; background: #f4f4f4 url(/images/modules/repo_menu/tab.png) 0 0 repeat-x; border-bottom: 3px solid white;
+overflow: hidden; background: #f4f4f4 url('http://github.com/images/modules/repo_menu/tab.png') 0 0 repeat-x; border-bottom: 3px solid white;
 }
 #repo_menu ul li {
-padding-top: .4em; background: #f4f4f4 url(/images/modules/repo_menu/tab.png) 0 0 repeat-x; border-right: 2px solid #eee; height: 1.6em; position: relative; list-style-type: none; float: left;
+padding-top: .4em; background: #f4f4f4 url('http://github.com/images/modules/repo_menu/tab.png') 0 0 repeat-x; border-right: 2px solid #eee; height: 1.6em; position: relative; list-style-type: none; float: left;
 }
 #repo_menu ul li:hover {
-background: #f4f4f4 url(/images/modules/repo_menu/tab_hover.png) 0 0 repeat-x;
+background: #f4f4f4 url('http://github.com/images/modules/repo_menu/tab_hover.png') 0 0 repeat-x;
 }
 #repo_menu ul li.active {
-background: white url(/images/modules/repo_menu/tab_active.png) 0 0 repeat-x;
+background: white url('http://github.com/images/modules/repo_menu/tab_active.png') 0 0 repeat-x;
 }
 #repo_menu ul li a {
 font-size: 110%; padding: 1em 1.25em .3em 1.25em; color: #979797;
@@ -659,10 +659,10 @@ text-decoration: none; color: black;
 color: black;
 }
 #triangle {
-background: url(/images/modules/repo_menu/triangle.gif); height: 10px; width: 10px;
+background: url('http://github.com/images/modules/repo_menu/triangle.gif'); height: 10px; width: 10px;
 }
 #repo_sub_menu {
-margin-bottom: 1.5em; background: #dadada url(/images/modules/repo_sub_menu/bg.png) 0 100% repeat-x; line-height: 1.5; height: 2.099em;
+margin-bottom: 1.5em; background: #dadada url('http://github.com/images/modules/repo_sub_menu/bg.png') 0 100% repeat-x; line-height: 1.5; height: 2.099em;
 }
 #repo_sub_menu .site {
 padding: .4em 1em 0 1em;
@@ -698,7 +698,7 @@ background-color: #bbb; text-decoration: none;
 background-color: #eee;
 }
 #home .search {
-background: #d5d5d5 url(/images/modules/home/search_bg.png) repeat-x; margin-top: -1em; height: 7.35em;
+background: #d5d5d5 url('http://github.com/images/modules/home/search_bg.png') repeat-x; margin-top: -1em; height: 7.35em;
 }
 #home .search .site {
 padding-top: 1.15em; width: 46.78em;
@@ -731,7 +731,7 @@ font-weight: bold; font-size: 270%; margin-top: -.2em;
 font-weight: bold; font-size: 95%; margin-top: -.4em; text-transform: uppercase; color: #c7c7c7;
 }
 #home .featured .blurb {
-background: white url(/images/modules/home/triangle.png) 1.9em .7em no-repeat; padding-left: 5.57em; color: #888; width: 29.23em; float: left;
+background: white url('http://github.com/images/modules/home/triangle.png') 1.9em .7em no-repeat; padding-left: 5.57em; color: #888; width: 29.23em; float: left;
 }
 #home .featured .blurb p {
 font-size: 110%;
@@ -842,7 +842,7 @@ border-top: 1px solid #bedce7;
 padding-top: 1em;
 }
 #commit .envelope {
-overflow: hidden; background: #eaf2f5 url(/images/modules/commit/bg_gradient.gif) 0 100% repeat-x; border-right: 1px solid #bedce7; border-bottom: 1px solid #bedce7; padding: 0 .7em .7em .7em; border-left: 1px solid #bedce7;
+overflow: hidden; background: #eaf2f5 url('http://github.com/images/modules/commit/bg_gradient.gif') 0 100% repeat-x; border-right: 1px solid #bedce7; border-bottom: 1px solid #bedce7; padding: 0 .7em .7em .7em; border-left: 1px solid #bedce7;
 }
 #commit .envelope.selected {
 background: #fffeeb;
@@ -899,13 +899,13 @@ border-top: 1px solid #eee;
 border-bottom: 1px solid #eee; padding: .4em 0 .4em 20px; list-style-type: none;
 }
 #toc ul li.added {
-background: white url(/images/modules/toc/added.png) 0 50% no-repeat;
+background: white url('http://github.com/images/modules/toc/added.png') 0 50% no-repeat;
 }
 #toc ul li.removed {
-background: white url(/images/modules/toc/removed.png) 0 50% no-repeat;
+background: white url('http://github.com/images/modules/toc/removed.png') 0 50% no-repeat;
 }
 #toc ul li.modified {
-background: white url(/images/modules/toc/modified.png) 0 50% no-repeat;
+background: white url('http://github.com/images/modules/toc/modified.png') 0 50% no-repeat;
 }
 #browser {
 margin-bottom: 1em;
@@ -920,7 +920,7 @@ font-weight: normal; background-color: #eaeaea; border-bottom: 1px solid #d8d8d8
 padding-right: 5px; float: right;
 }
 #browser table td {
-background: #f8f8f8 url(/images/modules/browser/row_bg.png) 0 100% repeat-x; border-bottom: 1px solid #e1e1e1; padding: .5em .3em; color: #484848;
+background: #f8f8f8 url('http://github.com/images/modules/browser/row_bg.png') 0 100% repeat-x; border-bottom: 1px solid #e1e1e1; padding: .5em .3em; color: #484848;
 }
 #browser table td.icon {
 width: 1.3em;
@@ -995,10 +995,10 @@ cursor: pointer; color: #aaa;
 cursor: pointer; color: #aaa;
 }
 #files .bubble {
-margin: -0.2em 0 0 -9.6em; background: url(/images/modules/commit/off_comment_bubble.png) no-repeat; cursor: pointer; padding: 0.1em 0.8em 0 0; padding-left: 0; height: 1.4em; color: white; position: absolute; width: 1.5em;
+margin: -0.2em 0 0 -9.6em; background: url('http://github.com/images/modules/commit/off_comment_bubble.png') no-repeat; cursor: pointer; padding: 0.1em 0.8em 0 0; padding-left: 0; height: 1.4em; color: white; position: absolute; width: 1.5em;
 }
 #files .bubble.commented {
-background: url(/images/modules/commit/comment_bubble.png) no-repeat;
+background: url('http://github.com/images/modules/commit/comment_bubble.png') no-repeat;
 }
 #files .meta .bubble {
 margin: -0.2em 0 0 -3.9em; font-family: 'Bitstream Vera Sans Mono', 'Courier', monospace; height: 1.5em;
@@ -1076,7 +1076,7 @@ color: #bbb;
 float: right;
 }
 #repos .repo .commit {
-overflow: hidden; background: #eaf2f5 url(/images/modules/commit/bg_gradient.gif) 0 100% repeat-x; margin-top: .5em; border: 1px solid #bedce7; padding: 0 .5em .5em .5em;
+overflow: hidden; background: #eaf2f5 url('http://github.com/images/modules/commit/bg_gradient.gif') 0 100% repeat-x; margin-top: .5em; border: 1px solid #bedce7; padding: 0 .5em .5em .5em;
 }
 #repos .repo .commit .actor {
 margin-top: .5em; float: left;
@@ -1178,52 +1178,52 @@ background-color: #fff6a9;
 margin-right: .7em; background-color: white; border: 1px solid #d0d0d0; padding: 2px; float: left;
 }
 #dashboard .news .commit {
-background: url(/images/modules/dashboard/news/commit.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/commit.png') no-repeat;
 }
 #dashboard .news .commit_comment {
-background: url(/images/modules/dashboard/news/comment.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/comment.png') no-repeat;
 }
 #dashboard .news .create {
-background: url(/images/modules/dashboard/news/create.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/create.png') no-repeat;
 }
 #dashboard .news .git_hub {
-background: url(/images/modules/dashboard/news/site.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/site.png') no-repeat;
 }
 #dashboard .news .delete {
-background: url(/images/modules/dashboard/news/delete.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/delete.png') no-repeat;
 }
 #dashboard .news .pull_request {
-background: url(/images/modules/dashboard/news/pull_request.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/pull_request.png') no-repeat;
 }
 #dashboard .news .fork {
-background: url(/images/modules/dashboard/news/fork.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/fork.png') no-repeat;
 }
 #dashboard .news .follow {
-background: url(/images/modules/dashboard/news/follow.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/follow.png') no-repeat;
 }
 #dashboard .news .gist {
-background: url(/images/modules/dashboard/news/gist.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/gist.png') no-repeat;
 }
 #dashboard .news .guide {
-background: url(/images/modules/dashboard/news/wiki.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/wiki.png') no-repeat;
 }
 #dashboard .news .wiki {
-background: url(/images/modules/dashboard/news/wiki.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/wiki.png') no-repeat;
 }
 #dashboard .news .member_add {
-background: url(/images/modules/dashboard/news/member_add.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/member_add.png') no-repeat;
 }
 #dashboard .news .member_remove {
-background: url(/images/modules/dashboard/news/member_remove.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/member_remove.png') no-repeat;
 }
 #dashboard .news .watch_started {
-background: url(/images/modules/dashboard/news/watch_started.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/watch_started.png') no-repeat;
 }
 #dashboard .news .watch_stopped {
-background: url(/images/modules/dashboard/news/watch_stopped.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/watch_stopped.png') no-repeat;
 }
 #dashboard .news .delete {
-background: url(/images/modules/dashboard/news/delete.png) no-repeat;
+background: url('http://github.com/images/modules/dashboard/news/delete.png') no-repeat;
 }
 #dashboard .followers {
 margin-bottom: 2em; width: 35em; float: right;
@@ -1427,13 +1427,13 @@ font-weight: bold;
 color: #23486b;
 }
 #inbox .list .pull_request {
-background: url(/images/modules/inbox/pull_request.png) .5em 1em no-repeat;
+background: url('http://github.com/images/modules/inbox/pull_request.png') .5em 1em no-repeat;
 }
 #inbox .list .unread.message {
-background: url(/images/modules/inbox/message.png) .5em 1em no-repeat;
+background: url('http://github.com/images/modules/inbox/message.png') .5em 1em no-repeat;
 }
 #inbox .list .message {
-background: url(/images/modules/inbox/read_message.png) .5em 1em no-repeat;
+background: url('http://github.com/images/modules/inbox/read_message.png') .5em 1em no-repeat;
 }
 #message {
 overflow: hidden;
@@ -1519,7 +1519,13 @@ overflow: hidden;
 #edit_user h1 {
 font-size: 140%; margin-bottom: .25em; margin-top: 1.5em;
 }
+.key_editing .object_error {
+font-size: 1.1em; margin-top: .5em; background-color: #ff0000; padding: .1em .3em; color: #fff;
+}
 #edit_user .hint {
+margin: .3em 0; color: #888; font-style: italic;
+}
+#repos .hint {
 margin: .3em 0; color: #888; font-style: italic;
 }
 #edit_user textarea {
@@ -1546,13 +1552,37 @@ font-weight: normal; color: #a00;
 #edit_user .user .emails .add {
 margin: .7em 0;
 }
+.keys .add {
+margin: .7em 0;
+}
 #edit_user .user .emails .add #add_email_action a {
 font-weight: bold; text-decoration: underline;
+}
+.keys .add #add_key_action a {
+font-weight: bold; text-decoration: underline;
+}
+.keys ul {
+list-style: none;
+}
+.key_content {
+display: none;
+}
+#new_key {
+display: none;
+}
+.key_editing textarea {
+margin-bottom: .7em; display: block; height: 14em; width: 32em;
 }
 .keys textarea {
 margin-bottom: .7em; display: block; height: 12em; width: 36em;
 }
 #edit_user .user .password label {
+font-size: 90%; margin: .5em 0; display: block; color: #888;
+}
+.keys label {
+font-size: 90%; margin: .5em 0; display: block; color: #888;
+}
+#edit_user .user .admin label {
 font-size: 90%; margin: .5em 0; display: block; color: #888;
 }
 #edit_user .user .password input {
@@ -1676,13 +1706,13 @@ margin-bottom: .5em;
 font-size: 120%; list-style-type: none;
 }
 #guides .index ul li {
-background: white url(/images/modules/guides/book.png) no-repeat; padding-left: 1.5em;
+background: white url('http://github.com/images/modules/guides/book.png') no-repeat; padding-left: 1.5em;
 }
 #guides .index .new {
 padding-top: .5em; margin-top: 1em; border-top: 1px solid #ccc;
 }
 #guides .index .new ul li {
-background: white url(/images/modules/guides/book_add.png) no-repeat;
+background: white url('http://github.com/images/modules/guides/book_add.png') no-repeat;
 }
 #guides .index .new ul li a {
 color: #c00;
@@ -1703,7 +1733,7 @@ margin: 0 0 .5em 0;
 margin: 0; color: #888; list-style-type: none;
 }
 #guides .guide .sidebar ul li {
-margin: .2em 0; background: white url(/images/modules/guides/sidebar/bullet_blue.png) -4px 0 no-repeat; padding-left: 12px;
+margin: .2em 0; background: white url('http://github.com/images/modules/guides/sidebar/bullet_blue.png') -4px 0 no-repeat; padding-left: 12px;
 }
 #guides .admin {
 overflow: hidden; clear: both; padding-top: .3em; margin-top: 3em; border-top: 4px solid #e6e6e6;
@@ -1910,7 +1940,7 @@ font-weight: bold; color: #94bfea;
 color: #ccc;
 }
 #posts .meta .respond {
-font-size: 110%; background: transparent url(/images/modules/posts/bubble.png) 0 50% no-repeat; margin: .3em 0; padding-left: 25px;
+font-size: 110%; background: transparent url('http://github.com/images/modules/posts/bubble.png') 0 50% no-repeat; margin: .3em 0; padding-left: 25px;
 }
 #posts .meta .respond a {
 color: #cbb698;
@@ -2030,7 +2060,7 @@ font-size: 200%;
 font-size: 140%; list-style-type: none;
 }
 #tour .sections .section ul li {
-background: transparent url(/images/modules/tour/play_bullet.png) 0 45% no-repeat; line-height: 1.5em; padding-left: 1.1em; color: #aaa;
+background: transparent url('http://github.com/images/modules/tour/play_bullet.png') 0 45% no-repeat; line-height: 1.5em; padding-left: 1.1em; color: #aaa;
 }
 #tour .sections .section ul li a {
 text-decoration: underline; color: black;
@@ -2153,10 +2183,10 @@ padding: 0;
 color: #fff; z-index: 13000; width: 350px;
 }
 .tool-title {
-font-weight: bold; font-size: 11px; background: url(/images/modules/tooltip/bubble.png) top left; margin: 0; padding: 8px 8px 4px; color: #9FD4FF;
+font-weight: bold; font-size: 11px; background: url('http://github.com/images/modules/tooltip/bubble.png') top left; margin: 0; padding: 8px 8px 4px; color: #9FD4FF;
 }
 .tool-text {
-font-size: 11px; background: url(/images/modules/tooltip/bubble.png) bottom right; padding: 4px 8px 8px;
+font-size: 11px; background: url('http://github.com/images/modules/tooltip/bubble.png') bottom right; padding: 4px 8px 8px;
 }
 .custom-tip {
 color: #000; z-index: 13000; width: 130px;
