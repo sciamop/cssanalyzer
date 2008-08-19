@@ -1,0 +1,480 @@
+.iconset {
+background-attachment: scroll;
+}
+.iconset span {
+display: none;
+}
+.iconset_rt_sm {
+margin-right: 2px; background-repeat: no-repeat; background-image: url('http://images.rottentomatoes.com/images/icons/iconset_rt_sm.gif'); height: 16px; width: 16px;
+}
+html>body .iconset_rt_sm {
+background-image: url('http://images.rottentomatoes.com/images/icons/iconset_rt_sm.png');
+}
+.spring_widget_sm {
+background-position: 0px 0px;
+}
+a:hover .spring_widget_sm {
+background-position: 0px -16px;
+}
+a:active .spring_widget_sm {
+background-position: 0px -32px;
+}
+.splat_sm {
+background-position: -16px 0px;
+}
+a:hover .splat_sm {
+background-position: -16px -16px;
+}
+a:active .splat_sm {
+background-position: -16px -32px;
+}
+a.icon {
+vertical-align: middle;
+}
+img.icon {
+vertical-align: middle;
+}
+div.tomatometer_small {
+background: Transparent url('http://images.rottentomatoes.com/images/tomatometer/small/mini-t-meter_bgs_rotten.gif') no-repeat scroll 10% 50%; height: 30px; position: relative; width: 125px;
+}
+div.tomatometer_small_tmeter {
+font-weight: bold; left: 2px; font-size: 12px; line-height: 27px; color: #505b0f; height: 24px; text-align: right; position: absolute; top: 0px; width: 30px;
+}
+img.tomatometer_small_left {
+height: 18px; position: absolute; top: 5px; width: 4px;
+}
+img.tomatometer_small_right {
+height: 18px; position: absolute; top: 5px; width: 4px;
+}
+img.tomatometer_small_left {
+left: 35px;
+}
+img.tomatometer_small_right {
+left: 99px;
+}
+div.tomatometer_small_main {
+left: 39px; background: Transparent url('http://images.rottentomatoes.com/images/tomatometer/small/mid_full.gif') repeat-x; height: 18px; position: absolute; top: 5px;
+}
+div.tomatometer_cf {
+background: url('http://images.rottentomatoes.com/images/tomatometer/certified_fresh/background.gif') no-repeat; height: 35px; position: relative;
+}
+html>body div.tomatometer_cf {
+background-image: url('http://images.rottentomatoes.com/images/tomatometer/certified_fresh/background.png');
+}
+div.tomatometer_cf_tmeter {
+font-size: 14pt; margin: 0 0 0 11px; line-height: 31px; color: #627D11; height: 31px; position: absolute;
+}
+div.tomatometer_cf_100percent div.tomatometer_cf_tmeter {
+margin: 0 0 0 2px;
+}
+img.tomatometer_cf_left {
+margin: 6px 0 0 52px; height: 19px; position: absolute; width: 4px;
+}
+div.tomatometer_cf_main {
+background: url('http://images.rottentomatoes.com/images/tomatometer/certified_fresh/mid_full.gif') repeat-x; margin: 6px 0 0 56px; height: 19px; position: absolute;
+}
+img.tomatometer_cf_right {
+left: 211px; height: 19px; position: absolute; top: 6px; width: 4px;
+}
+div.tomatometer_cf_100percent img.tomatometer_cf_right {
+left: 195px;
+}
+ul.normalViewList {
+list-style: none; padding-left: 5px;
+}
+ul.normalViewList li {
+overflow: auto; background: url('http://images.rottentomatoes.com/images_REDESIGN/template/li_sidebar_square.gif') 0 6px no-repeat; line-height: 11pt; padding: 0 0 0 10px;
+}
+ul.normalViewList li:hover {
+background: url('http://images.rottentomatoes.com/images_REDESIGN/template/li_sidebar_square_hover.gif') 0 6px no-repeat;
+}
+ol.normalViewList {
+list-style-position: inside; list-style: decimal;
+}
+.ul_sidebar_browse_menu li {
+list-style-position: inside; font-size: 14px; margin-bottom: 3px; background-color: #FFFFFF; list-style-image: url('http://images.rottentomatoes.com/images/sidebar_menu_bullets.gif');
+}
+.cloudFake {
+color: #285cab;
+}
+.cloudFake em {
+font-weight: bold; font-size: 1.2em; color: #143d7a; font-style: normal;
+}
+div.browse_alpha {
+text-align: center;
+}
+div.browse_alpha a.selected {
+text-decoration: underline;
+}
+div.browse_alpha span.disabled {
+color: #adadad;
+}
+a.feed {
+border-color: #FC9 #630 #330 #F96; background: #F60; margin: 0 2px; text-decoration: none; border: 1px solid; padding: 1px 3px; font: bold 10px verdana, sans-serif;
+}
+a.feed:link {
+color: #FFFFFF;
+}
+a.feed:visited {
+color: #FFFFFF;
+}
+a.feed:hover {
+color: #FFFF00;
+}
+a.feed:active {
+color: #FFFF00;
+}
+#tooltip {
+z-index: 3000; position: absolute;
+}
+.tooltipDefault {
+opacity: 0.85; font-size: 8pt; line-height: 10pt; background-color: #FFF; border: 1px solid #3C7EE2; padding: 5px;
+}
+.tooltipDefault h3 {
+font-size: 8pt; margin: 0;
+}
+.tooltipDefault div {
+font-size: 8pt; margin: 0;
+}
+.bubbleFixedTop {
+font-size: 8pt; background-repeat: no-repeat; line-height: 10pt; padding: 5px 0 0 0; height: 120px; width: 172px;
+}
+.bubbleFixedLeftTop {
+font-size: 8pt; background-repeat: no-repeat; line-height: 10pt; padding: 5px 0 0 0; height: 120px; width: 172px;
+}
+.bubbleFixedRightTop {
+font-size: 8pt; background-repeat: no-repeat; line-height: 10pt; padding: 5px 0 0 0; height: 120px; width: 172px;
+}
+.bubbleFixedTop {
+background-image: url('http://images.rottentomatoes.com/images_REDESIGN/template/bubble_medium.png');
+}
+.bubbleFixedSmallTop {
+font-size: 8pt; background-repeat: no-repeat; line-height: 10pt; padding: 5px 0 0 0; height: 90px; width: 172px;
+}
+.bubbleFixedLeftSmallTop {
+font-size: 8pt; background-repeat: no-repeat; line-height: 10pt; padding: 5px 0 0 0; height: 90px; width: 172px;
+}
+.bubbleFixedRightSmallTop {
+font-size: 8pt; background-repeat: no-repeat; line-height: 10pt; padding: 5px 0 0 0; height: 90px; width: 172px;
+}
+.bubbleFixedSmallTop {
+background-image: url('http://images.rottentomatoes.com/images_REDESIGN/template/bubble_small.png');
+}
+.bubbleFixedXSmallTop {
+font-size: 8pt; background-repeat: no-repeat; line-height: 10pt; padding: 5px 0 0 0; height: 68px; width: 172px;
+}
+.bubbleFixedLeftXSmallTop {
+font-size: 8pt; background-repeat: no-repeat; line-height: 10pt; padding: 5px 0 0 0; height: 68px; width: 172px;
+}
+.bubbleFixedRightXSmallTop {
+font-size: 8pt; background-repeat: no-repeat; line-height: 10pt; padding: 5px 0 0 0; height: 68px; width: 172px;
+}
+.bubbleFixedXSmallTop {
+background-image: url('http://images.rottentomatoes.com/images_REDESIGN/template/bubble_xsmall.png');
+}
+.bubbleFixedLeftXSmallTop {
+background-image: url('http://images.rottentomatoes.com/images_REDESIGN/template/bubbleLeft_xsmall.png');
+}
+.bubbleFixedRightXSmallTop {
+background-image: url('http://images.rottentomatoes.com/images_REDESIGN/template/bubbleRight_xsmall.png');
+}
+.bubbleFixedTop h3 {
+font-weight: bold; font-size: 8pt; margin: 3px 5px  0 10px; display: inline; float: left;
+}
+.bubbleFixedLeftTop h3 {
+font-weight: bold; font-size: 8pt; margin: 3px 5px  0 10px; display: inline; float: left;
+}
+.bubbleFixedRightTop h3 {
+font-weight: bold; font-size: 8pt; margin: 3px 5px  0 10px; display: inline; float: left;
+}
+.bubbleFixedSmallTop h3 {
+font-weight: bold; font-size: 8pt; margin: 3px 5px  0 10px; display: inline; float: left;
+}
+.bubbleFixedLeftSmallTop h3 {
+font-weight: bold; font-size: 8pt; margin: 3px 5px  0 10px; display: inline; float: left;
+}
+.bubbleFixedRightSmallTop h3 {
+font-weight: bold; font-size: 8pt; margin: 3px 5px  0 10px; display: inline; float: left;
+}
+.bubbleFixedXSmallTop h3 {
+font-weight: bold; font-size: 8pt; margin: 3px 5px  0 10px; display: inline; float: left;
+}
+.bubbleFixedLeftXSmallTop h3 {
+font-weight: bold; font-size: 8pt; margin: 3px 5px  0 10px; display: inline; float: left;
+}
+.bubbleFixedRightXSmallTop h3 {
+font-weight: bold; font-size: 8pt; margin: 3px 5px  0 10px; display: inline; float: left;
+}
+.bubbleFixedTop div {
+margin: 3px 10px 0 10px;
+}
+.bubbleFixedLeftTop div {
+margin: 3px 10px 0 10px;
+}
+.bubbleFixedRightTop div {
+margin: 3px 10px 0 10px;
+}
+.bubbleFixedSmallTop div {
+margin: 3px 10px 0 10px;
+}
+.bubbleFixedLeftSmallTop div {
+margin: 3px 10px 0 10px;
+}
+.bubbleFixedRightSmallTop div {
+margin: 3px 10px 0 10px;
+}
+.bubbleFixedXSmallTop div {
+margin: 3px 10px 0 10px;
+}
+.bubbleFixedLeftXSmallTop div {
+margin: 3px 10px 0 10px;
+}
+.bubbleFixedRightXSmallTop div {
+margin: 3px 10px 0 10px;
+}
+.quoteBubble * {
+margin: 0px; border: none; padding: 0px; font: 9pt Arial,Helvetica,Verdana;
+}
+.quoteBubble .container {
+background: Transparent url('http://images.rottentomatoes.com/images/object/movies/quoteBubbles_bottom_bg_content.gif') no-repeat bottom; margin: 0 0 6px 0; height: auto; width: 315px;
+}
+html>body .quoteBubble .container {
+background: Transparent url('http://images.rottentomatoes.com/images/object/movies/quoteBubbles_bottom_bg.png') no-repeat bottom;
+}
+.topcritic .container {
+background: Transparent url('http://images.rottentomatoes.com/images/object/movies/quoteBubbles_bottom_topcritic_bg_content.gif') no-repeat bottom;
+}
+html>body .topcritic .container {
+background: Transparent url('http://images.rottentomatoes.com/images/object/movies/quoteBubbles_bottom_topcritic_bg.png') no-repeat bottom;
+}
+.quoteBubble .top {
+background: Transparent url('http://images.rottentomatoes.com/images/object/movies/quoteBubbles_top_bg_content.gif') no-repeat bottom; margin: 0px; padding: 0px; height: 6px; width: 315px;
+}
+html>body .quoteBubble .top {
+background: Transparent url('http://images.rottentomatoes.com/images/object/movies/quoteBubbles_top_bg.png') no-repeat bottom;
+}
+.topcritic .top {
+background: Transparent url('http://images.rottentomatoes.com/images/object/movies/quoteBubbles_top_topcritic_bg_content.gif') no-repeat bottom;
+}
+html>body .topcritic .top {
+background: Transparent url('http://images.rottentomatoes.com/images/object/movies/quoteBubbles_top_topcritic_bg.png') no-repeat bottom;
+}
+.quoteBubble .middle {
+margin: 0; padding: 6px 0;
+}
+.quoteBubble .content {
+clear: both; margin: 0px; padding: 0px 12px;
+}
+html>body .quoteBubble .content {
+margin: 0px 12px; padding: 0px;
+}
+.quoteBubble .content .rating {
+clear: left; text-align: center; float: left; width: 40px;
+}
+.quoteBubble .toolsContainer {
+clear: right; margin: 3px 0 12px 0; height: 22px; float: right; width: 240px;
+}
+html>body .quoteBubble .toolsContainer {
+margin: 6px 0;
+}
+.quoteBubble .toolsContainer .date {
+white-space: nowrap;
+}
+.quoteBubble .toolsContainer .tools {
+white-space: nowrap;
+}
+.quoteBubble .toolsContainer .date {
+overflow: visible; text-align: right; float: right; width: 70px;
+}
+.quoteBubble .toolsContainer .tools {
+clear: left; color: #3469b9; text-align: left; float: left; width: 150px;
+}
+.quoteBubble .toolsContainer .tools a:link {
+color: #3469b9;
+}
+.quoteBubble .content p {
+clear: right; margin: 0px 0px 6px 0px; color: #2d3b04; font: 10pt/11pt Arial; text-align: left; float: right; width: 240px;
+}
+.quoteBubble .bottom {
+overflow: hidden; clear: both; margin: 0; padding: 3px 3px 3px 60px; height: 50px;
+}
+.quoteBubble .bottom .criticImage {
+clear: left; margin: 3px; padding: 0; height: auto; float: left; width: 38px;
+}
+.quoteBubble .bottom .criticContent {
+clear: right; margin: 3px; padding: 0; text-align: left; float: right; width: 200px;
+}
+.criticContent .author a:link {
+color: #3469b9;
+}
+.criticContent .source a:link {
+font-size: 0.9em; color: #000;
+}
+.criticContent .topcritic {
+font-size: 0.9em; color: #882e1a;
+}
+.hide span {
+display: none;
+}
+.lowercase {
+text-transform: lowercase;
+}
+p.news {
+padding: 0 0 10px 0; text-align: justify;
+}
+p.error {
+font-weight: bold;
+}
+.error {
+font-weight: bold;
+}
+p.date {
+font: italic 0.8em "Trebuchet MS",Myriad,Arial;
+}
+div.date {
+font: italic 0.8em "Trebuchet MS",Myriad,Arial;
+}
+span.date {
+font: italic 0.8em "Trebuchet MS",Myriad,Arial;
+}
+a.comments {
+background: url('http://images.rottentomatoes.com/images/icons/ico_commentBubble_sm.gif') center left no-repeat; padding: 0 0 0 24px; display: block; height: 15px; text-align: left; width: 24px;
+}
+html>body a.comments {
+background-image: url('http://images.rottentomatoes.com/images/icons/ico_commentBubble_sm.png');
+}
+.test {
+background: purple;
+}
+.textb {
+border: 1px solid purple;
+}
+option.title {
+text-transform: uppercase; color: #285CAB; font: 8pt "Trebuchet MS",Myriad,Arial,Helvetica;
+}
+a.abstract img {
+background: #FFF; border: 1px solid #b7babb; padding: 4px;
+}
+a.abstract img.selected {
+background: #cee65c;
+}
+a.abstract:hover img {
+border: 1px solid #3C7EE2;
+}
+a.abstract:active img {
+background: #eee; border: 1px solid #c8cecd;
+}
+a.abstractClip_160x120-110x80 {
+left: 0px; clear: both; background: #FFFFFF none repeat scroll 0% 50%; border: 1px solid #B7BABB; display: block; height: 86px; position: relative; width: 112px; top: 0px;
+}
+a.abstractClip_160x120-110x80 img {
+left: -24px; clip: rect(20px 133px 100px 27px); display: block; position: absolute; top: -17px;
+}
+html>body .item a.abstractClip_160x120-110x80 img {
+clip: rect(20px, 133px, 100px, 27px);
+}
+p.more {
+margin: 5px;
+}
+p.more {
+font: bold 8pt/9pt Arial,Helvetica,Verdana; text-align: right;
+}
+p.more a {
+font: bold 8pt/9pt Arial,Helvetica,Verdana; text-align: right;
+}
+.loading {
+background: Transparent url('http://images.rottentomatoes.com/images_REDESIGN/template/loader.gif') center center no-repeat;
+}
+img.spotlight_image {
+margin: 4px 5px 0px 0; float: left;
+}
+div.thumbnail {
+overflow: hidden; margin: 3px; background-color: #a7a7a7; border: 1px solid #a7a7a7; height: 80px; text-align: center; float: left; width: 80px;
+}
+div.thumbnail_container {
+background: #fff; border: 1px solid #747474; padding: 3px; margin-left: 8px;
+}
+div.thumbnail_container.first {
+margin-left: 0;
+}
+div.thumbnail_container div.thumbnail {
+margin: 0; border: 0; float: none;
+}
+div.thumbnail_container.selected {
+background: #cfe75d;
+}
+.ml5 {
+margin-left: 5px;
+}
+.mt5 {
+margin-top: 5px;
+}
+.middleBar {
+overflow: hidden; background: Transparent url('http://images.rottentomatoes.com/images_REDESIGN/celeb/sub_heading_background.gif') repeat-x; margin-bottom: 5px; padding: 0 6px 0 6px; color: #FFFFFF; vertical-align: bottom; height: 23px; width: 532px;
+}
+.trailerContentButtons {
+clear: both;
+}
+.trailerContentTextHeading {
+color: #000; font: bold 8pt arial;
+}
+.trailerContentTextHeadingMovie {
+color: #000; font: bold 9pt arial;
+}
+.trailerContentQTLogo {
+margin-top: -16px; text-align: right; position: relative; width: 14px; margin-left: 10px;
+}
+.trailerContentWMVLogo {
+margin-top: -16px; text-align: right; position: relative; width: 14px; margin-left: 10px;
+}
+.spacedtitle a {
+margin: 0 0 0 80px; color: #FFFFFF; float: left;
+}
+a.whitelink:visited {
+font-weight: normal; color: #FFFFFF;
+}
+a.whitelink:link {
+font-weight: normal; color: #FFFFFF;
+}
+a.whitelink:active {
+font-weight: normal; color: #FFFFFF;
+}
+a.whitelink_selected:visited {
+font-weight: bold; color: #FFFFFF;
+}
+a.whitelink_selected:link {
+font-weight: bold; color: #FFFFFF;
+}
+a.whitelink_selected:active {
+font-weight: bold; color: #FFFFFF;
+}
+a.blue_link_plain_bold {
+color: #285CAB; font: 8pt Arial,Helvetica,Verdana;
+}
+a.blue_link_plain_bold:visited {
+color: #6B88B4;
+}
+a.blue_link_plain_bold:hover {
+color: #3C7EE2;
+}
+.blue_link_md a:link {
+text-decoration: none; color: #285CAB; font: bold 10pt "Trebuchet MS", Myriad, Arial;
+}
+.blue_link_md a:active {
+text-decoration: none; color: #285CAB; font: bold 10pt "Trebuchet MS", Myriad, Arial;
+}
+.blue_link_md a:visited {
+text-decoration: none; color: #6B88B4; font: bold 10pt "Trebuchet MS", Myriad, Arial;
+}
+.blue_link_md a:hover {
+text-decoration: none; color: #3C7EE2; font: bold 10pt "Trebuchet MS", Myriad, Arial;
+}
+a.blue_link_sm {
+text-decoration: none; color: #285CAB; font: 8pt "Trebuchet MS", Myriad, Arial;
+}
+a.blue_link_sm:visited {
+color: #6B88B4;
+}
+a.blue_link_sm:hover {
+color: #3C7EE2;
+}
