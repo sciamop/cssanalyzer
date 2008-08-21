@@ -1,0 +1,57 @@
+.backlink-toggle-zippy {
+margin-right: 0.1em; padding-right: 11px; background: url('http://www.blogger.com/img/triangle_ltr.gif') no-repeat left center; cursor: hand;
+}
+.expanded-backlink .backlink-toggle-zippy {
+background-image: url('http://www.blogger.com/img/triangle_open.gif');
+}
+.collapsed-backlink .collapseable {
+display: none;
+}
+.status-msg-wrap {
+font-size: 110%; margin: 10px auto; position: relative; width: 90%;
+}
+.status-msg-border {
+opacity: .40; -moz-opacity: .40; border: 1px solid #000000; filter: alpha(opacity=40); position: relative; width: 100%;
+}
+.status-msg-bg {
+opacity: .80; -moz-opacity: .80; background-color: #cccccc; filter: alpha(opacity=30); z-index: 1; position: relative; width: 100%;
+}
+.status-msg-body {
+padding: .3em 0; z-index: 4; position: absolute; text-align: center; width: 100%;
+}
+.status-msg-hidden {
+visibility: hidden; padding: .3em 0;
+}
+.status-msg-wrap a {
+text-decoration: underline; padding-left: .4em;
+}
+.reactions-label {
+margin: 3px 0 0 0;
+}
+.reactions-iframe {
+background: transparent; border: 0; height: 2.3em; width: 100%;
+}
+#comments .blogger-comment-icon {
+background: url('http://www.blogger.com/img/b16-rounded.gif') left no-repeat; line-height: 16px; padding-left: 20px;
+}
+.blogger-comment-icon {
+background: url('http://www.blogger.com/img/b16-rounded.gif') left no-repeat; line-height: 16px; padding-left: 20px;
+}
+#comments .openid-comment-icon {
+background: url('http://www.blogger.com/img/openid16-rounded.gif') left no-repeat; line-height: 16px; padding-left: 20px;
+}
+.openid-comment-icon {
+background: url('http://www.blogger.com/img/openid16-rounded.gif') left no-repeat; line-height: 16px; padding-left: 20px;
+}
+#comments .anon-comment-icon {
+background: url('http://www.blogger.com/img/anon16-rounded.gif') left no-repeat; line-height: 16px; padding-left: 20px;
+}
+.anon-comment-icon {
+background: url('http://www.blogger.com/img/anon16-rounded.gif') left no-repeat; line-height: 16px; padding-left: 20px;
+}
+.paging-control-container {
+font-size: 80%; margin: 0px 6px 0px 0px; float: right;
+}
+.unneeded-paging-control {
+visibility: hidden;
+}
