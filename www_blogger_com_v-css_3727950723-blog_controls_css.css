@@ -1,0 +1,27 @@
+.item-control {
+display: none;
+}
+.item-control a {
+text-decoration: none;
+}
+.item-action a {
+text-decoration: none;
+}
+.widget-item-control {
+float: right;
+}
+.icon-action {
+margin: 0 0 -5px 0.5em; border-style: none;
+}
+.delete-comment-icon {
+background: url('http://www.blogger.com/img/icon_delete13.gif') no-repeat left; padding: 7px;
+}
+.BLOG_mobile_video_class {
+display: none;
+}
+.BLOG_mobile_video_class {
+display: inline;
+}
+.BLOG_video_class {
+display: none;
+}
