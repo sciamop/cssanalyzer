@@ -1,0 +1,39 @@
+#wsodMarkets .box {
+clear: both; overflow: hidden; margin-top: -1px; border: 1px solid #ccc; padding: 6px; _width: 320px; _float: left; border-top: 0;
+}
+#wsodMarkets .subColumnA {
+margin-right: 0; width: 145px;
+}
+#wsodMarkets .subColumnB {
+margin-right: 0; width: 163px; float: right;
+}
+#wsodMarkets .subColumnB .adCreative {
+margin: 0 auto; width: 120px;
+}
+#wsodMarkets .searchForm #searchQuery {
+font-size: 11px; line-height: 12px; border: 1px solid #B2B2B2; padding: 2px 1px 1px; color: #666; vertical-align: middle; width: 114px;
+}
+#wsodMarkets .searchForm #qsearchQuery {
+font-size: 11px; line-height: 12px; border: 1px solid #B2B2B2; padding: 2px 1px 1px; color: #666; vertical-align: middle; width: 114px;
+}
+#wsodMarkets #wsodFormHome #searchQuery {
+width: 134px;
+}
+#wsodMarkets #wsodFormHome #qsearchQuery {
+width: 134px;
+}
+#wsodMarkets .searchForm #searchSubmit {
+vertical-align: middle; width: 22px;
+}
+#wsodMarkets .searchForm label {
+padding-bottom: 2px; font-size: 83.3%; text-transform: uppercase; display: block; font-family: arial, helvetica, sans-serif; float: left;
+}
+#wsodMarkets #wsodFormDealbook label {
+font-size: 1.1em;
+}
+#wsodMarkets .searchForm #myPortfolios {
+font-size: 83.3%; margin: 0; white-space: nowrap; font-family: arial, helvetica, sans-serif; display: inline; padding: 0; float: right;
+}
+#wsodMarkets .searchForm #myPortfolios a {
+font-size: 10px; padding: 0;
+}
