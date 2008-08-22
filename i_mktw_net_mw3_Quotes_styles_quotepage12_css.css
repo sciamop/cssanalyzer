@@ -1,0 +1,978 @@
+body {
+background: #ebebeb url('http://i.mktw.net/mw3/Misc/mw_center_bkgd.gif') center top repeat-y; margin: 0px auto 0px auto; background-color: #ffffff; padding: 0; color: #000000; position: relative; width: 990px;
+}
+#PrimaryContentContainer {
+overflow: hidden; margin: 0px auto 0px; background-color: White; height: 100%; position: relative; width: 990px;
+}
+div.hidden {
+bottom: -500px; display: none; position: fixed; top: -500px;
+}
+#wrapper {
+background: #fff url('http://i.mktw.net/mw3/Quotes/styles/none'); padding-top: 151px;
+}
+#loginerror.error {
+font-weight: bold; background: #f9f9f9 url('http://i.mktw.net/mw3/misc/alert-sm.png') no-repeat 10px top; padding-left: 36px; color: #ff0000;
+}
+.compareButtonLeftOff {
+margin: -1px 0 0 0; background: url('http://i.mktw.net/mw3/Quotes/btn_sm_standard_left.png') left no-repeat; height: 18px; float: left; width: 2px;
+}
+.compareButtonLeftOn {
+margin: -1px 0 0 0; background: url('http://i.mktw.net/mw3/Quotes/btn_sm_hover_left.png') left no-repeat; height: 18px; float: left; width: 2px;
+}
+.compareButtonOff {
+background: url('http://i.mktw.net/mw3/Quotes/btn_sm_standard_bkg.png') repeat-x; height: 16px; float: left;
+}
+.compareButtonOn {
+background: url('http://i.mktw.net/mw3/Quotes/btn_sm_hover_bkg.png') repeat-x; height: 16px; float: left;
+}
+.compareButtonOff p {
+font-weight: bold; _padding: 2px 4px 2px 4px; margin: 0; white-space: nowrap; padding: 1px 4px 2px 4px; color: #333;
+}
+.compareButtonOn p {
+font-weight: bold; _padding: 2px 4px 2px 4px; margin: 0; white-space: nowrap; padding: 1px 4px 2px 4px; color: #333;
+}
+.compareButtonOff p a:link {
+text-decoration: none; color: Gray;
+}
+.compareButtonOff p a:visited {
+text-decoration: none; color: Gray;
+}
+.compareButtonOn p a:link {
+text-decoration: none; color: Black;
+}
+.compareButtonOn p a:visited {
+text-decoration: none; color: Black;
+}
+.compareButtonOff p a:hover {
+text-decoration: none; color: #f26522;
+}
+.compareButtonOn p a:hover {
+text-decoration: none; color: #f26522;
+}
+.compareButtonOff p a:visited:hover {
+text-decoration: none; color: #f26522;
+}
+.compareButtonOn p a:visited:hover {
+text-decoration: none; color: #f26522;
+}
+.compareButtonRightOff {
+margin: -1px 4px 0 0; background: url('http://i.mktw.net/mw3/Quotes/btn_sm_standard_right.png') right no-repeat; height: 18px; float: left; width: 2px;
+}
+.compareButtonRightOn {
+margin: -1px 4px 0 0; background: url('http://i.mktw.net/mw3/Quotes/btn_sm_hover_right.png') right no-repeat; height: 18px; float: left; width: 2px;
+}
+.chartLinks {
+margin-right: 5px; margin-left: 5px;
+}
+.current {
+font-weight: bold; text-decoration: none; color: #000;
+}
+.chartSections {
+padding: 4px 0px 4px 4px;
+}
+.chartLinkSection {
+margin: 0; border: 1px solid #cccccc; padding: 2px 0px 0px 4px; border-top: none; width: 295px;
+}
+.chartLinkSection p {
+font-size: 92%; padding: 3px 0 7px 15px;
+}
+.compareTicker {
+margin: 2px 8px 0 0px; float: left;
+}
+#ChartControl1 img {
+overflow: hidden; width: 301px;
+}
+#ChartControl1 {
+margin-bottom: 10px;
+}
+#ad1 {
+padding-top: 5px;
+}
+.titleBarClass {
+margin: 0; background: #eaeaea url('http://i.mktw.net/mw3/Quotes/headerbkg8b.png') repeat-x; padding: 0; height: 24px;
+}
+.titleBarClass h3 {
+font-size: 150%; margin: 0; padding: 7px 0px 5px 5px;
+}
+.scroller {
+overflow: hidden; margin: 0; background-color: #fff; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 0; height: 200px; border-top: 1px solid #ddd; position: relative;
+}
+.scroller p {
+line-height: 125%; display: inline;
+}
+.headlineDiv tr {
+border-collapse: collapse; margin: 8px 0px 8px 0px; line-height: 120%;
+}
+.headlineDiv tr {
+vertical-align: top;
+}
+.headlineDiv tr img {
+margin-right: 3px;
+}
+.headlineDiv tr td {
+padding: 0 0px 7px 0px;
+}
+.headlineTime {
+font-size: 92%; color: #626262; width: 110px;
+}
+.headlineTime .hlUpdate {
+padding-left: 4px; color: Red;
+}
+span.Byline {
+font-size: 92%; color: #626262;
+}
+.NewsLinks {
+padding-top: 5px; margin-bottom: 15px;
+}
+.NewsLinks .compareButtonOff img {
+padding-right: 3px;
+}
+.NewsLinks a {
+margin: 0 5px;
+}
+a.backToTop {
+line-height: 135%; text-decoration: none;
+}
+a.OlderNews {
+line-height: 135%; text-decoration: none;
+}
+a.backToTop {
+background: url('http://i.mktw.net/mw3/Quotes/ar-up-off.gif') left center no-repeat; padding-left: 12px;
+}
+a.OlderNews:hover {
+color: #F26522;
+}
+a.backToTop:hover {
+color: #F26522;
+}
+.MoreNews {
+background: url('http://i.mktw.net/mw3/Quotes/arrow-more.gif') left center no-repeat; padding-left: 20px; float: right;
+}
+.NewsAlertClass {
+font-size: 92%; padding: 6px 5px 0 5px; float: right;
+}
+#scrollContainer1 {
+left: 5px; margin: 0; padding: 5px 20px 5px 0; position: absolute; top: 0;
+}
+#scrollContainer2 {
+left: 5px; margin: 0; padding: 5px 20px 5px 0; position: absolute; top: 0;
+}
+#scrollContainer3 {
+left: 5px; margin: 0; padding: 5px 20px 5px 0; position: absolute; top: 0;
+}
+#scrollControls1 {
+bottom: 0; margin: -5px 0 0; background: #CCC  url('http://i.mktw.net/mw3/Quotes/scrollbkg.gif') repeat-y; padding: 0 0 8px; position: absolute; width: 10px; right: 0; top: 0;
+}
+#scrollControls2 {
+bottom: 0; margin: -5px 0 0; background: #CCC  url('http://i.mktw.net/mw3/Quotes/scrollbkg.gif') repeat-y; padding: 0 0 8px; position: absolute; width: 10px; right: 0; top: 0;
+}
+#scrollControls3 {
+bottom: 0; margin: -5px 0 0; background: #CCC  url('http://i.mktw.net/mw3/Quotes/scrollbkg.gif') repeat-y; padding: 0 0 8px; position: absolute; width: 10px; right: 0; top: 0;
+}
+#scrollControls1 .button {
+margin: 0; cursor: hand; padding: 0; height: 13px; position: relative; width: 10px;
+}
+#scrollControls2 .button {
+margin: 0; cursor: hand; padding: 0; height: 13px; position: relative; width: 10px;
+}
+#scrollControls3 .button {
+margin: 0; cursor: hand; padding: 0; height: 13px; position: relative; width: 10px;
+}
+#scrollControls1 .arrowTop {
+overflow: hidden; margin: 0px; background: #fff url('http://i.mktw.net/mw3/Quotes/btn_slider_up.png') no-repeat; padding: 0px; height: 13px;
+}
+#scrollControls2 .arrowTop {
+overflow: hidden; margin: 0px; background: #fff url('http://i.mktw.net/mw3/Quotes/btn_slider_up.png') no-repeat; padding: 0px; height: 13px;
+}
+#scrollControls3 .arrowTop {
+overflow: hidden; margin: 0px; background: #fff url('http://i.mktw.net/mw3/Quotes/btn_slider_up.png') no-repeat; padding: 0px; height: 13px;
+}
+#scrollControls1 .arrowBot {
+overflow: hidden; margin: 0; background: url('http://i.mktw.net/mw3/Quotes/btn_slider_down.png') no-repeat; padding: 0; height: 13px;
+}
+#scrollControls2 .arrowBot {
+overflow: hidden; margin: 0; background: url('http://i.mktw.net/mw3/Quotes/btn_slider_down.png') no-repeat; padding: 0; height: 13px;
+}
+#scrollControls3 .arrowBot {
+overflow: hidden; margin: 0; background: url('http://i.mktw.net/mw3/Quotes/btn_slider_down.png') no-repeat; padding: 0; height: 13px;
+}
+#scrollControls1_aTop {
+margin: 0; cursor: hand; padding: 0; height: 13px; position: absolute; width: 10px;
+}
+#scrollControls1_aBot {
+margin: 0; cursor: hand; padding: 0; height: 13px; position: absolute; width: 10px;
+}
+#scrollControls2_aTop {
+margin: 0; cursor: hand; padding: 0; height: 13px; position: absolute; width: 10px;
+}
+#scrollControls2_aBot {
+margin: 0; cursor: hand; padding: 0; height: 13px; position: absolute; width: 10px;
+}
+#scrollControls3_aTop {
+margin: 0; cursor: hand; padding: 0; height: 13px; position: absolute; width: 10px;
+}
+#scrollControls3_aBot {
+margin: 0; cursor: hand; padding: 0; height: 13px; position: absolute; width: 10px;
+}
+#scrollControls1_track {
+position: relative; width: 10px;
+}
+#scrollControls2_track {
+position: relative; width: 10px;
+}
+#scrollControls3_track {
+position: relative; width: 10px;
+}
+#scrollControls1_thumb {
+background: transparent url('http://i.mktw.net/mw3/Quotes/scrubber_bg.png'); cursor: hand; min-height: 13px; position: absolute; _height: 13px; width: 10px;
+}
+#scrollControls2_thumb {
+background: transparent url('http://i.mktw.net/mw3/Quotes/scrubber_bg.png'); cursor: hand; min-height: 13px; position: absolute; _height: 13px; width: 10px;
+}
+#scrollControls3_thumb {
+background: transparent url('http://i.mktw.net/mw3/Quotes/scrubber_bg.png'); cursor: hand; min-height: 13px; position: absolute; _height: 13px; width: 10px;
+}
+#scrollControls1_thumbTop {
+background: transparent url('http://i.mktw.net/mw3/Quotes/scrubber_top_bg.png') top no-repeat; padding-top: 3px; margin: 0; cursor: hand; padding: 0; height: 4px; top: -1px; width: 10px;
+}
+#scrollControls2_thumbTop {
+background: transparent url('http://i.mktw.net/mw3/Quotes/scrubber_top_bg.png') top no-repeat; padding-top: 3px; margin: 0; cursor: hand; padding: 0; height: 4px; top: -1px; width: 10px;
+}
+#scrollControls3_thumbTop {
+background: transparent url('http://i.mktw.net/mw3/Quotes/scrubber_top_bg.png') top no-repeat; padding-top: 3px; margin: 0; cursor: hand; padding: 0; height: 4px; top: -1px; width: 10px;
+}
+#scrollControls1_thumbBtm {
+bottom: 0; _bottom: -1px; background: #333 url('http://i.mktw.net/mw3/Quotes/scrubber_btm_bg.png') bottom no-repeat; margin: 0 0 -9px; cursor: hand; padding: 0; position: absolute; width: 10px;
+}
+#scrollControls2_thumbBtm {
+bottom: 0; _bottom: -1px; background: #333 url('http://i.mktw.net/mw3/Quotes/scrubber_btm_bg.png') bottom no-repeat; margin: 0 0 -9px; cursor: hand; padding: 0; position: absolute; width: 10px;
+}
+#scrollControls3_thumbBtm {
+bottom: 0; _bottom: -1px; background: #333 url('http://i.mktw.net/mw3/Quotes/scrubber_btm_bg.png') bottom no-repeat; margin: 0 0 -9px; cursor: hand; padding: 0; position: absolute; width: 10px;
+}
+#scrollControls1_thumbMid {
+background: transparent url('http://i.mktw.net/mw3/Quotes/scrubber_middle_bg.png') no-repeat; margin: 0; cursor: hand; padding: 0 0 8px; height: 40px; top: 0; width: 10px;
+}
+#scrollControls2_thumbMid {
+background: transparent url('http://i.mktw.net/mw3/Quotes/scrubber_middle_bg.png') no-repeat; margin: 0; cursor: hand; padding: 0 0 8px; height: 40px; top: 0; width: 10px;
+}
+#scrollControls3_thumbMid {
+background: transparent url('http://i.mktw.net/mw3/Quotes/scrubber_middle_bg.png') no-repeat; margin: 0; cursor: hand; padding: 0 0 8px; height: 40px; top: 0; width: 10px;
+}
+div.afterhourstable {
+border-bottom: 1px solid #999999; display: none; padding-left: 5px; border-top: 1px solid #999999;
+}
+.premarketbar div.afterhourstable {
+display: block;
+}
+.aftermarketbar div.afterhourstable {
+display: block;
+}
+div.aftermarketbar div.afterhourstable {
+background-color: #F2F6FF;
+}
+.extendedtradeicon {
+margin-top: 1px; height: 17px; float: left; width: 17px;
+}
+div.premarketbar div.afterhourstable {
+background-color: #FFF9E7;
+}
+.afterhourstable {
+overflow: hidden; margin: 0 0 5px 5px; line-height: 160%; padding: 2px 0 0 0;
+}
+.afterhourstable .alignright {
+padding-right: 5px; margin: 0; display: block; float: right;
+}
+.afterhourstable span {
+padding-right: 10px; margin: 0; padding-left: 5px;
+}
+.afterhourstable span.currency {
+padding: 0;
+}
+.afterhourstable span.mwlivequotes {
+padding: 0;
+}
+.afterhourstable span.livequoteupdown {
+padding: 0;
+}
+.premarketlabel {
+display: none;
+}
+.aftermarketlabel {
+display: none;
+}
+.premarketbar .premarketlabel {
+display: inline;
+}
+.aftermarketbar .aftermarketlabel {
+display: inline;
+}
+#afterhoursprice .tradeup {
+color: #009900;
+}
+#afterhoursprice .tradedown {
+color: #ED1C24;
+}
+.QuoteDetails .tr {
+border-bottom: 1px dotted #ddd;
+}
+.QuoteDetails {
+clear: both; padding-top: 5px; border-top: 1px solid #ddd;
+}
+.sixcol1 {
+width: 13%;
+}
+.sixcol2 {
+width: 21%;
+}
+.sixcol3 {
+width: 13.5%;
+}
+.sixcol4 {
+width: 22.5%;
+}
+.sixcol5 {
+width: 17%;
+}
+.sixcol6 {
+width: 12%;
+}
+#QuotesControl1 {
+margin-top: -10px; _margin-top: 0px; margin-left: 5px;
+}
+.BigQuoteClass h2 {
+font-weight: bold; font-size: 300%; margin: 0 10px -7px 0px; line-height: 150%; border-bottom: none; display: block; float: left; letter-spacing: -1px;
+}
+.BigQuoteClass h2 {
+padding: 0 20px 0 0;
+}
+.QuoteUpColor h2 {
+padding: 0;
+}
+.QuoteDownColor h2 {
+padding: 0;
+}
+.BigQuoteClass h2 span {
+position: relative;
+}
+.BigQuoteClass img {
+position: relative;
+}
+.BigQuoteClass h2 .currency {
+bottom: 13px; font-weight: normal; font-size: 20px; position: relative;
+}
+.BigQuoteClass h4 {
+font-weight: bold; _position: relative; font-size: 100%; _bottom: 8px; margin: 0; line-height: 100%; border-bottom: none; display: block; white-space: nowrap; padding: 6px 0 0 10px; color: Black;
+}
+.BigQuoteClass h4 sup {
+font-size: 50%;
+}
+.BigQuoteClass #QuoteTime1 {
+font-weight: normal; clear: left; font-size: 80%; margin: 0 0 10px 0; line-height: 140%; border-bottom: none; display: block; white-space: nowrap; padding: 0; float: left; width: 200px;
+}
+.BigQuoteClass #QuoteTime1 a {
+margin-left: 10px;
+}
+.ChangeVolumeClass {
+margin-top: 10px; height: 55px;
+}
+.ChangeVolumeClass .QuoteChange {
+font-size: 133%;
+}
+.ChangeVolumeClass .QuoteChange .QuoteText {
+font-size: 75%;
+}
+.ChangeVolumeClass .QuoteText {
+font-weight: normal; margin-right: 10px; font-size: 100%; color: Black;
+}
+.QuoteUpColor .QuoteChange {
+color: #009900;
+}
+#QuoteChange1 .up {
+color: #009900;
+}
+.priceup {
+color: #009900;
+}
+.afterhourstable .livequoteupdown .up {
+color: #009900;
+}
+.QuoteDownColor .QuoteChange {
+color: #ed1c24;
+}
+#QuoteChange1 .down {
+color: #ed1c24;
+}
+.pricedown {
+color: #ed1c24;
+}
+.afterhourstable .livequoteupdown .down {
+color: #ed1c24;
+}
+.QuoteUnchColor .QuoteChange {
+color: Blue;
+}
+.priceunch {
+color: Blue;
+}
+.afterhourstable .livequoteupdown .unch {
+color: Blue;
+}
+.highlowdate {
+font-weight: normal; padding-right: 2px; font-size: 80%; float: left;
+}
+.cookieDiv {
+margin-right: 10px; margin-top: 10px; display: none; float: right;
+}
+#multiquote .livequoteupdown .up {
+font-weight: bold; color: #090;
+}
+#multiquote .priceup {
+font-weight: bold; color: #090;
+}
+#multiquote .livequoteupdown .down {
+font-weight: bold; color: #eb201d;
+}
+#multiquote .pricedown {
+font-weight: bold; color: #eb201d;
+}
+#multiquote .priceunch {
+color: Blue;
+}
+.multiquoteprice {
+font-weight: bold;
+}
+#multiquote {
+margin: 10px 0 0; border-top: 1px solid #333; width: 990px; float: left;
+}
+#multiquote .table {
+margin: 5px 0 0;
+}
+#multiquote .th p {
+font-size: 92%; color: #999;
+}
+#multiquote .th p {
+padding: 2px 4px;
+}
+#multiquote .td p {
+padding: 2px 4px;
+}
+#multiquote .tr {
+border-bottom: 1px dotted #b3b3b3;
+}
+.smallcheckbox {
+font-size: 84%; margin: 0; padding: 0;
+}
+#removeaddsymbol {
+margin-bottom: 10px; border-bottom: 1px solid #666; width: 990px; float: left;
+}
+.multiquotedata .largebutton {
+margin: -4px 0 0 25px; line-height: 18px; _margin: -4px 0 0 20px;
+}
+.multiquotedata .largebutton a {
+font-weight: bold; text-decoration: none; color: Gray;
+}
+.multiquotedata .largebutton a:hover {
+color: Red;
+}
+.multiquotedata .largebutton a:active {
+color: Red;
+}
+.addsymbol {
+margin: 6px 10px 6px 10px; min-width: 400px; padding: 0; _margin: 6px 10px 6px 5px; height: 35px; _height: 40px; float: left;
+}
+.addsymbol input {
+font-size: 100%; margin: 0 4px 2px 0; border: 1px solid #666; _margin: 0 4px 2px -5px; padding: 0; height: 16px; width: 100px; float: left;
+}
+#multidisablelq {
+font-size: 90%; margin: 9px 30px 0 0; float: right;
+}
+.invalidSymbolColumn {
+_width: 92.7%; width: 92.1%;
+}
+.lookupLink {
+color: red; margin-left: 4px;
+}
+.multiquoteticker {
+width: 8%;
+}
+.multiquoteprice {
+width: 6.6%;
+}
+.multiquoteicon {
+width: 2%;
+}
+.marketicon div {
+margin-top: -3px; display: block; height: 17px; width: 17px;
+}
+.marketicon span {
+margin-top: -3px; display: block; height: 17px; width: 17px;
+}
+.multiquotechange {
+width: 6.6%;
+}
+.multiquotevolume {
+width: 8.0%;
+}
+.multiquotedata {
+width: 7.2%;
+}
+.multiquotedataextra1of3 {
+width: 12.5%;
+}
+.multiquotedataextra2of3 {
+width: 12.5%;
+}
+.multiquotedataextra3of3 {
+width: 13%;
+}
+.multiquotedatamore {
+display: none; width: 3%;
+}
+.multiquotechart {
+margin-top: 3px; margin-left: 15px;
+}
+#multiquote .afterhoursrow {
+background: #f2f6fe; border-bottom-style: solid;
+}
+.afterhoursrow .multiquoteticker {
+width: 7.5%;
+}
+.afterhoursrow .multiquoteprice {
+width: 7.1%;
+}
+#ETFLink {
+padding: 4px 0px 4px 0px; float: right;
+}
+#ETFLink a:link {
+font-weight: bold;
+}
+#ETFLink a:visited {
+font-weight: bold;
+}
+.debugTitleClass {
+margin: 0; background: #eaeaea url('http://i.mktw.net/mw3/Quotes/headerbkg8b.png') repeat-x; padding: 0; height: 24px;
+}
+.debugTitleClass h3 {
+font-size: 150%; margin: 0; padding: 7px 0px 0px 5px;
+}
+#h1Tag h1 {
+font-weight: normal; clear: both; font-size: 84%;
+}
+#BrokerButtons {
+padding-top: 5px; background: white;
+}
+#BrokerButtons table {
+margin: 0 0 0 10px;
+}
+#BrokerButtons .contentBlock {
+display: inline;
+}
+.brokerButton {
+padding-right: 17px; overflow: hidden; margin: 0px; padding: 0px; display: inline; width: 170px;
+}
+.motifButtonsWrapper {
+margin-left: 20px;
+}
+#BrokerExpandButtons {
+padding-bottom: 5px; margin-top: -1px; padding: 0; margin-left: -10px; _margin-top: -3px;
+}
+#brokertarget {
+min-height: 70px; _height: 70px;
+}
+#BrokerButtons {
+padding-left: 20px;
+}
+.quoteCompleteClass {
+clear: both; z-index: 1000000; float: left;
+}
+.quoteCompleteClass ul {
+margin-right: 0px; list-style: none; margin: 0; padding: 0; width: 100%;
+}
+.quoteCompleteClass li {
+margin-right: 0px; overflow: hidden; cursor: default; white-space: nowrap; padding: 0 5px; color: #000000;
+}
+.quoteCompleteClass li.yui-ac-highlight {
+background: #158a3a; color: #FFFFFF;
+}
+.quoteCompleteClass .yui-ac-content {
+background-position: bottom; background: #FFFFFF; margin: 0; background-repeat: repeat-x; border: 1px solid #dddddd; background-image: url('http://i.mktw.net/mw3/Header/sc-bkg.gif'); padding: 0; font: normal 11px arial; position: absolute; z-index: 100002; width: 250px;
+}
+.quoteCompleteClass .yui-ac-hd {
+padding-bottom: 3px; margin-right: 0px; border-bottom: 1px solid #a7a7a7; padding-left: 3px; color: #a7a7a7; font: normal 12px arial; text-align: left;
+}
+.quoteCompleteClass .yui-ac-ft {
+margin-right: 0px; padding-left: 3px; color: #a7a7a7; font: normal 11px arial; text-align: left; border-top: 1px solid #a7a7a7;
+}
+.quoteCompleteClass .yui-ac-bd {
+margin-right: 0px; text-align: left;
+}
+.quoteCompleteClass .scResultTable {
+margin: 0; padding: 0;
+}
+.quoteCompleteClass .scResultTable .symbolCompleteCol1 {
+width: 80px;
+}
+.quoteCompleteClass .text {
+font: normal 11px arial;
+}
+.quoteCompleteClass table {
+border-collapse: collapse; border-spacing: 0;
+}
+.quoteCompleteClass .scResultTable * {
+margin: 0px; padding: 0px;
+}
+.quoteCompleteClass .scResultTerm {
+font-weight: bold; margin-right: 0px; padding: 0px; vertical-align: baseline;
+}
+.perceptionwidget {
+line-height: normal; float: right;
+}
+.graph {
+text-align: center; margin-left: 10px; float: left;
+}
+.graphfooter {
+padding-right: 2px;
+}
+.perceptionwidget .graph .uppercentage {
+font-weight: bold; font-size: smaller; margin-top: 2px; color: #13a015; text-align: center;
+}
+.perceptionwidget .graph .downpercentage {
+font-weight: bold; font-size: smaller; margin-top: 2px; color: #c51a19; text-align: center;
+}
+.perceptionwidget .predictionresults table {
+display: none;
+}
+.quoteresultmessage {
+font-weight: bold; font-size: smaller; padding-top: 3px; height: 28px; margin-left: 83px;
+}
+.quotepricelabel .quoteaverageprice {
+font-weight: bold;
+}
+.quotepricelabel {
+font-size: smaller; color: #838383; margin-left: 83px;
+}
+.perceptionwidget .error {
+padding-bottom: 30px; width: 350px;
+}
+.quotevote {
+margin-left: 83px;
+}
+.quotevotelabel {
+font-size: smaller;
+}
+.quotevotevalue {
+font-weight: bold; font-size: large; padding-left: 3px;
+}
+.moreresults {
+font-size: smaller;
+}
+.perceptionwidget .links {
+padding-bottom: -30px; margin-top: 4px; margin-left: 83px;
+}
+.makeanotherprediction {
+font-size: smaller; padding-left: 5px;
+}
+.quoteresultsymbol {
+font-weight: bold;
+}
+.quoteresultdirection {
+font-weight: bold;
+}
+.alreadyvoted {
+padding-right: 3px; font-weight: bold; font-size: smaller; padding-top: 3px; height: 28px; margin-left: 83px;
+}
+#changesymbol {
+margin: 0; white-space: nowrap; min-height: 1%; padding: 7px 10px 0 0; height: 1%; text-align: right; float: right;
+}
+#timeindicatorbar {
+margin-top: 5px; height: 31px; margin-left: 10px; width: 970px;
+}
+.realtimemarketbar #timeindicatorbar {
+background: url('http://i.mktw.net/mw3/realtime/real-bkgn.jpg');
+}
+.delayedmarketbar #timeindicatorbar {
+background: url('http://i.mktw.net/mw3/realtime/real-bkgn.jpg');
+}
+.premarketbar #timeindicatorbar {
+background: url('http://i.mktw.net/mw3/realtime/pre-bkgn.jpg');
+}
+.aftermarketbar #timeindicatorbar {
+background: url('http://i.mktw.net/mw3/realtime/after-bkgn.jpg');
+}
+.haltedmarketbar #timeindicatorbar {
+background: url('http://i.mktw.net/mw3/realtime/stop-bkgn.jpg');
+}
+#timerangetext {
+font-weight: bold; padding: 5px 10px 0 10px; display: block; float: left;
+}
+#timerangetext span {
+display: none;
+}
+.premarketbar #timerangetext span.premarkettext {
+display: inline;
+}
+.aftermarketbar #timerangetext span.afterhourstext {
+display: inline;
+}
+.realtimemarketbar #timerangetext span.realtimetext {
+display: inline;
+}
+.delayedmarketbar #timerangetext span.delayedtext {
+display: inline;
+}
+.haltedmarketbar #timerangetext span.haltedtext {
+display: inline;
+}
+#timeindicatorbar #learnmore {
+padding-top: 5px; display: block; float: left;
+}
+.realtimemarketbar #markettimeicon {
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/realtime/real-lg24.png');
+}
+.multiquoteicon .realtime {
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/realtime/real-lg24.png');
+}
+.realtimemarketbar[class] #markettimeicon {
+background: url('http://i.mktw.net/mw3/realtime/real-lg24.png') no-repeat;
+}
+.multiquoteicon .realtime[class] {
+background: url('http://i.mktw.net/mw3/realtime/real-lg24.png') no-repeat;
+}
+.delayedmarketbar #markettimeicon {
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/realtime/delayed-lg24.png');
+}
+.multiquoteicon .delayed {
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/realtime/delayed-lg24.png');
+}
+.delayedmarketbar[class] #markettimeicon {
+background: url('http://i.mktw.net/mw3/realtime/delayed-lg24.png') no-repeat;
+}
+.multiquoteicon .delayed[class] {
+background: url('http://i.mktw.net/mw3/realtime/delayed-lg24.png') no-repeat;
+}
+.premarketbar #markettimeicon {
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/realtime/pre-lg24.png');
+}
+.multiquoteicon .pre {
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/realtime/pre-lg24.png');
+}
+.premarketbar[class] #markettimeicon {
+background: url('http://i.mktw.net/mw3/realtime/pre-lg24.png') no-repeat;
+}
+.multiquoteicon .pre[class] {
+background: url('http://i.mktw.net/mw3/realtime/pre-lg24.png') no-repeat;
+}
+.aftermarketbar #markettimeicon {
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/realtime/after-lg24.png');
+}
+.multiquoteicon .after {
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/realtime/after-lg24.png');
+}
+.aftermarketbar[class] #markettimeicon {
+background: url('http://i.mktw.net/mw3/realtime/after-lg24.png') no-repeat;
+}
+.multiquoteicon .after[class] {
+background: url('http://i.mktw.net/mw3/realtime/after-lg24.png') no-repeat;
+}
+.haltedmarketbar #markettimeicon {
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/realtime/stop-lg24.png');
+}
+.multiquoteicon .halt {
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/realtime/stop-lg24.png');
+}
+.haltedmarketbar[class] #markettimeicon {
+background: url('http://i.mktw.net/mw3/realtime/stop-lg24.png') no-repeat;
+}
+.multiquoteicon .halt[class] {
+background: url('http://i.mktw.net/mw3/realtime/stop-lg24.png') no-repeat;
+}
+#markettimeicon {
+margin: 3px 0 0 5px;
+}
+#markettimeicon {
+display: block; height: 17px; float: left; width: 17px;
+}
+#learnMoreImage {
+background-image: url('http://i.mktw.net/mw3/Quotes/learnmore.jpg'); display: none; height: 231px; z-index: 10000; position: absolute; width: 353px;
+}
+#changesymbol input {
+margin-right: 4px; font-size: 100%; border: 1px solid #666; height: 16px; width: 120px; float: left;
+}
+#changesymbol .largebutton {
+display: inline;
+}
+#companyname {
+margin: 10px 0 0 0; min-height: 1%; padding: 0 0 2px 10px; _margin: 15px 0 10px 0; height: 1%; float: left;
+}
+#companyname h2 {
+font-weight: bold; font-size: 165%; margin: 0; line-height: 100%; padding: 0; color: #f06822;
+}
+#companyname h2 em {
+font-size: 90%; color: #000; font-style: normal;
+}
+#companyname h2 span {
+font-weight: normal; font-size: 60%; color: #000;
+}
+#feedbacklink {
+padding-right: 30px; font-size: 90%; margin-top: 5px; float: right;
+}
+#quotenav {
+clear: both; background: #fff; margin: 0 0 0 6px; padding: 0; min-height: 1%; height: 1%; width: 984px; float: none;
+}
+#quotenav ul {
+margin: 0; padding: 10px 0 0;
+}
+#quotenav li {
+padding: 4px 8px 0; list-style-type: none; float: left;
+}
+#quotenav li.on {
+font-weight: bold; font-size: 117%; background: #fff url('http://i.mktw.net/mw3/Quotes/topnavonbkg8b.png') repeat-x; margin: -2px 0 0 -1px; border-bottom: 1px solid white; border-right: 1px solid #666; padding: 4px 8px; border-left: 1px solid #666; border-top: 1px solid #666; position: relative;
+}
+#quotenav li.on a:link {
+cursor: text; text-decoration: none; color: black;
+}
+#quotenav li.on a:visited {
+cursor: text; text-decoration: none; color: black;
+}
+#quotenav li.on a:hover {
+cursor: text; text-decoration: none; color: black;
+}
+#quotenav li.on a:visited:hover {
+cursor: text; text-decoration: none; color: black;
+}
+.navlinefortopnav {
+_margin-bottom: -10px; visibility: visible; background: #fff; padding-top: 2px; margin: -1px 0 0; min-height: 1px; height: 1px; border-top: 1px solid #999; width: 990px;
+}
+.navlineforleftnav {
+visibility: hidden; display: none;
+}
+#maincontent {
+clear: both; margin: 0; padding: 2px 15px 0 6px; width: 662px; float: left;
+}
+#rightrail {
+margin: 0 6px 0 0; padding: 10px 0 0; display: table; width: 301px; float: left;
+}
+.clearallfortopnav {
+clear: both;
+}
+#quoteinfo {
+border-right: 1px solid #ccc; _margin-top: 0; width: 330px; float: left;
+}
+#quoteinfo h2 {
+font-weight: bold; font-size: 300%; margin: 0; line-height: 100%; display: block; padding: 0; float: left; letter-spacing: -1px;
+}
+#quoteinfo h2 sup {
+font-size: 50%; line-height: 1px;
+}
+#quoteinfo h4 {
+font-weight: normal; font-size: 130%; margin: 0; line-height: 100%; display: block; white-space: nowrap; padding: 5px 0 0 10px;
+}
+#quoteinfo h5 {
+font-weight: normal; font-size: 80%; margin: 8px 0 0 0; line-height: 140%; display: block; white-space: nowrap; padding: 0; color: #999;
+}
+#buzz {
+padding: 0 0 0 10px; _margin-top: 0; width: 311px; float: left;
+}
+.buzzleft {
+float: left; width: 180px;
+}
+.buzzright {
+margin-top: -18px; width: 121px; float: left;
+}
+.buzzright img {
+margin-top: 4px;
+}
+#buzz h2 {
+font-weight: normal; font-size: 150%; margin: 0; line-height: 100%; padding: 0;
+}
+#buzz h2 em {
+font-weight: bold; color: #999;
+}
+#buzz p {
+font-size: 92%; line-height: 120%; padding: 5px 5px 0 0;
+}
+#buzz form select {
+width: 120px;
+}
+.pricepercentvolume {
+float: left;
+}
+.modulehead {
+overflow: hidden; margin: 10px 0 0 0; background: #eaeaea url('http://i.mktw.net/mw3/Quotes/headerbkg8b.png') repeat-x; display: block; height: 24px;
+}
+.modulehead h3 {
+font-size: 140%; margin: 0; padding: 6px 5px 0; color: #333;
+}
+.newsmodule {
+margin-bottom: 5px; margin-top: 0; width: 662px; float: left;
+}
+.modulehead p {
+font-size: 92%; padding: 6px 5px 0 5px; float: right;
+}
+#scroller ul {
+margin: 0; padding: 0;
+}
+#scroller ul li {
+margin: 0; padding: 0 0 10px; list-style-type: none;
+}
+#scroller ul li span {
+font-size: 92%; color: #666;
+}
+.tablecontainer .fixedwidth {
+width: 515px;
+}
+.tablecontainer .table {
+padding-bottom: 10px;
+}
+#quotetoolsleftnav {
+display: none;
+}
+.quotetools {
+margin: 0 0 0 10px; padding: 0 0 0 10px; display: block; border-left: 1px solid #ccc; width: 124px; float: left;
+}
+.quotetools ul {
+margin: 0; padding: 3px 0 0;
+}
+.quotetools ul li {
+margin: 0; padding: 0 0 6px;
+}
+.quotetools ul li {
+list-style-type: none;
+}
+.quotetools ul li a:link {
+margin: 0; padding: 0 0 0 16px;
+}
+.quotetools ul li a:visited {
+margin: 0; padding: 0 0 0 16px;
+}
+.quotetools ul li a:hover {
+margin: 0; padding: 0 0 0 16px;
+}
+.quotetools ul li a:visited:hover {
+margin: 0; padding: 0 0 0 16px;
+}
+.quotetools ul li a.annualreport {
+background: url('http://i.mktw.net/mw3/Quotes/Icons-report.gif') left no-repeat;
+}
+.quotetools ul li a.hulbertinteractive {
+background: url('http://i.mktw.net/mw3/Quotes/Icons-hulb.gif') left no-repeat;
+}
+.quotetools ul li a.addtoportfolio {
+background: url('http://i.mktw.net/mw3/Quotes/Icons-port.gif') left no-repeat;
+}
+.quotetools ul li a.addtoalerts {
+background: url('http://i.mktw.net/mw3/Quotes/Icons-alert.gif') left no-repeat;
+}
+.quotetools ul li a.rssfeedforsymbol {
+background: url('http://i.mktw.net/mw3/Quotes/Icons-rss.gif') left no-repeat;
+}
+.afterhourstable {
+height: 11px; width: 650px;
+}
+#sponsoredLinks {
+clear: both; margin: 0 0 15px 0;
+}
+#headfootwrap {
+padding: 0;
+}
