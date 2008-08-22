@@ -1,0 +1,1080 @@
+img {
+border: 0;
+}
+.clearall {
+clear: both; float: none;
+}
+.error {
+font-weight: bold; background: #f9f9f9 url('http://i.mktw.net/mw3/misc/alert-sm.png') no-repeat 10px top; padding-left: 36px; color: #ff0000;
+}
+#header {
+background: #004331 url('http://i.mktw.net/mw3/Header/head-back.png') repeat-x left bottom; z-index: 100000; position: relative; width: 990px;
+}
+#header .leftsection {
+margin: 4px 0px 4px 12px; float: left;
+}
+#header .centersection {
+overflow: hidden; margin: 8px 0 0; color: #fff; text-align: center; float: left; width: 410px;
+}
+#header .centersection .largebutton {
+clear: right; margin: 2px 20px 0 0;
+}
+#header .centersection .topsection {
+background: transparent url('http://i.mktw.net/mw3/header/dots-sep.gif') repeat-x left bottom; margin: 0 auto; padding: 0 0 6px; _width: 335px; text-align: right; width: 315px;
+}
+#header .centersection .topsection .linkssection {
+margin: 0 6px 0 20px; display: inline; position: relative; float: left;
+}
+#header .centersection .topsection .linkssection a {
+margin: 0 5px;
+}
+#header .centersection .symbolCompleteContainer input {
+font-size: 12px; border: 1px solid black; padding: 3px; font-family: Verdana, Arial, Helvetica, sans-serif; width: 225px;
+}
+#header .centersection .symbolCompleteContainer input.unUsed {
+color: #aaa;
+}
+#hat_div .hat_search {
+z-index: 1000002; position: relative;
+}
+#header #symbolCompleteResults {
+left: 0; position: absolute; z-index: 1000002; top: 22px;
+}
+#header #symbolCompleteResults ul {
+margin-right: 0px; list-style: none; margin: 0; padding: 0; width: 100%;
+}
+#header #symbolCompleteResults li {
+margin-right: 0px; overflow: hidden; cursor: default; white-space: nowrap; padding: 0 5px; color: #000000;
+}
+#header #symbolCompleteResults li.yui-ac-highlight {
+background: #158a3a; color: #fff;
+}
+#header #symbolCompleteResults .yui-ac-content {
+background: #fff url('http://i.mktw.net/mw3/Header/sc-bkg.gif') repeat-x left bottom; margin: 0; border: 1px solid #ddd; padding: 0; font: normal 12px arial; position: absolute; z-index: 100002; width: 300px;
+}
+#header #symbolCompleteResults .yui-ac-hd {
+margin-right: 0px; border: 1px solid #a7a7a7; padding-left: 3px; color: #a7a7a7; font: normal 12px arial; text-align: left;
+}
+#header #symbolCompleteResults .yui-ac-hd-sub {
+margin-right: 0px; border: 1px solid #a7a7a7; padding-left: 3px; color: #a7a7a7; font: normal 12px arial; text-align: left;
+}
+#header #symbolCompleteResults .yui-ac-ft {
+margin-right: 0px; border: 1px solid #a7a7a7; padding-left: 3px; color: #a7a7a7; font: normal 12px arial; text-align: left;
+}
+#header #symbolCompleteResults .yui-ac-hd {
+padding-bottom: 3px; border-width: 0 0 1px;
+}
+#header #symbolCompleteResults .yui-ac-hd-sub {
+border-width: 0 0 1px;
+}
+#header #symbolCompleteResults .yui-ac-ft {
+border-width: 1px 0 0;
+}
+#header #symbolCompleteResults .yui-ac-bd {
+margin-right: 0px; text-align: left;
+}
+#hat_div #symbolCompleteResults .scResultTable {
+margin: 0; padding: 0;
+}
+#header #symbolCompleteResults .scResultTable {
+margin: 0; padding: 0;
+}
+#header #symbolCompleteResults .scResultTable .symbolCompleteCol1 {
+width: 80px;
+}
+#header #symbolCompleteResults .text {
+font: normal 12px arial;
+}
+#header #symbolCompleteResults table {
+border-collapse: collapse; border-spacing: 0;
+}
+#header #symbolCompleteResults .scResultTable * {
+margin: 0px; padding: 0px;
+}
+#header #symbolCompleteResults .scResultTerm {
+font-weight: bold; margin-right: 0px; padding: 0px; vertical-align: baseline;
+}
+#header .centersection a:link {
+font-size: 11px; font-family: Arial,sans-serif; color: #fff;
+}
+#header .centersection a:visited {
+font-size: 11px; font-family: Arial,sans-serif; color: #fff;
+}
+#header .centersection a:active {
+font-size: 11px; font-family: Arial,sans-serif; color: #fff;
+}
+#header .centersection a:hover {
+font-size: 11px; font-family: Arial,sans-serif; color: #fff;
+}
+#header .centersection .largebutton a:link {
+text-decoration: none; color: #000;
+}
+#header .centersection .largebutton a:visited {
+text-decoration: none; color: #000;
+}
+#header .centersection .largebutton a:active {
+text-decoration: none; color: #f26522;
+}
+#header .centersection .largebutton a:hover {
+text-decoration: none; color: #f26522;
+}
+#symbolCompleteResults .centersection a:link {
+font-size: 100%; color: #0000cc;
+}
+#symbolCompleteResults .centersection a:visited {
+font-size: 100%; color: #0000cc;
+}
+#symbolCompleteResults a:active {
+font-size: 100%; color: #0000cc;
+}
+#symbolCompleteResults a:hover {
+font-size: 100%; color: #0000cc;
+}
+#header .centersection .ad {
+clear: both; margin: 20px 0px 0px 20px;
+}
+#header .centersection .ad .contentBlock {
+margin: 0;
+}
+#header .rightsection {
+margin-right: 8px; float: right;
+}
+#header .phatcontainer {
+overflow: hidden; margin: 3px 0 0; height: 40px; width: 266px;
+}
+.largebutton {
+margin: 0; cursor: pointer; padding: 0; float: left;
+}
+.largebutton .leftcapoff {
+background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/Header/btn_standard_left2.png'); height: 18px; float: left; width: 8px;
+}
+.largebutton .leftcapoff[class] {
+background: url('http://i.mktw.net/mw3/Header/btn_standard_left2.png') left no-repeat;
+}
+.largebutton .buttonoff {
+background-position: bottom; background: url('http://i.mktw.net/mw3/Header/btn_standard_bkg.png') repeat-x; height: 18px; text-align: left; float: left;
+}
+.largebutton .buttonoff p {
+font-weight: bold; font-size: 0.9em; padding-top: 2px; margin: 0px; white-space: nowrap; padding: 0px; color: #333;
+}
+.largebutton .buttonoff p a:link {
+text-decoration: none; color: #000;
+}
+.largebutton .buttonoff p a:visited {
+text-decoration: none; color: #000;
+}
+.largebutton .buttonoff p a:hover {
+text-decoration: none; color: #f26522;
+}
+.largebutton .buttonoff p a:active {
+text-decoration: none; color: #f26522;
+}
+.largebutton .rightcapoff {
+background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image src='http://i.mktw.net/mw3/Header/btn_standard_right_small2.png'); height: 18px; float: left; width: 8px;
+}
+.largebutton .rightcapoff[class] {
+background: url('http://i.mktw.net/mw3/Header/btn_standard_right2.png') right no-repeat;
+}
+#login {
+background: #006633 url('http://i.mktw.net/mw3/registration/login-st.png') no-repeat left bottom; border: none; padding: 0 10px; color: #FFFFFF; width: 246px;
+}
+#loggingin {
+background: #006633 url('http://i.mktw.net/mw3/registration/login-st.png') no-repeat left bottom; border: none; padding: 0 10px; color: #FFFFFF; width: 246px;
+}
+#login p {
+color: #FFFFFF;
+}
+#loggingin p {
+color: #FFFFFF;
+}
+#login .admin a:link {
+font-size: 100%; text-decoration: none;
+}
+#login .admin a:visited {
+font-size: 100%; text-decoration: none;
+}
+#login .admin a:hover {
+font-size: 100%; text-decoration: none;
+}
+#login .admin a:active {
+font-size: 100%; text-decoration: none;
+}
+#login .mylinks a:link {
+font-size: 100%; text-decoration: none;
+}
+#login .mylinks a:visited {
+font-size: 100%; text-decoration: none;
+}
+#login .mylinks a:hover {
+font-size: 100%; text-decoration: none;
+}
+#login .mylinks a:active {
+font-size: 100%; text-decoration: none;
+}
+#login .admin a:link {
+text-decoration: none; color: #FFFFFF;
+}
+#login .admin a:visited {
+text-decoration: none; color: #FFFFFF;
+}
+#login .mylinks a:link {
+text-decoration: none; color: #FFFFFF;
+}
+#login .mylinks a:visited {
+text-decoration: none; color: #FFFFFF;
+}
+#authiframebody a:link {
+text-decoration: none; color: #FFFFFF;
+}
+#authiframebody a:visited {
+text-decoration: none; color: #FFFFFF;
+}
+#loginoverlay #loginclose a:link {
+text-decoration: none; color: #FFFFFF;
+}
+#loginoverlay #loginclose a:visited {
+text-decoration: none; color: #FFFFFF;
+}
+#login .admin a:hover {
+text-decoration: none; color: #FF0000;
+}
+#login .admin a:active {
+text-decoration: none; color: #FF0000;
+}
+#login .mylinks a:hover {
+text-decoration: none; color: #FF0000;
+}
+#login .mylinks a:active {
+text-decoration: none; color: #FF0000;
+}
+#authiframebody a:hover {
+text-decoration: none; color: #FF0000;
+}
+#authiframebody a:active {
+text-decoration: none; color: #FF0000;
+}
+#loginoverlay #loginclose a:hover {
+text-decoration: none; color: #FF0000;
+}
+#loginoverlay #loginclose a:active {
+text-decoration: none; color: #FF0000;
+}
+#login .avatar {
+margin: 5px 5px 0 0; float: left;
+}
+#login p {
+margin: 0; padding: 0;
+}
+#login .admin {
+padding: 2px 0;
+}
+#login .signin {
+font-weight: bold;
+}
+.loginbottom {
+line-height: 0; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/registration/login-btm.png'); height: 6px; width: 266px;
+}
+.loginbottom[class] {
+background: url('http://i.mktw.net/mw3/registration/login-btm.png') no-repeat left top;
+}
+#login #loginlogout {
+font-size: 0.8em; float: right;
+}
+#loginoverlay {
+margin: 0; z-index: 1000001; width: 266px;
+}
+#loginclose {
+margin: 0; background-color: #014832; border: none; padding: 0 10px 5px;
+}
+#loginerror {
+margin: 0; background-color: #014832; border: none; padding: 0 10px 5px;
+}
+#loginfields {
+margin: 0; background-color: #014832; border: none; padding: 0 10px 5px;
+}
+#loginerror {
+padding-left: 36px;
+}
+#loginoverlay #loginclose {
+font-size: 0.9em; line-height: 0.8em; padding: 5px 5px 0 0; text-align: right;
+}
+.uniauthunderlay {
+background-color: transparent; height: 150px; width: 266px;
+}
+#HomePage #HomePageHeader {
+z-index: 100000; position: relative;
+}
+#page #header {
+z-index: 100000; position: relative;
+}
+#SiteHeader {
+background-position: bottom; overflow: hidden; background-repeat: repeat-x; background-color: #004331; background-image: url('http://i.mktw.net/mw3/Header/top-bkg.jpg'); width: 990px;
+}
+#LargeSiteHeader {
+background-position: bottom; overflow: hidden; background-repeat: repeat-x; background-color: #004331; background-image: url('http://i.mktw.net/mw3/Header/top-bkg.jpg'); width: 990px;
+}
+#SiteHeader {
+height: 70px;
+}
+#LargeSiteHeader {
+height: 85px;
+}
+#SiteHeader .leftSection {
+margin-top: 4px; margin-left: 12px; float: left;
+}
+#LargeSiteHeader .leftSection {
+margin-top: 4px; margin-left: 12px; float: left;
+}
+#SiteHeader .leftSection {
+padding-right: 20px; padding-left: 8px;
+}
+#LargeSiteHeader .leftSection {
+padding-right: 15px; padding-left: 8px;
+}
+#SiteHeader .leftSection img {
+border-width: 0px;
+}
+#LargeSiteHeader .leftSection img {
+border-width: 0px;
+}
+#SiteHeader .leftSection img {
+height: 56px; width: 158px;
+}
+#LargeSiteHeader .leftSection img {
+height: 78px; width: 222px;
+}
+#SiteHeader .headerSeperator {
+background-position: right center; margin-top: 10px; background-repeat: no-repeat; background-image: url('http://i.mktw.net/mw3/misc/dotted_line_white_1x61.gif'); height: 75%; width: 5px; float: left;
+}
+#LargeSiteHeader .headerSeperator {
+background-position: right center; margin-top: 10px; background-repeat: no-repeat; background-image: url('http://i.mktw.net/mw3/misc/dotted_line_white_1x61.gif'); height: 75%; width: 5px; float: left;
+}
+#SiteHeader .centerSection {
+overflow: hidden; text-align: center; width: 410px; float: left;
+}
+#LargeSiteHeader .centerSection {
+overflow: hidden; text-align: center; width: 410px; float: left;
+}
+#SiteHeader .centerSection {
+margin-right: 10px; margin-left: 55px;
+}
+#LargeSiteHeader .centerSection {
+margin-right: 10px; margin-left: 18px;
+}
+#SiteHeader .centerSection .symbolCompleteContainer {
+margin-right: 6px; margin-top: 10px; text-align: left; float: left;
+}
+#LargeSiteHeader .centerSection .symbolCompleteContainer {
+margin-right: 6px; margin-top: 10px; text-align: left; float: left;
+}
+#SiteHeader .centerSection .symbolCompleteContainer {
+margin-left: 35px;
+}
+#LargeSiteHeader .centerSection .symbolCompleteContainer {
+margin-bottom: 10px; margin-left: 3px;
+}
+#SiteHeader .centerSection .symbolCompleteContainer input {
+font-size: 12px; border: 1px solid black; padding: 3px; font-family: Verdana, Arial, Helvetica, sans-serif; width: 225px;
+}
+#LargeSiteHeader .centerSection .symbolCompleteContainer input {
+font-size: 12px; border: 1px solid black; padding: 3px; font-family: Verdana, Arial, Helvetica, sans-serif; width: 225px;
+}
+#SiteHeader .centerSection .symbolCompleteContainer input.unUsed {
+color: #aaaaaa;
+}
+#LargeSiteHeader .centerSection .symbolCompleteContainer input.unUsed {
+color: #aaaaaa;
+}
+#SiteHeader .centerSection .advancedSearch {
+margin-top: 10px; float: left; margin-left: 18px;
+}
+#LargeSiteHeader .centerSection .advancedSearch {
+margin-top: 10px; float: left; margin-left: 18px;
+}
+#SiteHeader .centerSection a:link {
+font-size: 11px; font-family: Arial,sans-serif; color: #FFFFFF;
+}
+#SiteHeader .centerSection a:visited {
+font-size: 11px; font-family: Arial,sans-serif; color: #FFFFFF;
+}
+#SiteHeader .centerSection a:active {
+font-size: 11px; font-family: Arial,sans-serif; color: #FFFFFF;
+}
+#SiteHeader .centerSection a:hover {
+font-size: 11px; font-family: Arial,sans-serif; color: #FFFFFF;
+}
+#LargeSiteHeader a:link {
+font-size: 11px; font-family: Arial,sans-serif; color: #FFFFFF;
+}
+#LargeSiteHeader a:visited {
+font-size: 11px; font-family: Arial,sans-serif; color: #FFFFFF;
+}
+#LargeSiteHeader a:active {
+font-size: 11px; font-family: Arial,sans-serif; color: #FFFFFF;
+}
+#LargeSiteHeader a:hover {
+font-size: 11px; font-family: Arial,sans-serif; color: #FFFFFF;
+}
+#symbolCompleteResults .centerSection a:link {
+font-size: 100%; color: #0000CC;
+}
+#symbolCompleteResults .centerSection a:visited {
+font-size: 100%; color: #0000CC;
+}
+#symbolCompleteResults a:active {
+font-size: 100%; color: #0000CC;
+}
+#symbolCompleteResults a:hover {
+font-size: 100%; color: #0000CC;
+}
+#SiteHeader .centerSection .centerAd {
+clear: both; padding-top: 8px;
+}
+#LargeSiteHeader .centerSection .centerAd {
+clear: both; padding-top: 8px;
+}
+#LargeSiteHeader .centerSection .centerAd {
+border-top: 1px solid #ffffff;
+}
+#SiteHeader .rightSection {
+padding-right: 15px; padding-top: 5px; float: right;
+}
+#LargeSiteHeader .rightSection {
+padding-right: 15px; padding-top: 5px; float: right;
+}
+#SiteHeader .centerSection .largebutton {
+margin: 0; margin-top: 12px; cursor: pointer; padding: 0; float: left;
+}
+#LargeSiteHeader .centerSection .largebutton {
+margin: 0; margin-top: 12px; cursor: pointer; padding: 0; float: left;
+}
+#SiteHeader .centerSection .leftcapoff {
+background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/Header/btn_standard_left2.png'); height: 18px; float: left; width: 8px;
+}
+#LargeSiteHeader .centerSection .leftcapoff {
+background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='http://i.mktw.net/mw3/Header/btn_standard_left2.png'); height: 18px; float: left; width: 8px;
+}
+#SiteHeader .centerSection .leftcapoff[class] {
+background: url('http://i.mktw.net/mw3/Header/btn_standard_left2.png') left no-repeat;
+}
+#LargeSiteHeader .centerSection .leftcapoff[class] {
+background: url('http://i.mktw.net/mw3/Header/btn_standard_left2.png') left no-repeat;
+}
+#SiteHeader .centerSection .buttonoff {
+background-position: bottom; background: url('http://i.mktw.net/mw3/Header/btn_standard_bkg.png') repeat-x; height: 18px; text-align: left; float: left;
+}
+#LargeSiteHeader .centerSection .buttonoff {
+background-position: bottom; background: url('http://i.mktw.net/mw3/Header/btn_standard_bkg.png') repeat-x; height: 18px; text-align: left; float: left;
+}
+#SiteHeader .centerSection .buttonoff p {
+font-weight: bold; padding-top: 2px; margin: 0px; white-space: nowrap; padding: 0px; color: #333;
+}
+#SiteHeader .centerSection .buttonon p {
+font-weight: bold; padding-top: 2px; margin: 0px; white-space: nowrap; padding: 0px; color: #333;
+}
+#LargeSiteHeader .centerSection .buttonoff p {
+font-weight: bold; padding-top: 2px; margin: 0px; white-space: nowrap; padding: 0px; color: #333;
+}
+#LargeSiteHeader .centerSection .buttonon p {
+font-weight: bold; padding-top: 2px; margin: 0px; white-space: nowrap; padding: 0px; color: #333;
+}
+#SiteHeader .centerSection .buttonoff p a:link {
+text-decoration: none; color: #000;
+}
+#SiteHeader .centerSection .buttonon p a:link {
+text-decoration: none; color: #000;
+}
+#SiteHeader .centerSection .buttonoff p a:visited {
+text-decoration: none; color: #000;
+}
+#SiteHeader .centerSection .buttonon p a:visited {
+text-decoration: none; color: #000;
+}
+#LargeSiteHeader .centerSection .buttonoff p a:link {
+text-decoration: none; color: #000;
+}
+#LargeSiteHeader .centerSection .buttonon p a:link {
+text-decoration: none; color: #000;
+}
+#LargeSiteHeader .centerSection .buttonoff p a:visited {
+text-decoration: none; color: #000;
+}
+#LargeSiteHeader .centerSection .buttonon p a:visited {
+text-decoration: none; color: #000;
+}
+#SiteHeader .centerSection .buttonoff p a:hover {
+text-decoration: none; color: #f26522;
+}
+#SiteHeader .centerSection .buttonon p a:hover {
+text-decoration: none; color: #f26522;
+}
+#SiteHeader .centerSection .buttonoff p a:visited:hover {
+text-decoration: none; color: #f26522;
+}
+#SiteHeader .centerSection .buttonon p a:visited:hover {
+text-decoration: none; color: #f26522;
+}
+#LargeSiteHeader .centerSection .buttonoff p a:hover {
+text-decoration: none; color: #f26522;
+}
+#LargeSiteHeader .centerSection .buttonon p a:hover {
+text-decoration: none; color: #f26522;
+}
+#LargeSiteHeader .centerSection .buttonoff p a:visited:hover {
+text-decoration: none; color: #f26522;
+}
+#LargeSiteHeader .centerSection .buttonon p a:visited:hover {
+text-decoration: none; color: #f26522;
+}
+#SiteHeader .centerSection .rightcapoff {
+background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image src='http://i.mktw.net/mw3/Header/btn_standard_right_small2.png'); height: 18px; float: left; width: 8px;
+}
+#LargeSiteHeader .centerSection .rightcapoff {
+background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image src='http://i.mktw.net/mw3/Header/btn_standard_right_small2.png'); height: 18px; float: left; width: 8px;
+}
+#SiteHeader .centerSection .rightcapoff[class] {
+background: url('http://i.mktw.net/mw3/Header/btn_standard_right2.png') right no-repeat;
+}
+#LargeSiteHeader .centerSection .rightcapoff[class] {
+background: url('http://i.mktw.net/mw3/Header/btn_standard_right2.png') right no-repeat;
+}
+#SiteHeader .centerSection .rightcapoff {
+background-position: right; background-repeat: no-repeat;
+}
+#LargeSiteHeader .centerSection .rightcapoff {
+background-position: right; background-repeat: no-repeat;
+}
+#LargeSiteHeader #symbolCompleteResults {
+z-index: 1000000;
+}
+#SiteHeader #symbolCompleteResults {
+z-index: 1000000;
+}
+#LargeSiteHeader #symbolCompleteResults ul {
+margin-right: 0px; list-style: none; margin: 0; padding: 0; width: 100%;
+}
+#SiteHeader #symbolCompleteResults ul {
+margin-right: 0px; list-style: none; margin: 0; padding: 0; width: 100%;
+}
+#LargeSiteHeader #symbolCompleteResults li {
+margin-right: 0px; overflow: hidden; cursor: default; white-space: nowrap; padding: 0 5px; color: #000000;
+}
+#SiteHeader #symbolCompleteResults li {
+margin-right: 0px; overflow: hidden; cursor: default; white-space: nowrap; padding: 0 5px; color: #000000;
+}
+#LargeSiteHeader #symbolCompleteResults li.yui-ac-highlight {
+background: #158a3a; color: #FFFFFF;
+}
+#SiteHeader #symbolCompleteResults li.yui-ac-highlight {
+background: #158a3a; color: #FFFFFF;
+}
+#LargeSiteHeader #symbolCompleteResults .yui-ac-content {
+background-position: bottom; background: #FFFFFF; margin: 0; background-repeat: repeat-x; border: 1px solid #dddddd; background-image: url('http://i.mktw.net/mw3/Header/sc-bkg.gif'); padding: 0; font: normal 12px arial; position: absolute; z-index: 100002; width: 300px;
+}
+#SiteHeader #symbolCompleteResults .yui-ac-content {
+background-position: bottom; background: #FFFFFF; margin: 0; background-repeat: repeat-x; border: 1px solid #dddddd; background-image: url('http://i.mktw.net/mw3/Header/sc-bkg.gif'); padding: 0; font: normal 12px arial; position: absolute; z-index: 100002; width: 300px;
+}
+#LargeSiteHeader #symbolCompleteResults .yui-ac-hd {
+padding-bottom: 3px; margin-right: 0px; border-bottom: 1px solid #a7a7a7; padding-left: 3px; color: #a7a7a7; font: normal 12px arial; text-align: left;
+}
+#SiteHeader #symbolCompleteResults .yui-ac-hd {
+padding-bottom: 3px; margin-right: 0px; border-bottom: 1px solid #a7a7a7; padding-left: 3px; color: #a7a7a7; font: normal 12px arial; text-align: left;
+}
+#LargeSiteHeader #symbolCompleteResults .yui-ac-hd-sub {
+margin-right: 0px; border-bottom: 1px solid #a7a7a7; padding-left: 3px; color: #a7a7a7; font: normal 12px arial; text-align: left;
+}
+#SiteHeader #symbolCompleteResults .yui-ac-hd-sub {
+margin-right: 0px; border-bottom: 1px solid #a7a7a7; padding-left: 3px; color: #a7a7a7; font: normal 12px arial; text-align: left;
+}
+#LargeSiteHeader #symbolCompleteResults .yui-ac-ft {
+margin-right: 0px; padding-left: 3px; color: #a7a7a7; font: normal 12px arial; text-align: left; border-top: 1px solid #a7a7a7;
+}
+#SiteHeader #symbolCompleteResults .yui-ac-ft {
+margin-right: 0px; padding-left: 3px; color: #a7a7a7; font: normal 12px arial; text-align: left; border-top: 1px solid #a7a7a7;
+}
+#LargeSiteHeader #symbolCompleteResults .yui-ac-bd {
+margin-right: 0px; text-align: left;
+}
+#SiteHeader #symbolCompleteResults .yui-ac-bd {
+margin-right: 0px; text-align: left;
+}
+#LargeSiteHeader #symbolCompleteResults .scResultTable {
+margin: 0; padding: 0;
+}
+#SiteHeader #symbolCompleteResults .scResultTable {
+margin: 0; padding: 0;
+}
+#LargeSiteHeader #symbolCompleteResults .scResultTable .symbolCompleteCol1 {
+width: 80px;
+}
+#SiteHeader #symbolCompleteResults .scResultTable .symbolCompleteCol1 {
+width: 80px;
+}
+#LargeSiteHeader #symbolCompleteResults .text {
+font: normal 12px arial;
+}
+#SiteHeader #symbolCompleteResults .text {
+font: normal 12px arial;
+}
+#LargeSiteHeader #symbolCompleteResults table {
+border-collapse: collapse; border-spacing: 0;
+}
+#SiteHeader #symbolCompleteResults table {
+border-collapse: collapse; border-spacing: 0;
+}
+#LargeSiteHeader #symbolCompleteResults .scResultTable * {
+margin: 0px; padding: 0px;
+}
+#SiteHeader #symbolCompleteResults .scResultTable * {
+margin: 0px; padding: 0px;
+}
+#LargeSiteHeader #symbolCompleteResults .scResultTerm {
+font-weight: bold; margin-right: 0px; padding: 0px; vertical-align: baseline;
+}
+#SiteHeader #symbolCompleteResults .scResultTerm {
+font-weight: bold; margin-right: 0px; padding: 0px; vertical-align: baseline;
+}
+.CustomControlFooter {
+font-family: Arial, Helvetica, sans-serif; display: inline; float: left;
+}
+.CustomControlFooter .links {
+font-weight: bold; font-size: 13px; margin-bottom: 20px;
+}
+.CustomControlFooter .links a {
+font-weight: normal; text-decoration: none;
+}
+.CustomControlFooter .copyMBCDisclaimer {
+clear: both; font-size: 10px; margin-bottom: 20px;
+}
+.CustomControlFooter .copyDisclaimer {
+clear: both; font-size: 10px;
+}
+.CustomControlFooter .copyDisclaimer span {
+display: block;
+}
+.CustomControlFooter .copyDisclaimer img {
+margin-right: 10px; margin-bottom: 16px; border: 0; float: left;
+}
+.CustomControlFooter .copyDisclaimer a {
+text-decoration: none;
+}
+.CustomControlFooter a:link {
+text-decoration: none; color: #000099;
+}
+.CustomControlFooter a:visited {
+text-decoration: none; color: #000099;
+}
+.CustomControlFooter a:hover {
+text-decoration: underline; color: #ff0000;
+}
+.CustomControlFooter .linkWithImage {
+background-position: left center; background-repeat: no-repeat; padding-left: 17px;
+}
+.iconRss {
+background-image: url('http://i.mktw.net/mw3/news/rss2.gif');
+}
+.iconPodcast {
+background-image: url('http://i.mktw.net/mw3/news/podcast.gif');
+}
+#NavigationBlock {
+height: 30px; z-index: 10000; position: relative;
+}
+#SiteNavigation {
+font-weight: bold; font-size: 11px; clear: both; list-style: none; margin: 0px 0px 0px 0px; background-repeat: repeat-x; font-family: Arial; padding: 0; height: 30px; width: 990px;
+}
+.yuimenubar img {
+display: none;
+}
+#SiteNavigation ul {
+clear: both; list-style: none; margin: 0; padding: 0;
+}
+#SiteNavigation li {
+border-right: solid 1px #7ca49c; border-left: solid 1px #ffffff; z-index: 10000; position: relative; float: left;
+}
+#SiteNavigation li a {
+background-image: url('http://i.mktw.net/mw3/nav/nav_background.gif');
+}
+#SiteNavigation li .selected {
+background-image: url('http://i.mktw.net/mw3/nav/nav_background-on.gif');
+}
+#SiteNavigation li.selected li a {
+background-image: none;
+}
+#SiteNavigation li.selected li {
+background-image: none;
+}
+#SiteNavigation #NewsCommentaryMenuItem {
+width: 156px;
+}
+#SiteNavigation #MarketsMenuItem {
+width: 86px;
+}
+#SiteNavigation #MutualFundsETFsMenuItem {
+width: 162px;
+}
+#SiteNavigation #PersonalFinanceMenuItem {
+width: 142px;
+}
+#SiteNavigation #ToolsResearchMenuItem {
+width: 145px;
+}
+#SiteNavigation #MyMarketWatchMenuItem {
+width: 142px;
+}
+#SiteNavigation #TodaysVideoMenuItem {
+width: 143px;
+}
+#SiteNavigation #MyStoriesMenuItem .yuimenu {
+position: absolute; right: 0;
+}
+#SiteNavigation a {
+text-transform: uppercase; text-decoration: none; padding: 10px 14px 6px 14px; display: block; color: #000000; text-align: center;
+}
+#SiteNavigation li ul {
+left: -2px; clear: both; background-color: #fcfbec; border-width: 0 1px; border: solid 1px #7ca49c; position: absolute; width: 200px;
+}
+#SiteNavigation li li {
+clear: both; border-bottom: solid 1px #7ca49c; border-width: 0; width: 100%;
+}
+#SiteNavigation li li.selected {
+cursor: pointer;
+}
+#SiteNavigation li li a {
+text-transform: none; background-image: none; padding: 9px 15px 7px 15px; display: block; color: #000099; text-align: left;
+}
+#SiteNavigation li li a.selected {
+background-color: #ffefc6; text-decoration: underline; background-image: none; color: #000000;
+}
+#navShadow {
+margin: 0; background-repeat: repeat-x; display: block; padding: 0; background-image: url('http://i.mktw.net/mw3/nav/shadowx.png'); height: 4px; width: 990px;
+}
+.invisible {
+display: none;
+}
+.quoteheadercontrol {
+padding: 0px 0px 8px 8px; font-family: arial,helvetica,sans-serif; float: left;
+}
+.quoteheadercontrol .div1 {
+padding: 10px 0 10px 0;
+}
+.quoteheadercontrol .companyname {
+font-weight: bold; padding-right: 7px; font-size: 165%; margin: 0; background: #fff; color: #f06822;
+}
+.quoteheadercontrol .symbol {
+font-weight: bold; font-size: 140%; text-transform: uppercase;
+}
+.quoteheadercontrol .lbl {
+font-size: 110%; margin-left: 8px;
+}
+.quoteheadercontrol .exchange {
+font-size: 110%; padding: 0px 8px 0px 5px;
+}
+.quoteheadercontrol .price {
+font-weight: bold; font-size: 140%;
+}
+.quoteheadercontrol .price .priceup {
+background: transparent url('http://i.mktw.net/mw3/quotes/arrow-up-lg.gif') no-repeat scroll right center; padding: 2pt 20px 0pt 0pt;
+}
+.quoteheadercontrol .price .pricedown {
+background: transparent url('http://i.mktw.net/mw3/quotes/arrow-dn-lg.gif') no-repeat scroll right center; padding: 2pt 20px 0pt 0pt;
+}
+.quoteheadercontrol .change {
+font-weight: bold; font-size: 115%;
+}
+.quoteheadercontrol .change .down {
+color: #ED1C24;
+}
+.quoteheadercontrol .change .up {
+color: #009900;
+}
+.quoteheadercontrol .volume {
+font-weight: bold; font-size: 115%;
+}
+.quoteheadercontrol .disclousure {
+font-size: 80%; margin: 5px 0px 0px 10px; color: #999999;
+}
+#Kanoodle360 {
+clear: left; border: solid 1px #bbb; font-family: Arial;
+}
+#Kanoodle360 .header {
+_padding: 0 0 0 5px; font-weight: bold; font-size: 12px; background-color: #fff; padding: 4px 0 0 5px; color: #4a80af;
+}
+#Kanoodle360 .content {
+overflow: hidden; clear: left; font-size: 12px; background-color: #fff; padding: 5px;
+}
+#Kanoodle360 .header .left {
+float: left;
+}
+#Kanoodle360 .header .right {
+padding-right: 5px; font-size: 10px; float: right;
+}
+#Kanoodle360 p {
+margin: 0px 0px 13px 0px;
+}
+#Kanoodle360 span u {
+font-size: 11px; color: #0077C6;
+}
+.footerContainer {
+margin: 0px; background-color: white; padding: 0px;
+}
+#siteFooter {
+border-color: #ddd; clear: both; background-color: #ddd; background-repeat: repeat-x; border-width: 1px 0px 0px; border: solid; padding: 0px; background-image: url('http://i.mktw.net/mw3/sectionpages/FooterBackground.gif'); color: #464646; width: 990px;
+}
+#siteFooterSecure {
+border-color: #ddd; clear: both; background-color: #ddd; background-repeat: repeat-x; border-width: 1px 0px 0px; border: solid; padding: 0px; background-image: url('https://i.mktw.net/mw3/sectionpages/FooterBackground.gif'); height: 160px; color: #464646; width: 989px;
+}
+#siteFooter .sep {
+margin: 0px 4px 0px;
+}
+#footerSeparator {
+background-repeat: repeat-x; background-image: url('http://i.mktw.net/mw3/sectionpages/FooterSeparator.gif'); height: 1px;
+}
+#footerSeparatorSecure {
+background-repeat: repeat-x; background-image: url('https://i.mktw.net/mw3/sectionpages/FooterSeparator.gif'); height: 1px;
+}
+#footerLinks {
+font-size: 11px; padding: 8px 10px 11px; font-family: Arial;
+}
+#marketWatchLinkBar {
+line-height: 1em;
+}
+#djonLinkBar {
+padding-top: 8px; line-height: 1em;
+}
+#siteFooter a {
+text-decoration: none; color: #00c;
+}
+#siteFooter a:visited {
+text-decoration: none; color: #00c;
+}
+#footerEtc {
+font-size: 10px; line-height: normal; font-family: arial; padding: 8px 10px 0px; position: relative;
+}
+#footerEtc #left {
+margin-right: 20px; height: 70px; float: left; width: 425px;
+}
+#footerEtc #right {
+width: 500px; float: left;
+}
+#footerEtc #MWLogo {
+margin-bottom: 6px; display: block;
+}
+#footerEtc #truste {
+float: right;
+}
+#siteFooter .sep {
+padding: 0px 3px 0px;
+}
+#left H1 {
+font-size: 10px; color: #999999; float: left;
+}
+#footer #siteFooter {
+margin-bottom: 0px; margin-top: 50px; position: relative;
+}
+div.inThisMod {
+font-size: 12px; border-right: solid 1px #ccc; border-bottom: solid 1px #ccc; border-left: solid 1px #ccc; width: 100%; float: left;
+}
+.GradientTitle {
+font-weight: bold; font-size: 11px; padding: 4px; background-image: url('http://i.mktw.net/mw3/Misc/TabBarBackground.gif'); height: 13px;
+}
+.inThisModCheckBoxs {
+margin: 5px 0 0 0;
+}
+div.inThisModContent {
+margin: 4px 4px 4px 4px;
+}
+div.inThisModStory {
+margin: 5px 0 0 0;
+}
+.ITMSpanTitle {
+font-weight: bold; font-size: 12px;
+}
+.ITMList {
+margin: 5px 0 0 0px; padding: 5px 0 0 0px;
+}
+.ITMList li {
+background-position: 0 .4em; list-style: none; margin: 0 0 5px 8px; background: url('http://i.mktw.net/mw3/Misc/bullet.bmp') no-repeat; padding: 0 0 5px 8px;
+}
+.ITMList a {
+text-decoration: none;
+}
+.ITMList a:hover {
+text-decoration: underline;
+}
+#addtoportfolio {
+background: url('http://i.mktw.net/mw3/Misc/Icons-port.gif') left no-repeat; padding-left: 15px;
+}
+#addtoalert {
+background: url('http://i.mktw.net/mw3/Misc/Icons-alert.gif') left no-repeat; padding-left: 15px;
+}
+.portAlertSubmit {
+border-bottom: dotted 1px #ccc; padding: 10px 0 5px 0;
+}
+.portAlertSubmit {
+border-bottom: dotted 1px #ccc; padding: 10px 0 5px 0;
+}
+.portAlertSubmit_no_sep {
+padding: 10px 0 5px 0;
+}
+.portAlertSubmit div {
+padding: 0 0 5px 0;
+}
+.portAlertSubmit_no_sep div {
+padding: 0 0 5px 0;
+}
+.portAlertSubmit a {
+text-decoration: none;
+}
+.portAlertSubmit_no_sep a {
+text-decoration: none;
+}
+.portAlertSubmit a:hover {
+text-decoration: underline;
+}
+.portAlertSubmit_no_sep a:hover {
+text-decoration: underline;
+}
+.NewsletterMarketingCC {
+padding: 15px 0 10px 0;
+}
+.CCMidNewsletterMarketing_h2 {
+font-weight: bold; font-size: 12px; margin: 0px 0px 3px 5px;
+}
+.CCMidNewsletterMarketing_p {
+font-size: 12px; margin: 0px 0px 3px 5px;
+}
+span.NewsletterMarketing_icon {
+margin: 0px 0px 0px 5px;
+}
+Span.NewsletterMarketing_Link {
+margin: 0px 0px 0px 3px;
+}
+div.headlinesMod {
+font-size: 12px; width: 300px;
+}
+.headlinesList {
+margin: 0px 0 0 0px; padding: 3px 0 5px 0px;
+}
+.headlinesList li {
+list-style: none; margin-bottom: 1px; background: url('http://i.mktw.net/mw3/Misc/bullet.bmp') no-repeat 0pt 5pt; padding: 0 0 2px 12px; margin-left: 7px;
+}
+li.audio {
+margin-bottom: 1px; background: url('http://i.mktw.net/mw3/Search/icon-audio.gif') no-repeat 0pt 35%; padding: 0 0 2px 17px; margin-left: 2px;
+}
+li.video {
+margin-bottom: 1px; background: url('http://i.mktw.net/mw3/Search/icon-video.gif') no-repeat 0pt 35%; padding: 0 0 2px 17px; margin-left: 2px;
+}
+.phat .body-strong {
+font-weight: bold;
+}
+.phat .body-white {
+color: #ffffff;
+}
+.phat .body-strong-white {
+font-weight: bold; color: #ffffff;
+}
+.phat .head01 {
+font-weight: bold; font-size: 11px;
+}
+.phat .head01-em {
+font-weight: bold; font-size: 11px; font-style: italic;
+}
+.phat .head01-white {
+font-weight: bold; font-size: 11px; color: white;
+}
+.phat .head02 {
+font-weight: bold; font-size: 13px;
+}
+.phat .head02-em {
+font-weight: bold; font-size: 13px; font-style: italic;
+}
+.phat .head02-white {
+font-weight: bold; font-size: 13px; color: White;
+}
+.phat .head03 {
+font-weight: bold; font-size: 16px;
+}
+.phat .head03-em {
+font-weight: bold; font-size: 16px; font-style: italic;
+}
+.phat .head03-white {
+font-weight: bold; font-size: 16px; color: white;
+}
+.phat .head04 {
+font-weight: bold; font-size: 19px;
+}
+.phat .head04-em {
+font-weight: bold; font-size: 19px; font-style: italic;
+}
+.phat .head04-white {
+font-weight: bold; font-size: 19px; color: White;
+}
+.phat .head05 {
+font-weight: bold; font-size: 24px;
+}
+.phat .head05-em {
+font-weight: bold; font-size: 24px; font-style: italic;
+}
+.phat .head05-white {
+font-weight: bold; font-size: 24px; color: White;
+}
+.phat .head06 {
+font-weight: bold; font-size: 32px;
+}
+.phat .head06-em {
+font-weight: bold; font-size: 32px; font-style: italic;
+}
+.phat .head06-white {
+font-weight: bold; font-size: 32px; color: White;
+}
+.phat .head07 {
+font-weight: bold; font-size: 48px;
+}
+.phat .head07-em {
+font-weight: bold; font-size: 48px; font-style: italic;
+}
+.phat .head08 {
+font-weight: bold; font-size: 64px;
+}
+.phat .head08-em {
+font-weight: bold; font-size: 64px; font-style: italic;
+}
+.phat .head09 {
+font-weight: bold; font-size: 96px;
+}
+.phat .head09-em {
+font-weight: bold; font-size: 96px; font-style: italic;
+}
+.phat .label {
+font-weight: bold; font-size: 11px;
+}
+.phat .label-white {
+font-weight: bold; font-size: 11px; color: white;
+}
+.phat .label-orange {
+font-weight: bold; font-size: 12px; color: #CC3300;
+}
+.phat .label-black {
+font-weight: bold; font-size: 12px;
+}
+.phat .label-gray {
+font-weight: bold; text-transform: uppercase; color: #808080;
+}
+.phat .spPackageBoxHeader {
+background-image: url('http://i.mktw.net/newsimages/util/sp_package_box_header_background_660.gif'); border-top: 1px solid #dddddd;
+}
+.phat .spPackageBoxBody {
+border: 1px solid #dddddd;
+}
+.phat .source {
+font-size: 9px; color: #9a9a9a;
+}
+.phat .caption {
+font-size: 11px; color: #5a5a5a;
+}
+.link-sm {
+font-size: 11px;
+}
+.link-em {
+font-weight: bold;
+}
