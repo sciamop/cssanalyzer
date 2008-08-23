@@ -1,0 +1,702 @@
+body {
+background: url('http://www.elise.com/recipes/img/body.png') top left; margin: 0; font-family: Verdana, Arial, sans-serif; padding: 0; text-align: center;
+}
+#site {
+background: url('http://www.elise.com/recipes/img/body-top-wide.jpg') repeat-x top left; padding: 12px 0;
+}
+a {
+text-decoration: underline; color: #660000;
+}
+a:link {
+color: #600;
+}
+a:visited {
+color: #600;
+}
+a:active {
+color: #CC6633;
+}
+a:hover {
+color: #CC6633;
+}
+a img {
+text-decoration: none; border: 0;
+}
+h1 {
+margin: 0px; padding: 0px;
+}
+h2 {
+margin: 0px; padding: 0px;
+}
+h3 {
+margin: 0px; padding: 0px;
+}
+h4 {
+margin: 0px; padding: 0px;
+}
+.clear {
+clear: both;
+}
+#footer {
+clear: both; margin: 0; background: url('http://www.elise.com/recipes/img/footer-wide.png') no-repeat bottom left; padding: 0; height: 29px;
+}
+#footer p {
+font-size: 10px; margin: 0; padding: 7px 0 0 0; color: #FEDEB7; text-align: center;
+}
+#footer a {
+text-decoration: none; color: #FEDEB7;
+}
+#footer a:hover {
+text-decoration: underline;
+}
+#container {
+margin: 0 auto; background-color: #fff; min-height: 1500px; text-align: left; width: 895px;
+}
+#index #container {
+background: #fff url('http://www.elise.com/recipes/img/container-index-wide.png') repeat-y top left;
+}
+#iea #container {
+background: #fff url('http://www.elise.com/recipes/img/container-iea-wide.png') repeat-y top left;
+}
+#category #container {
+background: #fff url('http://www.elise.com/recipes/img/container-iea-wide.png') repeat-y top left;
+}
+#archives #container {
+background: #fff url('http://www.elise.com/recipes/img/container-iea-wide.png') repeat-y top left;
+}
+#full #container {
+background: #fff url('http://www.elise.com/recipes/img/container-iea-wide.png') repeat-y top left;
+}
+#user-profile #container {
+background: #fff url('http://www.elise.com/recipes/img/container-iea-wide.png') repeat-y top left;
+}
+#full .center {
+width: 620px;
+}
+#archives #container {
+min-height: 800px;
+}
+#bare #container {
+background: #fff url('http://www.elise.com/recipes/img/container-bare.gif') repeat-y top left; min-height: 200px;
+}
+#category #container {
+min-height: 1000px;
+}
+#bare .center {
+width: 790px;
+}
+#bare .center-module {
+padding: 0 15px;
+}
+#index .center {
+margin-top: 10px;
+}
+#popup #container {
+background: #fff url('http://www.elise.com/recipes/img/container-small.gif') repeat-y top left; min-height: 200px; width: 445px;
+}
+#popup #banner {
+background: #fff url('http://www.elise.com/recipes/img/container-small-top.gif') no-repeat top left; height: 90px;
+}
+#popup .center-module {
+margin: 0;
+}
+#popup #footer {
+background: url('http://www.elise.com/recipes/img/container-small-bottom.gif') no-repeat bottom left;
+}
+#popup #footer p {
+color: #ccc;
+}
+#popup .center {
+width: 445px;
+}
+#banner {
+margin: 0; background: #fff url('http://www.elise.com/recipes/img/banner-wide.png') no-repeat top left; padding: 0; height: 104px;
+}
+#banner h1 {
+padding: 5px 0 0 5px;
+}
+#banner h1 a {
+background: url('http://www.elise.com/recipes/img/logo.gif') repeat-y top left; text-indent: -999em; display: block; height: 61px; width: 340px;
+}
+#sitesearch {
+margin: 25px 20px 0 0; float: right;
+}
+#sitesearch-button {
+position: relative; top: 5px;
+}
+#sitesearch-field {
+font-weight: bold; background: #fff url('http://www.elise.com/recipes/img/input.gif') no-repeat top left; margin: 0; border: solid 1px #AF8A6B; color: #BE3A1F; padding-left: 3px; width: 345px;
+}
+#sitenav ul {
+list-style: none; margin: 0 0 0 2px; padding: 0; color: #fff; font: 14px Georgia, "Times New Roman", Times, serif;
+}
+#sitenav li {
+margin: 14px 0 0 0; text-indent: 0; padding: 0; float: left;
+}
+#sitenav a {
+text-decoration: none; white-space: nowrap; padding: 0 10px; color: #fff;
+}
+#sitenav a:hover {
+color: #ffa904;
+}
+#fontsize {
+margin: 0 8px 0 0; padding: 13px 0 0 0; text-align: right; width: 80px; float: right;
+}
+#index #content {
+background: url('http://www.elise.com/recipes/img/container-index-top.png') no-repeat top left;
+}
+#iea #content {
+background: url('http://www.elise.com/recipes/img/container-iea-top.png') no-repeat top left;
+}
+#bare #content {
+background: url('http://www.elise.com/recipes/img/container-bare-top.gif') no-repeat top left;
+}
+.sidebar {
+overflow: hidden; margin: 0; padding: 0; float: left; width: 190px;
+}
+.side-module {
+padding: 18px 18px 0 18px;
+}
+.sidebar a {
+text-decoration: none;
+}
+.sidebar a:link {
+color: #660000;
+}
+.sidebar a:visited {
+color: #660000;
+}
+.sidebar a:active {
+color: #C63;
+}
+.sidebar a:hover {
+text-decoration: underline; color: #C63;
+}
+.sidebar h2 {
+font-weight: bold; font-size: 14px; font-family: Georgia, serif; color: #4F1F06;
+}
+.sidebar ul {
+margin: 10px 0; padding: 0px;
+}
+.sidebar li {
+list-style: none; font-size: 11px; background: url('http://www.elise.com/recipes/img/bullet-square.gif') no-repeat top left; margin: 3px 0 0 0; line-height: 1.2; padding: 0 0 0 15px; color: #9A3E2F;
+}
+.sidebar p {
+font-size: 11px; color: #9A3E2F;
+}
+.sidebarnewsfeed {
+font-size: 10px; padding: 15px;
+}
+.sidebarnewsfeed a:link {
+text-decoration: underline; color: #660000;
+}
+.sidebarnewsfeed a:hover {
+color: #CC6633;
+}
+.sidebar ul#rssbadges li {
+padding: 0; background-image: none;
+}
+.sidebar .field {
+font-weight: bold; background: #fff url('http://www.elise.com/recipes/img/input.gif') no-repeat top left; margin: 0; border: solid 1px #E1AE83; color: #BE3A1F; padding-left: 1px; width: 115px;
+}
+#converter .field {
+font-size: 11px;
+}
+#converter p {
+font-weight: bold; font-size: 9px;
+}
+#converter h2 {
+margin: 0 0 10px 0;
+}
+#recipes-type ul {
+margin-bottom: 20px;
+}
+#tools {
+font-size: 11px;
+}
+.center {
+overflow: hidden; width: 515px; float: left;
+}
+.center-inner {
+padding: 0 25px;
+}
+.center a {
+text-decoration: underline;
+}
+.center a:hover {
+text-decoration: underline; color: #C63;
+}
+.center a:active {
+text-decoration: underline; color: #C63;
+}
+.center p {
+font-size: 12px; margin-bottom: 10px; line-height: 150%; color: #282828;
+}
+.center blockquote {
+font-size: 10px; margin: 0 15px 15px; line-height: 150%; padding: 0 0 0 5px; border-left: solid 3px #eee6da;
+}
+.center blockquote br {
+display: none;
+}
+.center ul {
+list-style: none; margin: 15px 0; padding: 0;
+}
+.center dl {
+list-style: none; margin: 15px 0; padding: 0;
+}
+.center li {
+font-size: 11px; margin: 10px 0 0 0; line-height: 1.4;
+}
+.center dt {
+font-size: 11px; margin: 10px 0 0 0; line-height: 1.4;
+}
+.center ul li {
+list-style: none; background: url('http://www.elise.com/recipes/img/bullet-square.gif') no-repeat top left; padding: 0 0 0 15px;
+}
+.center dt {
+list-style: none; background: url('http://www.elise.com/recipes/img/bullet-square.gif') no-repeat top left; padding: 0 0 0 15px;
+}
+.center dt {
+font-weight: bold; font-size: 12px; line-height: 1.4;
+}
+.center dd {
+font-size: 11px; margin: 5px 0 0 15px;
+}
+.center h1 {
+clear: both; background: url('http://www.elise.com/recipes/img/u-black.gif') repeat-x bottom left; padding: 15px 0 1px 0; color: #4F1F06; font: 20px Georgia, "Times New Roman", Times, serif;
+}
+.center h1 a {
+text-decoration: none; color: #4F1F06;
+}
+.center h1 a:hover {
+text-decoration: none;
+}
+.center h2 {
+font-weight: bold; clear: left; font-size: 14px; padding-top: 10px; color: #666;
+}
+.center h3 {
+padding-bottom: 1px; clear: both; background: url('http://www.elise.com/recipes/img/u-black.gif') repeat-x bottom left; padding: 15px 0 0 0; color: #333; font: 20px Georgia, "Times New Roman", Times, serif;
+}
+#content .center h4 {
+font-weight: bold; font-size: 13px; padding: 12px 0 0 0; color: #4f1f06;
+}
+.center h3 a {
+text-decoration: none;
+}
+.center h3 a:hover {
+text-decoration: none;
+}
+.center h4 {
+margin: 5px 0; color: #333; font: 12px verdana, arial, sans-serif;
+}
+.entry-footer {
+background: url('http://www.elise.com/recipes/img/u-black.gif') repeat-x top left; padding: 10px 0 0 0;
+}
+.entry-footer p {
+font-size: 10px;
+}
+.center ul.entryoptions {
+clear: left; font-size: 11px; list-style: none; margin: 0; padding: 0;
+}
+.center ul.entryoptions li {
+font-size: 10px; margin: 0 0 5px 0; border-right: solid 1px #ddd; text-indent: 0; background-image: none; padding: 0; float: left;
+}
+.previously li {
+font-size: 12px;
+}
+.previously span {
+font-size: 11px; color: #888;
+}
+.center-module {
+margin: 10px 0;
+}
+.center-module code {
+overflow: scroll; font-size: 12px; margin-bottom: 25px; background: #ffefdc; border: solid 1px #e0aa80; font-family: Verdana, Arial, sans-serif; display: block;
+}
+#content .breadcrumbs p {
+font-size: 11px; margin: 15px 0 0 0; color: #BA8C8C;
+}
+.breadcrumbs a {
+font-size: 11px; margin: 15px 0 0 0; color: #BA8C8C;
+}
+.entry {
+padding-bottom: 65px; background: url('http://www.elise.com/recipes/img/flourish.gif') no-repeat center bottom;
+}
+#entry-first {
+padding-bottom: 40px; background: none;
+}
+#entry-individual {
+padding-bottom: 40px; background: none;
+}
+#blogher_ad {
+padding: 35px 0 25px 0;
+}
+.center p.category {
+font-size: 10px; margin: 2px 0 0 0; padding: 0; font-family: Verdana, Arial, sans-serif; color: #666; text-align: left;
+}
+#content .center .entry-meta {
+padding: 3px 0 7px 0;
+}
+#content .center .entry-meta p {
+font-size: 10px; margin: 0; padding: 0; color: #666;
+}
+.link-note {
+font-size: 11px; margin-bottom: 15px; line-height: 100%; padding: 2px; font-family: Arial, sans-serif; text-align: left;
+}
+#comment-data {
+margin-right: 15px; padding-right: 15px; border-right: 1px dotted #BBB; text-align: left; width: 180px; float: left;
+}
+textarea[id="comment-text"] {
+width: 80%;
+}
+.button {
+margin-bottom: -3px;
+}
+.technorati-tags {
+font-size: 10px; line-height: normal; display: none; padding: 3px; font-family: Verdana, Arial, sans-serif; color: #666; text-align: left;
+}
+.entryoptions li {
+height: 17px;
+}
+.entryoptions li a {
+line-height: 1.5; padding: 2px 10px;
+}
+#option-email {
+background: url('http://www.elise.com/recipes/img/icon-email.gif') no-repeat top left; padding-left: 20px;
+}
+#option-delicious {
+background: url('http://www.elise.com/recipes/img/icon-delicious.gif') no-repeat top left; padding-left: 20px; margin-left: 5px;
+}
+#option-facebook {
+background: url('http://www.elise.com/recipes/img/icon-facebook.gif') no-repeat top left; padding-left: 20px; margin-left: 5px;
+}
+#option-comment {
+background: url('http://www.elise.com/recipes/img/icon-comment.gif') no-repeat top left; padding-left: 20px; margin-left: 5px;
+}
+#option-print {
+background: url('http://www.elise.com/recipes/img/icon-print.gif') no-repeat top left; padding-left: 20px;
+}
+.sr_store_ad {
+border: 1px solid #000;
+}
+.blogherads {
+font-size: 11px; line-height: 130%; font-family: Arial, sans-serif; padding: 10px 0 20px 0; color: #9A3E2F; list-style-type: none; text-align: center;
+}
+.glam-ads {
+font-size: 11px; line-height: 130%; font-family: Arial, sans-serif; padding: 10px 0 20px 0; color: #9A3E2F; list-style-type: none; text-align: center;
+}
+#glam_ad {
+padding: 5px 0 25px 0;
+}
+#googlead_rightbar {
+padding: 15px 0 25px 20px;
+}
+#comments label {
+font-size: 9px; clear: both; margin: 0 0 2px 0; text-transform: uppercase; color: #777; float: left;
+}
+#emailfriend label {
+font-size: 9px; clear: both; margin: 0 0 2px 0; text-transform: uppercase; color: #777; float: left;
+}
+.fields input {
+font-weight: bold; clear: both; background: #fff url('http://www.elise.com/recipes/img/input.gif') no-repeat top left; margin: 0 0 10px 0; border: solid 1px #E1AE83; color: #BE3A1F; padding-left: 3px; float: left; width: 405px;
+}
+.fields textarea {
+font-weight: bold; clear: both; background: #fff url('http://www.elise.com/recipes/img/input.gif') no-repeat top left; margin: 0 0 10px 0; border: solid 1px #E1AE83; color: #BE3A1F; padding-left: 3px; float: left; width: 405px;
+}
+.buttons {
+clear: both; text-align: right;
+}
+#comment-bake-cookie {
+margin: 0 5px 5px 0; width: auto;
+}
+#comment-preview {
+font-weight: bold;
+}
+.commenter-profile img {
+border: 0; vertical-align: middle;
+}
+#comments h3 {
+background: none;
+}
+.comment {
+background: url('http://www.elise.com/recipes/img/comment.gif') repeat-x bottom left; padding: 1px 10px; border-top: solid 1px #e0aa80;
+}
+.mycomment {
+background: url('http://www.elise.com/recipes/img/comment.gif') repeat-x bottom left; padding: 1px 10px; border-top: solid 1px #e0aa80;
+}
+.comment p {
+font-size: 11px;
+}
+#comments p.posted {
+font-size: 10px; background: url('http://www.elise.com/recipes/img/u-black.gif') repeat-x top left; margin: 0 0; padding: 5px 10px; color: #666;
+}
+#comments p.my {
+background: url('http://www.elise.com/recipes/img/icon-my.gif') no-repeat left; margin: 0 0 0 10px; padding: 5px 10px 5px 22px;
+}
+#bare .buttons {
+text-align: left;
+}
+.index-list li {
+list-style: none; margin-left: 20px;
+}
+.index-list a {
+text-decoration: none;
+}
+.index-list a:link {
+text-decoration: none;
+}
+.showmelist {
+list-style: none; margin: 20px 0;
+}
+.showmelist ul {
+margin-left: 15px;
+}
+.showmelist h5 {
+margin: 5px 0;
+}
+.showmelist h5 a {
+display: block;
+}
+.showmelist a {
+text-decoration: none;
+}
+.showmelist a:link {
+text-decoration: none;
+}
+.showmelist a:hover {
+text-decoration: none;
+}
+.showmelist h5 a:active {
+text-decoration: none;
+}
+.showmelist h5 a.treeopen {
+background: url('http://www.elise.com/recipes/open.gif') no-repeat left;
+}
+.showmelist h5 a.treeclosed {
+background: url('http://www.elise.com/recipes/closed.gif') no-repeat left;
+}
+.showmelist hr {
+background: url('http://www.elise.com/recipes/img/u-gray.gif') repeat-x bottom left; margin: 10px 0; border: none;
+}
+.left-box {
+background: url('http://www.elise.com/recipes/img/box-left-bottom.gif') no-repeat bottom left; margin: 18px 0 0 15px; padding: 0 0 5px 0;
+}
+.left-box-in {
+overflow: hidden; background: url('http://www.elise.com/recipes/img/box-left-top.gif') no-repeat top left; padding: 10px 10px 8px 7px;
+}
+#bargains .left-box-in {
+text-align: center;
+}
+.left-box h2 {
+display: none;
+}
+.right-box {
+background: url('http://www.elise.com/recipes/img/box-right-wide-bottom.gif') no-repeat bottom left; margin: 15px 1px 15px 0; padding: 0 0 15px 0;
+}
+.right-box-in {
+background: url('http://www.elise.com/recipes/img/box-right-wide-top.gif') no-repeat top left; padding: 18px 18px 0 20px;
+}
+.middle-box {
+margin: 20px 0; background-color: #fdecd4; border: solid 1px #e8d1c3; padding: 13px;
+}
+.middle-box form {
+margin: 0; padding: 0;
+}
+.middle-box input {
+margin: 0; padding: 0;
+}
+.middle-box-in {
+padding: 0;
+}
+.middle-box-in p {
+font-size: 11px; margin: 5px 0 10px 0;
+}
+.middle-box-in span {
+font-size: 10px;
+}
+.middle-box-in h3 {
+font-weight: bold; background: none; padding: 0; color: #4F1F06; font: 13px Georgia, "Times New Roman", Times, serif;
+}
+.middle-box-in .middle-box-field {
+font-weight: bold; background: #fff url('http://www.elise.com/recipes/img/input.gif') no-repeat top left; margin: 0; border: solid 1px #E1AE83; padding: 3px; color: #BE3A1F; width: 275px;
+}
+#announcement {
+font-size: 12px; margin: 20px 0 0 0; background: #fff2e3; line-height: 1.5; border: solid 1px #f1d0ab; padding: 10px; color: #993300;
+}
+#printoptions {
+margin: 3px 0 10px 260px; background-color: white; border: solid 1px #efe7da; padding: 0 10px; display: none;
+}
+#callout-printoptions {
+margin: 3px 0 10px 260px; background-color: white; border: solid 1px #efe7da; padding: 0 10px; display: none;
+}
+#printoptions h2 {
+margin: 10px 0 6px 0;
+}
+#callout-printoptions h2 {
+margin: 10px 0 6px 0;
+}
+#printoptions ul {
+margin-top: 0;
+}
+#printicon {
+margin-top: 16px; float: right;
+}
+#callout-printicon {
+margin-top: 4px; float: right;
+}
+#iea .center h1 {
+clear: none;
+}
+#searchfoodblogs {
+font-size: 10px; font-family: verdana, 'trebuchet ms', sans-serif; color: #444;
+}
+#searchfoodblogsmain {
+font-size: 10px; font-family: verdana, 'trebuchet ms', sans-serif; color: #660000;
+}
+.entry li {
+margin-top: 3px;
+}
+#recipe-callout {
+margin: 20px 0; background-color: #fef9f1; border: solid 1px #efe7da; padding: 17px;
+}
+#recipe-callout h2 {
+padding: 0 0 12px 0; color: #4F1F06; font: 20px Georgia, "Times New Roman", Times, serif;
+}
+#recipe-callout h4 {
+font-weight: bold; padding: 5px 0; color: #4F1F06; font: 13px Georgia, "Times New Roman", Times, serif;
+}
+#recipe-callout h3 {
+font-weight: bold; background: none; margin-top: 12px; text-transform: uppercase; padding: 0; color: #4F1F06; font: 12px Georgia, "Times New Roman", Times, serif;
+}
+#callout-printoptions h2 {
+font-weight: bold; background: none; margin-top: 12px; text-transform: uppercase; padding: 0; color: #4F1F06; font: 12px Georgia, "Times New Roman", Times, serif;
+}
+#printoptions h2 {
+font-weight: bold; background: none; margin-top: 12px; text-transform: uppercase; padding: 0; color: #4F1F06; font: 12px Georgia, "Times New Roman", Times, serif;
+}
+#recipe-callout p {
+margin: 8px 0 0 0; color: #4F1F06;
+}
+#recipe-callout ul {
+margin: 8px 0 15px 0; color: #4F1F06;
+}
+#recipe-callout li {
+font-size: 12px;
+}
+#recipe-intronote {
+margin-bottom: 12px; font-style: italic;
+}
+#recipe-intronote p {
+font-size: 11px; margin: 0;
+}
+#recipe-ingredients img {
+margin: 3px 6px 3px 0;
+}
+#recipe-method img {
+margin: 3px 6px 3px 0;
+}
+#recipe-method img {
+background-color: white; border: solid 1px #efe7da; padding: 2px;
+}
+#recipe-photo img {
+background-color: white; border: solid 1px #efe7da; padding: 2px;
+}
+.entry-photo img {
+background-color: white; border: solid 1px #efe7da; padding: 2px;
+}
+#recipe-ingredients img {
+background-color: white; border: solid 1px #efe7da; padding: 2px;
+}
+#recipe-intronote img {
+background-color: white; border: solid 1px #efe7da; padding: 2px;
+}
+#recipe-footer img {
+background-color: white; border: solid 1px #efe7da; padding: 2px;
+}
+#author-userpic img {
+background-color: white; border: solid 1px #efe7da; padding: 2px;
+}
+#recipe-callout .floatimgleft {
+margin-right: 8px; margin-bottom: 8px; margin-top: 8px; float: left;
+}
+.floatimgleft {
+margin-right: 8px; margin-bottom: 8px; margin-top: 8px; float: left;
+}
+#recipe-callout .floatimgleftnotop {
+margin-right: 8px; margin-bottom: 8px; margin-top: 0px; float: left;
+}
+.floatimgleftnotop {
+margin-right: 8px; margin-bottom: 8px; margin-top: 0px; float: left;
+}
+#recipe-callout .floatimgright {
+margin-bottom: 8px; margin-top: 8px; margin-left: 8px; float: right;
+}
+.floatimgright {
+margin-bottom: 8px; margin-top: 8px; margin-left: 8px; float: right;
+}
+#content .error_message {
+font-size: 16px; background: #feebd5; border: solid 1px #d7b4a6; font-family: Georgia, Times New Roman, serif; padding: 12px; color: #4f1f06;
+}
+#index-pagination {
+background: url('http://www.elise.com/recipes/img/flourish.gif') no-repeat center; padding: 0 0 65px 0;
+}
+#pagination-previously {
+margin-bottom: 20px; font: 18px Georgia, Times New Roman, sans-serif;
+}
+#pagination-next {
+margin-bottom: 20px; font: 18px Georgia, Times New Roman, sans-serif;
+}
+#pagination-previously a {
+text-decoration: none; display: block;
+}
+#pagination-next a {
+text-decoration: none; display: block;
+}
+#pagination-previously a:hover {
+text-decoration: underline;
+}
+#pagination-next a:hover {
+text-decoration: underline;
+}
+#pagination-archives {
+width: 200px; float: left;
+}
+#pagination-archives p {
+font-size: 10px; margin: 0 0 20px 0; padding: 0;
+}
+#pagination-previously {
+float: left;
+}
+#pagination-next {
+float: right;
+}
+#author-userpic {
+margin-top: 18px;
+}
+#author-information h4 {
+background: url('http://www.elise.com/recipes/img/u-black.gif') repeat-x bottom left; padding: 15px 0 1px 0; font: 18px Georgia, "Times New Roman", Times, serif;
+}
+#food-blog-list {
+padding-bottom: 40px;
+}
+#food-blog-list-alpha {
+padding-bottom: 20px;
+}
+#food-blog-list ul {
+margin: 25px 0 0 0; padding: 0;
+}
+#food-blog-list ul ul {
+margin: 0; padding: 0;
+}
+#food-blog-list ul li {
+font-weight: bold; font-size: 12px; margin: 0; background: none; padding: 0;
+}
+#food-blog-list ul ul li {
+font-weight: normal; list-style: none; font-size: 11px; background: url('http://www.elise.com/recipes/img/bullet-square.gif') no-repeat top left; margin: 3px 0 0 16px; line-height: 1.2; padding: 0 0 0 15px; color: #000;
+}
+#status-message {
+font-weight: bold; margin: 12px 0; background: #e1ffe1; border: solid 1px #d1efd1; padding: 3px 10px 5px 25px;
+}
+#status-message p {
+font-size: 13px; background: transparent url('http://www.elise.com/recipes/img/tick.png') no-repeat center left; padding: 0 0 0 35px; color: #242;
+}
