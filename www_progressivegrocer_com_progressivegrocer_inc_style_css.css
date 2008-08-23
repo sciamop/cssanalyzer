@@ -1,0 +1,1158 @@
+body {
+font-size: 11px; margin: 0px; background-color: #000000; font-family: Arial, Helvetica, sans-serif; behavior: url('http://www.progressivegrocer.com/progressivegrocer/inc/css/csshover.htc'); color: #4c4c4c;
+}
+form {
+margin: 0; padding: 0;
+}
+input {
+margin: 0; padding: 0;
+}
+select {
+margin: 0; padding: 0;
+}
+td {
+font-size: 11px; font-family: Arial, Helvetica, sans-serif;
+}
+.even2 {
+padding-bottom: 4px; margin: 0 auto; border-bottom: 1px solid #DFDFDF; display: block; width: 290px;
+}
+.clearline {
+border-bottom: 1px solid #DFDFDF; height: 1px;
+}
+.bluetxt {
+font-weight: bold; font-size: 11px; line-height: 16px; text-transform: capitalize; color: #004964;
+}
+.whitetxt {
+padding-bottom: 12px; font-weight: bold; font-size: 13px; text-transform: capitalize; color: #000000;
+}
+a {
+font-weight: bold; font-size: 11px; text-decoration: none; color: #bb2517;
+}
+a:hover {
+text-decoration: underline;
+}
+.entry_link4 {
+font-weight: bold; font-size: 11px; line-height: 16px; color: #bb2517;
+}
+a.entry_link4:link {
+font-weight: bold; font-size: 11px; line-height: 16px; text-decoration: none; color: #bb2517;
+}
+a.entry_link4:active {
+font-weight: bold; font-size: 11px; line-height: 16px; text-decoration: none; color: #bb2517;
+}
+a.entry_link4:visited {
+font-weight: bold; font-size: 11px; line-height: 16px; text-decoration: none; color: #bb2517;
+}
+a.entry_link4:hover {
+font-weight: bold; font-size: 11px; line-height: 16px; text-decoration: underline; color: #004964;
+}
+.entry_link {
+font-weight: bold; font-size: 11px; line-height: 16px; color: #bb2517;
+}
+.entry_link5 {
+font-weight: bold; font-size: 12px; line-height: 16px; color: #004964;
+}
+a.entry_link5:link {
+font-weight: bold; font-size: 12px; line-height: 16px; text-decoration: none; color: #004964;
+}
+a.entry_link5:active {
+font-weight: bold; font-size: 12px; line-height: 16px; text-decoration: none; color: #004964;
+}
+a.entry_link5:visited {
+font-weight: bold; font-size: 12px; line-height: 16px; text-decoration: none; color: #004964;
+}
+a.entry_link5:hover {
+font-weight: bold; font-size: 12px; line-height: 16px; text-decoration: underline; color: #bb2517;
+}
+.entry_link2 {
+font-weight: normal; font-size: 11px; line-height: 16px; color: #4c4c4c;
+}
+a.entry_link2:link {
+font-weight: normal; font-size: 11px; line-height: 16px; text-decoration: none; color: #4c4c4c;
+}
+a.entry_link2:active {
+font-weight: normal; font-size: 11px; line-height: 16px; text-decoration: none; color: #4c4c4c;
+}
+a.entry_link2:visited {
+font-weight: normal; font-size: 11px; line-height: 16px; text-decoration: none; color: #4c4c4c;
+}
+a.entry_link2:hover {
+font-weight: normal; font-size: 11px; line-height: 16px; text-decoration: underline; color: #bb2517;
+}
+.entry_link3 {
+font-weight: bold; font-size: 11px; line-height: 16px; text-transform: capitalize; color: #004964;
+}
+a.entry_link3:link {
+font-weight: bold; font-size: 11px; line-height: 16px; text-transform: capitalize; text-decoration: none; color: #004964;
+}
+a.entry_link3:active {
+font-weight: bold; font-size: 11px; line-height: 16px; text-transform: capitalize; text-decoration: none; color: #004964;
+}
+a.entry_link3:visited {
+font-weight: bold; font-size: 11px; line-height: 16px; text-transform: capitalize; text-decoration: none; color: #004964;
+}
+a.entry_link3:hover {
+font-weight: bold; font-size: 11px; line-height: 16px; text-transform: capitalize; text-decoration: underline; color: #004964;
+}
+img {
+border: 0px;
+}
+.minp {
+font-size: 11.8px; margin: 0 auto; text-decoration: none; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #818080;
+}
+a.minp:hover {
+color: #79A4B5;
+}
+.minpspace {
+margin: 0 auto; padding: 8px 0 0 12px;
+}
+.feature_title {
+font-variant: upper-caps; font-weight: bold; font-size: 13px; border-bottom: 1px solid #000000; height: 26px; color: #000000;
+}
+.eventcalendar {
+font-weight: bold; font-size: 14px; height: 26px; color: #004964;
+}
+.firstlight_sub {
+height: 0px;
+}
+.feature_sub {
+background-color: #f9f5e3; height: 20px;
+}
+.feature_sub2 {
+background-color: #ffffff; height: 20px;
+}
+.lead_mini {
+clear: both; margin: 0 0 13px 0; padding: 0 0 13px 0;
+}
+.lead_mini2 {
+clear: both; margin: 5px 0 15px 0; padding: 0;
+}
+img.smimg {
+margin: 0 10px 3px 0; border: 0; padding: 0; float: left;
+}
+.lead_mini {
+clear: both; margin: 0 0 13px 0; padding: 0 0 13px 0;
+}
+.lead_mini2 {
+clear: both; margin: 5px 0 15px 0; padding: 0;
+}
+img.smimg {
+margin: 0 10px 3px 0; border: 0; padding: 0; float: left;
+}
+table.imgRight {
+float: right;
+}
+#PageLayout {
+margin: 0px auto;
+}
+#PageLayoutContent {
+background-color: #FFFFFF;
+}
+.imgleft {
+padding-bottom: 10px; padding-right: 10px; border: 0px; float: left;
+}
+.TopNav {
+font-weight: normal; font-size: 10px; text-decoration: none; color: #000000; text-align: right;
+}
+a.TopNav:link {
+font-weight: normal; font-size: 10px; text-decoration: none; color: #000000; text-align: right;
+}
+a.TopNav:active {
+font-weight: normal; font-size: 10px; text-decoration: none; color: #000000; text-align: right;
+}
+a.TopNav:visited {
+font-weight: normal; font-size: 10px; text-decoration: none; color: #000000; text-align: right;
+}
+a.TopNav:hover {
+font-weight: normal; font-size: 10px; text-decoration: none; color: #ba251a; text-align: right;
+}
+.searchimg {
+font-weight: bold; font-size: 11px; padding-top: 1px; text-transform: uppercase; vertical-align: bottom; color: #4c4c4c; text-align: right;
+}
+.searchinput {
+font-size: 10px; padding-top: 2px; border: 1px solid #959595; height: 20px; width: 230px;
+}
+.contentpad {
+font-weight: normal; font-size: 11px; padding: 10px; color: #4c4c4c;
+}
+.contentpad2 {
+font-weight: bold; font-size: 11px; padding: 10px; color: #ba251a;
+}
+.contentpad3 {
+padding: 10px;
+}
+.newsletter {
+font-weight: bold; background-position: right bottom; font-size: 14px; padding-top: 12px; background-color: #000000; background-repeat: no-repeat; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/newsletter_bg.gif'); padding-left: 30px; color: #FFFFFF;
+}
+.newsletternew {
+font-weight: bold; background-position: right bottom; font-size: 14px; background-color: #000000; background-repeat: no-repeat; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/newsletter_bg.gif'); padding-left: 30px; color: #FFFFFF;
+}
+.seperatordot {
+background-repeat: repeat-y; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/seperatordot.gif');
+}
+.seperatordot2 {
+background-position: 5px; background-repeat: repeat-x; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/seperatordot2.gif');
+}
+.sitebox {
+font-weight: normal; font-size: 10px; line-height: 12px; vertical-align: top; color: #4c4c4c; text-align: left; letter-spacing: 1px;
+}
+.sitebox2 {
+color: #FF0000;
+}
+.subheaderbg {
+font-weight: normal; font-size: 11px; background-repeat: repeat-x; padding: 0px 0px 0px 25px; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/subheader_bg.gif'); color: #000000; height: 29px;
+}
+.subheaderbgother {
+font-weight: normal; font-size: 11px; background-repeat: repeat-x; padding: 0px 0px 0px 25px; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/subheader_bg.gif'); color: #000000; height: 19px;
+}
+.lefttxtheading {
+font-size: 26px; background-repeat: no-repeat; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/lefttext_line.gif'); color: #000000; height: 44px; letter-spacing: 2px;
+}
+a.lefttxtheadingtext:link {
+font-weight: normal; font-size: 26px; text-decoration: none; color: #000000; letter-spacing: 2px;
+}
+a.lefttxtheadingtext:active {
+font-weight: normal; font-size: 26px; text-decoration: none; color: #000000; letter-spacing: 2px;
+}
+a.lefttxtheadingtext:visited {
+font-weight: normal; font-size: 26px; text-decoration: none; color: #000000; letter-spacing: 2px;
+}
+a.lefttxtheadingtext:hover {
+font-weight: normal; font-size: 26px; text-decoration: none; color: #000000; letter-spacing: 2px;
+}
+.toparticleheading {
+font-weight: bold; font-size: 12px; color: #004964;
+}
+.toparticlesubheading {
+font-weight: normal; font-size: 12px; color: #004964;
+}
+.toparticleheading1 {
+font-size: 22px; background-repeat: no-repeat; text-transform: capitalize; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/lefttext_line.gif'); color: #000000; height: 44px; letter-spacing: 2px;
+}
+.toparticleheadingbox {
+font-weight: bold; font-size: 12px; background-color: #faf5e2; border: 1px solid #999999; text-transform: uppercase; padding: 5px; color: #b92718; text-align: left; letter-spacing: 0.2em;
+}
+.normaltxt {
+font-weight: normal; color: #4c4c4c;
+}
+.more {
+padding-right: 2px; font-weight: bold; font-size: 11px; text-decoration: none; color: #ba251a; text-align: right;
+}
+a.more2 {
+padding-right: 2px; font-weight: bold; font-size: 11px; text-decoration: none; color: #ffffff;
+}
+a.more2:hover {
+text-decoration: underline;
+}
+.more {
+padding-right: 2px; font-weight: bold; font-size: 11px; text-decoration: none; color: #ba251a; text-align: right;
+}
+a.more:link {
+padding-right: 2px; font-weight: bold; font-size: 11px; text-decoration: none; color: #ba251a;
+}
+a.more:visited {
+padding-right: 2px; font-weight: bold; font-size: 11px; text-decoration: none; color: #ba251a;
+}
+a.more:hover {
+font-weight: bold; font-size: 11px; text-decoration: underline; color: #ba251a;
+}
+.seperator {
+background-position: top; background-color: #FFFFFF; background-repeat: repeat-y; position-top: 8px; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/seperatordot.gif'); position-bottom: 8px;
+}
+.righttxtheading {
+font-size: 24px; background-repeat: no-repeat; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/lefttext_line.gif'); color: #000000; height: 44px;
+}
+.advertisment {
+font-weight: normal; font-size: 11px; color: #a4a3a3;
+}
+.divider {
+background-repeat: no-repeat; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/linedivider.gif');
+}
+.divider2 {
+background-repeat: no-repeat; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/linedivider.gif');
+}
+.divider1 {
+background-position: 10px; padding-top: 10px; background-repeat: repeat-x; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/images/linedivider.gif');
+}
+.divider2 {
+background-position: 30px; background-repeat: repeat-x; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/linedivider.gif'); padding-left: 30px;
+}
+.mostpopular {
+background-position: left bottom; font-size: 15px; background-repeat: no-repeat; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/most_deactive.jpg'); color: #ba251a; height: 21px;
+}
+a.mostpopular:link {
+background-position: left; font-size: 15px; background-repeat: no-repeat; text-decoration: none; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/most_deactive.jpg'); padding-left: 20px; color: #ba251a; height: 21px;
+}
+a.mostpopular:active {
+background-position: left; font-size: 15px; background-repeat: no-repeat; text-decoration: none; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/mostactive.jpg'); padding-left: 20px; color: #ffffff; height: 21px;
+}
+a.mostpopular:hover {
+background-position: left; font-size: 15px; background-repeat: no-repeat; text-decoration: none; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/mostactive.jpg'); padding-left: 20px; color: #ffffff; height: 21px;
+}
+a.mostpopular:visited {
+background-position: left; font-size: 15px; background-repeat: no-repeat; text-decoration: none; background-image: url('http://www.progressivegrocer.com/progressivegrocer/images/most_deactive.jpg'); padding-left: 20px; color: #ffffff; height: 21px;
+}
+.progressivetxt {
+padding-bottom: 10px; font-weight: bold; font-size: 11px; text-decoration: none; color: #ba251a; text-align: left;
+}
+.indheading {
+font-weight: bold; font-size: 11px; color: #ba251a; padding-left: 10px;
+}
+.footernav {
+font-weight: normal; font-size: 10px; text-decoration: none; color: #a4a3a3; text-align: right;
+}
+a.footernav:link {
+font-weight: normal; font-size: 10px; text-decoration: none; color: #a4a3a3; text-align: right;
+}
+a.footernav:active {
+font-weight: normal; font-size: 10px; text-decoration: none; color: #a4a3a3; text-align: right;
+}
+a.footernav:visited {
+font-weight: normal; font-size: 10px; text-decoration: none; color: #a4a3a3; text-align: right;
+}
+a.footernav:hover {
+font-weight: normal; font-size: 10px; text-decoration: underline; color: #a4a3a3; text-align: right;
+}
+#click_ability {
+font-weight: bold; padding-bottom: 12px; font-size: 0.85em; margin: 3px 0px 1px 0; line-height: 26px; color: #666666; text-align: right;
+}
+#click_ability_bottom {
+font-weight: bold; font-size: 0.85em; margin: 10px 0px 5px 0; line-height: 26px; border-bottom: 1px solid #e5e5e5; padding: 5px 0 5px 0; color: #666666; border-top: 1px solid #e5e5e5; text-align: right;
+}
+#click_ability a {
+padding: 0 8px 0 0;
+}
+#click_ability_bottom a {
+padding: 0 8px 0 0;
+}
+#click_ability img {
+vertical-align: middle;
+}
+#click_ability_bottom img {
+vertical-align: middle;
+}
+#nav_bar {
+font-size: 1px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/navbkgnd_out.gif') top left repeat-x; display: block; height: 53px; width: 972px;
+}
+#nav_bar #nav_primary {
+list-style: none; margin: 0 0 0 12px; padding: 0; z-index: 1000; position: relative; float: left;
+}
+#nav_bar #nav_primary li {
+list-style: none; margin: 0; padding: 0; height: 53px; float: left;
+}
+#nav_bar #nav_primary li a {
+text-shadow: 0 0 0 #000000; font-size: 12px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/navbkgnd_out.gif') top left repeat-x; margin: 0; text-decoration: none; display: block; padding: 18px 18px 0 18px; height: 53px; color: #ffffff; letter-spacing: 1px; float: left;
+}
+#nav_bar #nav_primary li a:hover {
+background: url('http://www.progressivegrocer.com/progressivegrocer/images/navbkgnd_over.gif') top left repeat-x; color: #ffde00;
+}
+#nav_bar #nav_primary li.current a {
+background: url('http://www.progressivegrocer.com/progressivegrocer/images/navbkgnd_over.gif') top left repeat-x; color: #ffde00;
+}
+#nav_bar #nav_primary li.rollover a {
+background: url('http://www.progressivegrocer.com/progressivegrocer/images/navbkgnd_over.gif') top left repeat-x; color: #ffde00;
+}
+#nav_bar #nav_primary li ul {
+list-style: none; margin: 0; padding: 0; z-index: 1010; position: absolute; width: 100px; top: -999px;
+}
+#nav_bar #nav_primary li ul#sub_1 {
+width: 0;
+}
+#nav_bar #nav_primary li ul#sub_2 {
+width: 0;
+}
+#nav_bar #nav_primary li ul#sub_3 {
+left: 205px;
+}
+#nav_bar #nav_primary li ul#sub_4 {
+left: 362px;
+}
+#nav_bar #nav_primary li ul#sub_5 {
+width: 0;
+}
+#nav_bar #nav_primary li ul#sub_6 {
+left: 635px;
+}
+#nav_bar #nav_primary li ul#sub_7 {
+left: 745px;
+}
+#nav_bar #nav_primary li ul#sub_8 {
+width: 0;
+}
+#nav_bar #nav_primary li ul li {
+clear: both; background: #353535 url('http://www.progressivegrocer.com/progressivegrocer/images/subnav_bkgnd.jpg') top left; margin: 0; border-bottom: 1px solid #282828; padding: 0; height: 20px;
+}
+#nav_bar #nav_primary li ul li a {
+font-size: 11px; background: none; margin: 0; text-decoration: none; display: block; padding: 2px 0 0 15px; height: 20px; color: #ffffff; width: 230px; letter-spacing: 1px;
+}
+#nav_bar #nav_primary li.current ul li a {
+font-size: 11px; background: none; margin: 0; text-decoration: none; display: block; padding: 2px 0 0 15px; height: 20px; color: #ffffff; width: 230px; letter-spacing: 1px;
+}
+#nav_bar #nav_primary li.rollover ul li a {
+font-size: 11px; background: none; margin: 0; text-decoration: none; display: block; padding: 2px 0 0 15px; height: 20px; color: #ffffff; width: 230px; letter-spacing: 1px;
+}
+#nav_bar #nav_primary li ul#sub_4 li a {
+width: 150px;
+}
+#nav_bar #nav_primary li ul#sub_6 li a {
+width: 175px;
+}
+#nav_bar #nav_primary li ul#sub_7 li a {
+width: 200px;
+}
+#nav_bar #nav_primary li ul li a:hover {
+background: #711711 url('http://www.progressivegrocer.com/progressivegrocer/images/subnavover_bkgnd.jpg') top left; color: #ffffff;
+}
+#nav_bar #nav_primary li.current ul li a:hover {
+background: #711711 url('http://www.progressivegrocer.com/progressivegrocer/images/subnavover_bkgnd.jpg') top left; color: #ffffff;
+}
+#nav_bar #nav_primary li.rollover ul li a:hover {
+background: #711711 url('http://www.progressivegrocer.com/progressivegrocer/images/subnavover_bkgnd.jpg') top left; color: #ffffff;
+}
+a.entry_link {
+display: block;
+}
+a.entry_link span.more_light {
+color: #ba251a;
+}
+a.entry_link span.more_dark {
+color: #ba251a;
+}
+a.entry_link:link {
+color: #ba251a;
+}
+a.entry_link:visited {
+color: #ba251a;
+}
+a.entry_link:hover {
+color: #ba251a;
+}
+a.entry_link:hover .more_light {
+background-position: 0 -101px; color: #ba251a;
+}
+a.entry_link:hover .more_dark {
+background-position: 0 -99px; color: #ba251a;
+}
+.tabs ul {
+list-style: none; margin: 0; padding: 0;
+}
+.tabs li {
+margin: 0; padding: 0 0 0 0; float: left;
+}
+.eventPlannerImageButton {
+border: none; text-decoration: none; height: 14px; width: 45px;
+}
+.openMyEventPlannerImageButton {
+border: none; text-decoration: none; height: 18px; width: 120px;
+}
+.smallbiz_box {
+font-size: .95em; clear: both; margin: 0; border: 1px solid #B9C7D0; padding: 2px 0 5px 15px; width: 300px;
+}
+A.smallLink:link {
+font-size: 11px; text-decoration: none; font-family: arial; color: #2F5E78;
+}
+A.smallLink:visited {
+font-size: 11px; text-decoration: none; font-family: arial; color: #2F5E78;
+}
+A.smallLink:active {
+font-size: 11px; text-decoration: none; font-family: arial; color: #2F5E78;
+}
+A.smallLink:hover {
+font-size: 11px; text-decoration: underline; font-family: arial; color: #2F5E78;
+}
+.minbgl {
+padding-bottom: 4px; margin: 0 auto; background: #ffffff; display: block; width: 282px;
+}
+.min2bgd {
+padding-bottom: 4px; margin: 0 auto; background: #faf5e2; border-bottom: 1px solid #DFDFDF; display: block; width: 282px;
+}
+.minp {
+font-size: 11.8px; margin: 0 auto; text-decoration: none; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #4d4d4d;
+}
+a.minp:hover {
+color: #b8251b;
+}
+.sb_headlines {
+font-size: 14px; line-height: 30px; color: #939B66;
+}
+.sb_more {
+font-size: 11px; line-height: 30px; color: #939B66;
+}
+.blogFeed {
+padding-bottom: 10px; margin-bottom: 10px;
+}
+a.rssFeedHdl {
+font-weight: bold; font-size: 14px; line-height: normal; text-decoration: none; font-family: Arial, Helvetica, sans-serif; color: #000000;
+}
+a.rssFeedHdl:hover {
+text-decoration: underline; color: #004964;
+}
+.dateLine {
+font-weight: normal;
+}
+#blog_setup {
+margin-right: 2px; padding: 5px 0 5px 5px; margin-left: 2px;
+}
+#blogs_title {
+font-size: 13px; color: #004964;
+}
+#links h2 {
+margin-bottom: 20px;
+}
+#links ul.headlines.no_bullet li a {
+background-image: none; padding: 0 0 0 20px;
+}
+#primary_content {
+display: inline; float: left;
+}
+#primary_content #main_news {
+margin-right: 10px;
+}
+#main_news .main_news_entry {
+clear: left; margin-bottom: 16px; width: 268px; float: left;
+}
+#main_news .main_news_entry h3 {
+margin-right: 0px; display: inline;
+}
+#main_news .main_news_entry h3.big {
+margin-right: 0px; display: inline;
+}
+#main_news .main_news_entry a img {
+background: #A4A4A4; margin: 2px 10px 0px 0; padding: 1px; float: left;
+}
+#main_news .main_news_entry a img.big {
+margin-top: 2px; padding: 2px;
+}
+#main_news .main_news_entry img.paid_icon {
+padding: 2px 2px 0px 0px; float: left;
+}
+#main_news .main_news_entry .main_news_entry_body h3 {
+display: inline;
+}
+#primary_content #lead_image_setup #lead_image {
+margin-bottom: 15px; border-bottom: 1px solid #ccc; padding: 0 0 5px 5px;
+}
+#primary_content #lead_image_setup #lead_image:hover {
+background: #f7f5f2;
+}
+#primary_content #lead_image_setup table#lead_image tr td {
+padding-bottom: 10px;
+}
+#primary_content  #lead_image_setup #lead_image .copy a img {
+margin-right: 10px; background: #bbbbbb; margin-bottom: 10px; padding: 2px; float: left;
+}
+#primary_content #lead_image_setup #lead_image .copy a:hover img {
+background: #4C4A45; float: left;
+}
+#primary_content #lead_image_setup #lead_image .copy img.paid_icon {
+padding: 2px 2px 0px 0px; float: left;
+}
+#primary_content #lead_image_setup {
+margin-right: 0px; width: 295px;
+}
+#primary_content #lead_image_setup  #lead_image .copy {
+display: inline; float: left;
+}
+#primary_content #lead_image_setup  #lead_image .copy h3 {
+display: inline;
+}
+#primary_content #lead_image_setup #lead_image h3 {
+display: inline;
+}
+#secondary_content {
+clear: both; margin-bottom: 10px; display: inline; position: relative; top: 0px; float: left;
+}
+#more_coverage #more_coverage_title {
+background-color: #FF0000; height: 22px;
+}
+#more_coverage h2 {
+margin: 2px 0 0px 20px; position: relative;
+}
+#more_coverage .chart .headlines {
+padding-right: 0px; width: 288px;
+}
+#review_spotlight {
+position: relative; top: 0px;
+}
+#review_spotlight.module_full_bar h2 {
+margin: 0px 0 7px 20px; position: relative;
+}
+#review_spotlight #review_spotlight_title {
+background-color: #FF0000; height: 22px;
+}
+#review_spotlight #current_reviews_title {
+background-color: #FF0000; height: 22px;
+}
+#review_spotlight .review_blurb {
+display: inline; margin-left: 20px; width: 278px; float: left;
+}
+#review_spotlight .review_blurb img {
+background: #b5b5b5; margin-bottom: 15px; padding: 2px;
+}
+#review_spotlight .review_blurb p {
+font-size: 12px;
+}
+#review_spotlight .review_listing {
+margin-right: 15px; display: inline; width: 281px; float: right;
+}
+#review_spotlight .review_listing .headlines {
+font-size: 12px; border-bottom: 0;
+}
+#review_spotlight .review_listing .headlines li a {
+background-position: 10px 5px; padding: 0 0 0 32px;
+}
+#review_spotlight .review_listing .headlines li a:hover {
+background-position: 10px -84px;
+}
+#review_spotlight .review_listing .more_dark {
+margin-top: 10px; line-height: 14px; float: right;
+}
+#tertiary_content {
+clear: both; margin-bottom: 15px; display: inline; position: relative; width: 100%; float: left;
+}
+#tertiary_content .advertisement {
+padding-top: 7px; margin-left: 20px; width: 300px; float: left;
+}
+#tertiary_content_1col {
+clear: both; margin-bottom: 15px; display: inline; position: relative; width: 100%; float: left;
+}
+#tertiary_content .module_full_bar {
+float: left;
+}
+#film_feature_spotlight {
+width: 307px;
+}
+#film_feature_spotlight #film_feature_spotlight_title {
+background-color: #FF0000;
+}
+#film_feature_spotlight #feature_title {
+background-color: #FF0000;
+}
+#film_feature_spotlight .module_feature_entry {
+margin: 15px 10px 20px 10px;
+}
+#film_feature_spotlight .module_feature_entry h3.big {
+margin-right: 0; display: inline;
+}
+#film_feature_spotlight .module_feature_entry a img {
+background: #A4A4A4; margin: 2px 10px 4px 0px; float: left;
+}
+#film_feature_spotlight .module_feature_entry .copy h3 {
+display: inline;
+}
+#feature_spotlight {
+width: 307px;
+}
+#feature_spotlight .module_feature_entry {
+margin: 15px 20px 20px;
+}
+#feature_spotlight .module_feature_entry h3.big {
+margin-right: 0; display: inline;
+}
+#feature_spotlight .module_feature_entry a img {
+background: #A4A4A4; margin: 2px 10px 4px 0px; float: left;
+}
+#feature_spotlight .module_feature_entry a img.paid_icon {
+background: #ffffff; padding: 2px 2px 0px 0px; float: left;
+}
+#feature_spotlight .module_feature_entry .copy h3 {
+display: inline;
+}
+#tv_feature_spotlight {
+width: 307px;
+}
+#tv_feature_spotlight #tv_feature_spotlight_title {
+background-color: #FF0000;
+}
+#key_art_awards {
+width: 307px;
+}
+#key_art_awards #key_art_awards_title {
+background-color: #FF0000;
+}
+#independent_film {
+float: left; width: 328px;
+}
+#independent_film #independent_film_title {
+background-color: #FF0000;
+}
+#independent_film #indie_film_title {
+background-color: #FF0000;
+}
+#independent_film #risky_business_title {
+background-color: #FF0000;
+}
+#independent_film .module_feature_entry {
+margin: 15px 20px 20px; width: 267px;
+}
+#independent_film .module_feature_entry h3.big {
+margin-right: 0; display: inline;
+}
+#independent_film .module_feature_entry a img {
+background: #A4A4A4; margin: 2px 10px 4px 0px; float: left;
+}
+#independent_film .module_feature_entry .copy h3 {
+display: inline;
+}
+#risky_business {
+float: left; width: 328px;
+}
+#risky_business #risky_business_title {
+background-color: #FF0000;
+}
+#risky_business .module_feature_entry {
+margin: 15px 20px 20px; width: 267px;
+}
+#risky_business .module_feature_entry h3.big {
+margin-right: 0; display: inline;
+}
+#risky_business .module_feature_entry a img {
+background: #A4A4A4; margin: 2px 10px 4px 0px; float: left;
+}
+#risky_business .module_feature_entry .copy h3 {
+display: inline;
+}
+#quarternary_content {
+background-color: #FF0000; display: inline; position: relative; width: 100%; float: left;
+}
+#quarternary_content .module_full_bar {
+float: left;
+}
+#calendar {
+margin-right: 1px;
+}
+#financial_info {
+margin-right: 1px; width: 307px;
+}
+#financial_info #financial_info_title {
+margin: 7px 0 7px 20px; background-color: #FF0000;
+}
+#financial_info .copy {
+padding: 20px;
+}
+#most_popular_film {
+border-right: 1px solid #e2e2e2; border-left: 1px solid #e2e2e2; float: left; width: 327px;
+}
+#most_popular_film .chart {
+padding-right: 10px; border-right: 0px; border-left: 0px;
+}
+#most_popular {
+width: 327px;
+}
+#most_popular .chart {
+padding-right: 10px; border-left: 0;
+}
+#quinary_content {
+width: 100%; float: left;
+}
+.ad_container {
+float: left;
+}
+#on_the_web {
+float: left;
+}
+.advertisement {
+float: left;
+}
+#tertiary_content #on_the_web {
+width: 327px;
+}
+#film {
+float: left; width: 308px;
+}
+#film #headlines_title {
+margin: 7px 0 7px 20px; background-color: #FF0000;
+}
+#film .headlines {
+border: 0;
+}
+.ad_container {
+margin-right: 1px;
+}
+.tbImgCaption {
+padding-right: 10px; float: left;
+}
+.squareAd {
+margin: 8px 0 8px 0;
+}
+#hdr_side_news {
+margin: 0 0 15px 0; padding: 0;
+}
+#creative_tabs {
+list-style: none; margin: 0; padding: 8px 0 0 0; position: relative; width: 100%; float: left;
+}
+#creative_tabs li {
+list-style: none; margin: 0; border-bottom: 0px; padding: 0; float: left;
+}
+#community_tabs li {
+list-style: none; margin: 0; border-bottom: 0px; padding: 0; float: left;
+}
+#people_tabs li {
+list-style: none; margin: 0; border-bottom: 0px; padding: 0; float: left;
+}
+#news_tabs li {
+list-style: none; margin: 0; border-bottom: 0px; padding: 0; float: left;
+}
+#inner_content ul#overview_tabs li {
+list-style: none; margin: 0; border-bottom: 0px; padding: 0; float: left;
+}
+#inner_content ul#reportcard_tabs li {
+list-style: none; margin: 0; border-bottom: 0px; padding: 0; float: left;
+}
+#inner_content ul#agencystake_tabs li {
+list-style: none; margin: 0; border-bottom: 0px; padding: 0; float: left;
+}
+#fold_tabs li {
+list-style: none; margin: 0; border-bottom: 0px; padding: 0; float: left;
+}
+#creative_tabs li span {
+text-indent: -9999px; position: absolute;
+}
+#community_tabs li span {
+text-indent: -9999px; position: absolute;
+}
+#people_tabs li span {
+text-indent: -9999px; position: absolute;
+}
+#news_tabs li span {
+text-indent: -9999px; position: absolute;
+}
+#overview_tabs li span {
+text-indent: -9999px; position: absolute;
+}
+#reportcard_tabs li span {
+text-indent: -9999px; position: absolute;
+}
+#agencystake_tabs li span {
+text-indent: -9999px; position: absolute;
+}
+#fold_tabs li span {
+text-indent: -9999px; position: absolute;
+}
+#creative_tabs li a#aotd {
+background-position: 0 0; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_aotd.gif') no-repeat; display: block; height: 35px; z-index: 1; width: 112px;
+}
+#creative_tabs li a#cd {
+background-position: 0 0; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_cd.gif') no-repeat; display: block; height: 35px; z-index: 1; width: 111px;
+}
+#creative_tabs li a#tab_top_headlines {
+background-position: 0 0; display: block; height: 35px; z-index: 1; width: 90px;
+}
+#creative_tabs li a#tab_most_popular {
+background-position: 0 0; display: block; height: 35px; z-index: 1; width: 90px;
+}
+#creative_tabs li a#tab_most_emailed {
+background-position: 0 0; display: block; height: 35px; z-index: 1; width: 90px;
+}
+#news_tabs li a#tab_top_headlines {
+background-position: 0 0; display: block; height: 35px; z-index: 1; width: 90px;
+}
+#news_tabs li a#tab_most_popular {
+background-position: 0 0; display: block; height: 35px; z-index: 1; width: 90px;
+}
+#news_tabs li a#tab_most_emailed {
+background-position: 0 0; display: block; height: 35px; z-index: 1; width: 90px;
+}
+#creative_tabs li a#tab_top_headlines {
+background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_top_headlines.gif') no-repeat;
+}
+#creative_tabs li a#tab_most_popular {
+background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_most_popular.gif') no-repeat;
+}
+#creative_tabs li a#tab_most_emailed {
+background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_most_emailed.gif') no-repeat;
+}
+#news_tabs li a#tab_top_headlines {
+background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_top_headlines.gif') no-repeat;
+}
+#news_tabs li a#tab_most_popular {
+background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_most_popular.gif') no-repeat;
+}
+#news_tabs li a#tab_most_emailed {
+background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_most_emailed.gif') no-repeat;
+}
+#creative_tabs li.active a#tab_top_headlines {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_top_headlines.gif') no-repeat; z-index: 2;
+}
+#creative_tabs li.active a#tab_top_headlines:hover {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_top_headlines.gif') no-repeat; z-index: 2;
+}
+#news_tabs li.active a#tab_top_headlines {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_top_headlines.gif') no-repeat; z-index: 2;
+}
+#news_tabs li.active a#tab_top_headlines:hover {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_top_headlines.gif') no-repeat; z-index: 2;
+}
+#creative_tabs li.active a#tab_most_popular {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_most_popular.gif') no-repeat; z-index: 2;
+}
+#creative_tabs li.active a#tab_most_popular:hover {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_most_popular.gif') no-repeat; z-index: 2;
+}
+#news_tabs li.active a#tab_most_popular {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_most_popular.gif') no-repeat; z-index: 2;
+}
+#news_tabs li.active a#tab_most_popular:hover {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_most_popular.gif') no-repeat; z-index: 2;
+}
+#creative_tabs li.active a#tab_most_emailed {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_most_emailed.gif') no-repeat; z-index: 2;
+}
+#creative_tabs li.active a#tab_most_emailed:hover {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_most_emailed.gif') no-repeat; z-index: 2;
+}
+#news_tabs li.active a#tab_most_emailed {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_most_emailed.gif') no-repeat; z-index: 2;
+}
+#news_tabs li.active a#tab_most_emailed:hover {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/tab_most_emailed.gif') no-repeat; z-index: 2;
+}
+.swap_div_hide {
+position: absolute; top: -9999px;
+}
+#creative_tabs li a#aotd:hover {
+background-position: 0 -35px;
+}
+#creative_tabs li a#cd:hover {
+background-position: 0 -35px;
+}
+#creative_tabs li a#tab_top_headlines:hover {
+background-position: 0 -35px;
+}
+#creative_tabs li a#tab_most_popular:hover {
+background-position: 0 -35px;
+}
+#creative_tabs li a#tab_most_emailed:hover {
+background-position: 0 -35px;
+}
+#news_tabs li a#tab_top_headlines:hover {
+background-position: 0 -35px;
+}
+#news_tabs li a#tab_most_popular:hover {
+background-position: 0 -35px;
+}
+#news_tabs li a#tab_most_emailed:hover {
+background-position: 0 -35px;
+}
+#community_tabs li a#tab_columns:hover {
+background-position: 0 -22px;
+}
+#community_tabs li a#tab_events:hover {
+background-position: 0 -22px;
+}
+#overview_tabs li a#tab_overview:hover {
+background-position: 0 -22px;
+}
+#overview_tabs li a#tab_client_roster:hover {
+background-position: 0 -22px;
+}
+#overview_tabs li a#tab_company_roster:hover {
+background-position: 0 -22px;
+}
+#overview_tabs li a#tab_executive_roster:hover {
+background-position: 0 -22px;
+}
+#overview_tabs li a#tab_executive_team:hover {
+background-position: 0 -22px;
+}
+#overview_tabs li a#tab_client_list:hover {
+background-position: 0 -22px;
+}
+#reportcard_tabs li a#tab_reportcard:hover {
+background-position: 0 -22px;
+}
+#reportcard_tabs li a#tab_awards:hover {
+background-position: 0 -22px;
+}
+#agencystake_tabs li a#tab_agencystake:hover {
+background-position: 0 -22px;
+}
+#creative_swapper_1 {
+clear: both; margin: 0; padding: 10px 5px 2px 5px;
+}
+#creative_swapper_2 {
+clear: both; margin: 0; padding: 10px 5px 2px 5px;
+}
+#creative_swapper_3 {
+clear: both; margin: 0; padding: 10px 5px 2px 5px;
+}
+#community_swapper_1 {
+clear: both; margin: 0; padding: 10px 5px 2px 5px;
+}
+#community_swapper_2 {
+clear: both; margin: 0; padding: 10px 5px 2px 5px;
+}
+#news_swapper_1 {
+clear: both; margin: 0; padding: 10px 5px 2px 5px;
+}
+#news_swapper_2 {
+clear: both; margin: 0; padding: 10px 5px 2px 5px;
+}
+#news_swapper_3 {
+clear: both; margin: 0; padding: 10px 5px 2px 5px;
+}
+#roundtable_tabs {
+font-size: 0.95em; margin: 15px 0 0 0px; padding: 0px; position: relative; list-style-type: none;
+}
+#roundtable_tabs li {
+margin: 0 0 0 0; padding: 0px; list-style-type: none;
+}
+#roundtable_tabs li a {
+margin: 0; padding: 0px; height: 16px; color: #999999; list-style-type: none;
+}
+#roundtable_tabs li a:hover {
+color: #c30d19;
+}
+#roundtable_tabs li.active a {
+text-decoration: none; color: #474747;
+}
+#roundtable_tabs li.active a:hover {
+text-decoration: none; color: #474747;
+}
+.rssmost {
+padding-bottom: 5px; line-height: 16px; padding-left: 5px;
+}
+.eventhome {
+padding-bottom: 15px; padding-top: 5px; padding-left: 8px;
+}
+#searchError {
+color: red;
+}
+.options {
+margin-right: 0px; margin-bottom: 5px; margin-top: 0;
+}
+.options li {
+margin-right: 15px; font-weight: bold; list-style: none; display: inline;
+}
+.options li a {
+font-weight: bold; background-position: 0 2px; font-size: 11px; background-repeat: no-repeat; display: inline; font-family: arial,verdana,geneva,helvetica,sans-serif; padding-left: 15px;
+}
+.options li a:hover {
+background-position: 0 -18px; background-repeat: no-repeat; text-decoration: none; display: inline; color: #D8182A;
+}
+.news {
+float: left;
+}
+.news a {
+font-weight: bold; font-size: 11px; line-height: 12px; font-family: Arial; display: inline; color: #947A5B;
+}
+.news a:hover {
+font-weight: bold; font-size: 11px; line-height: 12px; text-decoration: none; font-family: Arial; display: inline; color: #D8182A; float: left;
+}
+.options li.save a {
+display: inline; background-image: url('http://www.progressivegrocer.com/hr/images/icon_save.gif');
+}
+.options li.print a {
+display: inline; background-image: url('http://www.progressivegrocer.com/hr/images/icon_print.gif');
+}
+.options li.email a {
+display: inline; background-image: url('http://www.progressivegrocer.com/hr/images/icon_email.gif');
+}
+.options li.reprints {
+display: inline;
+}
+.options li.reprints a {
+display: inline; background-image: url('http://www.progressivegrocer.com/hr/images/icon_reprints.gif');
+}
+#lead_img_hor {
+padding: 0 0 5px 15px; vertical-align: top; width: 300px;
+}
+#lead_content_top {
+padding-top: 10px; padding-left: 5px; width: 280px;
+}
+.black {
+font-weight: bold; font-size: 11px; font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+font-weight: bold; font-size: 11px; font-family: Arial, Helvetica, sans-serif;
+}
+table.spot_table {
+border: 0; padding: 0; vertical-align: top; width: 975px;
+}
+table.spot_table tr {
+vertical-align: top;
+}
+td.spotlight_container {
+margin: 3px 5px 0px 10px; vertical-align: top; width: 236px;
+}
+.spotlight_container img {
+margin: 10px 10px 0 7px; padding: 0 0 4px 0; float: left;
+}
+.spotlight_container .copy {
+margin: 10px 10px 0 7px; padding: 0;
+}
+.photo_left {
+padding: 0px 10px 10px 0px; float: left;
+}
+h3.red2 {
+font-size: 1.25em; margin: 17px 0 13px 0px; color: #be141b;
+}
+#seo_content1 {
+padding-bottom: 4px; padding-right: 4px; padding-top: 4px; background: #ffffff; border-bottom: #cccccc 1px solid; border-right: #cccccc 1px solid; padding-left: 4px; border-left: #cccccc 1px solid; border-top: #cccccc 1px solid; width: 900px;
+}
+#seo_content1 H1.seo_title {
+padding-bottom: 0px; font-weight: bold; padding-right: 0px; font-size: 10px; padding-top: 0px; margin: 0px; font-family: Arial, Helvetica, san-serif; padding-left: 0px; text-align: left; width: 900px;
+}
+#seo_content1 H2.seo {
+padding-bottom: 0px; font-weight: bold; padding-right: 0px; font-size: 10px; padding-top: 0px; margin: 0px; font-family: Arial, Helvetica, san-serif; padding-left: 0px; text-align: left;
+}
+#seo_content1 .seo_body {
+padding-bottom: 0px; padding-right: 0px; font-size: 10px; padding-top: 0px; margin: 0px; font-family: Arial, Helvetica, san-serif; padding-left: 0px; text-align: left;
+}
+#seo_content {
+padding-bottom: 4px; padding-right: 4px; padding-top: 4px; background: #ffffff; border-bottom: #cccccc 1px solid; border-right: #cccccc 1px solid; padding-left: 4px; border-left: #cccccc 1px solid; border-top: #cccccc 1px solid; width: 950px;
+}
+#seo_content H1.seo_title {
+padding-bottom: 0px; font-weight: bold; padding-right: 0px; font-size: 10px; padding-top: 0px; margin: 0px; font-family: Arial, Helvetica, san-serif; padding-left: 0px; text-align: left; width: 950px;
+}
+#seo_content H2.seo {
+padding-bottom: 0px; font-weight: bold; padding-right: 0px; font-size: 10px; padding-top: 0px; margin: 0px; font-family: Arial, Helvetica, san-serif; padding-left: 0px; text-align: left;
+}
+#seo_content .seo_body {
+padding-bottom: 0px; padding-right: 0px; font-size: 10px; padding-top: 0px; margin: 0px; font-family: Arial, Helvetica, san-serif; padding-left: 0px; text-align: left;
+}
+.sidebarbg {
+margin: 0; background: url('http://www.progressivegrocer.com/progressivegrocer/images/bg_sidebar.gif') repeat-y; padding: 0;
+}
+#news_swapper_1 {
+clear: both; margin: 0; padding: 10px 0 0 0;
+}
+#news_swapper_2 {
+clear: both; margin: 0; padding: 10px 0 0 0;
+}
+#news_swapper_3 {
+clear: both; margin: 0; padding: 10px 0 0 0;
+}
+.swap_div_hide {
+position: absolute; top: -9999px;
+}
+#news_tabs {
+list-style: none; margin: 0; padding: 8px 0 0 0; position: relative; width: 100%; float: left;
+}
+#news_tabs li {
+list-style: none; margin: 0; border-bottom: 0px; padding: 0; float: left;
+}
+#news_tabs li span {
+text-indent: -9999px; position: absolute;
+}
+#news_tabs li a#popular {
+background-position: 0 0; background: url('http://www.progressivegrocer.com/progressivegrocer/images/most_popular_left.jpg') no-repeat; display: block; height: 35px; z-index: 1; width: 150px;
+}
+#news_tabs li a#emailed {
+background-position: 0 0; background: url('http://www.progressivegrocer.com/progressivegrocer/images/most_popular_right.jpg') no-repeat; display: block; height: 35px; z-index: 1; width: 150px;
+}
+#news_tabs li.active a#popular {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/most_popular_left.jpg') no-repeat; z-index: 2;
+}
+#news_tabs li.active a#popular:hover {
+background-position: 0 -70px; background: url('http://www.progressivegrocer.com/progressivegrocer/images/most_popular_left.jpg') no-repeat; z-index: 2;
+}
+#news_tabs li a#popular:hover {
+background-position: 0 -35px;
+}
+#news_tabs li a#emailed:hover {
+background-position: 0 -35px;
+}
+.odd2 {
+padding-bottom: 4px; margin: 0 auto; display: block; width: 290px;
+}

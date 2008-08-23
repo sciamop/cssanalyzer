@@ -1,0 +1,39 @@
+img.latex {
+border: none; vertical-align: middle;
+}
+form.contact-form {
+text-align: left; width: 100%;
+}
+form.contact-form textarea {
+width: 96%;
+}
+form.contact-form label {
+display: inline; float: none;
+}
+.form-error {
+color: maroon;
+}
+form.contact-form p label.form-error {
+color: maroon;
+}
+.video-player {
+margin: auto; border: 0px; padding: 5px; text-align: center;
+}
+.wpvidavee_title {
+font-weight: bold; font-size: 10px; line-height: 12px; padding: 2px 5px; font-family: Tahoma,Arial,sans-serif; text-align: left;
+}
+.wpvidavee_footer {
+font-size: 9px; line-height: 11px; padding: 2px 5px; font-family: Tahoma,Arial,sans-serif; text-align: right;
+}
+.wpvidavee_footer a {
+text-decoration: none;
+}
+.wpvidavee_p {
+color: red;
+}
+.hidden {
+display: none;
+}
+.possibly-related {
+clear: both;
+}
