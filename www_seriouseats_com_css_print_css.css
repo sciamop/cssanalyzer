@@ -1,0 +1,189 @@
+html {
+font-size: 12pt; margin: 0; background: #fff; padding: 0; height: auto;
+}
+body {
+font-size: 12pt; margin: 0; background: #fff; padding: 0; height: auto;
+}
+#topAdSpace {
+display: none;
+}
+#networkHeader {
+display: none;
+}
+#navBar {
+display: none;
+}
+#skybox1 {
+display: none;
+}
+#skybox2 {
+display: none;
+}
+#skybox3 {
+display: none;
+}
+#footer {
+display: none;
+}
+#threeColumn2 {
+display: none;
+}
+#threeColumn3 {
+display: none;
+}
+.tools {
+display: none;
+}
+#postMiddle {
+display: none;
+}
+#add {
+display: none;
+}
+#commented {
+display: none;
+}
+#post-comment {
+display: none;
+}
+#previewingComment {
+display: none;
+}
+.adspaceBlog {
+display: none;
+}
+#siteMeter {
+display: none;
+}
+h4.addAComment {
+display: none;
+}
+#RecipeNav {
+display: none;
+}
+#footerLinks {
+display: none;
+}
+.familyNav {
+display: none;
+}
+#adStrip {
+display: none;
+}
+#footerLinks {
+display: none;
+}
+#bottomBucket {
+display: none;
+}
+#pageHeaderBlock #subhead {
+display: none;
+}
+#topHeader {
+background: #fff none; margin: 0; min-height: 1px; padding: 0; height: auto; width: auto; float: none;
+}
+#header {
+background: #fff none; margin: 0; min-height: 1px; padding: 0; height: auto; width: auto; float: none;
+}
+#logo {
+font-size: 22pt; background: #fff none; margin: 0; text-indent: 0; border: 0; min-height: none; padding: 0 0 5pt 0; height: auto; color: #000; float: none; width: auto;
+}
+#logo a {
+font-size: 22pt; background: #fff none; margin: 0; text-indent: 0; border: 0; min-height: none; padding: 0 0 5pt 0; height: auto; color: #000; float: none; width: auto;
+}
+#pageHeader {
+background: #fff none; padding: 0 0 5pt 0; height: auto;
+}
+h1#pageHeader {
+background: #fff none; padding: 0 0 5pt 0; height: auto;
+}
+h1.headerHome {
+background: #fff none; padding: 0 0 5pt 0; height: auto;
+}
+#pageHeaderBlock {
+font-size: 14pt; margin: 0; background: #fff none; text-transform: none; text-indent: 0; padding: 0; float: none;
+}
+#pageHeader {
+font-size: 14pt; margin: 0; background: #fff none; text-transform: none; text-indent: 0; padding: 0; float: none;
+}
+h2 {
+font-size: 14pt; margin: 0; background: #fff none; text-transform: none; text-indent: 0; padding: 0; float: none;
+}
+h4.talkStar {
+background: #fff none; height: auto; width: auto;
+}
+#subhead {
+font-size: 14pt; margin: -14pt 0 0 0; padding: 0;
+}
+#pageHeaderBlock {
+padding-bottom: 10pt; margin-bottom: 10pt;
+}
+#container {
+margin: 0 5%;
+}
+#container {
+background: white; border: 0; padding: 0; float: none; width: auto;
+}
+#content {
+background: white; border: 0; padding: 0; float: none; width: auto;
+}
+#threeColumn1 {
+background: white; border: 0; padding: 0; float: none; width: auto;
+}
+.individualPost p a:after {
+content: " [" attr(href) "]";
+}
+p.byline a:after {
+content: "";
+}
+p.postFooter a:after {
+content: "";
+}
+h4.body {
+padding: 15pt 0 5pt 0;
+}
+.comment {
+margin: 0; background: #fff none; padding: 0; height: auto; width: auto;
+}
+.yellow {
+margin: 0; background: #fff none; padding: 0; height: auto; width: auto;
+}
+.green {
+margin: 0; background: #fff none; padding: 0; height: auto; width: auto;
+}
+.comment-body {
+margin: 0; background: #fff none; padding: 0; height: auto; width: auto;
+}
+.green .comment-body {
+margin: 0; background: #fff none; padding: 0; height: auto; width: auto;
+}
+.green .comment-body-bottom {
+margin: 0; background: #fff none; padding: 0; height: auto; width: auto;
+}
+.yellow .comment-body {
+margin: 0; background: #fff none; padding: 0; height: auto; width: auto;
+}
+.comment-body-bottom {
+margin: 0; background: #fff none; padding: 0; height: auto; width: auto;
+}
+.yellow .comment-body-bottom {
+margin: 0; background: #fff none; padding: 0; height: auto; width: auto;
+}
+.comment-body p {
+margin: 0; padding: 0;
+}
+.commenter {
+margin: 0; padding: 0; width: auto;
+}
+.postFooter {
+margin: 0; padding: 0; width: auto;
+}
+.commenter {
+padding-bottom: 15pt;
+}
+.commentCount {
+padding-left: 0;
+}
+p img a:after {
+content: "";
+}

@@ -1,0 +1,114 @@
+body {
+background: none; float: none;
+}
+#site {
+background: none; float: none;
+}
+#index #container {
+background: none; float: none;
+}
+#index #content {
+background: none; float: none;
+}
+#iea #container {
+background: none; float: none;
+}
+#iea #content {
+background: none; float: none;
+}
+#banner {
+background: none; float: none;
+}
+#footer {
+background: none; float: none;
+}
+#banner {
+height: auto; width: auto;
+}
+#banner h1 a {
+font-weight: normal; font-size: 14pt; background: none; text-decoration: none; text-indent: 0; font-family: Georgia, Times New Roman, serif; height: auto; width: auto;
+}
+.entry h1 {
+padding-bottom: 5px; font-size: 26pt;
+}
+#left {
+display: none;
+}
+#right {
+display: none;
+}
+.breadcrumbs {
+display: none;
+}
+#printoptions {
+display: none;
+}
+#printicon {
+display: none;
+}
+#sitesearch {
+display: none;
+}
+#sitenav {
+display: none;
+}
+#fontsize {
+display: none;
+}
+#never_miss_recipe {
+display: none;
+}
+#blogher_ad {
+display: none;
+}
+#comments {
+display: none;
+}
+#googlead_endarticle {
+display: none;
+}
+#googlead_endcomment {
+display: none;
+}
+#emailfriend {
+display: none;
+}
+#linkto {
+display: none;
+}
+.entryoptions {
+display: none;
+}
+.topprintpage {
+display: none;
+}
+#container {
+clear: none; float: none; width: auto;
+}
+.center {
+clear: none; float: none; width: auto;
+}
+#footer p {
+color: #000;
+}
+#footer p a {
+color: #000;
+}
+#print_without_photos #recipe-intronote img {
+display: none;
+}
+#print_without_photos #recipe-ingredients img {
+display: none;
+}
+#print_without_photos #recipe-method img {
+display: none;
+}
+#print_with_photos #recipe-intronote img {
+display: none;
+}
+#print_with_photos #recipe-ingredients img {
+display: none;
+}
+#print_with_photos #recipe-method img {
+display: none;
+}

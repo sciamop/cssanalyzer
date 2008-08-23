@@ -1,0 +1,2526 @@
+body {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+div {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+span {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+applet {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+object {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+iframe {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+h1 {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+h2 {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+h3 {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+h4 {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+h5 {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+h6 {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+p {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+blockquote {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+pre {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+a {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+abbr {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+acronym {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+address {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+big {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+cite {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+code {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+del {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+dfn {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+em {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+font {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+img {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+ins {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+kbd {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+p {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+q {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+s {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+samp {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+small {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+strike {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+strong {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+sub {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+sup {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+tt {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+var {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+dl {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+dt {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+dd {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+ol {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+ul {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+li {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+fieldset {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+form {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+label {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+legend {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+table {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+caption {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+tbody {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+tfoot {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+thead {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+tr {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+th {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+td {
+font-weight: inherit; font-size: 100%; margin: 0; border: 0; font-family: inherit; outline: 0; padding: 0; vertical-align: baseline; font-style: inherit;
+}
+html {
+margin-bottom: 1px; height: 100%;
+}
+body {
+margin: 10px 0 15px 0; background: #DAE491 url('http://www.seriouseats.com/imagesV2/bg2.png') repeat-x; padding: 0 0 15px 0; text-align: center;
+}
+a img {
+border: 0;
+}
+strong {
+font-weight: bold; color: #484848;
+}
+em {
+font-style: italic;
+}
+a:link {
+text-decoration: none; color: #00A5E9;
+}
+a:visited {
+text-decoration: none; color: #00A5E9;
+}
+a:hover {
+text-decoration: underline;
+}
+a:active {
+text-decoration: underline;
+}
+p {
+font-size: 13px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #3F3F3F;
+}
+li {
+font-size: 13px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #3F3F3F;
+}
+blockquote {
+font-size: 13px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #3F3F3F;
+}
+.homepage p {
+font-size: 13px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #3F3F3F;
+}
+h2 {
+font-size: 13px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #3F3F3F;
+}
+h5 {
+font-size: 13px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #3F3F3F;
+}
+label {
+font-size: 13px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #3F3F3F;
+}
+input {
+font-size: 13px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #3F3F3F;
+}
+form {
+font-size: 13px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #3F3F3F;
+}
+textarea {
+font-size: 13px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #3F3F3F;
+}
+td {
+font-size: 13px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #3F3F3F;
+}
+.post {
+font-size: 13px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #3F3F3F;
+}
+.individualPost {
+font-size: 13px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #3F3F3F;
+}
+p {
+margin: 0; padding: 0 0 10px 0;
+}
+h1 {
+font-size: 17px;
+}
+h2 {
+padding-bottom: 8px; font-weight: bold; font-size: 13px; line-height: 17px; text-transform: uppercase; color: #669933;
+}
+h2 a:link {
+color: #669933;
+}
+h2 a:link {
+color: #669933;
+}
+h2 a:visited {
+color: #669933;
+}
+h2 a:visited {
+color: #669933;
+}
+h3 {
+font-weight: normal; margin: 0; font-family: Georgia, Times, 'Times New Roman', serif; color: #2C2C2C;
+}
+h4 {
+font-weight: normal; margin: 0; font-family: Georgia, Times, 'Times New Roman', serif; color: #2C2C2C;
+}
+h3 {
+font-size: 23px; line-height: 25px;
+}
+#threeColumn1 h4 {
+font-size: 20px; margin: 10px 0 10px 0; line-height: 22px; text-transform: none; color: #2C2C2C;
+}
+h3 a:link {
+color: #2C2C2C;
+}
+h4 a:link {
+color: #2C2C2C;
+}
+h3 a:visited {
+color: #2C2C2C;
+}
+h4 a:visited {
+color: #2C2C2C;
+}
+#threeColumn1 h4.body {
+margin: 20px 0 4px 0;
+}
+h5 {
+padding-bottom: 2px; font-weight: bold; font-size: 13px; line-height: 15px; color: #484848;
+}
+h5.restname {
+padding-top: 6px;
+}
+.post blockquote p {
+color: #616161;
+}
+.individualPost blockquote p {
+color: #616161;
+}
+blockquote {
+margin: 6px 10px 6px 0; background: url('http://www.seriouseats.com/imagesV2/icons/blockquote.png') left top no-repeat; padding-left: 30px; color: #616161;
+}
+ul {
+padding: 2px 0 7px 10px; margin-left: 20px;
+}
+ol {
+padding: 2px 0 7px 10px; margin-left: 20px;
+}
+li {
+padding-bottom: 3px;
+}
+ul.fatList {
+padding: 0 0 0 5px;
+}
+ol.fatList {
+padding: 0 0 0 5px;
+}
+ul.skinnyList {
+padding: 0 0 0 5px;
+}
+ul.skinnyList {
+padding: 0 0 0 5px;
+}
+.fatList li {
+padding: 0 0 10px 0;
+}
+.skinnyList li {
+font-size: 12px; padding: 0 0 2px 0;
+}
+#topAdSpace {
+margin: 0 auto 10px auto; padding: 0;
+}
+#topAdSpace img.houseAd {
+background: #fff; padding: 3px;
+}
+#topAdSpace table {
+margin: 0 auto 0 auto;
+}
+#container {
+margin: 0 auto 20px auto; padding: 0; text-align: left; width: 961px;
+}
+#header {
+margin: 0; padding: 0; position: relative; float: left; width: 961px;
+}
+#topHeader {
+background: #E86C0B url('http://www.seriouseats.com/imagesV2/headerBG.png') repeat-x bottom left; margin: 0; min-height: 116px; padding: 8px 0 4px 20px; position: relative; float: left; width: 941px;
+}
+#navBar {
+background: #B23524 url('http://www.seriouseats.com/imagesV2/nav/navBG.png') repeat-x top left; margin: 0; display: inline; min-height: 22px; padding: 0; position: relative; float: left; width: 961px;
+}
+#content {
+margin: 0; background: #fff; min-height: 400px; padding: 30px 30px 20px 30px; position: relative; float: left; width: 901px;
+}
+#SE {
+background: #E86C0B; border-bottom: 1px solid #ED8E18;
+}
+#SL {
+background: #B23524;
+}
+#AHT {
+background: #267400;
+}
+.familyNav {
+margin: 0; padding: 0; float: left; width: 961px;
+}
+#familyLinks {
+padding-left: 2px; float: left;
+}
+#errataLinks {
+padding-right: 10px; float: right;
+}
+.familyNav ul {
+margin: 0; padding: 0;
+}
+.familyNav li {
+margin: 0; padding: 0;
+}
+.familyNav li {
+list-style: none; display: inline;
+}
+.familyNav li a {
+font-weight: bold; font-size: 11px; line-height: 11px; padding: 5px 6px 6px 10px; float: left;
+}
+#SL #familyLinks {
+padding-left: 0; margin-left: -2px;
+}
+#AHT #familyLinks {
+padding-left: 0; margin-left: -2px;
+}
+#SL #errataLinks {
+padding-right: 4px;
+}
+#AHT #errataLinks {
+padding-right: 4px;
+}
+#container #masthead {
+border-top: 0;
+}
+#SL li a {
+padding: 4px 6px 5px 10px;
+}
+#AHT li a {
+padding: 4px 6px 5px 10px;
+}
+.familyNav li a:link {
+color: #fff;
+}
+.familyNav li a:visited {
+color: #fff;
+}
+.familyNav li a:hover {
+color: #fff;
+}
+.familyNav li a:active {
+color: #fff;
+}
+#SE li a#seLink {
+color: #FED721;
+}
+#AHT li a#ahtLink {
+color: #FED721;
+}
+#SL li a#sliceLink {
+color: #FED721;
+}
+#newYork a#senyLink {
+color: #FED721;
+}
+#newYork #SE a#seLink {
+color: #fff;
+}
+#logo {
+margin: 10px 0 0 0; padding: 0; height: 114px; float: left; width: 173px;
+}
+#logo a {
+margin: 10px 0 0 0; padding: 0; height: 114px; float: left; width: 173px;
+}
+#logo {
+padding-right: 10px; background: url('http://www.seriouseats.com/imagesV2/logo.png') no-repeat; text-indent: -9000px;
+}
+#logo a {
+overflow: hidden;
+}
+.skyboxBite {
+left: 0; background: url('http://www.seriouseats.com/imagesV2/skybox/skybox1Bite.png') no-repeat; display: inline; height: 24px; z-index: 100; position: absolute; float: left; top: 0; width: 20px;
+}
+.skybox {
+position: relative; margin-left: 25px; float: left; width: 220px;
+}
+.skybox .dropshadow2 {
+width: 210px;
+}
+.skybox .innerbox {
+min-height: 120px;
+}
+#skybox1 .innerbox {
+background: #f8f5e0 url('http://www.seriouseats.com/imagesV2/skybox/skybox1BG.png') repeat-x top left; padding: 0 20px 0 15px;
+}
+#skybox2 .innerbox {
+background: #C5F1FF url('http://www.seriouseats.com/imagesV2/skybox/skybox2BGBlue.png') repeat-x top left; padding: 0 15px 0 15px;
+}
+#skybox3 .innerbox {
+background: #A5C42B  url('http://www.seriouseats.com/imagesV2/skybox/skybox3BG.png') repeat-x bottom left; padding: 5px 0 0 0; min-height: 115px;
+}
+.skybox h2 {
+font-size: 11px; margin: 0; line-height: 13px; padding: 0; color: #983e1e;
+}
+.feature h2 {
+font-size: 11px; margin: 0; line-height: 13px; padding: 0; color: #983e1e;
+}
+.skybox h2 {
+font-size: 9px; padding: 17px 0 2px 0;
+}
+.skybox h4 {
+font-size: 14px; margin: 0; line-height: 18px; padding: 0 0 3px 0;
+}
+.skybox h5 {
+font-weight: normal; font-size: 12px; margin-top: -1px; line-height: 16px; padding: 0 0 5px 0; font-family: Georgia, Times, serif;
+}
+.skybox h5 a:link {
+color: #353535;
+}
+.skybox h5 a:visited {
+color: #353535;
+}
+.skybox h5 a:hover {
+color: #353535;
+}
+.skybox h5 a:active {
+color: #353535;
+}
+#skybox1 p {
+font-size: 11px; line-height: 12px;
+}
+#skybox2 p {
+font-size: 11px; line-height: 12px;
+}
+.skybox3Strip {
+background: #fff; margin: 0; padding: 10px 15px 10px 12px;
+}
+h3.skybox3Strip {
+font-size: 18px; line-height: 21px; color: #8D2A1F; text-align: center;
+}
+#skybox3 h3.skybox3Strip a:link {
+color: #8D2A1F;
+}
+#skybox3 h3.skybox3Strip a:visited {
+color: #8D2A1F;
+}
+#skybox3 h3.skybox3Strip a:active {
+color: #8D2A1F;
+}
+#skybox3 h3.skybox3Strip a:hover {
+color: #8D2A1F;
+}
+#skybox3 a:link {
+color: #fff;
+}
+#skybox3 a:visited {
+color: #fff;
+}
+#skybox3 a:active {
+color: #fff;
+}
+#skybox3 a:hover {
+color: #fff;
+}
+#skybox3 p {
+text-align: center;
+}
+.loggedIn p {
+font-size: 12px; padding: 7px 15px 5px 15px;
+}
+.notLoggedIn p {
+font-size: 13px; padding: 12px 15px 5px 15px;
+}
+.notLoggedIn .skybox3Strip {
+padding: 14px 15px 14px 12px;
+}
+.notLoggedIn h3 {
+font-size: 24px; padding: 0 12px 10px 0; color: #8d2a1f;
+}
+#navContainer {
+bottom: 0; margin: 0; display: inline; padding: 0; height: 32px; float: left; width: 600px;
+}
+ul#navigation {
+bottom: 0; left: 22px; list-style: none; margin: 0; display: inline; padding: 0; position: absolute;
+}
+#navigation li {
+font-weight: bold; font-size: 13px; margin: 0 0 0 0; line-height: 18px; text-transform: none; padding: 0; text-align: center; float: left;
+}
+#navigation li a {
+margin: 0 3px 0 0; text-decoration: none; display: inline; padding: 6px 13px 7px 13px; color: #fff; float: left;
+}
+#navigation a:hover {
+background: #fff; color: #4E7329;
+}
+#home a.home {
+background: #fff url('http://www.seriouseats.com/imagesV2/nav/navBite.png') no-repeat; color: #4E7329;
+}
+#home a:hover.home {
+background: #fff url('http://www.seriouseats.com/imagesV2/nav/navBite.png') no-repeat; color: #4E7329;
+}
+#blog a.required_eating {
+background: #fff url('http://www.seriouseats.com/imagesV2/nav/navBite.png') no-repeat; color: #4E7329;
+}
+#blog a:hover.required_eating {
+background: #fff url('http://www.seriouseats.com/imagesV2/nav/navBite.png') no-repeat; color: #4E7329;
+}
+#videos a.videos {
+background: #fff url('http://www.seriouseats.com/imagesV2/nav/navBite.png') no-repeat; color: #4E7329;
+}
+#videos a:hover.videos {
+background: #fff url('http://www.seriouseats.com/imagesV2/nav/navBite.png') no-repeat; color: #4E7329;
+}
+#eating_out a.eatingout {
+background: #fff url('http://www.seriouseats.com/imagesV2/nav/navBite.png') no-repeat; color: #4E7329;
+}
+#eating_out a:hover.eatingout {
+background: #fff url('http://www.seriouseats.com/imagesV2/nav/navBite.png') no-repeat; color: #4E7329;
+}
+#columns a.columns {
+background: #fff url('http://www.seriouseats.com/imagesV2/nav/navBite.png') no-repeat; color: #4E7329;
+}
+#columns a:hover.columns {
+background: #fff url('http://www.seriouseats.com/imagesV2/nav/navBite.png') no-repeat; color: #4E7329;
+}
+#talk a.talk {
+background: #FCFBDC url('http://www.seriouseats.com/imagesV2/nav/navTanBite.png') no-repeat; color: #4E7329;
+}
+#talk a:hover.talk {
+background: #FCFBDC url('http://www.seriouseats.com/imagesV2/nav/navTanBite.png') no-repeat; color: #4E7329;
+}
+#recipes a.recipes {
+background: #FCFBDC url('http://www.seriouseats.com/imagesV2/nav/navTanBite.png') no-repeat; color: #4E7329;
+}
+#recipes a:hover.recipes {
+background: #FCFBDC url('http://www.seriouseats.com/imagesV2/nav/navTanBite.png') no-repeat; color: #4E7329;
+}
+#navigation li a.featured {
+color: #FA8A1B;
+}
+#navigation li a:hover.featured {
+background: #fff; color: #4E7329;
+}
+ul#navigation em {
+color: #E0401F; font-style: normal;
+}
+#search {
+margin: 0; padding: 6px 30px 0 0; right: 0; float: right;
+}
+#searchBox {
+margin: 0 5px 0 0; padding: 0; vertical-align: top; height: 17px; width: 160px;
+}
+#searchButton {
+margin: -1px 0 0 0;
+}
+#threeColumn1 {
+margin: 0; min-height: 600px; display: inline; padding: 0; float: left;
+}
+#threeColumn1 {
+width: 500px;
+}
+.indexTalkPost {
+width: 500px;
+}
+#threeColumn2 {
+margin: 27px 0 0 30px; display: inline; padding: 0; float: left; width: 180px;
+}
+#threeColumn3 {
+margin: 27px 0 0 27px; display: inline; padding: 0; float: left; width: 160px;
+}
+#featuredRight2Columns {
+margin: 24px 0 0 30px; padding: 0; float: left; width: 368px;
+}
+#featuredRight2Columns2 {
+margin: 24px 0 0 30px; padding: 0; float: left; width: 368px;
+}
+#featuredRight2Columns3 {
+margin: 24px 0 0 30px; padding: 0; float: left; width: 368px;
+}
+#talk #featuredRight2Columns2 {
+margin-bottom: 25px; margin-top: 0;
+}
+#content .indEntrySquare {
+margin-top: 0;
+}
+.indexes #threeColumn2 {
+margin-top: 0;
+}
+.indexes #threeColumn3 {
+margin-top: 0;
+}
+.talkIndexes #content #featuredRight2Columns2 {
+margin-bottom: 0; margin-top: 20px;
+}
+.talkIndex #content #featuredRight2Columns2 {
+margin-bottom: 25px; margin-top: 20px;
+}
+#home #content #featuredRight2Columns2 {
+margin-bottom: 25px;
+}
+#home #content #featuredRight2Columns {
+margin-bottom: 25px;
+}
+.blogIndex #threeColumn2 {
+margin-top: 0;
+}
+.blogIndex #threeColumn3 {
+margin-top: 0;
+}
+#home #threeColumn2 {
+margin-top: 0;
+}
+#home #threeColumn3 {
+margin-top: 0;
+}
+.blogIndex #content #featuredRight2Columns2 {
+margin-bottom: 25px; margin-top: 25px;
+}
+.blogIndex #content #featuredRight2Columns {
+margin-bottom: 25px;
+}
+#twoColumn1 {
+margin: 0; display: inline; padding: 0; float: left; width: 660px;
+}
+#twoColumn2 {
+margin: 0 0 0 30px; display: inline; padding: 0; float: left; width: 205px;
+}
+#pageHeader.headerHome {
+margin-bottom: -12px; background: url('http://www.seriouseats.com/imagesV2/headers/home.png') no-repeat; height: 56px; width: 901px;
+}
+#pageHeader {
+margin: 0; display: inline; padding: 0; height: 34px; float: left; width: 450px;
+}
+#pageHeader a {
+margin: 0; display: inline; padding: 0; height: 34px; float: left; width: 450px;
+}
+#pageHeader1 {
+margin: 0; display: inline; padding: 0; height: 34px; float: left; width: 450px;
+}
+#pageHeader1 a {
+margin: 0; display: inline; padding: 0; height: 34px; float: left; width: 450px;
+}
+#pageHeader2 {
+margin: 0; display: inline; padding: 0; height: 34px; float: left; width: 450px;
+}
+#pageHeader2 a {
+margin: 0; display: inline; padding: 0; height: 34px; float: left; width: 450px;
+}
+#pageHeader {
+text-indent: -9000px;
+}
+#pageHeader1 {
+text-indent: -9000px;
+}
+#pageHeader2 {
+text-indent: -9000px;
+}
+#pageHeader a {
+overflow: hidden;
+}
+#pageHeader1 a {
+overflow: hidden;
+}
+#pageHeader2 a {
+overflow: hidden;
+}
+.headerTalk {
+width: 90px;
+}
+.headerTalk a {
+width: 90px;
+}
+.header_talk_food_and_drink a {
+width: 300px;
+}
+.header_talk_in_the_kitchen a {
+width: 300px;
+}
+.header_talk_eating_out a {
+width: 300px;
+}
+.header_talk_site_talk a {
+width: 300px;
+}
+.headerRecipes a {
+width: 142px;
+}
+.headerThanksgiving a {
+width: 395px;
+}
+.headerBlog a {
+width: 294px;
+}
+.headerAboutUs {
+background: url('http://www.seriouseats.com/imagesV2/headers/aboutUs.png') no-repeat;
+}
+.headerAdvertise {
+background: url('http://www.seriouseats.com/imagesV2/headers/advertise.png') no-repeat; margin-left: -2px;
+}
+.headerBakingWithDorie {
+background: url('http://www.seriouseats.com/imagesV2/headers/bakingWithDorie.png') no-repeat; width: 360px;
+}
+.headerBlog {
+background: url('http://www.seriouseats.com/imagesV2/headers/blog.png') no-repeat; width: 294px;
+}
+.headerCheese {
+background: url('http://www.seriouseats.com/imagesV2/headers/cheese.png') no-repeat;
+}
+.headerChocolate {
+background: url('http://www.seriouseats.com/imagesV2/headers/chocolate.png') no-repeat;
+}
+.headerCocktailConcoctions {
+background: url('http://www.seriouseats.com/imagesV2/headers/cocktailConcoctions.png') no-repeat; width: 397px;
+}
+.headerCocktails {
+background: url('http://www.seriouseats.com/imagesV2/headers/cocktails.png') no-repeat; margin-left: -3px;
+}
+.headerColumns {
+background: url('http://www.seriouseats.com/imagesV2/headers/columns.png') no-repeat; margin-left: -3px;
+}
+.headerContactUs {
+background: url('http://www.seriouseats.com/imagesV2/headers/contactUs.png') no-repeat; margin-left: -2px;
+}
+.headerContestRules {
+background: url('http://www.seriouseats.com/imagesV2/headers/contestRules.png') no-repeat; width: 441px;
+}
+.headerCookingWithKids {
+background: url('http://www.seriouseats.com/imagesV2/headers/cookingWithKids.png') no-repeat;
+}
+.headerDinnerTonight {
+background: url('http://www.seriouseats.com/imagesV2/headers/dinnerTonight.png') no-repeat; width: 314px;
+}
+.headerEatingOut {
+background: url('http://www.seriouseats.com/imagesV2/headers/eatingOut.png') no-repeat; width: 194px; margin-left: -2px;
+}
+.headerSeriousEatsEssentials {
+background: url('http://www.seriouseats.com/imagesV2/headers/seriousEatsEssentials.png') no-repeat; width: 451px;
+}
+.headerHealthyAndDelicious {
+background: url('http://www.seriouseats.com/imagesV2/headers/healthyAndDelicious.png') no-repeat; width: 415px;
+}
+.headerGrape {
+background: url('http://www.seriouseats.com/imagesV2/headers/grape.png') no-repeat;
+}
+.headerGroceryNinja {
+background: url('http://www.seriouseats.com/imagesV2/headers/groceryNinja.png') no-repeat;
+}
+.headerInDesign {
+background: url('http://www.seriouseats.com/imagesV2/headers/inDesign.png') no-repeat;
+}
+.headerInGear {
+background: url('http://www.seriouseats.com/imagesV2/headers/inGear.png') no-repeat;
+}
+.headerJeffreySteingarten {
+background: url('http://www.seriouseats.com/imagesV2/headers/jeffreySteingarten.png') no-repeat;
+}
+.headerLinks {
+background: url('http://www.seriouseats.com/imagesV2/headers/links.png') no-repeat;
+}
+.headerLogin {
+background: url('http://www.seriouseats.com/imagesV2/headers/login.png') no-repeat;
+}
+.headerMario {
+background: url('http://www.seriouseats.com/imagesV2/headers/mario.png') no-repeat; margin-left: -2px;
+}
+.headerMarketScene {
+background: url('http://www.seriouseats.com/imagesV2/headers/marketScene.png') no-repeat; margin-left: -2px;
+}
+.headerMeatloaf {
+background: url('http://www.seriouseats.com/imagesV2/headers/meatloaf.png') no-repeat; width: 635px; margin-left: -2px;
+}
+.headerNewYork {
+background: url('http://www.seriouseats.com/imagesV2/headers/newYork.png') no-repeat; width: 172px; margin-left: -2px;
+}
+.headerPrivacy {
+background: url('http://www.seriouseats.com/imagesV2/headers/privacy.png') no-repeat; margin-left: -2px;
+}
+.headerQuickBites {
+background: url('http://www.seriouseats.com/imagesV2/headers/quickBites.png') no-repeat;
+}
+.headerProfile {
+background: url('http://www.seriouseats.com/imagesV2/headers/profile.png') no-repeat;
+}
+.headerRecipes {
+background: url('http://www.seriouseats.com/imagesV2/headers/recipes.png') no-repeat; width: 142px;
+}
+.headerSandwiches {
+background: url('http://www.seriouseats.com/imagesV2/headers/sandwiches.png') no-repeat;
+}
+.headerSearch {
+background: url('http://www.seriouseats.com/imagesV2/headers/search.png') no-repeat;
+}
+.headerSEOriginalVideos {
+background: url('http://www.seriouseats.com/imagesV2/headers/SEOriginalVideos.png') no-repeat; width: 635px;
+}
+.headerSignUp {
+background: url('http://www.seriouseats.com/imagesV2/headers/signUp.png') no-repeat;
+}
+.headerSearchResults {
+background: url('http://www.seriouseats.com/imagesV2/headers/searchResults.png') no-repeat;
+}
+.headerSignUpNewsletter {
+background: url('http://www.seriouseats.com/imagesV2/headers/newsletters.png') no-repeat;
+}
+.headerSouthernBelly {
+background: url('http://www.seriouseats.com/imagesV2/headers/southernBelly.png') no-repeat;
+}
+.headerStartTalking {
+background: url('http://www.seriouseats.com/imagesV2/headers/startTalking.png') no-repeat;
+}
+.headerSubTalk {
+background: url('http://www.seriouseats.com/imagesV2/headers/subTalk.png') no-repeat;
+}
+.headerTags {
+background: url('http://www.seriouseats.com/imagesV2/headers/tags.png') no-repeat; margin-left: -2px;
+}
+.headerTalk {
+background: url('http://www.seriouseats.com/imagesV2/headers/talk.png') no-repeat; width: 90px; margin-left: -2px;
+}
+.headerTalkHome {
+background: url('http://www.seriouseats.com/imagesV2/headers/talkHome.png') no-repeat; margin-left: -2px;
+}
+.headerThanks {
+background: url('http://www.seriouseats.com/imagesV2/headers/thanks.png') no-repeat;
+}
+.headerThanksgiving {
+background: url('http://www.seriouseats.com/imagesV2/headers/seriousThanksgiving.png') no-repeat; width: 395px;
+}
+.headerTerms {
+background: url('http://www.seriouseats.com/imagesV2/headers/terms.png') no-repeat; margin-left: -2px;
+}
+.headerVideos {
+background: url('http://www.seriouseats.com/imagesV2/headers/videos.png') no-repeat; margin-left: -5px;
+}
+.headerYourProfile {
+background: url('http://www.seriouseats.com/imagesV2/headers/yourProfile.png') no-repeat; margin-left: -2px;
+}
+.headerWelcome {
+background: url('http://www.seriouseats.com/imagesV2/headers/welcome.png') no-repeat; margin-left: -2px;
+}
+.headerAboutEdLevine {
+background: url('http://www.seriouseats.com/imagesV2/headers/aboutEdLevine.png') no-repeat;
+}
+.headerAboutUs {
+background: url('http://www.seriouseats.com/imagesV2/headers/overview.png') no-repeat;
+}
+.headerBios {
+background: url('http://www.seriouseats.com/imagesV2/headers/bios.png') no-repeat;
+}
+.headerCommentPolicy {
+background: url('http://www.seriouseats.com/imagesV2/headers/commentPolicy.png') no-repeat;
+}
+.headerContestWinners {
+background: url('http://www.seriouseats.com/imagesV2/headers/contestWinners.png') no-repeat; margin-left: -2px;
+}
+.headerContributors {
+background: url('http://www.seriouseats.com/imagesV2/headers/contributors.png') no-repeat; margin-left: -2px;
+}
+.headerFAQ {
+background: url('http://www.seriouseats.com/imagesV2/headers/FAQ.png') no-repeat;
+}
+.headerPress {
+background: url('http://www.seriouseats.com/imagesV2/headers/pressAndProps.png') no-repeat; margin-left: -2px;
+}
+.headerSitemap {
+background: url('http://www.seriouseats.com/imagesV2/headers/sitemap.png') no-repeat; margin-left: -2px;
+}
+.headerSuggestALink {
+background: url('http://www.seriouseats.com/imagesV2/headers/suggestALink.png') no-repeat; margin-left: -2px;
+}
+.header-talk-cooking-and-baking {
+background: url('http://www.seriouseats.com/imagesV2/headers/talkCookingAndBaking.png') no-repeat;
+}
+.header-talk-food-and-drink {
+background: url('http://www.seriouseats.com/imagesV2/headers/talkFoodandDrink.png') no-repeat;
+}
+.header-talk-food-media-and-news {
+background: url('http://www.seriouseats.com/imagesV2/headers/talkFoodMediaAndNews.png') no-repeat;
+}
+.header-talk-in-the-kitchen {
+background: url('http://www.seriouseats.com/imagesV2/headers/talkKitchen.png') no-repeat;
+}
+.header-talk-eating-out {
+background: url('http://www.seriouseats.com/imagesV2/headers/talkEatingOut.png') no-repeat;
+}
+.header-talk-site-feedback {
+background: url('http://www.seriouseats.com/imagesV2/headers/talkSiteFeedback.png') no-repeat;
+}
+.header-talk-site-talk {
+background: url('http://www.seriouseats.com/imagesV2/headers/talkSiteTalk.png') no-repeat;
+}
+.header-talk-newyork {
+background: url('http://www.seriouseats.com/imagesV2/headers/talkNewYork.png') no-repeat;
+}
+#pageHeaderBlock {
+margin-bottom: 20px;
+}
+#talk #pageHeaderBlock {
+margin-top: -5px;
+}
+h3#subhead {
+font-weight: normal; font-size: 15px; margin-top: -5px; line-height: 17px; padding: 2px 0 0 0; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #669933; float: left;
+}
+h3#talkSubhead {
+font-weight: normal; font-size: 15px; margin-top: -5px; line-height: 17px; padding: 2px 0 0 0; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #669933; float: left;
+}
+h3#talkHomeSubhead {
+font-weight: normal; font-size: 15px; margin-top: -5px; line-height: 17px; padding: 2px 0 0 0; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #669933; float: left;
+}
+.feature {
+background: #FCFBE1; margin: 0; border: 1px solid #EDD6B6; position: relative;
+}
+.feature img {
+border: 1px solid #EDD6B6;
+}
+.feature img.photo-right {
+margin: 4px 0 10px 10px; padding: 0;
+}
+.feature h2 {
+padding-bottom: 3px;
+}
+.feature h3 {
+padding-bottom: 3px; font-size: 18px; line-height: 21px;
+}
+.feature h4 {
+font-size: 14px; line-height: 18px;
+}
+.feature h3 a {
+color: #3E3E3E;
+}
+.feature h4 a {
+color: #3E3E3E;
+}
+.feature h3.subFeature {
+font-size: 15px; margin: 10px 0 0 0; line-height: 18px; padding: 10px 0 0 1px; border-top: 1px dotted #C6D18E;
+}
+.feature p {
+padding-bottom: 0; margin-bottom: 0; line-height: 18px; color: #6e5e2c;
+}
+.feature p strong {
+color: #6e5e2c;
+}
+.feature .byline {
+color: #6e5e2c;
+}
+.feature .byline {
+margin: 3px 0 2px 0;
+}
+.feature #fHot {
+font-size: 13px;
+}
+.feature #fHot a {
+padding-left: 4px; color: #00A5E9;
+}
+.feature #fHot span.sep {
+padding: 0 0 0 4px;
+}
+#homeFeature {
+padding: 11px 14px 12px 12px;
+}
+#dayOldSpecial {
+margin: 0 0 30px 0; padding: 12px 12px 8px 12px;
+}
+#dayOldSpecial p {
+padding-bottom: 2px;
+}
+#dayOldSpecial p a {
+color: #A34424;
+}
+#dayOldSpecial img {
+margin: 0 auto 3px auto; display: block; text-align: center; width: 152px;
+}
+#dayOldSpecial h4 {
+padding-bottom: 2px;
+}
+#dayOldSpecial h4#f5 {
+margin-bottom: 14px;
+}
+#dayOldSpecial h4#f4 {
+margin-bottom: 14px;
+}
+#bottomBucket {
+margin: 0; border: none; display: inline; padding: 40px 0 40px 0; border-top: 1px dotted #C6D18E; position: relative; float: left; width: 961px;
+}
+.bbColumn {
+padding-left: 54px; width: 175px; float: left;
+}
+#bbColumn1 {
+padding-left: 52px;
+}
+#bbColumn2 {
+padding-left: 52px;
+}
+#bottomBucket p.linksrc {
+padding-bottom: 6px;
+}
+#bottomBucket p a {
+color: #A34424;
+}
+#bottomBucket img {
+margin-bottom: 6px; display: block; width: 175px;
+}
+.callOutBox {
+margin-bottom: 20px; background: #f8f5e0 url('http://www.seriouseats.com/imagesV2/todaysSpecialsBG3.png') bottom repeat-x; border: #BEC1A4 solid 1px; padding: 10px;
+}
+.callOutBox textarea {
+margin-bottom: 10px; width: 150px;
+}
+#whyRegister {
+background: #fff; border: 1px solid #DCDDCC; padding: 18px; margin-left: -80px; width: 250px;
+}
+#whyRegister h2 {
+font-weight: normal; padding-bottom: 18px; font-size: 20px; text-transform: none; color: #81C050;
+}
+#whyRegister p {
+font-size: 12px; color: #333333;
+}
+#whyRegister li {
+font-size: 12px; color: #333333;
+}
+#whyRegister ul {
+margin: 12px 0 -4px 14px;
+}
+#whyRegister li {
+padding-bottom: 8px;
+}
+.column2List2 {
+margin-bottom: 25px; border: 1px #DCDFE1 solid; padding: 0; min-height: 1%; border-top: none; position: relative;
+}
+.heading {
+margin: 0; background: #FAF9DC url('http://www.seriouseats.com/imagesV2/column2List/headerBG.png') bottom repeat-x; padding: 0; display: block; min-height: 1px; border-top: 1px #DCDFE1 solid; position: relative;
+}
+.column2List2 .heading h4 {
+margin-right: 7px; font-weight: normal; font-size: 14px; line-height: 17px; border: none; text-transform: none; padding: 6px 10px 7px 9px; font-family: Georgia, 'Times New Roman', Times, serif; color: #4B4B4B;
+}
+.column2List2 p {
+font-size: 12px; line-height: 16px; padding: 8px 7px 6px 9px; color: #606060; border-top: 1px dotted #D0DEE6;
+}
+.column2List2 .postFooter {
+font-size: 11px; margin: -5px 0 0 0; border: none; padding: 0 7px 6px 9px;
+}
+.column2List2 .byline {
+padding-bottom: 1px; font-size: 10px; display: block;
+}
+#multiview .heading {
+cursor: pointer;
+}
+#multiview .heading h4 {
+background: url('http://www.seriouseats.com/imagesV2/column2List/column2ListArrowRight.png') no-repeat right center;
+}
+#multiview .selected h4 {
+background: url('http://www.seriouseats.com/imagesV2/column2List/column2ListArrowDown.png') no-repeat right center;
+}
+#multiview .selected {
+cursor: default;
+}
+#multiview a:link {
+color: #727272;
+}
+#multiview a:visited {
+color: #727272;
+}
+#multiview a:hover {
+color: #727272;
+}
+#multiview a:active {
+color: #727272;
+}
+#multiview .postFooter a:link {
+font-weight: normal; color: #00a8ec;
+}
+#multiview .postFooter a:visited {
+font-weight: normal; color: #00a8ec;
+}
+#multiview .postFooter a:hover {
+font-weight: normal; color: #00a8ec;
+}
+#multiview .postFooter a:active {
+font-weight: normal; color: #00a8ec;
+}
+#blogRoll1 ul {
+list-style: none; margin: 10px 8px 4px 10px; padding: 0;
+}
+#blogRoll1 li {
+padding-bottom: 8px; font-size: 12px; line-height: 14px;
+}
+#blogRoll1 h4 {
+border-bottom: 1px dotted #D0DEE6;
+}
+#multiview #recentlyCommentedOn1 h4 {
+font-size: 14px;
+}
+#aboutSE h4 {
+border-bottom: 1px dotted #D0DEE6;
+}
+#aboutSE ul {
+list-style: none; margin: 10px 8px 4px 10px; padding: 0;
+}
+#aboutSE li {
+padding-bottom: 8px; font-size: 12px; line-height: 14px;
+}
+#aboutSE ul {
+margin-bottom: 2px;
+}
+.about a:link#navAboutOverview {
+font-weight: bold; text-decoration: underline;
+}
+.about a:visited#navAboutOverview {
+font-weight: bold; text-decoration: underline;
+}
+.about-ed-levine a:link#navAboutEdLevine {
+font-weight: bold; text-decoration: underline;
+}
+.about-ed-levine a:visited#navAboutEdLevine {
+font-weight: bold; text-decoration: underline;
+}
+.faq a:link#navAboutFAQ {
+font-weight: bold; text-decoration: underline;
+}
+.faq a:visited#navAboutFAQ {
+font-weight: bold; text-decoration: underline;
+}
+.bios a:link#navAboutBios {
+font-weight: bold; text-decoration: underline;
+}
+.bios a:visited#navAboutBios {
+font-weight: bold; text-decoration: underline;
+}
+.contact a:link#navAboutContact {
+font-weight: bold; text-decoration: underline;
+}
+.contact a:visited#navAboutContact {
+font-weight: bold; text-decoration: underline;
+}
+.contest-winners a:link#navContestWinners {
+font-weight: bold; text-decoration: underline;
+}
+.contest-winners a:visited#navContestWinners {
+font-weight: bold; text-decoration: underline;
+}
+.contributors a:link#navAboutContributors {
+font-weight: bold; text-decoration: underline;
+}
+.contributors a:visited#navAboutContributors {
+font-weight: bold; text-decoration: underline;
+}
+.links a:link#navAboutLinks {
+font-weight: bold; text-decoration: underline;
+}
+.links a:visited#navAboutLinks {
+font-weight: bold; text-decoration: underline;
+}
+.sitemap a:link#navAboutSitemap {
+font-weight: bold; text-decoration: underline;
+}
+.sitemap a:visited#navAboutSitemap {
+font-weight: bold; text-decoration: underline;
+}
+.comment-policy a:link#navAboutCommentPolicy {
+font-weight: bold; text-decoration: underline;
+}
+.comment-policy a:visited#navAboutCommentPolicy {
+font-weight: bold; text-decoration: underline;
+}
+.press a:link#navAboutPress {
+font-weight: bold; text-decoration: underline;
+}
+.press a:visited#navAboutPress {
+font-weight: bold; text-decoration: underline;
+}
+.advertise a:link#navAboutAdvertise {
+font-weight: bold; text-decoration: underline;
+}
+.advertise a:visited#navAboutAdvertise {
+font-weight: bold; text-decoration: underline;
+}
+.terms a:link#navAboutTerms {
+font-weight: bold; text-decoration: underline;
+}
+.terms a:visited#navAboutTerms {
+font-weight: bold; text-decoration: underline;
+}
+.privacy a:link#navAboutPrivacy {
+font-weight: bold; text-decoration: underline;
+}
+.privacy a:visited#navAboutPrivacy {
+font-weight: bold; text-decoration: underline;
+}
+.standard-contest-rules a:link#navAboutContestRules {
+font-weight: bold; text-decoration: underline;
+}
+.standard-contest-rules a:visited#navAboutContestRules {
+font-weight: bold; text-decoration: underline;
+}
+.suggest-a-link a:link#navAboutSuggestALink {
+font-weight: bold; text-decoration: underline;
+}
+.suggest-a-link a:visited#navAboutSuggestALink {
+font-weight: bold; text-decoration: underline;
+}
+#about #pageNav {
+padding-top: 15px;
+}
+#about #content {
+padding-top: 25px;
+}
+#about #pageHeaderBlock {
+margin-bottom: 15px;
+}
+.post {
+margin-bottom: 25px; border-bottom: 1px dotted #C6D18E; position: relative;
+}
+.indexTalkPost {
+margin-bottom: 25px; border-bottom: 1px dotted #C6D18E; position: relative;
+}
+.adspaceBlog {
+margin-bottom: 25px; border-bottom: 1px dotted #C6D18E; position: relative;
+}
+#threeColumn1 h2 {
+margin-bottom: 25px; border-bottom: 1px dotted #C6D18E; position: relative;
+}
+#threeColumn1 h2 {
+margin-bottom: 20px;
+}
+#threeColumn1 h2.noText {
+line-height: 1px; padding: 0; height: 1px;
+}
+#threeColumn1 .individualPost .adspaceBlog {
+background: #fff; margin-bottom: 0px; margin-top: 0px; border-bottom: 0; position: relative;
+}
+.post {
+padding: 0 0 20px 0;
+}
+.post h3 {
+padding-bottom: 3px; margin-left: -1px;
+}
+.individualPost h3 {
+padding-bottom: 3px; margin-left: -1px;
+}
+.individualPost .postFooter {
+margin-bottom: -7px;
+}
+.indexTalkPost {
+background: #F8F5E0 url('http://www.seriouseats.com/imagesV2/todaysSpecialsBG3.png') top repeat-x; margin-top: -25px; padding: 10px 0 10px 0; min-height: 45px;
+}
+#threeColumn1 h4.talkStar {
+background: url('http://www.seriouseats.com/imagesV2/talk/talkStar.gif') no-repeat 0 0; margin: -6px 0 0 -20px; text-indent: -9000px; display: inline; padding: 0; height: 58px; float: left; width: 58px;
+}
+.indexTalkPost h3 {
+font-size: 21px; margin: 0; padding: 1px 8px 2px 48px;
+}
+.indexTalkPost .postFooter {
+margin: 2px 10px -10px 47px; color: #6e5e2c;
+}
+p.byline {
+font-size: 11px; line-height: 14px; color: #727272;
+}
+p.postFooter {
+font-size: 11px; line-height: 14px; color: #727272;
+}
+p.caption {
+font-size: 11px; line-height: 14px; color: #727272;
+}
+p.externalPost {
+font-size: 11px; line-height: 14px; color: #727272;
+}
+small {
+font-size: 11px; line-height: 14px; color: #727272;
+}
+.post p {
+margin: 0; padding: 0 0 8px 0;
+}
+.individualPost p {
+margin: 0; padding: 0 0 8px 0;
+}
+.post img {
+margin-top: 3px;
+}
+.individualPost img {
+margin-top: 3px;
+}
+p.byline {
+margin: 0 0 -5px 0;
+}
+p.caption {
+margin: -4px 0 0 0; font-style: italic;
+}
+p.postFooter {
+margin: 0 0 -6px 0;
+}
+.videoIndex p.byline {
+margin: 0 0 -6px 0;
+}
+.postFooter a.commentCount {
+background: url('http://www.seriouseats.com/imagesV2/talk/talkBubble.gif') no-repeat center left; padding: 1px 0 0 17px; margin-left: 0;
+}
+.commentCount {
+background: url('http://www.seriouseats.com/imagesV2/talk/talkBubble.gif') no-repeat center left; padding: 1px 0 0 17px; margin-left: 0;
+}
+.indexTalkPost .postFooter a.commentCount {
+background: url('http://www.seriouseats.com/imagesV2/talk/talkBubbleIndexTalkPost.gif') no-repeat center left;
+}
+.postFooter a.commentCount {
+background: url('http://www.seriouseats.com/imagesV2/talk/talkBubble.gif') no-repeat center left; padding: 1px 0 0 17px; margin-left: 0;
+}
+.commentCount {
+background: url('http://www.seriouseats.com/imagesV2/talk/talkBubble.gif') no-repeat center left; padding: 1px 0 0 17px; margin-left: 0;
+}
+#videos center {
+padding-bottom: 10px;
+}
+.photo-right {
+padding-bottom: 10px; padding-left: 10px; float: right;
+}
+.photo-with-caption {
+padding-bottom: 10px; padding-left: 10px; float: right;
+}
+.photo-left {
+padding-bottom: 10px; padding-right: 10px; float: left;
+}
+.photo-with-caption-left {
+padding-bottom: 10px; padding-right: 10px; float: left;
+}
+.photo-center {
+margin: 5px auto 5px auto; display: block; text-align: center;
+}
+.photo-with-caption p {
+font-size: 11px; margin: 4px 0 0 0; line-height: 13px; padding: 0; color: #727272; font-style: italic;
+}
+.photo-with-caption-left p {
+font-size: 11px; margin: 4px 0 0 0; line-height: 13px; padding: 0; color: #727272; font-style: italic;
+}
+a.istock:link {
+color: #727272;
+}
+a.istock:visited {
+color: #727272;
+}
+a.istock:hover {
+color: #727272;
+}
+a.istock:active {
+color: #727272;
+}
+.videoEmbed {
+padding: 5px 0 15px 0; text-align: center;
+}
+p.externalPost {
+margin: -2px 0 -4px 0;
+}
+p.externalPost a:link {
+margin: -2px 0 -4px 0;
+}
+.slicePost {
+margin: 0; background: url('http://www.seriouseats.com/imagesV2/icons/iconSliceNY.png') no-repeat left center; padding: 2px 0 2px 19px;
+}
+.AHTPost {
+margin: 0; background: url('http://www.seriouseats.com/imagesV2/icons/iconAHT.png') no-repeat left center; padding: 2px 0 2px 22px;
+}
+.ELEPost {
+margin: 0; background: url('http://www.seriouseats.com/imagesV2/icons/iconELE.png') no-repeat center left; padding: 2px 0 2px 22px;
+}
+.post p.linksrc {
+font-weight: bold; font-size: 10px; margin-bottom: 3px; line-height: 11px; text-transform: uppercase; padding: 0; color: #C34F46;
+}
+p.linksrc {
+font-weight: bold; font-size: 10px; margin-bottom: 3px; line-height: 11px; text-transform: uppercase; padding: 0; color: #C34F46;
+}
+.quickBites p.linksrc {
+margin-bottom: 3px;
+}
+.post p.linksrc a {
+color: #C34F46;
+}
+p.linksrc a {
+color: #C34F46;
+}
+.slice_post {
+background: url('http://www.seriouseats.com/imagesV2/icons/iconSliceNY.png') no-repeat left center; padding: 2px 0 2px 18px;
+}
+.a_hamburger_today_post {
+background: url('http://www.seriouseats.com/imagesV2/icons/iconAHTSmall.png') no-repeat left center; padding: 3px 0 2px 18px;
+}
+.ed_levine_eats_post {
+background: url('http://www.seriouseats.com/imagesV2/icons/edHeadSmall.png') no-repeat center left; padding: 3px 0 2px 18px;
+}
+.quickBites h3 {
+font-size: 18px; line-height: 21px; padding: 2px 0 5px 0;
+}
+.quickBites p {
+padding-bottom: 5px;
+}
+.quickBites .photo-left {
+padding-bottom: 5px;
+}
+.PGPost img {
+display: block;
+}
+.PGPost h3 {
+font-size: 14px; margin: 0; line-height: 17px; padding: 6px 0 4px 0; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif';
+}
+.PGPost h3 a:link {
+color: #458D01;
+}
+.PGPost h3 a:visited {
+color: #458D01;
+}
+.PGPost h3 a:active {
+color: #458D01;
+}
+.PGPost h3 a:hover {
+color: #458D01;
+}
+.pgcont {
+width: 245px; float: left;
+}
+.PGPost p.caption {
+padding-top: 9px; font-style: normal;
+}
+#commented {
+margin: 30px auto; background: #FCFADC; border: 1px dotted #C6D18E; padding: 16px 20px; width: 260px;
+}
+#commented p {
+font-size: 16px; margin: 0; line-height: 21px; padding: 0; font-family: Georgia, Times, 'Times New Roman', serif; color: #3B3B3B; text-align: center;
+}
+#adStrip {
+margin: 10px 0 20px 0; border-bottom: 1px dotted #C6D18E; padding: 14px 0 14px 14px; border-top: 1px dotted #C6D18E;
+}
+.individualPost blockquote.pullquote {
+background: transparent; margin: 2px 10px 3px 0; border-width: 3px 0; border: 3px double #ccc; padding: 6px 3px 6px 3px; color: #333; width: 200px; float: left;
+}
+.individualPost blockquote.pullquote p {
+font-size: 18px; margin: 0; line-height: 22px; font-family: Georgia, Times, 'Times New Roman', serif; padding: 0; font-style: italic; text-align: center;
+}
+blockquote.pullquote p:first-letter {
+text-transform: uppercase;
+}
+.restaurantLocator {
+margin: 0 0 15px 0; background: #f8f5e0 url('http://www.seriouseats.com/imagesV2/todaysSpecialsBG.png') top repeat-x; min-height: 110px; padding: 10px 10px 10px 10px;
+}
+.restaurantLocator p {
+margin: 0; padding: 0;
+}
+.restDesc {
+margin: 0; padding: 0; float: left; width: 270px;
+}
+.restaurantLocator .gmap {
+margin: 0; background: #fff; padding: 0; height: 110px; float: right; width: 170px;
+}
+#pageNav h3 a:link {
+color: #00a8ec;
+}
+#pageNav h3 a:visited {
+color: #00a8ec;
+}
+#pageNav h3 a:hover {
+color: #00a8ec;
+}
+#pageNav h3 a:active {
+color: #00a8ec;
+}
+.tools {
+margin: 0 0 14px 0; border-bottom: 1px dotted #C6D18E; padding: 5px 10px 2px 10px; height: 1%; border-top: 1px dotted #C6D18E;
+}
+.tools p {
+font-size: 11px; margin: 0; line-height: 16px; padding: 0;
+}
+.tools li {
+font-size: 11px; margin: 0; line-height: 16px; padding: 0;
+}
+.tools .left {
+float: left;
+}
+.left {
+float: left;
+}
+.tools .right {
+float: right;
+}
+.right {
+float: right;
+}
+#blogTools {
+padding: 0 4px 1px 2px;
+}
+#searchTools {
+padding-left: 0;
+}
+#searchTools p {
+line-height: 20px;
+}
+#pageNavigation p {
+font-size: 12px; padding: 10px;
+}
+#postTools {
+list-style: none; margin: 0; padding: 0;
+}
+#share {
+list-style: none; margin: 0; padding: 0;
+}
+#postTools li {
+margin: 0; padding: 6px 12px 2px 0; float: left;
+}
+#share li {
+margin: 0; padding: 4px 0 2px 16px; float: left;
+}
+#share li#shareParent {
+padding-top: 6px;
+}
+img.icon {
+margin-right: 4px; background: url('http://www.seriouseats.com/imagesV2/icons/icons3.gif') no-repeat; vertical-align: text-top; height: 12px; width: 12px;
+}
+#postTools img.icon {
+margin-top: 0;
+}
+#share img.icon {
+margin-top: 0; height: 15px; width: 14px;
+}
+a img.icon {
+text-decoration: none;
+}
+img.icon-print {
+background-position: 0 0;
+}
+img.icon-email {
+background-position: -12px 0;
+}
+img.icon-flag {
+background-position: -24px 0;
+}
+img.icon-share {
+background-position: -36px 0; width: 12px;
+}
+img.icon-stum {
+background-position: -48px 0; width: 15px;
+}
+img.icon-face {
+background-position: -63px 0;
+}
+img.icon-deli {
+background-position: -77px 0;
+}
+img.icon-digg {
+background-position: -91px 0; width: 16px;
+}
+li#shareDigg {
+padding: 6px 0 0 16px;
+}
+#videos .videoEntry p.postFooter {
+margin-top: 10px;
+}
+#iframeContainer {
+margin: 10px 0 0 2px; padding: 0; display: none;
+}
+.userProfile .profileName {
+padding-bottom: 10px;
+}
+.userProfile #threeColumn1 h2 {
+margin-bottom: 20px; margin-top: 40px; border-bottom: 1px dotted #C6D18E; position: relative;
+}
+#tagSearch  #threeColumn1 h2 {
+margin-bottom: 20px; margin-top: 40px; border-bottom: 1px dotted #C6D18E; position: relative;
+}
+.userProfile #threeColumn1 .quickBites h2 {
+margin-top: 0; border-bottom: none;
+}
+.userProfile .post {
+padding-bottom: 15px;
+}
+.userProfile .commenter {
+padding: 0 0 5px 25px;
+}
+.userProfile .userProfileComments {
+margin-bottom: 20px;
+}
+.userProfile .userProfileComments .post {
+padding-bottom: 1px; border-bottom: none;
+}
+.userProfileComments h3 {
+padding-bottom: 5px; font-size: 20px;
+}
+.userProfile .userProfileComments .photo-left {
+padding-right: 5px;
+}
+.userProfile .userProfileComments .post .byline {
+padding-bottom: 3px;
+}
+.profileBubble .comment-body {
+padding-top: 28px; background: #F4ECC1 url('http://www.seriouseats.com/imagesV2/profile/profileBubbleTop.png') no-repeat;
+}
+.profileBubble .comment-body p {
+padding: 15px 15px 5px 15px;
+}
+.profileBubble .comment-body-bottom {
+margin: 0; background: #fff url('http://www.seriouseats.com/imagesV2/profile/profileBubbleBottom.png') no-repeat; padding: 0; height: 6px;
+}
+.commentGuidelines {
+margin: 0 0 25px 0; background: #faf9f9; border: 1px solid #d3d2d2; padding: 10px 10px 5px 15px; text-align: left;
+}
+#previewingComment {
+margin-bottom: 20px; margin-top: 10px; display: none;
+}
+.comment-body {
+font-size: 13px; line-height: 17px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; padding: 12px 0 0 0; color: #3c3d3d;
+}
+.comment {
+margin-bottom: 14px; width: 500px;
+}
+.green .comment-body {
+margin: 0; background: #E7F1F6 url('http://www.seriouseats.com/imagesV2/comments/commentsGreenBubbleTop.png') no-repeat; padding: 0;
+}
+.green .comment-body-bottom {
+margin: -4px 0 0 0; background: #fff url('http://www.seriouseats.com/imagesV2/comments/commentsGreenBubbleBottom.png') no-repeat; padding: 0; height: 14px;
+}
+.yellow .comment-body {
+background: #F4ECC1 url('http://www.seriouseats.com/imagesV2/comments/commentsYellowBubbleTop.png') no-repeat;
+}
+.preview .comment-body {
+background: #F4ECC1 url('http://www.seriouseats.com/imagesV2/comments/commentsYellowBubbleTop.png') no-repeat;
+}
+.yellow .comment-body-bottom {
+margin: -4px 0 0 0; background: #fff url('http://www.seriouseats.com/imagesV2/comments/commentsYellowBubbleBottom.png') no-repeat; padding: 0; height: 14px;
+}
+.preview .comment-body-bottom {
+margin: -4px 0 0 0; background: #fff url('http://www.seriouseats.com/imagesV2/comments/commentsYellowBubbleBottom.png') no-repeat; padding: 0; height: 14px;
+}
+.comment-body p {
+padding: 0 12px 10px 12px;
+}
+.comment-body blockquote {
+margin: 0px 10px 10px 10px; color: #3F3F3F;
+}
+.comment-body #livePreview blockquote {
+margin: 0 0 -20px 0;
+}
+.commentGuidelines h3 {
+font-size: 24px; padding: 0 12px 10px 0; color: #8d2a1f;
+}
+.commentGuidelines p {
+font-size: 12px; color: #4d4d4b;
+}
+.commenter {
+padding: 0 0 5px 30px;
+}
+h4.body {
+padding-bottom: 2px;
+}
+.postPreview {
+margin: 0 0 25px 0; background: #faf9f9; border: 1px solid #d3d2d2; padding: 10px 10px 5px 15px; width: 450px;
+}
+.subnav {
+background: #FCFBDC url('http://www.seriouseats.com/imagesV2/todaysSpecialsBG3.png') top repeat-x; margin: 0; border-bottom: #E8E6D2 solid 1px; padding: 18px 0 16px 34px; width: 927px; float: left;
+}
+.subnav h4 {
+font-weight: bold; font-size: 13px; line-height: 15px; padding: 0 0 6px 0; font-family: arial; color: #4D4D4D;
+}
+.subnav h4 a {
+color: #4D4D4D;
+}
+.subnavSearch {
+margin-right: 5px; height: 16px; width: 240px;
+}
+#subnavSearchButton {
+margin-top: -3px; vertical-align: middle;
+}
+#subnavGoButton {
+margin-top: -3px; vertical-align: middle;
+}
+.subnav option {
+margin-right: 5px; font-size: 12px; color: #565856;
+}
+.subnav select {
+margin-right: 5px; font-size: 12px; color: #565856;
+}
+#recipeSearch {
+float: left;
+}
+#recipeCats {
+float: left;
+}
+#recipeCats {
+padding-left: 30px; border-left: #DDDCCB solid 1px; margin-left: 30px;
+}
+#NewYorkSearch {
+float: left;
+}
+#NYCByLocation {
+float: left;
+}
+#NYWTFTB {
+float: left;
+}
+#NYBrowse {
+float: left;
+}
+#NYTalk {
+float: left;
+}
+#NYWTFTB {
+padding-left: 25px; border-left: #DDDCCB solid 1px; margin-left: 25px;
+}
+#NYCByLocation {
+padding-left: 25px; border-left: #DDDCCB solid 1px; margin-left: 25px;
+}
+#NYBrowse {
+padding-left: 25px; border-left: #DDDCCB solid 1px; margin-left: 25px;
+}
+#NYTalk {
+padding-left: 25px; border-left: #DDDCCB solid 1px; margin-left: 25px;
+}
+#NYTalk p {
+font-size: 13px; padding: 0 10px 0 0;
+}
+#NYWTFTB form {
+float: left;
+}
+#NYWTFTB p {
+float: left;
+}
+#NYWTFTB form {
+margin-top: -2px;
+}
+#NewYorkSearch #NewYorkSearchBox {
+width: 190px;
+}
+.dropdownhead {
+font-weight: bold;
+}
+.dropdownsub {
+padding-left: 10px;
+}
+#talkNav {
+padding: 15px 0 13px 34px;
+}
+#talkNav ul {
+list-style: none; margin: 0; padding: 0;
+}
+#talkNav li {
+font-size: 12px; list-style: none; margin: 0 25px 0 0; line-height: 13px; padding: 0; float: left;
+}
+#talkNav a {
+font-weight: bold; color: #888888;
+}
+#talkNav li a:hover {
+text-decoration: underline; color: #4E7329;
+}
+#talkNav li a:active {
+text-decoration: underline; color: #4E7329;
+}
+.cat-food-and-drink #navTalkFood {
+color: #4E7329;
+}
+.cat-site-feedback #navTalkSiteFeedback {
+color: #4E7329;
+}
+.cat-eating-out #navTalkEatingOut {
+color: #4E7329;
+}
+.cat-cooking-and-baking #navTalkCookingAndBaking {
+color: #4E7329;
+}
+.cat-food-media-and-news #navTalkFoodMediaAndNews {
+color: #4E7329;
+}
+.cat-newyork #navTalkNewYork {
+color: #4E7329;
+}
+#talk #pageNav {
+padding-top: 15px;
+}
+#talk #content {
+padding-top: 30px;
+}
+.boxform .formField {
+margin-bottom: 6px; background: #FCFBE4; border: 1px solid #F4F4DE; padding: 10px 16px 4px 14px; float: left;
+}
+.boxform .righty {
+padding-top: 2px; float: right;
+}
+.boxform label.boxHead {
+font-size: 15px; padding-top: 2px; line-height: 15px; color: #5D5D5D; float: left;
+}
+.boxform .required {
+font-size: 15px;
+}
+.boxform .formFieldRight {
+border: 1px solid #F4F4DE; padding: 10px 10px 4px 10px; margin-left: 10px; float: left;
+}
+.boxform .formFieldRight p {
+padding-bottom: 3px; font-size: 11px; line-height: 17px; color: #666;
+}
+.boxform .formFieldRight p strong {
+color: #666;
+}
+.boxform p.requirements {
+font-size: 11px; margin: 0; line-height: 14px; padding: 6px 0 2px 0;
+}
+.boxform .formText {
+background: white;
+}
+.boxform textarea {
+background: white;
+}
+.boxform .formButtonsL p {
+font-size: 11px; line-height: 13px; padding: 0; color: #666;
+}
+.boxform .formButtonsL {
+margin: 0; padding: 0; float: left; width: 100px;
+}
+.boxform .formButtonsR {
+margin: 0; padding: 0;
+}
+#NewsletterSignUp {
+margin-top: 10px;
+}
+#NewsletterSignUp .formField {
+width: 460px;
+}
+#NewsletterSignUp .righty {
+padding: 0 0 0 0; width: 300px;
+}
+#NewsletterSignUp .formText {
+width: 298px;
+}
+#NewsletterSignUp label.boxHead {
+padding-bottom: 20px; padding-top: 4px; width: 150px;
+}
+#NewsletterSignUp p.requirements {
+padding: 2px 0 10px 25px;
+}
+#NewsletterSignUp .formButtonsR {
+width: 494px;
+}
+#loginForm .formField {
+width: 320px;
+}
+#loginForm .righty {
+padding: 0 0 4px 0; width: 200px;
+}
+#loginForm .formText {
+width: 198px;
+}
+#loginForm label.boxHead {
+padding-top: 4px; width: 120px;
+}
+#loginForm .formField .clearer {
+padding-bottom: 6px;
+}
+#loginForm .formButtonsR {
+width: 254px;
+}
+#signUpForm .formField {
+width: 450px;
+}
+#signUpForm .rule {
+padding-bottom: 8px; margin-bottom: 12px; border-bottom: 1px solid #EDEEDC; width: 480px; margin-left: -14px;
+}
+#signUpForm .righty {
+width: 272px;
+}
+#signUpForm label.boxHead {
+padding-top: 2px; width: 160px;
+}
+#signUpForm .formText {
+width: 270px;
+}
+#signUpForm .righty label {
+margin-bottom: 8px; vertical-align: top; color: #666;
+}
+#signUpForm .bumpup input {
+margin-bottom: 6px; margin-left: 0;
+}
+#signUpForm .bumpup {
+margin-top: -2px;
+}
+#signUpForm .bumpup label {
+font-weight: normal;
+}
+#signUpForm .formButtonsR {
+width: 384px;
+}
+#startTalking .formField {
+margin-bottom: 10px; width: 554px;
+}
+#startTalking .righty {
+width: 440px;
+}
+#startTalking label.boxHead {
+padding-top: 2px; width: 110px;
+}
+#startTalking .formFieldRight {
+width: 270px;
+}
+.st1 {
+min-height: 50px;
+}
+* html .st1 {
+height: 50px;
+}
+.st2 {
+min-height: 200px;
+}
+* html .st2 {
+height: 200px;
+}
+.st3 {
+min-height: 107px;
+}
+* html .st3 {
+height: 107px;
+}
+.st4 {
+min-height: 216px;
+}
+* html .st4 {
+height: 216px;
+}
+#startTalking .formText {
+width: 438px;
+}
+#startTalking textarea {
+width: 438px;
+}
+#startTalking textarea {
+height: 170px;
+}
+#startTalking .catColumn {
+padding-right: 22px; margin-left: -4px; float: left;
+}
+#startTalking .catColumn label {
+font-weight: bold; font-size: 12px; line-height: 13px; vertical-align: text-top; padding-left: 2px; color: #565656;
+}
+#startTalking .catColumn3 {
+padding-right: 0;
+}
+#startTalking .catColumn input {
+margin-bottom: 8px;
+}
+#startTalking .formButtonsR {
+width: 490px;
+}
+#startTalking .st1 p {
+line-height: 13px;
+}
+.st4 h5 {
+padding-bottom: 15px; font-size: 15px; padding-top: 2px; line-height: 15px; color: #5D5D5D;
+}
+#startTalking .st4 #previewingTalkTopic {
+margin: 0 2px 15px 2px; background: #fff; padding: 20px 0 20px 25px;
+}
+.st4 .post {
+margin: 0; padding: 20px 0 20px 0; border-top: 1px dotted  #C6D18E;
+}
+#talkTable {
+width: 500px;
+}
+#talkTable td {
+border-bottom: 1px dotted #ccc; font-family: Arial, Helvetica;
+}
+#talkTable th {
+border-bottom: 1px dotted #ccc; font-family: Arial, Helvetica;
+}
+#talkTable th {
+padding-bottom: 4px; font-weight: bold; font-size: 12px; color: #619133;
+}
+#talkTable h3 {
+font-size: 16px; margin-bottom: 0; line-height: 19px; padding: 0 0 3px 0;
+}
+#talkTable p {
+font-size: 11px; margin: 0; line-height: 13px; padding: 0; color: #727272;
+}
+tr.evenTalkRow {
+background: #FAFAFA;
+}
+#sticky tr.evenTalkRow {
+background: url('http://www.seriouseats.com/imagesV2/bg/frontBurnerBG.png') top repeat-x;
+}
+#sticky tr.oddTalkRow {
+background: url('http://www.seriouseats.com/imagesV2/bg/frontBurnerBG.png') top repeat-x;
+}
+td.body {
+padding: 11px 0 11px 12px;
+}
+th.commentCountTalkRow {
+vertical-align: middle; text-align: center; width: 60px;
+}
+td.commentCountTalkRow {
+vertical-align: middle; text-align: center; width: 60px;
+}
+td.commentCountTalkRow {
+font-weight: bold; font-size: 20px;
+}
+.startTalkingBody {
+margin: 0 0 0 0; border: #E7F1F6 solid 3px; padding: 12px 12px 8px 12px; height: 1%; position: relative;
+}
+.startTalkingBody h2 {
+font-weight: normal; font-size: 23px; margin: 0; background: 0; border: 0; text-transform: none; padding: 0 0 12px 0; font-family: 'American Typewriter', Arial, Helvetica, sans-serif; color: #E9720D;
+}
+.startTalkingBody p {
+font-size: 12px; margin-top: -4px; padding: 0; width: 230px; float: left;
+}
+.startTalkingBody form {
+padding-top: 2px; float: right;
+}
+#startTalkingBodyNotLoggedIn img {
+padding-top: 2px; float: right;
+}
+#startTalkingBodyNotLoggedIn p {
+width: 170px;
+}
+textarea.wide {
+width: 98%;
+}
+#talkIntro {
+font-size: 12px; background: #F8F5E0 url('http://www.seriouseats.com/imagesV2/todaysSpecialsBG3.png') top repeat-x; margin: 0 0 20px 0; border: solid 1px #ddd; padding: 10px;
+}
+#talkIntro p {
+font-size: 12px; margin: 0 0 -3px 0;
+}
+#talkIntro ul {
+margin: 0 0 -5px 0; padding: 0;
+}
+#talkIntro li {
+font-size: 12px; list-style: none; margin-bottom: 3px;
+}
+#talkIntro li a {
+font-weight: bold; font-size: 14px;
+}
+#talkIntro #closeThis {
+padding-bottom: 0; font-size: 10px; float: right;
+}
+#talkIntro #closeThis a {
+margin: 0; background: url('http://www.seriouseats.com/imagesV2/icons/iconDelete.gif') no-repeat left center; padding: 2px 0 2px 16px;
+}
+.latestDisc {
+margin: 15px 0 0 0; border-bottom: 1px dotted #C6D18E; position: relative;
+}
+.latestDisc p {
+margin: 0 0 -8px 0;
+}
+.latestDisc p.postFooter {
+margin: 4px 0 5px 0;
+}
+.latestDisc .userIcon {
+padding-right: 4px; vertical-align: middle; float: left;
+}
+#recipes .RecipesContainer {
+padding-bottom: 0; margin-bottom: 25px; margin-top: 0; border: 1px #DCDFE1 solid; min-height: 1%; position: relative; width: 366px;
+}
+#recipes .RecipesContainer h3 {
+font-weight: normal; font-size: 16px; margin: 0; background: #FAF9DC url('http://www.seriouseats.com/imagesV2/column2List/headerBG.png') bottom repeat-x; line-height: 16px; text-transform: none; border-bottom: 1px #DCDFE1 solid; padding: 9px 0 9px 12px; font-family: Georgia, 'Times New Roman', Times, serif; min-height: 1px; color: #4B4B4B; position: relative;
+}
+#recipes .catContainer {
+padding: 12px 12px 0 12px; min-height: 20px; float: left; width: 165px;
+}
+#recipes .catContainerR {
+padding-right: 0; padding-left: 0; width: 175px;
+}
+#recipes .RecipesContainer .catContainer h4 {
+padding-bottom: 6px; font-size: 13px; line-height: 13px;
+}
+#recipes .RecipesContainer ul {
+list-style-position: outside; list-style: none; margin: 0; padding: 0 0 12px 0;
+}
+#recipes .RecipesContainer li {
+font-size: 11px; margin: 0; line-height: 14px; padding: 0;
+}
+.individualPost .hideme {
+display: none;
+}
+.breakoutbox {
+margin: 4px 0 10px 20px; border-bottom: double #ccc 3px; padding: 2px; border-top: double #ccc 3px; float: right; width: 220px;
+}
+#threeColumn1 .adspaceBlog {
+text-align: center;
+}
+#twoColumn2 .columnAdSpace {
+text-align: center;
+}
+#threeColumn1 .adspaceBlog {
+margin-bottom: 25px; margin-top: -15px; padding: 25px 0 30px 0;
+}
+.columnAdSpace {
+margin-bottom: 25px; padding: 0;
+}
+#twoColumn2 .columnAdSpace {
+padding: 20px 0 20px 0;
+}
+.columnAdTower {
+margin: 0 auto 0 auto; background: #fff; text-align: center;
+}
+.blogAd {
+margin: 0 auto; background: #fff; width: 300px;
+}
+#content .indEntrySquare {
+padding-bottom: 24px; padding-top: 24px; background: #E7F1F6; text-align: center;
+}
+.indEntrySquareAd {
+margin: 0 auto; background: #fff; padding: 8px 10px 8px 10px; width: 300px;
+}
+#textAd {
+margin: 0 0 25px 0;
+}
+#textAd h2 {
+padding-bottom: 5px; font-size: 10px; margin: 0; line-height: 10px; color: #999; text-align: center;
+}
+#textAdBody {
+background: #F3FAFF; margin: 0; border: 1px dashed #999; padding: 10px 10px 8px 10px;
+}
+#textAdBody h2 {
+margin: 0; line-height: 14px; padding: 0; color: #3c3d3d; text-align: left;
+}
+#textAdBody h4 {
+font-size: 14px; margin: 0; line-height: 16px; padding: 0 0 3px 0;
+}
+#textAdBody a {
+color: #C01B06;
+}
+#textAdBody p {
+font-size: 11px; margin: 0; line-height: 15px; padding: 0;
+}
+.advertorial {
+background: #F3FAFF; margin-top: -25px; padding: 15px 14px 15px 15px; position: relative;
+}
+.advertorial h5 {
+color: #630000;
+}
+.advertorial a {
+color: #630000;
+}
+.advertorial h5 {
+font-size: 11px;
+}
+.advertorial h3 {
+font-size: 19px; line-height: 21px;
+}
+.dropshadow2 {
+clear: left; margin: 10px 0 4px 6px; background: url('http://www.seriouseats.com/imagesV2/shadow/shadow.gif') no-repeat bottom right; padding: 0; float: left;
+}
+.innerbox {
+bottom: 5px; margin: 0; position: relative; right: 5px;
+}
+#footer {
+margin: 0 0 0 15px; display: inline; position: relative; float: left; width: 931px;
+}
+.shortFooter {
+background: #B23524 url('http://www.seriouseats.com/imagesV2/footer/shortFooter.png') repeat-x;
+}
+#footerColumn1 {
+margin: 0; padding: 35px 0 30px 0; float: left; width: 190px;
+}
+#footerColumn2 {
+margin: 0; padding: 35px 0 30px 0; float: left; width: 190px;
+}
+#footerColumn3 {
+margin: 0; padding: 35px 0 30px 0; float: left; width: 190px;
+}
+#footerColumn4 {
+margin: 0; padding: 35px 0 30px 0; float: left; width: 190px;
+}
+#footerColumn1 {
+padding-left: 40px; width: 186px;
+}
+.footerDottedLine {
+margin: 60px 22px 0 14px; border-right: 1px dotted #e0864a; padding: 0; height: 304px; float: left; width: 3px;
+}
+.shortFooter .footerDottedLine {
+margin-top: 70px; height: 170px;
+}
+#footer a:link {
+color: #fbed68;
+}
+#footer a:visited {
+color: #fbed68;
+}
+#footer a:hover {
+color: #fbed68;
+}
+#footer a:active {
+color: #fbed68;
+}
+#footer p {
+margin: 0; line-height: 20px; padding: 0; color: #fff;
+}
+#footer li {
+margin: 0; line-height: 20px; padding: 0; color: #fff;
+}
+#footer label {
+margin: 0; line-height: 20px; padding: 0; color: #fff;
+}
+#footer .requirements {
+margin: 0; line-height: 20px; padding: 0; color: #fff;
+}
+#footer ul {
+margin: 0; padding: 0;
+}
+#footer li {
+padding-bottom: 15px; list-style: none; line-height: 17px;
+}
+#footerColumn2 li {
+padding-bottom: 8px;
+}
+#footer a:link {
+font-weight: bold;
+}
+#footer a:visited {
+font-weight: bold;
+}
+#footer a:hover {
+font-weight: bold;
+}
+#footer a:active {
+font-weight: bold;
+}
+#footerColumn2 a:link {
+font-weight: normal;
+}
+#footerColumn2 a:visited {
+font-weight: normal;
+}
+#footerColumn2 a:hover {
+font-weight: normal;
+}
+#footerColumn2 a:active {
+font-weight: normal;
+}
+#footer h3 {
+padding-bottom: 8px; font-weight: bold; font-size: 15px; font-family: Arial, 'Helvetica Neue', Helvetica, Verdana, sans, 'sans serif'; color: #e0864a;
+}
+#footerColumn3 .formText {
+font-size: 13px; margin-bottom: 8px; margin-top: 10px; width: 180px;
+}
+#footer .formField {
+margin: 0 0 6px 0;
+}
+#footerColumn3 p {
+font-weight: normal; font-size: 13px;
+}
+#footerColumn3 label {
+font-weight: normal; font-size: 13px;
+}
+#footerColumn3 .formButton {
+font-weight: normal; font-size: 13px;
+}
+#siteMeter {
+margin-left: 15px;
+}
+#footerLinks {
+margin: -15px 15px 0 0; float: right;
+}
+#footerLinks li {
+font-size: 11px; list-style: none; padding-left: 12px; float: left;
+}
+#footerLinks li a {
+color: #535353;
+}
+.clearer {
+overflow: hidden; clear: both; margin-top: -1px; height: 1px;
+}
+label {
+font-weight: bold;
+}
+.formSection {
+margin-bottom: 25px;
+}
+.formField {
+margin-bottom: 12px;
+}
+.formButton {
+font-size: 14px;
+}
+.formButtonsR {
+padding-bottom: 10px; padding-top: 5px;
+}
+.formButtonsL {
+padding-bottom: 10px; padding-top: 5px;
+}
+.formButtonsR {
+text-align: right; float: left; width: 500px;
+}
+.formCommentPreview {
+padding-bottom: 10px; padding-top: 5px;
+}
+.formText {
+font-size: 15px; background: #fff; color: #3c3d3d; width: 500px;
+}
+.formTextSmall {
+font-size: 15px; background: #fff; color: #3c3d3d; width: 500px;
+}
+.formTextSmall {
+font-size: 11px;
+}
+.tan {
+background: #FFFBF5;
+}
+.short {
+width: 215px;
+}
+.shortest {
+width: 100px;
+}
+.inline {
+padding-right: 5px; clear: none; float: left;
+}
+.danger {
+color: #b23524;
+}
+a.danger:hover {
+color: #b23524;
+}
+p.danger {
+font-weight: bold; font-size: 14px;
+}
+form p.danger {
+margin-bottom: 0; display: inline;
+}
+.required {
+font-weight: normal; font-size: 11px; margin-bottom: -20px; color: #b23524;
+}
+p.requirements {
+font-size: 11px; margin: 0 0 -10px 0; color: #929292;
+}
+span.requirements {
+font-size: 11px; color: #929292;
+}
+p.beneathH2 {
+margin: -10px 0 -5px 0;
+}
+#addComment {
+height: 160px; width: 500px;
+}
+#passwordChangeBox {
+background: #faf9f9; border: 1px solid #d3d2d2; display: block; padding: 10px 10px 10px 15px;
+}
+label.subcat {
+font-weight: normal; font-size: 14px; display: inline;
+}
+#signUp {
+margin-top: 20px; width: 350px;
+}
+.dottedBorder {
+padding-bottom: 25px; margin-top: 15px; border-top: 1px dotted #ccc;
+}
+#previewingPost .post {
+border: 0;
+}
+#submitALink textarea {
+width: 140px;
+}
+#submitALink {
+margin-bottom: 40px;
+}
+#flickrWrapper {
+border: 1px dotted #C6D18E; padding: 10px 0 10px 0; text-align: center;
+}
+#flickrWrapper h2 {
+font-size: 12px; line-height: 14px; text-align: left; margin-left: 10px;
+}
+.flickr_badge_image {
+margin: 0 10px 10px 10px;
+}
+.flickr_badge_image img {
+border: 1px solid black;
+}
+#flickr_badge_source {
+margin: 0 10px 0 10px; font: 11px Arial, Helvetica, 'Sans serif'; text-align: left;
+}
+#flickr_badge_icon {
+margin-right: 5px; float: left;
+}
+#flickr_www {
+color: #3993ff;
+}
+#flickr_badge_source {
+padding: 0; color: #666666;
+}
+div#adspot_664635933.adspot {
+font-size: 10pt; border-color: #fff; overflow: hidden; background-color: #EEEEEE; border-style: solid; border-width: 1px; border-spacing: 0; width: 160px;
+}
+div#adspot_664635933 .adspot_head {
+font-weight: bold; font-size: 10pt; text-decoration: none; font-family: Arial; color: #000000; font-style: normal; text-align: left;
+}
+div#adspot_664635933 a.adspot_link {
+font-weight: normal; font-size: 8pt; margin: 0; text-decoration: underline; font-family: Arial; color: #00a8ec; font-style: normal; text-align: left;
+}
+div#adspot_664635933 a.adspot_adurl {
+font-weight: normal; font-size: 8pt; margin: 0; text-decoration: underline; font-family: Arial; color: #00a8ec; font-style: normal; text-align: left;
+}
+div#adspot_664635933 a.adspot_link:link {
+font-size: 8pt; text-decoration: underline; color: #00a8ec; font-style: normal;
+}
+div#adspot_664635933 a.adspot_link:visited {
+font-size: 8pt; text-decoration: underline; color: #00a8ec; font-style: normal;
+}
+div#adspot_664635933 a.adspot_adurl:link {
+font-size: 8pt; text-decoration: underline; color: #00a8ec; font-style: normal;
+}
+div#adspot_664635933 a.adspot_adurl:visited {
+font-size: 8pt; text-decoration: underline; color: #00a8ec; font-style: normal;
+}
+div#adspot_664635933 a.adspot_link:active {
+text-decoration: none; color: #00a8ec;
+}
+div#adspot_664635933 a.adspot_link:hover {
+text-decoration: none; color: #00a8ec;
+}
+div#adspot_664635933 a.adspot_adurl:active {
+text-decoration: none; color: #00a8ec;
+}
+div#adspot_664635933 a.adspot_adurl:hover {
+text-decoration: none; color: #00a8ec;
+}
+div#adspot_664635933 * ul {
+list-style-position: outside; margin: 0; padding: 0; list-style-type: none; list-style-image: none; width: 160px;
+}
+div#adspot_664635933 * li {
+overflow: hidden; border-color: #EEEEEE; margin-bottom: 5px; margin: 0; background: #FFFFFF; text-indent: 0; border-style: solid; border-width: 1px; display: block; border-spacing: 0; padding: 0; text-align: left; width: 158px;
+}
+div#adspot_664635933 span.blogad_rss_ad li {
+border: none;
+}
+div#adspot_664635933 .adspot_adhead {
+font-weight: bold; font-size: 10pt; margin: 0; display: block; border-spacing: 0; padding: 2px; font-family: Arial; color: #000000; text-align: left; width: 160px;
+}
+div#adspot_664635933 * img {
+border-width: 0; border-spacing: 0;
+}
+div#adspot_664635933 * li * img {
+clear: both; margin: auto; display: block; text-align: center;
+}
+div#adspot_664635933 .adspot_adtext {
+font-weight: normal; font-size: 8pt; margin: 0; display: block; border-spacing: 0; padding: 2px; font-family: Arial; color: #000000; font-style: normal; text-align: left; width: 160px;
+}
+div.adspot_adurl a.adspot_adurl {
+padding: 0 0 4px 4px;
+}
+div#adspot_664635933 div.adspot_link {
+margin: -2px 0 0 0; padding: 0 0 5px 4px; text-align: left; width: 160px;
+}
+ul.pizzaBullet {
+list-style: none; margin: 0 0 -8px 0; padding-left: 14px;
+}
+ul.burgerBullet {
+list-style: none; margin: 0 0 -8px 0; padding-left: 14px;
+}
+.pizzaBullet li {
+margin-bottom: 8px; background: url('http://seriouseats.com/imagesV2/icons/iconSliceNY.png') no-repeat left top; padding-left: 19px;
+}
+.burgerBullet li {
+margin-bottom: 8px; background: url('http://seriouseats.com/imagesV2/icons/iconAHT.png') no-repeat left top; padding-left: 22px;
+}
+h4.subhead {
+font-weight: bold; font-size: 13px; margin: 0; line-height: 15px; text-transform: uppercase; padding: 0; font-family: Verdana, Arial, 'Helvetica Neue', Helvetica, sans, 'sans serif';
+}
+p.mailed {
+font-family: Courier, Times, 'Times New Roman', serif;
+}
+#threeColumn1 h4.topQuote {
+margin: 0 0 5px 0; text-transform: none; font: italic normal 16px/20px  Georgia, Times, 'Times New Roman', serif;
+}
+h4.topQuote {
+margin: 0 0 5px 0; text-transform: none; font: italic normal 16px/20px  Georgia, Times, 'Times New Roman', serif;
+}
