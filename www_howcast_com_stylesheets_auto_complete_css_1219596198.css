@@ -1,0 +1,18 @@
+div.autocomplete {
+position: absolute; width: 250px;
+}
+div.autocomplete ul {
+background-color: #fff; border: 1px solid #53849f;
+}
+div.autocomplete ul li.selected {
+background-color: #ffb;
+}
+div.autocomplete ul li {
+cursor: pointer; padding: 6px;
+}
+div.autocomplete strong.highlight {
+background: none; color: #333;
+}
+div#email_contacts_search_results ul li.selected {
+background: #e4f0ff;
+}
