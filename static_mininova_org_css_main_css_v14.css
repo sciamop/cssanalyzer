@@ -1,0 +1,579 @@
+html {
+font-size: x-small;
+}
+body {
+margin: 0; background-color: #fff; padding: .5em 1em; color: #000; font: 120% Verdana,sans-serif;
+}
+h1 {
+margin: 0 0 .5em; font: bold 200% Arial,Helvetica,sans-serif;
+}
+h2 {
+margin: 0 0 .5em; font: bold 150% Arial,Helvetica,sans-serif;
+}
+p {
+margin: 1em 0;
+}
+a {
+text-decoration: underline; color: #11d;
+}
+a:hover {
+text-decoration: none;
+}
+a.emphasis {
+color: #d20;
+}
+a.rss {
+background: #e70 url('http://static.mininova.org/images/rss.gif?v2') 3px 50% no-repeat; line-height: 1.8em; border: 1px solid #c50; text-decoration: none; padding: 1px .2em 1px 16px; vertical-align: -5%; color: #fff;
+}
+a.rss.small {
+font-weight: normal; font-size: smaller;
+}
+a.rss:hover {
+background-color: #f93;
+}
+acronym {
+border-bottom: 1px dotted #000; font: inherit; letter-spacing: inherit;
+}
+img {
+border-style: none;
+}
+form {
+margin: 0;
+}
+label {
+font-weight: bold;
+}
+label small {
+font-weight: normal; font-size: 80%;
+}
+input {
+font-size: inherit; margin: 0; background-color: #fff; vertical-align: middle; color: #000;
+}
+select {
+font-size: inherit; margin: 0; background-color: #fff; vertical-align: middle; color: #000;
+}
+.button {
+background-color: #e3ebf9; border: 1px solid #204a87;
+}
+.button:hover {
+background-color: #f2f7ff;
+}
+.button:focus {
+background-color: #f2f7ff;
+}
+textarea {
+background-color: #fff; color: #000;
+}
+th {
+text-align: left;
+}
+.hide {
+display: none;
+}
+.section {
+margin-bottom: 3em;
+}
+.section .sh {
+margin: 0; background-color: #eff3fb; line-height: 1.8em; border-bottom: 1px dashed #204a87;
+}
+.subtitle {
+margin: .5em 0 2em;
+}
+.small {
+font-size: x-small;
+}
+.r {
+color: #d20;
+}
+.g {
+color: #271;
+}
+.b {
+color: #11d;
+}
+.highlight {
+background-color: #ff9;
+}
+.clear-left {
+clear: left;
+}
+.clear-right {
+clear: right;
+}
+.clear-both {
+clear: both;
+}
+.nfo {
+margin: 0; line-height: 1em; color: #555; font: small "Courier New",monospace;
+}
+.caps {
+font-weight: bold; color: #d20;
+}
+.warning {
+margin: 2em 0; background-color: #fca; border: 1px solid #e95; padding: .5em;
+}
+.warning img {
+margin: 0 .5em; vertical-align: middle;
+}
+#cookiewarning {
+display: none;
+}
+.rounded .c {
+background-color: #fff; display: block; height: 3px;
+}
+.rounded .c * {
+overflow: hidden; display: block; height: 1px;
+}
+.rounded .c1 {
+border-style: solid; border-width: 0 1px;
+}
+.rounded .c2 {
+border-style: solid; border-width: 0 1px;
+}
+.rounded .c3 {
+border-style: solid; border-width: 0 1px;
+}
+.rounded .c1 {
+margin: 0 1px; padding: 0 1px;
+}
+.rounded .c2 {
+padding: 0 1px;
+}
+#sidebar {
+margin: 0 0 2em 0; display: inline; width: 135px; float: right;
+}
+#content {
+margin: 0 135px 2em 0;
+}
+#logo {
+margin: .3em 2em .5em 0; float: left;
+}
+#headerlinks {
+margin: 0 .1em 0; list-style-type: none; float: right;
+}
+#headerlinks li {
+padding-left: .4em; border-left: 1px solid #000; margin-left: .4em; float: left;
+}
+#headerlinks li.first {
+border-left: none;
+}
+#hl-account {
+padding-right: 1.1em; background: url('http://static.mininova.org/images/darrow-hl.gif') right center no-repeat; position: relative;
+}
+#hl-account ul {
+left: 4em; margin: 0; background-color: #fff; border: 1px solid #bfcbe0; padding: 0; display: none; text-align: left; list-style-type: none; position: absolute; width: 10em; top: 1.3em;
+}
+#hl-account:hover ul {
+display: block;
+}
+#hl-account.hovered ul {
+display: block;
+}
+#hl-account li {
+border: none; padding-left: 0; float: none; margin-left: 0;
+}
+#hl-account ul a {
+text-decoration: none; display: block; padding: .2em .4em; width: 9.2em;
+}
+#hl-account ul a:hover {
+text-decoration: underline;
+}
+#header .clear-right {
+overflow: hidden; height: .1em;
+}
+#searchform {
+clear: right; margin: 0 0 .5em; float: left;
+}
+#searchform input {
+border: 1px solid #000;
+}
+#searchsuggestions {
+background-color: #fff; line-height: 1.35em; border: 1px solid #000; display: none; z-index: 4; position: absolute;
+}
+#searchsuggestions a {
+overflow: hidden; text-decoration: none; padding: 0 2px; white-space: nowrap; display: block; color: #000;
+}
+#searchsuggestions a.hovered {
+background-color: #4986d9; color: #fff;
+}
+#navigation {
+margin-bottom: 1em;
+}
+#navigation {
+background-color: #204a87;
+}
+#navigation .c * {
+background-color: #204a87;
+}
+#navigation .c1 {
+border-color: #d5dde8; background-color: #6582ac;
+}
+#navigation .c2 {
+border-color: #d5dde8; background-color: #2d558e;
+}
+#navigation .c3 {
+border-color: #6582ac;
+}
+#navigation ul {
+margin: 0; padding: 0 .2em; list-style-type: none;
+}
+#navigation li {
+margin-right: .2em; border-left: 1px solid #729fcf; float: left;
+}
+#navigation a {
+text-decoration: none; padding: 0 .4em; color: #fff;
+}
+#navigation a:hover {
+text-decoration: underline; color: #fff;
+}
+#navigation li.first {
+border-left: none;
+}
+#navigation ul .c {
+background-color: transparent;
+}
+#navigation ul .c * {
+background-color: #dce5f3;
+}
+#navigation ul .c1 {
+border-color: #f8fafc; background-color: #e6edf6;
+}
+#navigation ul .c2 {
+border-color: #f8fafc; background-color: #dee6f3;
+}
+#navigation ul .c3 {
+border-color: #e6edf6;
+}
+#navigation ul ul {
+padding: 0; display: none; border-top: 3px solid #204a87; z-index: 3; position: absolute; float: none;
+}
+#nav-browse:hover ul {
+display: block;
+}
+#nav-browse.hovered ul {
+display: block;
+}
+#nav-upload:hover ul {
+display: block;
+}
+#nav-upload.hovered ul {
+display: block;
+}
+#nav-community:hover ul {
+display: block;
+}
+#nav-community.hovered ul {
+display: block;
+}
+#navigation ul ul li {
+margin-right: 0; border: none; float: none;
+}
+#navigation ul ul a {
+background-color: #dce5f3; line-height: 1.5em; text-indent: .4em; background-image: none; padding: 0; display: block; color: #000;
+}
+#navigation ul ul a:hover {
+background-color: #b0c1d8; text-decoration: none; color: #000;
+}
+#nav-browse {
+position: relative;
+}
+#nav-upload {
+position: relative;
+}
+#nav-community {
+position: relative;
+}
+#nav-browse a {
+background: url('http://static.mininova.org/images/darrow-nav.gif') right center no-repeat; display: block;
+}
+#nav-upload a {
+background: url('http://static.mininova.org/images/darrow-nav.gif') right center no-repeat; display: block;
+}
+#nav-community a {
+background: url('http://static.mininova.org/images/darrow-nav.gif') right center no-repeat; display: block;
+}
+#nav-browse a {
+width: 11em;
+}
+#nav-browse ul .c {
+width: 12em;
+}
+#nav-browse ul a {
+width: 12em;
+}
+#nav-upload a {
+width: 5em;
+}
+#nav-upload ul .c {
+width: 12em;
+}
+#nav-upload ul a {
+width: 12em;
+}
+#nav-upload ul {
+left: -3em;
+}
+#nav-community a {
+width: 7em;
+}
+#nav-community ul .c {
+width: 8em;
+}
+#nav-community ul a {
+width: 8em;
+}
+#adspot-a {
+margin: 0 auto 1em; display: block;
+}
+#adspot-b .ad a {
+font-size: 85%; text-decoration: none; display: block; color: #000;
+}
+#adspot-b .adtitle {
+text-decoration: underline; display: block;
+}
+#adspot-b .adlink {
+color: #11d;
+}
+#adspot-b {
+margin-bottom: .5em;
+}
+#adspot-b .ad {
+margin-bottom: .5em;
+}
+#adspot-c {
+margin-left: 15px;
+}
+#adspot-d {
+margin: 2em 0 1.5em; border: 1px solid #000; padding: .5em;
+}
+#adspot-d a.emphasis {
+float: right;
+}
+#adspot-d .adHeadline {
+color: #11d;
+}
+#adspot-d .adText {
+text-decoration: none; padding-left: .5em; color: #000;
+}
+#location {
+margin-bottom: 1em;
+}
+#location {
+background-color: #bfcbe0;
+}
+#location .c * {
+background-color: #bfcbe0;
+}
+#location .c {
+clear: left;
+}
+#location .c1 {
+border-color: #f3f5f9; background-color: #bfcbe0;
+}
+#location .c2 {
+border-color: #f3f5f9; background-color: #c3cee1;
+}
+#location .c3 {
+border-color: #d3dbe9;
+}
+#location p {
+margin: 0; padding: 0 .5em;
+}
+#location ul {
+margin: 0; padding: 0; list-style-type: none; width: 99%; float: left;
+}
+#location li {
+padding: 0 .5em; width: 45%; float: left;
+}
+#location a {
+color: #000;
+}
+#jumptocat {
+margin-bottom: 1em; height: 1.35em; position: relative;
+}
+#jumptocat p {
+margin: 0;
+}
+#jumptocat ul {
+left: 11em; margin: 0; line-height: 1.35em; border: 1px solid #204a87; padding: 0; list-style-type: none; z-index: 2; position: absolute; width: 12em; top: 0;
+}
+#jumptocat a {
+background: #eff3fb url('http://static.mininova.org/images/darrow-jtc.gif') right center no-repeat; text-decoration: none; padding: 0 .5em; display: block; color: #000; width: 11em;
+}
+#jumptocat a:hover {
+background-color: #f8fafd;
+}
+#jumptocat-ul ul {
+border-width: 1px 0 0; display: none; position: static;
+}
+#jumptocat-ul.shown ul {
+display: block;
+}
+#jumptocat-ul ul a {
+background: #fff none;
+}
+#jumptocat-ul ul a:hover {
+background-color: #4986d9; color: #fff;
+}
+#tabs {
+margin: 0 0 1em; border-bottom: 1px solid #000; padding: .2em 0; list-style-type: none; text-align: center;
+}
+#tabs li {
+display: inline;
+}
+#tabs a {
+background-color: #b7d0fd; border: 1px solid #000; text-decoration: none; padding: .2em .4em; color: #000;
+}
+#tabs a:hover {
+background-color: #d1dff9;
+}
+#tabs .current a {
+background-color: #fff; border-bottom-color: #fff;
+}
+#tabs.left {
+padding: 1.7em 0 .2em 1em; text-align: left;
+}
+.maintable {
+font-size: inherit; border-collapse: collapse; margin-bottom: 2em; border-bottom: 1px solid #aaa;
+}
+.maintable th a {
+color: #222;
+}
+.maintable tr.d {
+background-color: #f0f1f2;
+}
+.maintable tr:hover {
+background-color: #d0d7e2;
+}
+.maintable tr.hovered {
+background-color: #d0d7e2;
+}
+.maintable th {
+padding: 0 .3em;
+}
+.maintable td {
+padding: 0 .3em;
+}
+.maintable th {
+background-color: #d5dae0; line-height: 1.8em; border: 1px solid #222; color: #222;
+}
+.maintable td {
+line-height: 1.6em; border-right: 1px solid #aaa; border-left: 1px solid #aaa;
+}
+.maintable td a {
+text-decoration: none; color: #000;
+}
+.maintable td a:hover {
+text-decoration: underline;
+}
+.maintable img {
+margin-top: .45em; vertical-align: top;
+}
+.maintable .n {
+font-weight: bold;
+}
+.maintable .dl {
+margin-right: .3em; float: left;
+}
+.maintable .ti {
+margin-left: .3em; float: right;
+}
+.maintable .ti.com {
+margin-left: .6em;
+}
+.maintable small {
+visibility: hidden; font-size: 80%; vertical-align: middle;
+}
+.maintable tr:hover small {
+visibility: visible;
+}
+.maintable tr.hovered small {
+visibility: visible;
+}
+.maintable .fr img {
+margin-right: .4em; margin-bottom: .45em;
+}
+.maintable .fr .title {
+font-size: 120%; line-height: 1.6em;
+}
+.maintable .fr .description {
+font-size: 90%; line-height: 1.3em; color: #555;
+}
+.catheader {
+margin-bottom: .5em;
+}
+.catheader h2 {
+display: inline;
+}
+.catheader h2 a {
+text-decoration: none; vertical-align: -10%; color: #000;
+}
+.catheader h2 a:hover {
+text-decoration: underline;
+}
+.catheader h2 img {
+vertical-align: middle;
+}
+.infotable {
+font-size: inherit; border-collapse: collapse; margin-bottom: 2em; line-height: 1.6em; border-bottom: 1px solid #aaa; border-top: 1px solid #aaa;
+}
+.infotable th {
+background-color: #d5dae0; line-height: 1.8em; border: 1px solid #222; color: #222;
+}
+.infotable th a {
+color: #222;
+}
+.infotable tr.d {
+background-color: #f0f1f2;
+}
+.infotable td {
+border-right: 1px solid #aaa; border-left: 1px solid #aaa;
+}
+.infotable a {
+color: #000;
+}
+#pagination {
+margin: 2em 0; text-align: center;
+}
+#pagination ul {
+margin: 0 0 0 .5em; line-height: 2em; padding: 0; display: inline; list-style-type: none;
+}
+#pagination li {
+display: inline;
+}
+#pagination a {
+border: 1px solid #000; text-decoration: none; padding: .1em .3em; color: #000;
+}
+#pagination a:hover {
+border-color: #11d; color: #11d;
+}
+#pagination li.current span {
+background-color: #204a87; border: 1px solid #204a87; padding: .1em .3em; color: #fff;
+}
+#pagination li.disabled span {
+border: 1px solid #888; padding: .1em .3em; color: #888;
+}
+#footer {
+clear: both; padding-top: 1em; margin-top: 2em; border-top: 1px solid #000;
+}
+#footer .left {
+border-right: 1px solid #000; text-align: right; width: 49%; float: left;
+}
+#footer .left p {
+margin: 1em 1em 1em 0;
+}
+#footer .right {
+width: 49%; float: left;
+}
+#footer .right p {
+margin: 1em 0 1em 1em;
+}
+#footer img {
+vertical-align: middle;
+}
+* html #location {
+width: 99.5%;
+}
+* html .maintable {
+width: 99.5%;
+}
