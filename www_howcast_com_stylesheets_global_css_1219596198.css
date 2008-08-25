@@ -1,0 +1,282 @@
+body {
+margin: 0; padding: 0; color: #41494d; font: 11px Arial,sans-serif; text-align: center;
+}
+img {
+margin: 0; border: none; padding: 0;
+}
+p {
+margin: 0; padding: 0;
+}
+ul {
+list-style: none; margin: 0; padding: 0;
+}
+li {
+list-style: none; margin: 0; padding: 0;
+}
+ol {
+margin: 0; padding: 0;
+}
+dt {
+margin: 0; line-height: 100%; padding: 0;
+}
+dl {
+margin: 0; line-height: 100%; padding: 0;
+}
+dd {
+margin: 0; line-height: 100%; padding: 0;
+}
+h1 {
+margin: 0; padding: 0;
+}
+h2 {
+margin: 0; padding: 0;
+}
+h3 {
+margin: 0; padding: 0;
+}
+h4 {
+margin: 0; padding: 0;
+}
+h5 {
+margin: 0; padding: 0;
+}
+h6 {
+margin: 0; padding: 0;
+}
+blockquote {
+margin: 0; padding: 0;
+}
+hr {
+display: none;
+}
+textarea {
+margin: 0; border: 1px solid #ccc; padding: 4px;
+}
+a {
+text-decoration: none;
+}
+a:link {
+color: #0056b3;
+}
+a:visited {
+color: #003e80;
+}
+a:hover {
+color: #0393e1;
+}
+a:active {
+color: #003e80;
+}
+table {
+border-spacing: 0;
+}
+td {
+padding: 0; vertical-align: top;
+}
+small {
+font-size: 11px;
+}
+abbr {
+border-bottom-width: 0;
+}
+.clear {
+overflow: hidden; clear: both; height: 1px;
+}
+.clearfix:after {
+visibility: hidden; clear: both; display: block; height: 0; content: ".";
+}
+.clearfix {
+display: inline-block;
+}
+* html .clearfix {
+height: 1%;
+}
+.clearfix {
+display: block;
+}
+.no_border {
+border: none;
+}
+.no_margin {
+margin: 0;
+}
+.no_padding {
+padding: 0;
+}
+form {
+margin: 0; display: block; padding: 0;
+}
+.form p {
+margin-bottom: 8px;
+}
+.form p.submit {
+margin-bottom: 0;
+}
+textarea {
+background: #fff url('http://www.howcast.com/images/form/input-bg.gif') 0 0 repeat-x; border: 1px solid #53849f; color: #41494d; font: normal 11px Arial, Verdana, sans-serif;
+}
+input.text {
+background: #fff url('http://www.howcast.com/images/form/input-bg.gif') 0 0 repeat-x; border: 1px solid #53849f; padding: 4px 4px 3px 5px; color: #41494d; font: normal 11px  Arial, Verdana, sans-serif;
+}
+input.file_upload {
+color: #41494d; font: normal 11px  Arial, Verdana, sans-serif;
+}
+select {
+border: 1px solid #53849f; padding: 1px; color: #41494d; font: normal 11px Arial, Verdana, sans-serif;
+}
+label {
+font-weight: bold; font-size: 11px; margin-bottom: 2px; padding: 0; display: block; color: #5c6b73;
+}
+label span {
+font-weight: normal;
+}
+.gray-tl {
+margin-bottom: 11px; background: url('http://www.howcast.com/images/corners/gray-tl.gif') top left no-repeat;
+}
+.gray-tr {
+padding-top: 5px; background: url('http://www.howcast.com/images/corners/gray-tr.gif') top right no-repeat;
+}
+.gray-br {
+background: url('http://www.howcast.com/images/corners/gray-br.gif') bottom right no-repeat;
+}
+.gray-bl {
+padding-bottom: 5px; background: url('http://www.howcast.com/images/corners/gray-bl.gif') bottom left no-repeat;
+}
+.gray-bl .inner {
+border-bottom: none; border: 1px solid #b2d3e5; border-top: none;
+}
+.dark-gray-tl {
+margin-bottom: 11px; background: url('http://www.howcast.com/images/corners/dark-gray-tl.gif') top left no-repeat; height: 100%;
+}
+.dark-gray-tr {
+padding-top: 5px; background: url('http://www.howcast.com/images/corners/dark-gray-tr.gif') top right no-repeat;
+}
+.dark-gray-br {
+background: url('http://www.howcast.com/images/corners/dark-gray-br.gif') bottom right no-repeat;
+}
+.dark-gray-bl {
+padding-bottom: 5px; background: url('http://www.howcast.com/images/corners/dark-gray-bl.gif') bottom left no-repeat;
+}
+.dark-gray-bl .inner {
+border-bottom: none; border: 1px solid #8db9ce; border-top: none;
+}
+.blue-tr {
+background: url('http://www.howcast.com/images/corners/blue-tr.gif') no-repeat top right;
+}
+.blue-tl {
+padding-top: 11px; background: url('http://www.howcast.com/images/corners/blue-tl.gif') no-repeat top left;
+}
+.blue-bl {
+background: url('http://www.howcast.com/images/corners/blue-bl.gif') no-repeat bottom left; padding-left: 5px;
+}
+.blue-br {
+background: url('http://www.howcast.com/images/corners/blue-br.gif') no-repeat bottom right; padding: 0 11px 11px 6px;
+}
+fieldset {
+margin: 0; border: none; padding: 0; color: #41494d;
+}
+fieldset h3 {
+font-size: 12px; margin-bottom: 5px; color: #242b33;
+}
+fieldset h3 span {
+font-weight: normal; color: #41494d;
+}
+fieldset h3.break {
+padding-top: 20px;
+}
+fieldset p {
+margin: 0 0 17px 0;
+}
+fieldset p.intro {
+font-size: 12px; margin-bottom: 17px;
+}
+fieldset p.submit {
+margin-bottom: 0; text-align: right;
+}
+fieldset p.left_submit {
+margin-bottom: 0; text-align: left;
+}
+fieldset p.submit .spinner {
+margin-right: 3px;
+}
+fieldset p.end {
+margin-bottom: 0;
+}
+fieldset p.almost-end {
+margin-bottom: 8px;
+}
+fieldset label {
+font-weight: bold; font-size: 11px; margin-bottom: 4px; display: block; color: #5c6b73;
+}
+fieldset label span {
+font-weight: normal;
+}
+fieldset label.exp {
+font-weight: normal;
+}
+fieldset label.exp strong {
+font-size: 12px; margin-bottom: 5px; display: block; color: #41494d;
+}
+fieldset label.double {
+font-weight: normal; margin-bottom: 7px; line-height: 1em; color: #5c6b73;
+}
+fieldset label.double strong {
+font-size: 12px; margin-bottom: 6px; line-height: 1em; display: block; color: #242b33;
+}
+fieldset label.inline {
+font-weight: normal; display: inline;
+}
+fieldset input.text {
+padding: 4px;
+}
+fieldset textarea {
+line-height: 130%; padding: 4px;
+}
+fieldset select {
+padding: 1px;
+}
+fieldset input.checkbox {
+margin: 0 4px 0 0; vertical-align: top;
+}
+fieldset input.radio {
+margin: 0 4px 0 0; vertical-align: top;
+}
+fieldset small.message {
+margin: 2px 0; padding: 0; display: block; color: #cc0033; text-align: right;
+}
+p.external-submit {
+text-align: right;
+}
+fieldset input.text {
+background: #fff url('http://www.howcast.com/images/form/input-bg.gif') 0 0 repeat-x; border: 1px solid #53849f;
+}
+fieldset textarea {
+background: #fff url('http://www.howcast.com/images/form/input-bg.gif') 0 0 repeat-x; border: 1px solid #53849f;
+}
+fieldset select {
+border: 1px solid #53849f;
+}
+fieldset input.text {
+color: #41494d; font: normal 11px  Arial, Verdana, sans-serif;
+}
+fieldset textarea {
+color: #41494d; font: normal 11px  Arial, Verdana, sans-serif;
+}
+fieldset select {
+color: #41494d; font: normal 11px  Arial, Verdana, sans-serif;
+}
+.disabled textarea {
+border-color: #c6dde5; color: #a4b8bf;
+}
+.disabled input.text {
+border-color: #c6dde5; color: #a4b8bf;
+}
+.disabled select {
+border-color: #c6dde5; color: #a4b8bf;
+}
+a.toggler {
+padding-right: 12px; background: url('http://www.howcast.com/images/icons/arrow-down.gif') 100% 50% no-repeat; cursor: pointer;
+}
+a.toggler-collapsed {
+padding-right: 12px; background: url('http://www.howcast.com/images/icons/arrow-right.gif') 100% 50% no-repeat; cursor: pointer;
+}

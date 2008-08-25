@@ -1,0 +1,537 @@
+#all32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-all.gif');
+}
+#arts-and-media32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-arts-and-media.gif');
+}
+#business-and-finance32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-business-and-finance.gif');
+}
+#careers-and-education32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-careers-and-education.gif');
+}
+#cars-and-transportation32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-cars-and-transportation.gif');
+}
+#crafts-and-hobbies32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-crafts-and-hobbies.gif');
+}
+#environment32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-environment.gif');
+}
+#first-aid-and-safety32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-first-aid-and-safety.gif');
+}
+#food-and-drink32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-food-and-drink.gif');
+}
+#games32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-games.gif');
+}
+#health-and-nutrition32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-health-and-nutrition.gif');
+}
+#holidays-and-celebrations32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-holidays-and-celebrations.gif');
+}
+#house-and-garden32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-house-and-garden.gif');
+}
+#kids32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-kids.gif');
+}
+#language-and-reference32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-language-and-reference.gif');
+}
+#mind-and-body32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-mind-and-body.gif');
+}
+#parenting-and-family32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-parenting-and-family.gif');
+}
+#performing-arts32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-performing-arts.gif');
+}
+#personal-care-and-style32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-personal-care-and-style.gif');
+}
+#pets32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-pets.gif');
+}
+#religion-and-spirituality32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-religion-and-spirituality.gif');
+}
+#sex-and-relationships32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-sex-and-relationships.gif');
+}
+#sports-and-fitness32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-sports-and-fitness.gif');
+}
+#technology32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-technology.gif');
+}
+#teens32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-teens.gif');
+}
+#travel32 span {
+background-image: url('http://www.howcast.com/images/category-tiles/32-travel.gif');
+}
+div.snip #arts-and-media32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-arts-and-media.gif');
+}
+div.snip #business-and-finance32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-business-and-finance.gif');
+}
+div.snip #careers-and-education32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-careers-and-education.gif');
+}
+div.snip #cars-and-transportation32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-cars-and-transportation.gif');
+}
+div.snip #crafts-and-hobbies32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-crafts-and-hobbies.gif');
+}
+div.snip #environment32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-environment.gif');
+}
+div.snip #first-aid-and-safety32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-first-aid-and-safety.gif');
+}
+div.snip #food-and-drink32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-food-and-drink.gif');
+}
+div.snip #games32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-games.gif');
+}
+div.snip #health-and-nutrition32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-health-and-nutrition.gif');
+}
+div.snip #holidays-and-celebrations32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-holidays-and-celebrations.gif');
+}
+div.snip #house-and-garden32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-house-and-garden.gif');
+}
+div.snip #kids32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-kids.gif');
+}
+div.snip #language-and-reference32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-language-and-reference.gif');
+}
+div.snip #mind-and-body32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-mind-and-body.gif');
+}
+div.snip #parenting-and-family32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-parenting-and-family.gif');
+}
+div.snip #performing-arts32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-performing-arts.gif');
+}
+div.snip #personal-care-and-style32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-personal-care-and-style.gif');
+}
+div.snip #pets32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-pets.gif');
+}
+div.snip #religion-and-spirituality32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-religion-and-spirituality.gif');
+}
+div.snip #sex-and-relationships32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-sex-and-relationships.gif');
+}
+div.snip #sports-and-fitness32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-sports-and-fitness.gif');
+}
+div.snip #technology32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-technology.gif');
+}
+div.snip #teens32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-teens.gif');
+}
+div.snip #travel32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-travel.gif');
+}
+.subscriptions #arts-and-media32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-arts-and-media.gif');
+}
+.subscriptions #business-and-finance32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-business-and-finance.gif');
+}
+.subscriptions #careers-and-education32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-careers-and-education.gif');
+}
+.subscriptions #cars-and-transportation32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-cars-and-transportation.gif');
+}
+.subscriptions #crafts-and-hobbies32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-crafts-and-hobbies.gif');
+}
+.subscriptions #environment32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-environment.gif');
+}
+.subscriptions #first-aid-and-safety32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-first-aid-and-safety.gif');
+}
+.subscriptions #food-and-drink32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-food-and-drink.gif');
+}
+.subscriptions #games32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-games.gif');
+}
+.subscriptions #health-and-nutrition32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-health-and-nutrition.gif');
+}
+.subscriptions #holidays-and-celebrations32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-holidays-and-celebrations.gif');
+}
+.subscriptions #house-and-garden32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-house-and-garden.gif');
+}
+.subscriptions #kids32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-kids.gif');
+}
+.subscriptions #language-and-reference32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-language-and-reference.gif');
+}
+.subscriptions #mind-and-body32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-mind-and-body.gif');
+}
+.subscriptions #parenting-and-family32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-parenting-and-family.gif');
+}
+.subscriptions #performing-arts32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-performing-arts.gif');
+}
+.subscriptions #personal-care-and-style32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-personal-care-and-style.gif');
+}
+.subscriptions #pets32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-pets.gif');
+}
+.subscriptions #religion-and-spirituality32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-religion-and-spirituality.gif');
+}
+.subscriptions #sex-and-relationships32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-sex-and-relationships.gif');
+}
+.subscriptions #sports-and-fitness32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-sports-and-fitness.gif');
+}
+.subscriptions #technology32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-technology.gif');
+}
+.subscriptions #teens32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-teens.gif');
+}
+.subscriptions #travel32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-travel.gif');
+}
+.arts-and-media32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-arts-and-media.gif');
+}
+.business-and-finance32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-business-and-finance.gif');
+}
+.careers-and-education32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-careers-and-education.gif');
+}
+.cars-and-transportation32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-cars-and-transportation.gif');
+}
+.crafts-and-hobbies32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-crafts-and-hobbies.gif');
+}
+.environment32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-environment.gif');
+}
+.first-aid-and-safety32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-first-aid-and-safety.gif');
+}
+.food-and-drink32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-food-and-drink.gif');
+}
+.games32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-games.gif');
+}
+.health-and-nutrition32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-health-and-nutrition.gif');
+}
+.holidays-and-celebrations32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-holidays-and-celebrations.gif');
+}
+.house-and-garden32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-house-and-garden.gif');
+}
+.kids32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-kids.gif');
+}
+.language-and-reference32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-language-and-reference.gif');
+}
+.mind-and-body32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-mind-and-body.gif');
+}
+.parenting-and-family32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-parenting-and-family.gif');
+}
+.performing-arts32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-performing-arts.gif');
+}
+.personal-care-and-style32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-personal-care-and-style.gif');
+}
+.pets32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-pets.gif');
+}
+.religion-and-spirituality32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-religion-and-spirituality.gif');
+}
+.sex-and-relationships32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-sex-and-relationships.gif');
+}
+.sports-and-fitness32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-sports-and-fitness.gif');
+}
+.technology32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-technology.gif');
+}
+.teens32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-teens.gif');
+}
+.travel32 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/32-off-travel.gif');
+}
+.all16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-all.gif');
+}
+.arts-and-media16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-arts-and-media.gif');
+}
+.business-and-finance16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-business-and-finance.gif');
+}
+.careers-and-education16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-careers-and-education.gif');
+}
+.cars-and-transportation16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-cars-and-transportation.gif');
+}
+.crafts-and-hobbies16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-crafts-and-hobbies.gif');
+}
+.environment16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-environment.gif');
+}
+.first-aid-and-safety16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-first-aid-and-safety.gif');
+}
+.food-and-drink16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-food-and-drink.gif');
+}
+.games16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-games.gif');
+}
+.health-and-nutrition16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-health-and-nutrition.gif');
+}
+.holidays-and-celebrations16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-holidays-and-celebrations.gif');
+}
+.house-and-garden16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-house-and-garden.gif');
+}
+.kids16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-kids.gif');
+}
+.language-and-reference16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-language-and-reference.gif');
+}
+.mind-and-body16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-mind-and-body.gif');
+}
+.parenting-and-family16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-parenting-and-family.gif');
+}
+.performing-arts16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-performing-arts.gif');
+}
+.personal-care-and-style16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-personal-care-and-style.gif');
+}
+.pets16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-pets.gif');
+}
+.religion-and-spirituality16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-religion-and-spirituality.gif');
+}
+.sex-and-relationships16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-sex-and-relationships.gif');
+}
+.sports-and-fitness16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-sports-and-fitness.gif');
+}
+.technology16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-technology.gif');
+}
+.teens16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-teens.gif');
+}
+.travel16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-travel.gif');
+}
+#all16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-all.gif');
+}
+#arts-and-media16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-arts-and-media.gif');
+}
+#business-and-finance16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-business-and-finance.gif');
+}
+#careers-and-education16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-careers-and-education.gif');
+}
+#cars-and-transportation16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-cars-and-transportation.gif');
+}
+#crafts-and-hobbies16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-crafts-and-hobbies.gif');
+}
+#environment16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-environment.gif');
+}
+#first-aid-and-safety16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-first-aid-and-safety.gif');
+}
+#food-and-drink16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-food-and-drink.gif');
+}
+#games16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-games.gif');
+}
+#health-and-nutrition16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-health-and-nutrition.gif');
+}
+#holidays-and-celebrations16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-holidays-and-celebrations.gif');
+}
+#house-and-garden16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-house-and-garden.gif');
+}
+#kids16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-kids.gif');
+}
+#language-and-reference16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-language-and-reference.gif');
+}
+#mind-and-body16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-mind-and-body.gif');
+}
+#parenting-and-family16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-parenting-and-family.gif');
+}
+#performing-arts16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-performing-arts.gif');
+}
+#personal-care-and-style16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-personal-care-and-style.gif');
+}
+#pets16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-pets.gif');
+}
+#religion-and-spirituality16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-religion-and-spirituality.gif');
+}
+#sex-and-relationships16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-sex-and-relationships.gif');
+}
+#sports-and-fitness16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-sports-and-fitness.gif');
+}
+#technology16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-technology.gif');
+}
+#teens16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-teens.gif');
+}
+#travel16 {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-off-travel.gif');
+}
+#all16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-all.gif');
+}
+#arts-and-media16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-arts-and-media.gif');
+}
+#business-and-finance16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-business-and-finance.gif');
+}
+#careers-and-education16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-careers-and-education.gif');
+}
+#cars-and-transportation16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-cars-and-transportation.gif');
+}
+#crafts-and-hobbies16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-crafts-and-hobbies.gif');
+}
+#environment16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-environment.gif');
+}
+#first-aid-and-safety16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-first-aid-and-safety.gif');
+}
+#food-and-drink16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-food-and-drink.gif');
+}
+#games16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-games.gif');
+}
+#health-and-nutrition16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-health-and-nutrition.gif');
+}
+#holidays-and-celebrations16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-holidays-and-celebrations.gif');
+}
+#house-and-garden16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-house-and-garden.gif');
+}
+#kids16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-kids.gif');
+}
+#language-and-reference16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-language-and-reference.gif');
+}
+#mind-and-body16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-mind-and-body.gif');
+}
+#parenting-and-family16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-parenting-and-family.gif');
+}
+#performing-arts16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-performing-arts.gif');
+}
+#personal-care-and-style16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-personal-care-and-style.gif');
+}
+#pets16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-pets.gif');
+}
+#religion-and-spirituality16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-religion-and-spirituality.gif');
+}
+#sex-and-relationships16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-sex-and-relationships.gif');
+}
+#sports-and-fitness16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-sports-and-fitness.gif');
+}
+#technology16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-technology.gif');
+}
+#teens16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-teens.gif');
+}
+#travel16a {
+background-image: url('http://www.howcast.com/images/category-tiles/icons/16-active-travel.gif');
+}

@@ -1,0 +1,99 @@
+div.lb {
+left: 50%; background: #c3e3f2; margin: -206px 0 0 -276px; border: 1px solid #fff; display: none; height: 412px; text-align: left; z-index: 9999; position: absolute; top: 50%; width: 552px;
+}
+div#overlay {
+left: 0; background: url('http://www.howcast.com/images/transparent-black.png') 0 0 repeat; display: none; height: 100%; z-index: 5000; position: absolute; width: 100%; top: 0;
+}
+div#overlay[id] {
+position: fixed;
+}
+div.lightbox {
+left: 50%; background: #d7e6ed url('http://www.howcast.com/images/gradients/lightbox.gif') 0 0 repeat-x; border: 1px solid #fff; padding: 17px; z-index: 9999; position: absolute; top: 5%;
+}
+div.lightbox div.top-bar {
+margin-bottom: 15px; width: 100%;
+}
+div.lightbox div.top-bar h5 {
+font-weight: normal; font-size: 18px; color: #256a8b; float: left;
+}
+div.lightbox div.top-bar div.close {
+float: right;
+}
+div.lightbox div.top-bar div.close a {
+font-size: 11px; color: #0056b3;
+}
+div.lightbox div.top-bar div.close a img {
+vertical-align: text-top; margin-left: 4px;
+}
+div.lightbox fieldset label {
+color: #242b33;
+}
+div.lightbox fieldset label span {
+color: #41494d;
+}
+div.lightbox {
+position: fixed;
+}
+div.lb[id] {
+position: fixed;
+}
+div#lb-image-selector .inner {
+font-size: 11px; margin: 5px; border: 1px solid #4a9dc5;
+}
+div#lb-image-selector h5 {
+font-size: 11px; margin: 0; background: #b9d8e8 url('http://www.howcast.com/images/module-subnav-on.gif') 0 0 repeat-x; border: 0; padding: 0; height: 31px; position: relative;
+}
+div#lb-image-selector h5 span {
+line-height: 31px; margin-left: 8px;
+}
+div#lb-image-selector h5 a.close-lightbox {
+margin-top: -8px; position: absolute; top: 50%; right: 8px;
+}
+div#lb-image-selector .related-images {
+overflow: auto; background: #fff url('http://www.howcast.com/images/module-list-separator.gif') 0 0 repeat-x; padding: 5px 0; height: 219px; border-top: 1px solid #8bb7cc; width: 540px;
+}
+div#lb-image-selector .related-images li {
+margin: 2px; float: left;
+}
+div#lb-image-selector .related-images a {
+border: 1px solid #fff; display: block; padding: 5px; float: left;
+}
+div#lb-image-selector .related-images a:hover {
+border-color: #b4cfe0; background-color: #d3e8f4;
+}
+div#lb-image-selector .upload-form {
+background: #b9d8e8 url('http://www.howcast.com/images/module-subnav-on.gif') 0 0 repeat-x; height: 31px; width: 540px;
+}
+div#lb-image-selector .upload-form {
+clear: both; position: relative;
+}
+div#lb-image-selector .upload-form span {
+line-height: 31px; margin-left: 8px;
+}
+div#lb-image-selector .upload-form input.upload {
+position: absolute; top: 4px; right: 3px;
+}
+div#lb-image-selector .upload-form input.file_upload {
+position: absolute; top: 6px; right: 86px;
+}
+div#lb-image-selector .image-details {
+background: #fff url('http://www.howcast.com/images/module-list-separator.gif') 0 0 repeat-x; padding: 15px; height: 77px; border-top: 1px solid #8bb7cc; width: 510px;
+}
+div#lb-image-selector .image-details img#image_preview {
+margin: 0 10px 0 0; border: 1px solid #b4cfe0; padding: 3px; float: left;
+}
+div#lb-image-selector .image-details ul {
+margin-left: 100px;
+}
+div#lb-image-selector .image-details li {
+margin-bottom: 5px; color: #737a7e;
+}
+div#lb-image-selector .image-details li#image_preview_filename {
+font-weight: bold; font-size: 12px; color: #3d4d56;
+}
+div#lb-image-selector .image-details a.insert {
+bottom: 15px; position: absolute; right: 15px;
+}
+div#lb-image-selector .image-details a.cancel {
+bottom: 15px; position: absolute; right: 82px;
+}
