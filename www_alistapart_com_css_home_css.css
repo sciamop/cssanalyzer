@@ -1,0 +1,74 @@
+@import url('http://www.alistapart.com/css/base.css');
+@import url('http://www.alistapart.com/css/fourcol.css');
+#content .ishinfo {
+text-align: center;
+}
+#content .title {
+text-align: center;
+}
+#content .byline {
+text-align: center;
+}
+#content .item {
+margin-top: 0.75em; padding: 1.5em 1em 0.5em; border-top: 1px dashed #999;
+}
+#content #ishintro {
+margin-top: 0.75em; padding: 1.5em 1em 0.5em; border-top: 1px dashed #999;
+}
+#ishoutro {
+margin-top: 0.75em; padding: 1.5em 1em 0.5em; border-top: 1px dashed #999;
+}
+#content #ishintro {
+padding: 1em 1em 1px; font: italic 1.05em Georgia, serif;
+}
+#content #ishoutro {
+padding: 1em 1em 1px; font: italic 1.05em Georgia, serif;
+}
+#content .title {
+font-size: 1.8em; text-align: center;
+}
+#content .byline {
+background: url('http://www.alistapart.com/pix/byline-separator.gif') 50% 100% no-repeat; margin: 0 0 1.25em; padding: 0 0 1em; text-align: center;
+}
+#content .byline a {
+text-transform: uppercase; font: bold 0.85em Verdana, sans-serif; margin-left: 0.25em; letter-spacing: 2px;
+}
+#banners {
+margin: 0 20px 20px;
+}
+#banners li {
+margin: 0 0 10px;
+}
+#banners li a {
+margin: 0 auto; background: #CCC; display: block; width: 173px;
+}
+#banners li img {
+margin: 0 auto; background: #CCC; display: block;
+}
+#banners li a:hover {
+background: #666; border: none;
+}
+#banners li a:hover img {
+background: #666; border: none;
+}
+#choice {
+padding: 1.5em 20px; border-top: 1px solid #D9D9D9;
+}
+#choice h3 {
+text-transform: uppercase; color: #333; font: 0.9em Verdana, sans-serif; letter-spacing: 0.33em;
+}
+#choice .title {
+font: 1.5em Georgia, Times, serif; text-align: left;
+}
+#choice .byline {
+margin-top: 0.5em; border: none; display: block; text-align: left;
+}
+#choice .byline a {
+font-size: 0.8em;
+}
+#choice .info {
+font-size: 0.9em; color: #666; font-style: italic;
+}
+#sidebar {
+padding-left: 15px; width: 140px;
+}
