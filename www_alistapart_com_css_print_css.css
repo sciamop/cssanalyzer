@@ -1,0 +1,90 @@
+#masthead {
+display: none;
+}
+#navbar {
+display: none;
+}
+#sidebar {
+display: none;
+}
+#metastuff b {
+display: none;
+}
+#metastuff .discuss {
+display: none;
+}
+div.discuss {
+display: none;
+}
+body {
+margin: 0; padding: 0; width: auto; float: none;
+}
+#main {
+margin: 0; padding: 0; width: auto; float: none;
+}
+#content {
+margin: 0; padding: 0; width: auto; float: none;
+}
+.column {
+margin: 0; padding: 0; width: auto; float: none;
+}
+#articletext {
+margin: 0; padding: 0; width: auto; float: none;
+}
+#footer {
+margin: 0; padding: 0; width: auto; float: none;
+}
+html body #main {
+background: none;
+}
+html body #ish {
+font-size: 0.9em; background: none; margin: 1em 0 0; padding: 0; height: auto; text-align: right; border-top: none; position: static; width: auto;
+}
+html body #ish a:link {
+font-weight: normal; font-size: 1em; background: none; margin: 0; padding: 0; display: inline; color: #555; height: auto; position: static; width: auto;
+}
+html body #ish a:visited {
+font-weight: normal; font-size: 1em; background: none; margin: 0; padding: 0; display: inline; color: #555; height: auto; position: static; width: auto;
+}
+html body #ish a em {
+font-weight: normal; font-size: 1em; background: none; margin: 0; padding: 0; display: inline; color: #555; height: auto; position: static; width: auto;
+}
+html body #content .ishinfo {
+background: none; margin: -1.5em 0 2em; padding: 0 0 0.5em; position: relative; text-align: left;
+}
+html body #metastuff {
+background: none;
+}
+html body #learnmore {
+border-bottom: 1px dashed #999; border-top: 0;
+}
+html body #footer {
+background: none;
+}
+html body #footer p {
+border-left: none; text-align: center; margin-left: 0;
+}
+html body pre {
+vertical-align: baseline;
+}
+html body code {
+vertical-align: baseline;
+}
+#articletext a[href]:after {
+font-size: 90%; content: " (" attr(href) ") ";
+}
+#authorbio a[href]:after {
+font-size: 90%; content: " (" attr(href) ") ";
+}
+#footer a[href]:after {
+font-size: 90%; content: " (" attr(href) ") ";
+}
+#articletext a[href^="/"]:after {
+content: " (http://alistapart.com" attr(href) ") ";
+}
+#authorbio a[href^="/"]:after {
+content: " (http://alistapart.com" attr(href) ") ";
+}
+#footer a[href^="/"]:after {
+content: " (http://alistapart.com" attr(href) ") ";
+}
