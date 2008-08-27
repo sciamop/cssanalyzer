@@ -1,0 +1,45 @@
+#cnnPGALeader table {
+margin-bottom: 8px; border-collapse: collapse;
+}
+#cnnPGALeader td {
+border-bottom: 1px solid #fff; border-right: 1px solid #fff; height: 18px; text-align: center;
+}
+#cnnPGALeader th {
+border-bottom: 1px solid #fff; border-right: 1px solid #fff; height: 18px; text-align: center;
+}
+#cnnPGALeader td {
+font-size: 11px; background-color: #f2f2f2;
+}
+#cnnPGALeader th {
+font-weight: bold; font-size: 11px; background-color: #5c5c5c; color: #fff;
+}
+#cnnPGALeader td.cnnFirstCol {
+padding-left: 12px; text-align: left;
+}
+#cnnPGALeader th.cnnFirstCol {
+padding-left: 12px; text-align: left;
+}
+#cnnPGALeader td.cnnLastCol {
+border-right: none;
+}
+#cnnPGALeader th.cnnLastCol {
+border-right: none;
+}
+#cnnPGALeader .cnnAll {
+margin-bottom: 3px; border: none;
+}
+#cnnPGALeader .cnnSuperTxt {
+margin-left: 0;
+}
+#cnnPGALeader .cnnPadSuperBox {
+padding-right: 0; padding-left: 0;
+}
+#cnnPGALeader .cnnSuperTopper {
+margin-right: 9px; margin-left: 9px;
+}
+#cnnPGALeader .cnnAll {
+margin-right: 9px; margin-left: 9px;
+}
+#cnnPGALeader .cnnAlignLeft {
+padding-left: 9px; text-align: left;
+}
