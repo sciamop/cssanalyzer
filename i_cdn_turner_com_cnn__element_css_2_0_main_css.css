@@ -1,0 +1,1398 @@
+#cnnLeftCol {
+width: 621px;
+}
+#cnnRightCol {
+margin-left: 9px; width: 354px;
+}
+.cnnRightColContainer {
+padding: 9px;
+}
+#cnnLeftCol  p:first-child {
+margin-top: 0;
+}
+#cnnT1Col {
+float: left;
+}
+#cnnT2Col {
+float: left;
+}
+#cnnT1Col {
+width: 301px;
+}
+#cnnT2Col {
+width: 320px;
+}
+.cnnBelowT1 {
+margin: 18px 0 18px 18px;
+}
+.cnnSplitText {
+font-weight: bold; font-size: 16px; padding: 18px 18px 12px 18px; border-top: 1px solid #dfdfdf;
+}
+.cnnSplitText2 {
+font-weight: bold; font-size: 16px; padding: 18px 18px 12px 18px; border-top: 1px solid #dfdfdf;
+}
+.cnnSplitText2 {
+border-top: none;
+}
+.cnnSplitText A:link {
+font-weight: bold; font-size: 16px; text-decoration: none;
+}
+.cnnSplitText2 A:link {
+font-weight: bold; font-size: 16px; text-decoration: none;
+}
+#cnnHeader .cnnHeaderContent .cnnHeadColRight {
+left: 28%; position: absolute; top: 9px;
+}
+#cnnHeader .cnnHeaderContent .cnnHeaderBot .cnnHeadColRight {
+z-index: 1; position: absolute; top: 6px;
+}
+.cnnSubHead {
+font-weight: bold; font-size: 16px; margin-top: -3px; line-height: 19px; padding: 0 0 4px 0;
+}
+.cnnAll {
+font-size: 10px; line-height: 13px; border-bottom: 1px solid #dfdfdf; padding: 3px 0; border-top: 1px solid #dfdfdf;
+}
+#cnnT2Col .cnnAll {
+margin-bottom: 9px;
+}
+.cnnT1 {
+background: #F6F6F6; padding: 18px 18px 14px 18px;
+}
+#cnn_LS2 .cnnT1 {
+padding-top: 9px;
+}
+.cnnT1 .cnnT1Img {
+overflow: hidden; position: relative; width: 265px;
+}
+#cnn_LS .cnnT1 .cnnT1Img {
+margin: 0 18px 4px 0; width: 283px; float: left;
+}
+#cnn_LS2 .cnnT1 .cnnT1Img {
+margin: 0 18px 4px 0; width: 283px; float: left;
+}
+#cnn_LS3 .cnnT1 .cnnT1Img {
+overflow: hidden; position: relative; width: 585px;
+}
+.cnnT1 .cnnT1Img img {
+height: 239px; width: 265px;
+}
+#cnn_LS .cnnT1Img img {
+height: 239px; width: 283px;
+}
+#cnn_LS2 .cnnT1Img img {
+height: 239px; width: 283px;
+}
+#cnn_LS3 .cnnT1Img img {
+height: 253px; width: 585px;
+}
+.cnnT1 h4 {
+margin: 0; padding: 0;
+}
+.cnnT1 h4 span {
+font-weight: normal; font-size: 10px; line-height: 13px; padding: 0; display: block; color: #ca0002;
+}
+#cnn_LS .cnnT1 h4 span {
+padding-bottom: 9px;
+}
+.cnnT1 h1 {
+font-weight: bold; font-size: 22px; margin: 0; line-height: 24px; padding: 4px 0px 2px 0; font-family: Helvetica, arial, sans-serif;
+}
+#cnn_LS .cnnT1 h1 {
+font-size: 24px; padding-top: 0;
+}
+#cnn_LS2 .cnnT1 h1 {
+font-size: 30px; line-height: 32px; padding: 4px 0 8px 0;
+}
+#cnn_LS3 .cnnT1 h1 {
+font-size: 30px; line-height: 32px; padding: 4px 0 8px 0;
+}
+.cnnT1 .cnnT1Txt {
+padding-top: 9px;
+}
+#cnn_LS .cnnT1Txt {
+padding-top: 0;
+}
+#cnn_LS2 .cnnT1Txt {
+padding-top: 0;
+}
+.cnnT1 .cnnT1Blurb {
+line-height: 17px; padding: 2px 0 12px 0;
+}
+#cnn_LS2 .cnnT1Blurb {
+padding-top: 0;
+}
+.cnnT1 .cnnT1Txt .cnnT1Blurb ul {
+list-style: none; margin: 0;
+}
+.cnnT1 .cnnT1Txt .cnnT1Blurb ul li {
+font-size: 12px; background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/global/black_bull.gif') 0 6px no-repeat; margin: 0; line-height: 14px; padding: 0 0 3px 9px;
+}
+.cnnT1 .cnnT1Img .cnnT1cap {
+opacity: .85; left: 0; bottom: 0; background: #000; margin-bottom: -1px; filter: alpha(opacity=85); position: absolute; width: 100%;
+}
+.cnnT1 .cnnT1capTxt {
+font-size: 10px; line-height: 13px; padding: 7px 6px; color: #aaa;
+}
+.cnnT1 .cnnT1capTxt b {
+font-weight: normal; color: #fff;
+}
+.cnnT1 ul {
+list-style: none; margin: 0 0 -2px 0; padding: 0;
+}
+.cnnT1 ul li {
+font-weight: normal; margin: 0 0 3px 0; background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif') no-repeat left center; line-height: 13px; padding-left: 10px;
+}
+.cnnT1 ul li a {
+font-weight: bold;
+}
+#cnn_LS .cnnT1 ul {
+margin-left: 302px;
+}
+#cnn_LS2 .cnnT1 ul {
+margin-left: 302px;
+}
+#cnnYlwBlkBannerTeaser {
+background: #FFF500; height: 23px; width: 265px;
+}
+#cnnYlwBlkBannerTeaserText {
+font-weight: bold; font-size: 14px; padding: 4px 0 4px 5px; color: #000000;
+}
+#cnnRedBlkBannerTeaser {
+background: #ca0002; height: 23px; width: 265px;
+}
+#cnnRedBlkBannerTeaserText {
+font-weight: bold; font-size: 14px; padding: 4px 0 4px 5px; color: #ffffff;
+}
+#cnn_LS #cnnRedBlkBannerTeaser {
+width: 283px;
+}
+#cnn_LS #cnnYlwBlkBannerTeaser {
+width: 283px;
+}
+#cnn_LS2 #cnnYlwBlkBannerTeaser {
+width: 283px;
+}
+#cnn_LS2 #cnnRedBlkBannerTeaser {
+width: 283px;
+}
+#cnn_LS3 #cnnYlwBlkBannerTeaser {
+width: 585px;
+}
+#cnn_LS3 #cnnRedBlkBannerTeaser {
+width: 585px;
+}
+#cnn_VT1 .cnnT1Img {
+height: 303px; width: 265px;
+}
+#cnn_VT1 .cnnT1Img img {
+height: 303px; width: 265px;
+}
+#cnnT1lc {
+width: 283px; float: left;
+}
+#cnnT1rc {
+width: 283px; float: left;
+}
+#cnnT1rc {
+margin-left: 18px;
+}
+#cnnT1lc .cnnPopNews {
+margin-bottom: 0;
+}
+#cnnT1rc .cnnPopNews {
+margin-bottom: 0;
+}
+#cnnT1rc .cnnPopNews .cnnPopNewsImg {
+margin-bottom: 0;
+}
+#cnnT1lc .cnnPopNews .cnnPopNewsImg {
+margin-bottom: 0;
+}
+#cnn_LS #cnnT1Col {
+padding-top: 9px;
+}
+#cnn_LS2 #cnnT1Col {
+padding-top: 9px;
+}
+#cnn_LS3 #cnnT1Col {
+padding-top: 9px;
+}
+#cnn_LS #cnnT1Col .cnnPad9Top .cnnSuperBox .cnnWireBox {
+margin-left: 18px;
+}
+#cnn_LS2 #cnnT1Col .cnnPad9Top .cnnSuperBox .cnnWireBox {
+margin-left: 18px;
+}
+#cnn_LS3 #cnnT1Col .cnnPad9Top .cnnSuperBox .cnnWireBox {
+margin-left: 18px;
+}
+.cnnT2s ul {
+clear: both; list-style: none; margin: -2px 0; padding: 0;
+}
+.cnnT2s ul li {
+font-weight: normal; font-size: 12px; margin: 0; background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif') no-repeat left 5px; line-height: 15px; padding: 0 0 3px 8px; color: #dadada;
+}
+.cnnT2s ul li b {
+color: #949494;
+}
+.cnnT2s ul li a {
+font-weight: bold;
+}
+.cnnT2s ul li .t2time {
+font-weight: normal; font-size: 10px; line-height: 12px; color: #ca0002;
+}
+.cnnT2s ul li .t2time span {
+padding-left: 4px;
+}
+.cnnT2s ul li img {
+vertical-align: text-bottom;
+}
+.cnnT2s ul li img.cnnVidIcon {
+margin: 0 2px 2px 4px;
+}
+.cnnT2s ul li img.cnnVideoIcon {
+margin: 0 2px 2px 4px;
+}
+.cnnT2s ul li img.cnnPicIcon {
+margin: 0 2px 1px 4px;
+}
+.cnnT2s ul li b img.cnnT2VidIcon {
+margin: 0 5px 2px 0;
+}
+#cnnOpacity {
+opacity: .70; left: 0; background: #000; min-width: 1002px; filter: alpha(opacity=70); display: none; height: 1300px; z-index: 1000; position: absolute; width: 100%; top: 0;
+}
+* html #cnnOpacity {
+width: expression(document.documentElement.clientWidth < 1002? "1002px": "100%" );
+}
+#cnnMoPo {
+left: 34%; display: none; color: #000; z-index: 1001; text-align: left; position: absolute; width: 337px; top: 25%;
+}
+.cnnMoPoBtn {
+display: inline; float: right;
+}
+.cnnMoPoBtn img {
+margin-bottom: 4px;
+}
+.cnnMoPoContent {
+background: #fff; margin: 0 9px; border: 1px solid #cbcbcb;
+}
+.cnnMoPoClose {
+float: right;
+}
+.cnnMoPoHeader .cnnHeaderLnk {
+padding-bottom: 3px; font-weight: bold; font-size: 16px;
+}
+.cnnMoPoHeader p {
+font-size: 10px; margin: 0; line-height: 11px; padding: 0; color: #949494;
+}
+.cnnMoPoHeader {
+margin-bottom: 10px;
+}
+.cnnMoPoNum {
+font-weight: bold; font-size: 22px; line-height: 22px; border-right: 1px solid #dfdfdf; padding: 8px 0; color: #949494; text-align: center; width: 40px; float: left;
+}
+.cnnMoPoImg {
+padding: 2px 9px; float: left;
+}
+.cnnMoPoLnk {
+font-weight: bold; padding: 2px 0; width: 170px; float: left;
+}
+#cnnMoPo .cnnMore {
+font-size: 10px; padding-top: 3px; line-height: 11px;
+}
+.cnnMoPoFoot {
+overflow: hidden;
+}
+* html .cnnMoPoFoot {
+width: 300px;
+}
+.cnnMoPoAd {
+overflow: hidden; display: inline; height: 31px; width: 126px; float: right;
+}
+#cnnMoPo .cnnWireBox .cnnBoxFooter {
+background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/sect/main/mostpopwire.br.gif') 100% 0 no-repeat;
+}
+#cnnMoPo .cnnWireBox .cnnBoxHeader {
+background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/sect/main/mostpopwire.tr.gif') 100% 0 repeat-x;
+}
+#cnnMoPo .cnnWireBox {
+margin-bottom: 5px;
+}
+.cnnMpVidTopper {
+height: 37px; position: relative;
+}
+.cnnMpVidTopper .cnnMoreVideo {
+font-size: 10px; position: absolute; right: 9px; top: 8px;
+}
+.cnnMpVidTopper .cnnVideoBoxHeader {
+font-weight: bold; left: 12px; font-size: 22px; line-height: 24px; position: absolute; top: 5px;
+}
+.cnnMpVidTopper .cnnVideoBoxHeader img {
+margin: 0 9px 3px 0; vertical-align: text-bottom;
+}
+.cnnPopVideoFV {
+margin-top: 9px;
+}
+.cnnMpVideoBot {
+background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/content/video_box/pipeline_bg.gif') no-repeat; margin-top: 9px; height: 44px; position: relative; width: 336px;
+}
+.cnnMpVideoBot .cnnVbMarketingLogo {
+position: absolute; right: 7px; top: 7px;
+}
+.cnnMpVideoBot p {
+font-weight: bold; left: 9px; font-size: 12px; margin: 0; padding: 0; color: #949494; position: absolute; width: 206px; top: 7px;
+}
+.cnnMpVideoContent {
+overflow: hidden; background: #f2f2f2; border-bottom: solid 1px #dfdfdf; height: 113px; border-top: solid 1px #dfdfdf; position: relative; width: 334px;
+}
+.cnnMpVideoContent .cnnMpVideo {
+margin-bottom: 10px; background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/content/video_box/video_bg_gray.gif') no-repeat; height: 101px; position: relative; width: 108px; float: left;
+}
+.cnnMpVideoContent .cnnMpVideoLive {
+margin-bottom: 10px; background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/content/video_box/video_bg_gray.gif') no-repeat; height: 101px; position: relative; width: 108px; float: left;
+}
+.cnnMpVideoContent .cnnMpVideoLive {
+background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/content/video_box/video_bg_red.gif') no-repeat;
+}
+.cnnMpVideoContent .cnnMpVideo img.cnnVidKeyFrame {
+left: 7px; position: absolute; top: 6px;
+}
+.cnnMpVideoContent .cnnMpVideoLive img.cnnVidKeyFrame {
+left: 7px; position: absolute; top: 6px;
+}
+.cnnMpVideoContent .cnnMpVideo img.cnnVbVidIcon {
+bottom: 7px; position: absolute; right: 14px;
+}
+.cnnMpVideoContent .cnnMpVideoLive img.cnnVbVidIcon {
+bottom: 7px; position: absolute; right: 14px;
+}
+.cnnMpVideo img.cnnVidKeyFrame {
+height: 49px; width: 87px;
+}
+.cnnMpVideoContent .cnnMpVideo p {
+font-weight: normal; padding-right: 12px; left: 6px; font-size: 10px; margin: 0; line-height: 11px; padding: 0; color: #949494; position: absolute; top: 61px;
+}
+.cnnMpVideoContent .cnnMpVideoLive p {
+font-weight: normal; padding-right: 12px; left: 6px; font-size: 10px; margin: 0; line-height: 11px; padding: 0; color: #949494; position: absolute; top: 61px;
+}
+.cnnMpVideoContent .cnnMpVideo p a {
+font-weight: bold;
+}
+.cnnMpVideoContent .cnnMpVideoLive p a {
+font-weight: bold;
+}
+#cnnMpVidCtnt0 {
+position: absolute; top: 6px;
+}
+#cnnMpVidCtnt1 {
+position: absolute; top: 6px;
+}
+#cnnMpVidCtnt2 {
+position: absolute; top: 6px;
+}
+#cnnMpVidCtnt0 {
+left: 9px;
+}
+#cnnMpVidCtnt1 {
+left: 345px;
+}
+#cnnMpVidCtnt2 {
+left: 681px;
+}
+#cnnMpVideoBox .cnnMpVidBtns {
+margin-right: 9px; padding: 7px 0 2px 0; float: right;
+}
+* html #cnnMpVideoBox .cnnMpVidBtns {
+margin-right: 5px;
+}
+#cnnMpVideoBox img#cnnMpVidBtnL {
+margin-right: 12px; cursor: default;
+}
+#cnnMpVideoBox img#cnnMpVidBtnR {
+margin-left: 9px;
+}
+#cnnMpVideoBox img.cnnMpVidBtnStatus {
+margin: 0 3px 6px 0;
+}
+.cnnLiveVideoBox .cnnVideoBoxHeader {
+left: 11px;
+}
+.cnnLiveVideoBox .cnnMpVidTopper {
+height: 36px; position: relative;
+}
+.cnnMpVidTease {
+padding-bottom: 3px; padding-top: 6px; line-height: 15px; color: #949494; padding-left: 9px;
+}
+.cnnMpVidTease a {
+font-weight: bold;
+}
+.cnnLiveVideoBox .cnnMpVidTease {
+font-size: 10px; padding-top: 5px; padding-left: 12px;
+}
+.cnnLiveVideoBox .cnnMpVidTease a {
+font-weight: normal;
+}
+.cnnLiveVideoBox .cnnMpLiveVideoContent {
+overflow: hidden; background: #f2f2f2; border-bottom: solid 1px #dfdfdf; height: 115px; border-top: solid 1px #dfdfdf; position: relative;
+}
+.cnnLiveVideoBox .cnnMpLiveVideoContent .cnnMpLiveVidLnk {
+font-weight: bold; left: 12px; font-size: 16px; position: absolute; top: 11px;
+}
+.cnnLiveVideoBox .cnnMpLiveVideoContent .cnnMpLiveVidImg {
+left: 12px; position: absolute; top: 33px;
+}
+.cnnLiveVideoBox .cnnMpLiveVideoContent p {
+left: 143px; font-size: 10px; margin: 0; line-height: 12px; padding: 0; position: absolute; width: 181px; top: 32px;
+}
+#cnnLiveVideo {
+margin: 9px 0 0 0; background-repeat: no-repeat; background-image: url('http://i.cdn.turner.com/cnn/.element/img/2.0/video/cnnlive/live_video.gif'); height: 44px; width: 336px;
+}
+#cnnLiveVideo .cnnLiveVideoLn1 {
+font-weight: bold; font-size: 14px; margin: 0px; color: #000000;
+}
+#cnnLiveVideo .cnnLiveVideoLn2 {
+font-weight: bold; font-size: 11px; margin: 0px; color: #949494;
+}
+#cnnLiveVideo .cnnLiveVideoLn3 {
+font-weight: bold; font-size: 14px; color: #3d75ac;
+}
+#cnnLiveVideo .cnnLiveVideoLn4 {
+font-weight: normal; font-size: 10px; color: #3d75ac;
+}
+#cnnLiveVideoHeader {
+width: 82px;
+}
+#cnnLiveVideoHeader {
+margin-top: 8px; padding-left: 9px; float: left;
+}
+#cnnLiveVideoLink {
+margin-top: 8px; padding-left: 9px; float: left;
+}
+.cnnSuperBox .cnnPadSuperBox {
+padding: 0 9px 0 12px;
+}
+.cnnSuperBox .cnnSuperTopper {
+margin-bottom: 3px; height: 38px; position: relative;
+}
+* html .cnnSuperBox .cnnSuperTopper {
+margin-top: -1px;
+}
+*:first-child+html .cnnSuperBox .cnnSuperTopper {
+margin-top: -1px;
+}
+.cnnSuperBox .cnnSuperTopper .cnnSuper88x31 {
+position: absolute; right: -2px; top: 1px;
+}
+.cnnSuperBox .cnnSuperTopper .cnnSuperAdTxt {
+position: absolute; right: 90px; top: 14px;
+}
+.cnnSuperBox .cnnSuperTopper .cnnSuperBoxTitle {
+font-weight: bold; font-size: 16px; line-height: 20px; padding: 6px 0 0 0;
+}
+.cnnSuperBox .cnnSuperCtnt {
+position: relative;
+}
+.cnnSuperBox .cnnSuperCtnt .cnnSuperImg {
+left: 0; margin: 2px 0 0 0; position: absolute; top: 0;
+}
+* html .cnnSuperBox .cnnSuperCtnt .cnnSuperImg {
+margin-left: -99px;
+}
+.cnnSuperBox .cnnSuperCtnt .cnnSuperTxt {
+margin: -4px 0 0 99px;
+}
+.cnnSuperBox .cnnSuperCtnt .cnnSuperTxt .cnnSuperHead {
+font-weight: bold; font-size: 11px; text-transform: uppercase; color: #949494;
+}
+.cnnSuperBox .cnnSuperCtnt .cnnSuperTxt .cnnSuperLink {
+padding-bottom: 2px; font-weight: bold; font-size: 14px;
+}
+.cnnSuperBox .cnnSuperCtnt .cnnSuperTxt p {
+font-size: 10px; margin: 0; line-height: 12px; padding: 0;
+}
+.cnnSuperBox .cnnWireBox .cnnBoxContent {
+min-height: 116px;
+}
+* html .cnnSuperBox .cnnWireBox .cnnBoxContent {
+height: 116px;
+}
+.cnnScBox .cnnScBoxHead {
+font-weight: bold; font-size: 11px; padding-top: 6px; line-height: 13px; color: #949494;
+}
+.cnnScBox .cnnScBoxTitle {
+font-weight: bold; font-size: 18px; line-height: 21px; padding: 0;
+}
+.cnnScBox .cnnScBoxBlurb {
+padding-bottom: 7px; font-size: 10px; margin-top: -1px; line-height: 12px; color: #222;
+}
+* html .cnnScBox .cnnScBoxHead {
+padding-top: 7px;
+}
+*:first-child+html .cnnScBox .cnnScBoxHead {
+padding-top: 7px;
+}
+* html .cnnScBox .cnnScBoxTitle {
+padding-bottom: 1px; margin-top: -1px;
+}
+*:first-child+html .cnnScBox .cnnScBoxTitle {
+padding-bottom: 1px; margin-top: -1px;
+}
+* html .cnnScBox .cnnScBoxBlurb {
+padding-bottom: 6px;
+}
+*:first-child+html .cnnScBox .cnnScBoxBlurb {
+padding-bottom: 6px;
+}
+.cnnPopNews {
+margin-bottom: 10px;
+}
+.cnnPopNews .cnnPopNewsHeadline {
+font-weight: bold; padding-top: 2px;
+}
+.cnnPopNewsImg img {
+display: block;
+}
+.cnnPopNews .cnnPopNewsImg {
+margin: 2px 9px 9px 0; display: block; float: left;
+}
+* html .cnnPopNews .cnnPopNewsImg {
+margin: 2px 5px 5px 0;
+}
+.cnnPopNewsHeadline {
+min-height: 31px;
+}
+* html .cnnPopNewsHeadline {
+height: 31px;
+}
+.cnnPopNewsHeadline img {
+vertical-align: text-bottom;
+}
+.cnnPopNewsHeadline img.cnnVidIcon {
+margin: 0 4px 2px 4px;
+}
+.cnnPopNewsHeadline img.cnnPicIcon {
+margin: 0 4px 1px 4px;
+}
+#cnnMpPopNews {
+padding-bottom: 2px;
+}
+#cnnMpPopNews .cnnSubHead {
+padding: 0 0 6px 0;
+}
+#cnnOtherNews {
+display: none; height: 220px; position: relative;
+}
+#cnnOtherNews .cnnSubHead {
+margin-bottom: -8px;
+}
+#cnnOtherNews .cnnONSectHead {
+font-weight: bold; font-size: 11px; padding-top: 4px; color: #949494;
+}
+#cnnOtherNews .cnnONSectHead a {
+color: #949494;
+}
+#cnnOtherNews .cnnONSectHead a:hover {
+color: #ca0002;
+}
+#cnnOtherNews ul {
+clear: both; list-style: none; margin: 0; padding: 0;
+}
+#cnnOtherNews ul li {
+font-weight: normal; font-size: 11px; margin: 0 0 2px 0; line-height: 13px; padding-left: 8px; position: relative;
+}
+#cnnOtherNews ul li a {
+font-weight: bold;
+}
+.cnnOtherNewsChngr {
+left: 0; margin-top: 20px; border-bottom: 1px solid #dfdfdf; border-top: 1px solid #dfdfdf; text-align: center; position: absolute; width: 100%; top: 170px;
+}
+#cnnONBtns {
+background: #fff; padding: 3px 0; display: block;
+}
+IMG.cnnONStatus {
+margin: 0 2px 6px 2px;
+}
+IMG.cnnONBtn {
+margin: 0 10px;
+}
+#cnnOtherNews img.cnnOnBul {
+left: 0; position: absolute; top: 5px;
+}
+* html #cnnOtherNews img.cnnOnBul {
+left: -7px;
+}
+#cnnOnSects0 {
+left: 0; background: #fff; position: absolute; top: 24px;
+}
+#cnnOnSects1 {
+left: 0; background: #fff; position: absolute; top: 24px;
+}
+#cnnOnSects2 {
+left: 0; background: #fff; position: absolute; top: 24px;
+}
+#cnnOnSects3 {
+left: 0; background: #fff; position: absolute; top: 24px;
+}
+#cnnOnSects4 {
+left: 0; background: #fff; position: absolute; top: 24px;
+}
+.cnn234Container {
+margin-bottom: -5px; text-align: center;
+}
+.cnn234ad .cnnAdTxt {
+padding: 15px 0 4px 0;
+}
+.cnnBelT1ad {
+padding-top: 8px; text-align: left;
+}
+.cnnBelT1AdTop {
+padding-bottom: 6px; text-align: center;
+}
+TABLE.cnnPL {
+width: 100%;
+}
+TABLE.cnnPL TR {
+vertical-align: top;
+}
+TABLE.cnnPL TD.cnnPodLocalContent {
+background: #fff;
+}
+TABLE.cnnPL TD.cnnPLCnrsCell {
+height: 4px; width: 306px;
+}
+TD.cnnPLDivCell {
+width: 9px;
+}
+.cnnSvcsTopper {
+padding: 0; margin-left: 3px;
+}
+.cnnSvcsTopper .cnnSvcsDrpdn {
+margin-top: 1px; float: right;
+}
+.cnnSvcsTopper IMG.cnnMpSvcsHeader {
+margin-top: 1px;
+}
+.cnnHeight154 {
+height: 154px;
+}
+.cnnSvcsCtnt {
+margin: 0 3px; border-bottom: 1px solid #dfdfdf; padding: 0 0 6px 0;
+}
+.cnnSvcsCtnt p {
+font-size: 10px; margin: 0; line-height: 12px; padding: 0;
+}
+.cnnSvcsCtnt i {
+font-weight: bold; color: #dadada;
+}
+.cnnSvcsCtnt .cnnSvcsTz {
+margin: 2px 9px 6px 0; float: left;
+}
+.cnnSvcsCtnt h4 {
+font-weight: bold; font-size: 14px; margin: 0; padding: 0;
+}
+.cnnSvcsBull {
+margin: 0 3px; padding-top: 4px;
+}
+.cnnSvcsBull ul {
+clear: both; list-style: none; margin: 0; padding: 0;
+}
+.cnnSvcsBull ul li {
+font-weight: normal; font-size: 10px; margin: 1px 0; background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif') no-repeat left 6px; padding-left: 8px;
+}
+.cnnSvcsBull ul li a {
+font-weight: bold;
+}
+.cnnOtherSvcs div {
+float: left;
+}
+.cnnOtherSvcs .cnnOSRightCol {
+float: left;
+}
+.cnnOtherSvcs .cnnOSLeftCol {
+float: left;
+}
+.cnnOtherSvcs .cnnOSLeftCol {
+width: 131px;
+}
+.cnnOtherSvcs .cnnOSRightCol {
+width: 139px;
+}
+.cnnOtherSvcs div img {
+margin-bottom: 9px;
+}
+.cnnSvcs88x31ad {
+overflow: hidden; margin: -4px -7px 0 0; height: 31px; float: right;
+}
+* html .cnnSvcs88x31ad {
+display: inline;
+}
+.cnnSvcsSpnsrTxt {
+margin: 8px 6px 0 0; float: right;
+}
+.cnnPartHeader {
+font-weight: bold; font-size: 22px; line-height: 24px; border-bottom: 1px solid #dfdfdf; padding: 4px 18px 8px 18px;
+}
+.cnnPartRSSLnk {
+padding: 11px 18px 0 0; display: inline; float: right;
+}
+#cnnMpPartnerPeople {
+display: none;
+}
+#cnnMpPartnerEW {
+display: none;
+}
+.cnnPartLeftCol {
+float: left;
+}
+.cnnPartRightCol {
+float: left;
+}
+.cnnPartLeftCol {
+width: 288px;
+}
+.cnnPartRightCol {
+width: 297px;
+}
+.cnnPartnerTop .cnnPartnerSubscribe {
+margin-top: 1px; float: right;
+}
+.cnnMpPartners ul {
+clear: both; list-style: none; margin: 0 0 -2px 0; padding: 0;
+}
+.cnnMpPartners ul li {
+font-weight: normal; font-size: 10px; margin: 1px 0 0 0; background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif') no-repeat left 5px; line-height: 12px; padding-left: 8px;
+}
+.cnnMpPartners ul li a {
+font-weight: bold;
+}
+.cnnMpPartners IMG.cnnPartLogo {
+margin: 1px 0 8px 0;
+}
+.cnnPadMpPartners {
+padding: 18px 18px 14px 18px;
+}
+#cnnMPctv .cnnMPctvTopper {
+height: 37px; position: relative;
+}
+#cnnMPctv .cnnMPctvTopper img.cnnMPctvLogo {
+margin: 0 9px 3px 0; vertical-align: text-bottom;
+}
+#cnnMPctv .cnnMPctvTopper .cnnMPctvHeader {
+font-weight: bold; left: 12px; font-size: 22px; line-height: 24px; position: absolute; top: 5px;
+}
+#cnnMPctv .cnnMPctvTopper .cnnMPctvDropdown {
+position: absolute; right: 7px; top: 6px;
+}
+#cnnMPctv .cnnMPctvContent {
+background: #f2f2f2; border-bottom: solid 1px #dfdfdf; padding: 12px; border-top: solid 1px #dfdfdf;
+}
+#cnnMPctv .cnnMPctvImg {
+margin-right: 9px; float: left;
+}
+#cnnMPctv .cnnMPctvLink {
+font-weight: bold; font-size: 14px;
+}
+#cnnMPctv p {
+font-size: 10px; margin: 0; line-height: 12px; padding: 2px 0 0 0;
+}
+#cnnMPctv .cnnMPctvFooter {
+padding: 9px 12px 4px 12px;
+}
+* html #cnnMPctv .cnnMPctvFooter {
+padding: 10px 12px 3px 12px;
+}
+*:first-child+html #cnnMPctv .cnnMPctvFooter {
+padding: 10px 12px 3px 12px;
+}
+#cnnMPctv .cnnMPctvFootText {
+padding-bottom: 10px; font-size: 12px; line-height: 14px; border-bottom: 1px solid #dfdfdf;
+}
+* html #cnnMPctv .cnnMPctvFootText {
+padding-bottom: 9px;
+}
+*:first-child+html #cnnMPctv .cnnMPctvFootText {
+padding-bottom: 9px;
+}
+#cnnMPctv .cnnMPctvFootText a {
+font-weight: bold;
+}
+#cnnMPctv .cnnMPctvFootLnks {
+font-size: 10px; padding-top: 7px; line-height: 12px;
+}
+* html #cnnMPctv .cnnMPctvFootLnks {
+padding-top: 8px;
+}
+*:first-child+html #cnnMPctv .cnnMPctvFootLnks {
+padding-top: 8px;
+}
+#cnnMPctv .cnnMPctvFootLnks a {
+margin-right: 0px;
+}
+#cnnMPctv .cnnMPctvFootLnks .cnnMPctvFL1 {
+text-align: left; float: left; width: 98px;
+}
+#cnnMPctv .cnnMPctvFootLnks .cnnMPctvFL2 {
+text-align: center; float: left; width: 95px;
+}
+#cnnMPctv .cnnMPctvFootLnks .cnnMPctvFL3 {
+text-align: right; float: left; width: 92px;
+}
+#cnnMPctv .cnnMPctvFootLnks .cnnMPctvFLSep {
+color: #dfdfdf; text-align: center; float: left; width: 10px;
+}
+#cnnMPctv .cnnDDBoxContent .cnnDDContent .cnnDDSeparator span {
+color: #bbb;
+}
+.cnnRRTVBox .cnnOnTVboxlinks {
+font-size: 10px; margin-bottom: -3px; padding: 6px 9px 0 9px;
+}
+.cnnRRTVBox .cnnOnTVboxlinks a {
+margin-right: 12px;
+}
+.cnnRRTVBox .cnnOnTVsub {
+border-bottom: solid 1px #dfdfdf; padding: 6px 0 6px 9px;
+}
+.cnnRRTVBox .cnnOnTVsub a {
+font-weight: bold;
+}
+.cnnRRTVBox .cnnOnTVmain {
+background: #f2f2f2; padding: 5px 9px;
+}
+.cnnRRTVBox .cnnRRTvImg {
+margin: 0 9px 0px 0px; float: left;
+}
+.cnnRRTVBox .cnnOnTVmaintitle {
+padding-bottom: 4px; font-weight: bold; font-size: 14px;
+}
+.cnnRRTVBox p {
+font-size: 10px; margin: 0; line-height: 13px; padding: 0;
+}
+.cnnMB input {
+margin: 0; padding: 0;
+}
+.cnnMB form {
+margin: 0; padding: 0;
+}
+.cnnMB .cnnMBTop {
+margin: 0px; border-bottom: 1px solid #dfdfdf; padding: 0px; position: relative;
+}
+.cnnMB .cnnMBHead {
+font-weight: bold; font-size: 22px; line-height: 24px; padding: 5px 12px 8px 12px;
+}
+.cnnMBSponsor {
+margin: 0px 4px 0px 0px; padding: 2px 0 0 0; display: inline; float: right;
+}
+.cnnMB .cnnMB88x31 {
+position: absolute; right: 5px; top: 1px;
+}
+* html .cnnMB .cnnMB88x31 {
+right: 14px;
+}
+.cnnMB .cnnMBSponTxt {
+position: absolute; right: 98px; top: 16px;
+}
+* html .cnnMB .cnnMBSponTxt {
+right: 107px;
+}
+.cnnMB .cnnMBRowG {
+height: 24px; position: relative; border-top: 1px solid #dfdfdf;
+}
+.cnnMB .cnnMBRowR {
+height: 24px; position: relative; border-top: 1px solid #dfdfdf;
+}
+.cnnMB .cnnMBRowU {
+height: 24px; position: relative; border-top: 1px solid #dfdfdf;
+}
+.cnnMB .cnnMBRowG {
+background: #F2F2F2 url('http://i.cdn.turner.com/cnn/.element/img/2.0/content/markets_box/up_arrow.gif') 58% 7px no-repeat; color: #090;
+}
+.cnnMB .cnnMBRowR {
+background: #F2F2F2 url('http://i.cdn.turner.com/cnn/.element/img/2.0/content/markets_box/down_arrow.gif') 58% 7px no-repeat; color: #ca0002;
+}
+.cnnMB .cnnMBRowU {
+background: #F2F2F2; color: #999; height: 24px;
+}
+.cnnMB .cnnMBName a {
+margin-right: 4px; font-weight: bold; font-size: 16px;
+}
+.cnnMB .cnnMBName {
+left: 12px; font-size: 10px; color: #000; position: absolute; top: 6px;
+}
+.cnnMB .cnnMBTimestamp {
+font-size: 11px; padding: 5px 12px 6px 12px; color: #949494;
+}
+.cnnMB .cnnMBData {
+font-weight: bold; font-size: 16px; position: absolute; top: 6px; right: 74px;
+}
+.cnnMB .cnnMBDataSm {
+font-size: 10px; position: absolute; right: 12px; top: 6px;
+}
+.cnnMBGetQuote {
+padding: 12px 12px 8px 12px; border-top: 1px solid #dfdfdf;
+}
+input.cnnTxtMBGetQuote {
+font-weight: bold; font-size: 12px; margin: 0 9px 0 0; border: 1px solid #dfdfdf; padding: 2px 0 0 2px; color: #949494; height: 16px; vertical-align: top; width: 114px;
+}
+input.cnnTxtMBGetQuoteType {
+font-weight: bold; font-size: 12px; margin: 0 9px 0 0; border: 1px solid #dfdfdf; padding: 2px 0 0 2px; color: #000; height: 16px; vertical-align: top; width: 114px;
+}
+.cnnMPToolsBox .cnnHeaderLnk {
+font-weight: bold; font-size: 22px; margin-bottom: 8px; line-height: 24px; border-bottom: 1px solid #dfdfdf; padding: 5px 12px 8px 12px;
+}
+.cnnMPToolsBull {
+margin: 0 12px; padding: 2px 0 6px 0;
+}
+.cnnMPToolsBox ul {
+clear: both; list-style: none; margin: 0; padding: 0;
+}
+.cnnMPToolsBox ul li {
+font-weight: normal; font-size: 11px; margin: 1px 0; background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif') no-repeat 1px 5px; padding-left: 8px;
+}
+.cnnMPToolsBox ul li a {
+font-weight: bold;
+}
+#cnnQVhomepage .cnnQVHead {
+font-size: 22px; line-height: 24px; padding: 5px 0px 12px 12px;
+}
+#cnnQVhomepage .cnnQVad {
+padding: 3px 5px 4px 0; display: inline; float: right;
+}
+#cnnQVhomepage .cnnQVBody {
+padding: 8px 12px 9px 12px; border-top: 1px solid #dfdfdf;
+}
+#cnnQVhomepage .cnnQVQuest {
+padding-bottom: 3px; font-size: 16px; line-height: 20px;
+}
+#cnnQVhomepage .cnnQVAns {
+font-size: 12px;
+}
+#cnnQVhomepage .cnnQVResult .cnnQVTop {
+padding-bottom: 4px;
+}
+#cnnQVhomepage .cnnQVResult .cnnQVHead {
+font-size: 22px; padding: 5px 12px 12px;
+}
+#cnnQVhomepage .cnnQVResult .cnnQVad {
+display: inline; float: right;
+}
+#cnnQVhomepage .cnnQVResult .cnnQVQuest {
+font-size: 16px; line-height: 20px; padding: 8px 12px 12px 12px;
+}
+#cnnQVhomepage .cnnQVResult .cnnQVcell {
+font-size: 12px;
+}
+#cnnQVhomepage .cnnQVResult .cnnQVpercent {
+padding: 1px 0px; width: 10px;
+}
+#cnnWeatherLocation .cnnWeatherMoreCities {
+font-weight: bold; float: right;
+}
+#cnnWeatherContainer {
+width: 306px;
+}
+#cnnWeatherContainer h1 {
+font-weight: bold; font-size: 22px; margin: 0px; line-height: 24px; border-bottom: 1px solid #dfdfdf; padding: 3px 0px 8px 18px; border-top: 1px solid #fff;
+}
+#cnnGetLocalBox {
+margin: 0 18px 9px 18px; background: #f2f2f2; width: 270px;
+}
+#cnnCustomWeatherBox {
+margin: 0 18px 9px 18px; background: #f2f2f2; width: 270px;
+}
+#cnnCustomNewsBox {
+margin: 0px 18px 14px 18px; background: #f2f2f2; width: 270px;
+}
+#cnnGetLocalBox form {
+margin: 0px; padding: 0px;
+}
+#cnnCustomNewsBox form {
+margin: 0px; padding: 0px;
+}
+#cnnCustomWeatherBox form {
+margin: 0px; padding: 0px;
+}
+#cnnWeatherDetailsToday b {
+margin: 0px; padding: 0px;
+}
+#cnnWeatherDetailsTomorrow b {
+margin: 0px; padding: 0px;
+}
+.cnnGetLocalBoxInput {
+font-weight: bold; font-size: 12px; margin: 0 6px 0 3px; background-color: #ffffff; line-height: 15px; border: 1px solid #999999; border-bottom-color: #cccccc; padding: 4px 0 4px 5px; vertical-align: top; color: #949494; border-right-color: #cccccc; width: 201px;
+}
+.cnnGetLocalBoxInput2 {
+margin-right: 6px; font-weight: bold; font-size: 12px; background-color: #ffffff; border: 1px solid #999999; border-bottom-color: #cccccc; padding: 3px 0px 5px 5px; vertical-align: top; color: #000000; margin-left: 3px; border-right-color: #cccccc; width: 201px;
+}
+.cnnGetLocalBoxImage {
+margin: 0; vertical-align: top; height: 23px; width: 29px;
+}
+#cnnGetLocalBoxText {
+font-weight: bold; font-size: 12px; margin: 0px 12px 5px 3px; line-height: 15px; color: #000000;
+}
+#cnnFindWeatherBoxText {
+font-weight: bold; font-size: 12px; margin: 0px 12px 5px 3px; line-height: 15px; color: #000000;
+}
+#cnnGetLocalBox b {
+font-weight: bold; font-size: 10px; line-height: 12px; padding: 1px 12px 1px 4px; display: block; color: #727272;
+}
+#cnnFindWeatherBox b {
+font-weight: bold; font-size: 10px; line-height: 12px; padding: 1px 12px 1px 4px; display: block; color: #727272;
+}
+#cnnCustomNewsBox b {
+font-weight: bold; font-size: 10px; line-height: 12px; padding: 3px 12px 1px 4px; display: block; color: #727272;
+}
+#cnnCustomWeatherBox b {
+font-weight: bold; font-size: 10px; line-height: 12px; padding: 3px 12px 1px 4px; display: block; color: #727272;
+}
+#cnnWeatherDetails {
+margin: 0px 18px 9px 18px; background-color: #ffffff; width: 270px;
+}
+#cnnWeatherDetails p {
+font-weight: bold; border-color: #dfdfdf; font-size: 16px; margin: 0px; line-height: 19px; border-style: solid; border-width: 0px 1px 1px 1px; padding: 6px 12px 8px 12px; color: #999999;
+}
+#cnnWeatherDetails a.cnnWeatherHeader {
+font-size: 16px; line-height: 19px; text-decoration: none; color: #000000;
+}
+#cnnWeatherDetails a.cnnWeatherraquo {
+font-weight: bold; font-size: 16px; text-decoration: none; color: #3d75ac;
+}
+#cnnWeatherDetails a.cnnWeatherHeader:hover {
+color: #ca0002;
+}
+#cnnWeatherDetails a.cnnWeatherraquo:hover {
+color: #ca0002;
+}
+#cnnWeatherDetails a.cnnDate {
+font-weight: bold; font-size: 12px; margin: 0px 12px 0px 12px; line-height: 12px; padding: 0px;
+}
+#cnnWeatherDetails img {
+margin: 0 0 5px 0; text-align: center;
+}
+#cnnWeatherDetails .cnnTemperature {
+font-weight: bold; font-size: 12px; margin: 0px 12px 0px 12px; line-height: 20px; padding: 4px 0 0 0; color: #999999;
+}
+#cnnWeatherDetailsToday {
+margin: 0; border-right: 1px solid #dfdfdf; padding: 9px 0 7px 0; border-left: 1px solid #dfdfdf; text-align: center; width: 134px; float: left;
+}
+#cnnWeatherDetailsTomorrow {
+border-right: 1px solid #dfdfdf; padding: 9px 0 7px 0; text-align: center; width: 132px; float: right;
+}
+#cnnWeatherLocation {
+font-size: 10px; clear: both; line-height: 12px; padding: 3px 11px 1px 11px; color: #949494;
+}
+#cnnWeatherLocationMore {
+font-size: 10px; clear: both; line-height: 12px; padding: 3px 11px 1px 11px; color: #949494;
+}
+#cnnWeatherLocationMore b {
+color: #3d75ac;
+}
+#cnnWeatherDetails img {
+border: none;
+}
+#cnnWeatherLocationMore img {
+border: none;
+}
+#cnnFindWeatherBox img {
+border: none;
+}
+#cnnWeatherLocationMore {
+border-color: #dfdfdf; border-style: solid; border-width: 1px 1px 0px 1px;
+}
+#cnnWeatherLocation {
+border-color: #dfdfdf; border-style: solid; border-width: 0px 1px 0px 1px;
+}
+#cnnWeatherLocationMore span {
+float: left;
+}
+#cnnWeatherLocation span {
+float: left;
+}
+#cnnWeatherLocationMore .cnnWeatherMoreCities {
+float: right;
+}
+#cnnLocalNews {
+clear: both; margin: 0px 18px 0px 18px; background-color: #ffffff; width: 270px;
+}
+#cnnLocalNews p {
+font-weight: bold; border-color: #dfdfdf; font-size: 16px; margin: 0px; border-style: solid; border-width: 0px 1px 0px 1px; padding: 8px 7px 7px 11px; color: #000000;
+}
+#cnnLocalNewsListBorder {
+border-color: #dfdfdf; border-style: solid; border-width: 0px 1px 1px 1px;
+}
+#cnnLocalNewsList {
+list-style: none; margin-bottom: 0px; padding: 0px; margin-left: 2px;
+}
+#cnnWeatherErrorList {
+list-style: none; margin-bottom: 0px; padding: 0px; margin-left: 2px;
+}
+#cnnLocalNews ul {
+margin: 0 12px 10px 0; padding-left: 12px;
+}
+#cnnLocalNewsList li {
+font-weight: bold; font-size: 10px; margin-bottom: 6px; line-height: 12px; padding-left: 0; color: #dadada;
+}
+#cnnWeatherErrorList li {
+font-weight: bold; background-position: 1px 6px; font-size: 10px; background-repeat: no-repeat; background-image: url('http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif'); padding-left: 10px; color: #dadada;
+}
+#cnnLocalNews a.cnnLocalSource {
+text-decoration: none; color: #949494;
+}
+#cnnLocalNews a.cnnLocalSource:hover {
+color: #ca0002;
+}
+#cnnFindWeatherList {
+overflow: auto; list-style: none; margin-bottom: 0px; padding: 8px 10px 12px 0; height: 55px; max-height: 80px; margin-left: 2px;
+}
+* html #cnnFindWeatherList {
+height: 80px; max-height: 80px;
+}
+#cnnFindWeatherList li {
+font-weight: bold; background-position: 1px 6px; font-size: 10px; background-repeat: no-repeat; line-height: 14px; background-image: url('http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif'); color: #727272; padding-left: 10px;
+}
+div.cnnLocalSource a span {
+color: #949494;
+}
+div.cnnLocalSource a:visited span {
+color: #949494;
+}
+div.cnnLocalSource a:hover span {
+color: #ca0002;
+}
+.cnnRRBoxContent2 {
+background: #f2f2f2; padding: 5px 9px 0 9px;
+}
+#cnnFindWeatherSkip {
+margin: 7px 0px 0px 3px; padding: 0px;
+}
+#cnnGetLocalBox a.skip {
+font-size: 10px; text-decoration: none; color: #3d75ac;
+}
+#cnnCustomNewsBox a.skip {
+font-size: 10px; text-decoration: none; color: #3d75ac;
+}
+#cnnCustomWeatherBox a.skip {
+font-size: 10px; text-decoration: none; color: #3d75ac;
+}
+#cnnGetLocalBox a.skip:visited {
+color: #97b8d9;
+}
+#cnnCustomNewsBox a.skip:visited {
+color: #97b8d9;
+}
+#cnnCustomWeatherBox a.skip:visited {
+color: #97b8d9;
+}
+#cnnGetLocalBox a.skip:hover {
+color: #ca0002;
+}
+#cnnCustomNewsBox a.skip:hover {
+color: #ca0002;
+}
+#cnnCustomWeatherBox a.skip:hover {
+color: #ca0002;
+}
+#cnnWeatherSponsor {
+margin: 1px 4px 0px 0px; padding: 0px; display: inline; float: right;
+}
+#cnnWeatherSponsor img {
+vertical-align: middle;
+}
+.cnnMoreNewsStories {
+padding: 8px 18px 0 0; float: right;
+}
+.cnnMar14Left {
+margin: 0 0 0 14px;
+}
+.cnnPadMpMoreNews {
+padding: 10px 18px 2px 18px;
+}
+.cnnPadMpPartners {
+padding: 11px 18px 0px 18px;
+}
+.cnnMoreNewsBin {
+padding-bottom: 10px;
+}
+.cnnMoreNewsBin .cnnHeaderLnk {
+font-weight: bold; font-size: 16px; line-height: 19px; padding: 2px 0;
+}
+.cnnMoreNewsBin .cnnMoreNewsCategory {
+padding: 2px 0;
+}
+.cnnMoreNewsBin .cnnMoreNewsCategory a {
+font-weight: bold; font-size: 16px; line-height: 19px; color: #000;
+}
+.cnnMoreNewsBin .cnnMoreNewsCategory span {
+font-weight: bold; font-size: 16px; line-height: 19px; color: #000;
+}
+.cnnMoreNewsBin .cnnMoreNewsCategory a span {
+color: #004276;
+}
+.cnnMoreNewsBin .cnnMoreNewsCategory a:hover span {
+color: #ca0002;
+}
+.cnnMoreNewsBin ul {
+clear: both; list-style: none; margin: 0; padding: 0;
+}
+.cnnMoreNewsBin ul li {
+font-weight: bold; font-size: 12px; margin: 0; line-height: 15px; color: #949494; padding-left: 8px; position: relative;
+}
+.cnnMoreNewsBin ul li a {
+font-weight: bold;
+}
+.cnnMoreNewsBin ul li img.cnnOnBul {
+left: 1px; position: absolute; top: 6px;
+}
+* html .cnnMoreNewsBin ul li img.cnnOnBul {
+left: -6px;
+}
+.cnnMpPartnersPadBot {
+padding-bottom: 13px;
+}
+.cnnSvcsMore {
+font-size: 10px; line-height: 12px; padding: 5px 0 0 4px;
+}
+.cnnSvcsCtnt p a {
+font-weight: bold;
+}
+.cnnIreportContentMod h5 {
+font-size: 10px; margin: 0; line-height: 13px; padding: 0;
+}
+.cnnIreportContentMod h5 a {
+font-weight: bold;
+}
+.cnnIreportContentMod p {
+font-size: 10px; margin: 0; line-height: 13px; padding: 0 0 10px 0; color: #949494;
+}
+.cnnPadT2s {
+padding: 13px 18px 18px 18px;
+}
+.cnnPad18R {
+padding: 0 18px 0 0;
+}
+.cnnElexPromo {
+padding: 0px 0 0 18px;
+}
+.cnnElexPromo .cnnElexPTop {
+font-weight: bold; font-size: 11px; line-height: 13px; padding: 18px 0px 2px 0px; color: #949494;
+}
+.cnnElexPromo .cnnElexPTop a span {
+color: #949494;
+}
+.cnnElexPromo .cnnElexPTop a:hover span {
+color: #ca0002;
+}
+.cnnElexPImage {
+display: inline; float: right;
+}
+.cnnElexPromo .cnnElexPHead {
+padding-bottom: 2px; font-weight: bold; font-size: 18px; line-height: 20px;
+}
+.cnnElexPromo p {
+font-size: 11px; margin: 0; line-height: 13px; padding: 0 0 5px 0;
+}
+.cnnElexResults {
+background: transparent url('http://i.cdn.turner.com/cnn/.element/img/2.0/sect/election/primaries/results/hp/balloon_small.gif') top right no-repeat;
+}
+.cnnElexResults .cnnElexPHead {
+font-weight: bold; font-size: 22px; line-height: 24px; border-bottom: 1px solid #e6e6e6; padding: 13px 18px 9px 0; margin-left: 18px;
+}
+.cnnElexResults .cnnElexPrimary {
+font-weight: bold; font-size: 16px; line-height: 18px; padding: 3px 18px 3px 0; color: #949494; margin-left: 18px;
+}
+.cnnElexResults .cnnElexPrimary span {
+font-weight: normal; font-size: 11px; line-height: 13px; padding: 0 0 0 6px; color: #000;
+}
+.cnnElexE6bot {
+border-bottom: 1px solid #e6e6e6;
+}
+.cnnElexRBox {
+border-top: 1px solid #e6e6e6; margin-left: 18px;
+}
+.cnnElexResL {
+position: absolute; top: 2px;
+}
+.cnnElexResC {
+position: absolute; top: 2px;
+}
+.cnnElexResCr {
+position: absolute; top: 2px;
+}
+.cnnElexResCl {
+position: absolute; top: 2px;
+}
+.cnnElexResR {
+position: absolute; top: 2px;
+}
+.cnnElexResL {
+left: 12px;
+}
+.cnnElexResC {
+right: 116px;
+}
+.cnnElexResR {
+right: 12px;
+}
+.cnnElexResCr {
+right: 37px;
+}
+.cnnElexResCl {
+right: 66px;
+}
+.cnnElexRBotRow {
+font-size: 10px; line-height: 14px; border-bottom: 1px solid #e6e6e6; color: #000; height: 18px; position: relative;
+}
+.cnnElexRHeadRow {
+font-size: 10px; line-height: 12px; border-bottom: 1px solid #e6e6e6; color: #949494; height: 18px; position: relative;
+}
+.cnnElexRRow {
+font-weight: bold; font-size: 12px; background: #f6f6f6; line-height: 14px; border-bottom: 1px solid #e6e6e6; color: #000; height: 24px; position: relative;
+}
+.cnnElexRRow img {
+margin: 0 0 0 4px;
+}
+.cnnElexRRow .cnnElexResR {
+font-weight: normal; font-size: 10px;
+}
+.cnnElexRRow .cnnElexResCr {
+font-weight: normal; font-size: 10px;
+}
+.cnnElexRRow .cnnElexResCl {
+font-weight: normal; font-size: 10px;
+}
+.cnnElexRRow .cnnElexResCr {
+font-size: 11px; line-height: 13px;
+}
+.cnnElexRBotRow .cnnElexResR {
+color: #ca0002;
+}
+.cnnElexRRow .cnnElexResL {
+top: 5px;
+}
+.cnnElexRRow .cnnElexResC {
+top: 5px;
+}
+.cnnElexRRow .cnnElexResR {
+top: 5px;
+}
+.cnnElexRRow .cnnElexResCr {
+top: 5px;
+}
+.cnnElexRRow .cnnElexResCl {
+top: 5px;
+}
+.cnnElexRBotRow .cnnElexResL a {
+left: -12px; position: absolute; width: 200px; top: 0;
+}
+.cnnElexRFoot {
+height: 20px; position: relative;
+}
+.cnnElexRFoot img {
+position: absolute; right: 0; top: 0;
+}
+.cnnElexRFoot p {
+left: 0; font-size: 10px; margin: 0; line-height: 12px; padding: 0; color: #949494; position: absolute; top: 5px;
+}
+.cnnAll {
+color: #949494;
+}
