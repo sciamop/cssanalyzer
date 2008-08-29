@@ -1,0 +1,96 @@
+.TitleHead {
+font-weight: bold; font-size: 11px; background-color: #FFFFFF; font-family: Tahoma, Verdana, Helvetica, sans-serif; color: #000963;
+}
+.TitleBody {
+font-weight: normal; font-size: 11px; background-color: #FFFFFF; font-family: Tahoma, Verdana, Helvetica, sans-serif; color: #000963;
+}
+.conBackGroundPale {
+background-color: #FFFFEE;
+}
+.divwidth {
+width: 100%;
+}
+.calendar_selectview_left {
+font-weight: normal; font-size: 11px; cursor: pointer; background-color: #88b2fe; border: 1px solid #666666; text-decoration: none; color: #000000; text-align: center;
+}
+.calendar_selectview_right {
+font-weight: normal; font-size: 11px; background-color: #88b2fe; border: 1px solid #666666; text-decoration: none; color: #000000; text-align: center;
+}
+.calendar_selectview_select {
+font-weight: normal; font-size: 11px; background-color: #FFFFFF; border-bottom: 1px none #666666; border-right: 1px solid #666666; text-decoration: none; color: #000000; border-left: 1px solid #666666; border-top: 1px solid #666666; text-align: center;
+}
+.calendar_sides {
+border-bottom: 1px solid #666666; border-right: 1px none #666666; text-decoration: none; border-left: 1px none #666666; border-top: 1px none #666666;
+}
+.SeparatorBgColor {
+background-color: #1F2A8E;
+}
+.GreenFont td {
+padding-right: 3px; padding-bottom: 2px; font-size: 11Px; padding-top: 1px; background-color: #FFFFFF; padding-left: 3px; color: green;
+}
+td.GreenFont {
+padding-right: 3px; padding-bottom: 2px; font-size: 11Px; padding-top: 1px; background-color: #FFFFFF; padding-left: 3px; color: green;
+}
+.RedFont td {
+padding-right: 3px; padding-bottom: 2px; font-size: 11Px; padding-top: 1px; background-color: #FFFFFF; padding-left: 3px; color: Red;
+}
+td.RedFont {
+padding-right: 3px; padding-bottom: 2px; font-size: 11Px; padding-top: 1px; background-color: #FFFFFF; padding-left: 3px; color: Red;
+}
+.LogoHeading {
+font-weight: bold; font-size: 12px; font-family: Verdana; color: #ffffff;
+}
+.HeaderLinks {
+font-size: 11px; cursor: pointer; font-family: Tahoma, Verdana; color: #FFFFFF;
+}
+.HeaderText {
+font-weight: bold; font-size: 10px; text-decoration: none; font-family: Verdana; color: #ffffff;
+}
+.HeaderLinksbold {
+font-weight: bold; font-size: 11px; cursor: pointer; font-family: Tahoma, Verdana; color: #F7D001;
+}
+.entityBtn {
+padding-bottom: 1px; padding-right: 2px; font-weight: bold; font-size: 11px; padding-top: 1px; background-color: #7B84BE; cursor: pointer; border-right: 1px solid #666EA5; border-bottom: 1px solid #666EA5; font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; padding-left: 2px; height: 18px; color: White; border-left: 1px solid #666EA5; border-top: 1px solid #666EA5; text-align: left; width: 100%;
+}
+.mnuItemsLevel1 {
+padding-bottom: 1px; padding-right: 4px; font-weight: bold; font-size: 11px; padding-top: 1px; background-color: #000963; cursor: pointer; border-bottom: 1px solid #868CB3; font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; padding-left: 12px; height: 16px; color: white; width: 100%;
+}
+.mnuItemsLevel2 {
+padding-bottom: 1px; padding-right: 4px; font-size: 11px; padding-top: 1px; background-color: #EFEFEF; cursor: pointer; font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; padding-left: 20px; height: 16px; color: #000963; width: 100%;
+}
+.mnuItemsLevel3 {
+padding-bottom: 1px; padding-right: 4px; font-size: 11px; padding-top: 1px; background-color: #EFEFEF; cursor: pointer; font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; padding-left: 28px; height: 16px; color: #000963; width: 100%;
+}
+.subcontrol td {
+padding-right: 3px; font-weight: bold; font-size: 70%; background-color: #ffffff; padding-left: 3px; color: #666EA5; width: 70%;
+}
+td.subcontrol {
+padding-right: 3px; font-weight: bold; font-size: 70%; background-color: #ffffff; padding-left: 3px; color: #666EA5; width: 70%;
+}
+.hideMenuBtn {
+padding-bottom: 0px; padding-right: 2px; font-weight: normal; font-size: 11px; padding-top: 0px; background-color: #000963; cursor: pointer; border-bottom: 1px solid #1f2a8e; border-right: 1px solid #666ea5; font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; padding-left: 2px; color: White; border-left: 1px solid #666ea5; border-top: 1px solid #666ea5; text-align: right; width: 100%;
+}
+.showMenu {
+font-weight: normal; font-size: 11px; background-color: #000963; cursor: pointer; text-decoration: none; border-bottom: 1px none #666; border-right: 1px none #666ea5; padding: 0px; font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; color: White; border-left: 1px none #666ea5; border-top: 1px none #666ea5; text-align: center; width: 14px;
+}
+.fl:link {
+color: #77c;
+}
+.fl:visited {
+color: #77c;
+}
+.fl:active {
+color: #77c;
+}
+.ResHdLn {
+font-size: 110%;
+}
+.rightAlignText {
+text-align: right;
+}
+.columnheaderlink td {
+padding-right: 3px; padding-bottom: 1px; font-size: 65%; padding-top: 2px; border-bottom: 1px solid #777777; vertical-align: bottom; padding-left: 3px; color: #1F2A8E;
+}
+td.columnheaderlink {
+padding-right: 3px; padding-bottom: 1px; font-size: 65%; padding-top: 2px; border-bottom: 1px solid #777777; vertical-align: bottom; padding-left: 3px; color: #1F2A8E;
+}
