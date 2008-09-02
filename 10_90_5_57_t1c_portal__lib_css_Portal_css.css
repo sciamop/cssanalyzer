@@ -1,0 +1,474 @@
+html {
+overflow: :auto; margin: 0; background-color: #F7F8F8; border: 0; padding: 0; height: :100%; color: #454545; font: normal 11px Arial,sans-serif;
+}
+body {
+overflow: :auto; margin: 0; background-color: #F7F8F8; border: 0; padding: 0; height: :100%; color: #454545; font: normal 11px Arial,sans-serif;
+}
+form {
+overflow: :auto; margin: 0; background-color: #F7F8F8; border: 0; padding: 0; height: :100%; color: #454545; font: normal 11px Arial,sans-serif;
+}
+a {
+text-decoration: none; color: #125B86;
+}
+a:hover {
+text-decoration: underline;
+}
+a.Action {
+background-position: left 4px; background-repeat: no-repeat; padding: 0 20px 0 7px; background-image: url('http://10.90.5.57/t1c/portal/_lib/images/LinkArrow.gif');
+}
+hr {
+margin: 0; color: #FFFFFF; height: 1px;
+}
+input.Button {
+font-weight: bold; padding-top: 1px; cursor: pointer; background-color: #FFFFFF; text-transform: uppercase; border: 1px solid #C49B6A; background-image: url('http://10.90.5.57/t1c/portal/_lib/images/gradient_button.gif'); color: #67451E; width: 65px;
+}
+input {
+margin: 0 0 0 8px; padding: 0; vertical-align: middle; font: normal 11px Arial,sans-serif;
+}
+select {
+margin: 0 0 0 8px; padding: 0; vertical-align: middle; font: normal 11px Arial,sans-serif;
+}
+table {
+border-collapse: collapse;
+}
+textarea {
+font: normal 11px Arial,sans-serif;
+}
+div.Header {
+background-position: left top; margin-bottom: 9px; background-repeat: no-repeat; border-bottom: 1px solid #E1E2E3; border: 1px solid transparent; background-image: url('http://10.90.5.57/t1c/portal/_lib/images/logo.gif'); height: 40px; width: 100%;
+}
+div.Header div.Date {
+margin: 8px 0 0 200px;
+}
+div.Footer {
+background-position: left top; clear: both; margin: 5px 0 0 0; background-repeat: repeat-x; border: 1px solid transparent; background-image: url('http://10.90.5.57/t1c/portal/_lib/images/ruler_footer.gif'); height: 40px; color: #9F9C9C; width: 100%;
+}
+div.Footer div.Links {
+background-position: left top; font-size: 10px; padding-top: 4px; margin-top: 10px; background-repeat: no-repeat; background-image: url('http://10.90.5.57/t1c/portal/_lib/images/logo_footer.gif'); height: 24px; text-align: right;
+}
+div.Footer div.Links a {
+text-decoration: underline; color: #9F9C9C;
+}
+div.Footer div.Links a:hover {
+text-decoration: none;
+}
+div.Frame {
+background-position: right top; background-repeat: no-repeat; background-color: #FFFFFF; padding: 10px 15px 0 10px; background-image: url('http://10.90.5.57/t1c/portal/_lib/images/background_banner.gif'); width: 970px;
+}
+div.Frame div.PaneLeft {
+margin-right: 10px; width: 535px; float: :left;
+}
+div.Frame div.PaneRight {
+width: 425px; float: right;
+}
+div.Frame div.PaneLeft div.Module {
+width: 521px;
+}
+div.Frame div.PaneRight div.Module {
+width: 411px;
+}
+ul.Tabs {
+margin: 13px 0px 0px 0px; border-bottom: 1px solid #CCCCCC; padding-left: 0; z-index: 1;
+}
+div.PaneLeft ul.ColTop {
+margin-top: 12px;
+}
+div.PaneRight ul.ColTop {
+margin-top: 3px;
+}
+ul.Tabs li {
+margin-right: 1px; overflow: hidden; display: inline; vertical-align: top; list-style-type: none; letter-spacing: .1em;
+}
+ul.Tabs a {
+margin: 0; text-decoration: none; border: 1px solid #CCCCCC; padding: 2px 8px 0px 9px; background-image: url('http://10.90.5.57/t1c/portal/_lib/images/gradient_tab.gif'); vertical-align: top; color: #454545;
+}
+ul.Tabs a.Sel {
+text-decoration: none; border-bottom: 3px solid #FFFFFF; border: 1px solid #CCCCCC; background-image: none;
+}
+div.Tabbed {
+z-index: 2; border-top: 0;
+}
+table.GridTable {
+margin: 0; border: 1px solid #BABCBE;
+}
+table.Name {
+border-bottom: 0;
+}
+table.Under {
+border-top: 0;
+}
+table.GridTable td {
+border-right: expression(this == this.parentNode.lastChild ? "0":"1px solid #EBE9E9");
+}
+table.GridTable tr.GridHeader td {
+background-color: #FFFFFF; text-transform: capitalize; border-bottom: 1px solid #E1E2E3; padding: 2px 4px 3px 4px; vertical-align: bottom; color: #807C7C;
+}
+table.GridTable tr.Super td {
+background-color: #EFF4F5; filter: progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr=#DCE4E5, endColorstr=#EFF4F5); font: normal 12px Arial,sans-serif;
+}
+table.GridTable tr.GridItem td {
+background-color: #f0f5f6; padding: 4px; vertical-align: top;
+}
+table.GridTable tr.Alt td {
+background-color: #FFFFFF;
+}
+table.GridTable tr.GridItem img {
+margin: 0px 2px 0 2px; text-decoration: none; border: 0; vertical-align: top;
+}
+div.Module {
+margin: 0 0 10px 0; background-color: #FFFFFF; border: 1px solid #CCCCCC; padding: 6px;
+}
+div.Module h1 {
+font-size: 11px; margin: 0 0 5px 0; text-transform: uppercase; border-bottom: 1px solid #E1E2E3; padding: 0 0 3px 2px; letter-spacing: .06em;
+}
+div.Module h1.StyleA {
+color: #9F1D1F;
+}
+div.Module h1.StyleB {
+color: #F6911D;
+}
+div.Module h1.StyleC {
+color: #TBA;
+}
+div.Module h1 div.FLR {
+text-transform: none; color: #454545; letter-spacing: 0;
+}
+div.Module h1 div.FLR span.DateRange {
+font-weight: normal;
+}
+div.Module div.Content {
+background-color: #F2F2F2; padding: 8px 8px 2px 8px;
+}
+div.Module div.Content div.Descriptor {
+margin: 0 0 8px 0;
+}
+div.Module div.More {
+background-color: #F2F2F2; padding: 5px 0 0 5px; height: 18px;
+}
+div.Module div.More a {
+background-position: left 4px; cursor: pointer; background-repeat: no-repeat; padding: 0 20px 0 7px; background-image: url('http://10.90.5.57/t1c/portal/_lib/images/LinkArrow.gif');
+}
+body.bSigDev {
+overflow: auto; margin: 0; background-color: #EEF3F4; border: 0; padding: 0; height: :100%; color: #125B86;
+}
+body.bSigDev div.Story {
+padding: 5px 20px 10px 10px; color: #DD7F13;
+}
+body.bSigDev div.Story a {
+display: block;
+}
+iframe.iSigDev {
+margin: 0 0 5px 0; height: 206px; width: 100%;
+}
+div.SigDev {
+height: 256px; width: 520px;
+}
+div.SigDev div.Content {
+background-color: #FFFFFF; padding: 0; width: 385px;
+}
+div.SigDev div.More {
+padding-left: 15px;
+}
+div.SigDev table.Filters {
+margin: -7px -7px 0 6px; float: right;
+}
+div.SigDev table.Filters tr td {
+font-weight: bold; font-size: 11px; line-height: 1.5em; cursor: pointer; background-color: #C4CCCF; text-transform: uppercase; padding: 0 10px 0 15px; height: 45px; color: #FFFFFF; border-top: 1px solid #FFFFFF; letter-spacing: 1px;
+}
+div.SigDev table.Filters tr td:hover {
+background-color: #E2DBCD;
+}
+div.SigDev table.Filters tr td.Selected {
+background-repeat: no-repeat; background-color: #E2DBCD; background-image: url('http://10.90.5.57/t1c/portal/_lib/images/FilterIndicator.gif');
+}
+div.StoryBalloon {
+left: 0px; display: none; height: 420px; z-index: 2; position: absolute; width: 350px; top: 0px;
+}
+div.StoryBalloon img.Pointer {
+left: 0px; margin: 10px 0 0 0; z-index: 3; position: absolute; top: 92px;
+}
+div.StoryBalloon div.Content {
+margin: 10px 0 0 10px; background-color: #FFFFFF; border: 1px solid #BCBDBD; height: 400px; color: #454545; width: 330px;
+}
+div.StoryBalloon div.Story {
+padding: 10px;
+}
+div.StoryBalloon h2.Headline {
+margin-bottom: 5px; color: #9F1D1F; font: bold 13px Arial,sans-serif;
+}
+div.StoryBalloon div.Date {
+color: #807C7C; font: normal 11px Arial,sans-serif;
+}
+div.StoryBalloon div#FullText {
+padding-right: 10px; height: 380px; text-align: justify;
+}
+div.StoryBalloon_flip {
+left: 175px; border: :1px dashed #009900; height: 420px; z-index: 1; position: absolute; width: 352px; top: 25px;
+}
+div.StoryBalloon_flip img.Pointer {
+margin: 10px 0 0 0; z-index: 2; position: absolute; top: 92px; right: 0px;
+}
+div.StoryBalloon_flip div.Content {
+margin: 10px 0px 0 10px; background-color: #FFFFFF; border: 1px solid #BCBDBD; height: 400px; color: #454545; width: 330px;
+}
+div.StoryBalloon_flip div.Story {
+padding: 10px;
+}
+div.StoryBalloon_flip h2.Headline {
+margin-bottom: 5px; color: #9F1D1F; font: bold 13px Arial,sans-serif;
+}
+div.StoryBalloon_flip div.Date {
+color: #807C7C; font: normal 11px Arial,sans-serif;
+}
+div.StoryBalloon_flip div#FullText {
+padding-right: 10px; height: 380px; text-align: justify;
+}
+div.SectAct table.GridTable {
+width: 300px;
+}
+div.SectAct div.Chart {
+overflow: hidden; background-color: #FFFFFF; border: 1px solid #CCCCCC; height: 261px; text-align: center; width: 195px; float: right;
+}
+div.Perf div.Chart h2 {
+margin: 0 0 12px 0; padding: 0 10px 0 0; color: #BF7520; height: 30px; font: bold 11px Arial,sans-serif;
+}
+div.Perf div.Content {
+height: 154px;
+}
+div.PaneLeft div.Perf div.Scroll {
+margin: -8px -8px 0 0; height: 165px; width: 270px; float: right;
+}
+div.PaneLeft div.Perf div.Scroll table.XorT {
+margin: 0; cursor: pointer; border: 0; border-left: 1px solid #FFFFFF; width: 253px;
+}
+div.PaneLeft div.Perf div.Scroll table.Expand {
+width: 269px;
+}
+div.PaneRight div.Perf div.Scroll {
+margin: -8px -8px 0 0; height: 165px; width: 190px; float: right;
+}
+div.PaneRight div.Perf div.Scroll table.XorT {
+margin: 0; cursor: pointer; border: 0; border-left: 1px solid #FFFFFF; width: 173px;
+}
+div.PaneRight div.Perf div.Scroll table.Expand {
+width: 189px;
+}
+div.Perf table.XorT tbody.Selected td {
+background-color: #F9EBDC;
+}
+div.Perf table.XorT tbody.Normal td {
+background-color: #E0E9EC;
+}
+div.Perf table.XorT tbody.Normal td:hover {
+background-color: #F9EBDC;
+}
+div.Perf table.XorT tr.Header td {
+text-transform: capitalize; padding: 6px 0 0 12px; vertical-align: middle; color: #125B86;
+}
+div.Perf table.XorT span.TorX {
+font-weight: bold;
+}
+div.Perf table.XorT tr.Data td {
+border-bottom: 1px solid #FFFFFF; padding: 2px 12px 4px 0; vertical-align: middle; text-align: right;
+}
+div.Perf div.Error {
+padding: 8px;
+}
+iframe.iWhatsIn {
+margin: 0 0 10px 0; height: 238px; width: 100%;
+}
+body.bWhatsIn {
+background-color: #FFFFFF;
+}
+body.bWhatsIn div.Module {
+margin: 0;
+}
+body.bWhatsIn ul.Tabs {
+margin-top: 3px;
+}
+body.bWhatsIn div.UserFeedback textarea {
+margin: 0 0 6px 0; width: 97%;
+}
+div.Split50 {
+width: 49%;
+}
+div.Split50 div.Content {
+margin-top: expression(this == this.parentNode.firstChild ? "0":"5px");
+}
+div.Split50 div.Content:last-child {
+margin-top: 5px;
+}
+div.Split50 img {
+margin: 0 15px 10px 0; border: 1px solid #000000;
+}
+div.Split50 h2 {
+margin: 0 0 5px 0; padding: 0; color: #9F1D1F; font: bold 11px Arial,sans-serif;
+}
+div.Split50 ul {
+margin: 0px 0px 8px 16px; list-style-type: none; list-style-image: url('http://10.90.5.57/t1c/portal/_lib/images/icon_arrow_links.gif');
+}
+div.Split50 li {
+margin: 0px 0px 5px 0px;
+}
+div.Split50 div.Story {
+padding: 0 5px 7px 0px; color: #DD7F13;
+}
+div.Split50 div.Story a {
+display: block;
+}
+div.WhatsInside {
+background-color: #EBF0F1; height: 174px;
+}
+div.HowTo {
+height: 70px;
+}
+div.HowTo a.Action {
+margin-bottom: 5px; display: block;
+}
+div.UserFeedback {
+height: 90px;
+}
+div.PaneLeft div.UserFeedback textarea {
+margin-bottom: 6px; height: 30px; font: normal 11px Arial,sans-serif; width: 233px;
+}
+div.PaneRight div.UserFeedback textarea {
+margin-bottom: 6px; height: 30px; font: normal 11px Arial,sans-serif; width: 179px;
+}
+div.UserFeedback input.Button {
+float: right;
+}
+div.QuickSearch div.Content {
+margin-top: expression(this == this.parentNode.firstChild ? "0":"5px");
+}
+div.QuickSearch div.Widget {
+clear: both; margin: 0px 0px 5px 0; height: 27px;
+}
+div.QuickSearch div.Widget label {
+margin: 4px 0 0 0; line-height: 1em; width: 53px; float: left;
+}
+div.QuickSearch div.Widget select.Name {
+width: 90px;
+}
+div.QuickSearch div.ListName {
+height: 27px;
+}
+div.QuickSearch div.Widget select.ListName {
+width: 255px;
+}
+div.QuickSearch div.Widget input.Text {
+width: 150px;
+}
+div.QuickSearch div.Widget input.Button {
+float: right;
+}
+div.QuickCreate div.Content {
+height: 92px;
+}
+div.QuickCreate div.Widget {
+clear: both; margin: 0px 0px 5px 0; height: 27px;
+}
+div.QuickCreate div.Widget label {
+margin: 4px 0 0 0; line-height: 1em; width: 57px; float: left;
+}
+div.QuickCreate div.Widget select.Name {
+width: 90px;
+}
+div.QuickCreate div.Widget input.Text {
+width: 247px;
+}
+div.QuickCreate div.Widget input.Button {
+float: right;
+}
+div.QuickCreate div.Message label {
+margin: 4px 0 4px 0; line-height: 1em; display: block; width: 90%; float: none;
+}
+div.QuickCreate div.Message input.Title {
+margin: 0 0 6px 0; font: normal 11px Arial,sans-serif; width: 391px;
+}
+div.QuickCreate div.Date label.Time {
+margin-left: 44px; float: none;
+}
+div.QuickCreate div.Date select {
+width: 75px;
+}
+div.QuickCreate div.Date img {
+cursor: pointer; vertical-align: middle;
+}
+div.QuickCreate div.Date input.Text {
+margin-right: 4px; width: 75px;
+}
+*.ClearAll {
+clear: both;
+}
+*.FLL {
+float: left;
+}
+*.FLR {
+float: right;
+}
+*.Flow {
+width: 100%;
+}
+*.Neg {
+color: #9F1D1F;
+}
+*.Pos {
+color: #387D3C;
+}
+*.Right {
+text-align: right;
+}
+*.Scroll {
+overflow: auto;
+}
+div.iCal {
+margin-bottom: 2px; background-color: #FFFFFF; border: 1px solid #A1A2A2;
+}
+select.iCalView {
+margin-right: 0; width: 124px;
+}
+div.iCal td {
+padding: 3px 4px 3px 4px; text-align: center;
+}
+div.Month {
+font-weight: bold; background-color: #FEDD92; border-right: 1px solid #A1A2A2; border-bottom: 1px solid #A1A2A2; width: 100%;
+}
+div.MonthPop {
+position: absolute;
+}
+div.Month table {
+width: 100%;
+}
+div.Month img {
+margin: 1px 4px 1px 4px; cursor: pointer;
+}
+tr.Week td {
+border-right: expression(this == this.parentNode.lastChild ? "0":"1px solid #A1A2A2");
+}
+tr.Days td {
+cursor: pointer; border-right: expression(this == this.parentNode.lastChild ? "0":"1px solid #A1A2A2"); border-bottom: 1px solid #A1A2A2;
+}
+td.NA {
+cursor: default; color: #CCCCCC;
+}
+tr.Focus td {
+background-color: #adc0cd; border-bottom: 1px solid #3571AB; border-top: 1px solid #3571AB;
+}
+tr.Selected td {
+background-color: #FDB515; color: #454545;
+}
+td.Selected {
+background-color: #FDB515; color: #454545;
+}
+tr.Selected td span.GridHeader {
+background-color: #FDB515; color: #454545;
+}
+tr.SelectedGroup td {
+background-color: #EFEFEF;
+}
+td.SelectedGroup {
+background-color: #EFEFEF;
+}
+tr.SelectedGroup td span.GridHeader {
+background-color: #EFEFEF;
+}
