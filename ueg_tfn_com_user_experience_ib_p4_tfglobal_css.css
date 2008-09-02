@@ -1,0 +1,1267 @@
+*html {
+overflow-x: auto; overflow-y: scroll;
+}
+body {
+font-size: .7em; margin: 0 0 10px 0; background-color: #ffffff; font-family: tahoma, arial, verdana, helvetica, sans-serif; color: #000000;
+}
+form {
+margin: 0px;
+}
+input {
+font-size: 1em;
+}
+select {
+font-size: 1em;
+}
+table {
+font-size: 1em; font-family: tahoma, arial, verdana, helvetica, sans-serif;
+}
+span.UpTick {
+font-weight: bold; color: #008000;
+}
+img.Bullet {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/bullet.gif') no-repeat; margin: 0 5px 2px 5px; height: 4px; width: 4px;
+}
+span.Emphasize {
+font-weight: bold;
+}
+a.Emphasize {
+font-weight: bold;
+}
+span.HighlightHover {
+color: #f8ce00;
+}
+div.Align1 {
+text-align: justify;
+}
+a:link {
+color: #1f2a8e;
+}
+a:visited {
+color: #1f2a8e;
+}
+a:hover {
+color: #5e71d9;
+}
+a:visited:hover {
+color: #5e71d9;
+}
+table.ContentTable  tr.ColumnHeader th a:link {
+font-weight: bold; text-decoration: underline; color: #777777;
+}
+table.ContentTable  tr.ColumnHeader th a:visited {
+font-weight: bold; text-decoration: underline; color: #777777;
+}
+table.ContentTable  tr.ColumnHeader th a:hover {
+font-weight: bold; text-decoration: underline; color: #5e71d9;
+}
+table.ContentTable  tr.ColumnHeader th a:visited:hover {
+font-weight: bold; text-decoration: underline; color: #5e71d9;
+}
+h2.CompanyName span.Controls a:link {
+font-size: 1em; margin: 0 10px 0 10px; color: #1f2a8e;
+}
+h2.CompanyName span.Controls a:visited {
+font-size: 1em; margin: 0 10px 0 10px; color: #1f2a8e;
+}
+h2.CompanyName span.Controls a:hover {
+font-size: 1em; margin: 0 10px 0 10px; color: #5e71d9;
+}
+h2.CompanyName span.Controls a:active {
+font-size: 1em; margin: 0 10px 0 10px; color: #5e71d9;
+}
+h2 span.Controls a:link {
+font-size: .8em; color: #ffffff;
+}
+h2 span.Controls a:visited {
+font-size: .8em; color: #ffffff;
+}
+h2 a:link {
+font-size: .8em; color: #ffffff;
+}
+h2 a:visited {
+font-size: .8em; color: #ffffff;
+}
+h2 span.Controls a:hover {
+color: #f8ce00;
+}
+h2 span.Controls a:visited:hover {
+color: #f8ce00;
+}
+h2 a:hover {
+color: #f8ce00;
+}
+h2 a:visited:hover {
+color: #f8ce00;
+}
+div.Pagination div.PageSection2 div.ControlGroup img.Back {
+cursor: pointer; border: 0; height: 15px; width: 15px;
+}
+div.Pagination div.PageSection2 div.ControlGroup img.Forward {
+cursor: pointer; border: 0; height: 15px; width: 15px;
+}
+div.Pagination div.PageSection2 div.ControlGroup img.First {
+cursor: pointer; border: 0; height: 15px; width: 15px;
+}
+div.Pagination div.PageSection2 div.ControlGroup img.Last {
+cursor: pointer; border: 0; height: 15px; width: 15px;
+}
+div.Pagination div.PageSection2 div.ControlGroup img.Back {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/Back.gif') no-repeat;
+}
+div.Pagination div.PageSection2 div.ControlGroup img.Forward {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/Forward.gif') no-repeat;
+}
+div.Pagination div.PageSection2 div.ControlGroup img.First {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/First.gif') no-repeat; margin-left: 15px;
+}
+div.Pagination div.PageSection2 div.ControlGroup img.Last {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/Last.gif') no-repeat;
+}
+div.ControlAreaMain div.ControlGroup img.Calendar {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/cal.gif') no-repeat; cursor: pointer; border: 0; height: 19px; width: 22px;
+}
+div.ControlAreaMain table.ControlTable img.Calendar {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/cal.gif') no-repeat; cursor: pointer; border: 0; height: 19px; width: 22px;
+}
+div.FilterArea div.ControlGroup img.Calendar {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/cal.gif') no-repeat; cursor: pointer; border: 0; height: 19px; width: 22px;
+}
+div.FilterArea table.ControlTable img.Calendar {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/cal.gif') no-repeat; cursor: pointer; border: 0; height: 19px; width: 22px;
+}
+tr.FilterArea div.ControlGroup img.Calendar {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/cal.gif') no-repeat; cursor: pointer; border: 0; height: 19px; width: 22px;
+}
+div.ControlArea div.ControlGroup img.Calendar {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/cal.gif') no-repeat; cursor: pointer; border: 0; height: 19px; width: 22px;
+}
+div.ControlArea table.ControlTable img.Calendar {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/cal.gif') no-repeat; cursor: pointer; border: 0; height: 19px; width: 22px;
+}
+div.ControlArea div.ControlGroup img.Definition {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/help.gif') no-repeat; cursor: pointer; border: 0; height: 15px; width: 14px;
+}
+div.ControlArea table.ControlTable img.Definition {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/help.gif') no-repeat; cursor: pointer; border: 0; height: 15px; width: 14px;
+}
+table.ContentTable tr.FilterArea div.ControlGroup img.Lookup {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/search.gif') no-repeat; cursor: pointer; border: 0; height: 17px; width: 16px;
+}
+div.ControlArea div.ControlGroup img.Lookup {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/search.gif') no-repeat; cursor: pointer; border: 0; height: 17px; width: 16px;
+}
+div.ControlArea table.ControlTable img.Lookup {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/search.gif') no-repeat; cursor: pointer; border: 0; height: 17px; width: 16px;
+}
+div.Pagination div.PageSection2 div.ControlGroup img.PitchBook {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/save-pdf.gif') no-repeat; cursor: pointer; border: 0; height: 16px; width: 32px;
+}
+h1 span.Controls img.PitchBook {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/save-pdf.gif') no-repeat; cursor: pointer; border: 0; height: 16px; width: 32px;
+}
+table.ContentTable tr.FilterArea div.ControlGroup2 img.Excel {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/excel.gif') no-repeat; cursor: pointer; border: 0; height: 16px; width: 16px;
+}
+div.Pagination div.PageSection2 div.ControlGroup img.Excel {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/excel.gif') no-repeat; cursor: pointer; border: 0; height: 16px; width: 16px;
+}
+h1 span.Controls img.Excel {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/excel.gif') no-repeat; cursor: pointer; border: 0; height: 16px; width: 16px;
+}
+div.Pagination div.PageSection2 div.ControlGroup img.Print {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/print.gif') no-repeat; cursor: pointer; border: 0; height: 16px; width: 16px;
+}
+h1 span.Controls img.Print {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/print.gif') no-repeat; cursor: pointer; border: 0; height: 16px; width: 16px;
+}
+table.ContentTable tr.FilterArea div.ControlGroup2 img.Pdf {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/pdf.gif') no-repeat; cursor: pointer; border: 0; height: 16px; width: 16px;
+}
+div.Pagination div.PageSection2 div.ControlGroup img.Pdf {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/pdf.gif') no-repeat; cursor: pointer; border: 0; height: 16px; width: 16px;
+}
+h1 span.Controls img.Pdf {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/pdf.gif') no-repeat; cursor: pointer; border: 0; height: 16px; width: 16px;
+}
+table.ContentTable img.Pdf {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/pdf.gif') no-repeat; cursor: pointer; border: 0; height: 16px; width: 16px;
+}
+div.Content table.ContentTable img.TearSheet {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/tearsheet.gif') no-repeat; cursor: pointer; border: 0; height: 19px; width: 16px;
+}
+div.Content table.ContentTable img.NewsIcon {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/newsicon.gif') no-repeat; cursor: pointer; border: 0; height: 19px; width: 16px;
+}
+div.Content table.ContentTable img.ProfileIcon {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/icon_profile.gif') no-repeat; cursor: pointer; border: 0; height: 20px; width: 20px;
+}
+div.BreadCrumb {
+border-bottom: dashed 1px #dedede; padding: 3px 3px 3px 5px;
+}
+div.BreadCrumb span.Delim {
+margin-right: 5px; margin-left: 5px;
+}
+div.BreadCrumb span.Current {
+font-weight: bold;
+}
+div.Dashboard {
+padding: 0 8px 0 8px;
+}
+div.Content {
+padding: 0 8px 0 8px;
+}
+div.Inputs {
+padding: 0 8px 0 8px;
+}
+div.Header {
+padding: 10px 8px 0 8px;
+}
+div.Style1a {
+width: 50%; float: left;
+}
+div.Style1b {
+width: 49%; float: right;
+}
+div.Style2a {
+width: 33%; float: left;
+}
+div.Style2b {
+margin-left: 1%; width: 32%; float: left;
+}
+div.Style2c {
+width: 33%; float: right;
+}
+h1 {
+font-size: 1.3em; margin: 8px 8px 8px 0; display: inline; color: #666ea5; letter-spacing: .5px;
+}
+div.PopupArea h1 {
+color: #3d5bb1;
+}
+h2 {
+font-weight: bold; clear: both; font-size: 1.1em; background: #979ec8 url('http://ueg.tfn.com/user_experience/ib/p4/images/SubtitleGradient.gif') repeat-x bottom left; margin: 10px 0 -10px 0; padding: 5px 0 5px 5px; height: 14px; color: #ffffff; text-align: left; letter-spacing: 1px;
+}
+div.Inputs h2 {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/SubtitleGradient2.gif') repeat-x bottom left;
+}
+h2.CompanyName {
+font-size: 1.2em; background: url('http://ueg.tfn.com/user_experience/ib/p4/images/pipe_dotted.gif') no-repeat center left; display: inline; padding: 5px 0 5px 0; padding-left: 10px; color: #000000;
+}
+h2.NewsHeadline {
+font-size: 1.2em; background: url('http://ueg.tfn.com/user_experience/ib/p4/images/pipe_dotted.gif') no-repeat center left; display: inline; padding: 5px 0 5px 0; padding-left: 10px; color: #000000;
+}
+h2.NewsHeadline {
+display: block;
+}
+h2.CompanyName span.Controls {
+font-weight: normal; font-size: .8em; vertical-align: middle; text-align: right; letter-spacing: 0; float: right;
+}
+div.ControlAreaMain span.Controls {
+font-weight: normal; font-size: .8em; vertical-align: middle; text-align: right; letter-spacing: 0; float: right;
+}
+h2.CompanyName img {
+cursor: pointer; vertical-align: middle;
+}
+div.Inputs div.ControlAreaMain h2 {
+background: none; margin: 0px 8px 5px -5px; color: #1f2a8e;
+}
+div.Inputs h2 {
+background: #d3ddf4; color: #666ea5;
+}
+h1 span.Controls {
+margin-right: 5px; margin-top: -15px; vertical-align: middle; text-align: right; float: right;
+}
+h2 span.Controls {
+margin-right: 5px; margin-top: -15px; vertical-align: middle; text-align: right; float: right;
+}
+h1 span.Controls {
+padding-right: 8px;
+}
+h2 span.Controls Selected {
+font-weight: bold;
+}
+h1 span.Controls {
+margin-right: 2px; margin-top: -20px;
+}
+h1 span.Controls img {
+cursor: pointer; vertical-align: middle; margin-left: 5px;
+}
+h2 span.Controls img {
+cursor: pointer; vertical-align: middle; margin-left: 5px;
+}
+div.DefinitionTitle {
+font-weight: bold; font-size: 1.2em; background: none; padding: 5px 0 3px 0; color: #000000;
+}
+div.DefinitionContent {
+font-size: 1.0em; background: none; padding: 0px 0 10px 0; color: #000000;
+}
+div.Terms {
+font-size: .8em; margin-top: 15px; position: relative; margin-left: 8px;
+}
+div.Copyright {
+font-size: .8em; margin-top: 3px; position: relative; margin-left: 8px;
+}
+div.Instructions {
+margin: 15px 0 0 10px;
+}
+div.SecondaryHeader {
+margin: 8px 8px 0px 8px; background: #fafafa; border-bottom: 1px solid #e6e9fa; padding: 5px;
+}
+div.SecondaryHeader table th {
+padding-right: 5px;
+}
+div.ControlAreaMain {
+background-color: #d3ddf4; margin-top: 10px; border: 0; padding: 0 0 8px 8px;
+}
+div.ControlAreaMain div.ControlGroup label {
+font-size: 1em; color: #666ea5;
+}
+div.ControlAreaMain div.ControlGroup Toplabel {
+font-size: 1em; color: #666ea5;
+}
+div.ControlAreaMain div.ControlGroup label.TopLabel {
+margin-bottom: 2px; display: block;
+}
+div.ControlArea div.ControlGroup label.TopLabel {
+margin-bottom: 2px; display: block;
+}
+tr.FilterArea div.ControlGroup label.TopLabel {
+margin-bottom: 2px; display: block;
+}
+div.ControlAreaMain div.ButtonArea {
+margin-bottom: 0; margin-top: 5px;
+}
+div.ControlArea {
+clear: both; margin-top: 10px; background-color: #f3f3fb; border: 1px solid #cfd2e5; padding: 5px 10px 5px 10px;
+}
+div.SectionArea {
+clear: both; margin-top: 10px; background-color: #f3f3fb; border: 1px solid #cfd2e5; padding: 5px 10px 5px 10px;
+}
+div.Footer {
+clear: both; margin-top: 10px; background-color: #f3f3fb; border: 1px solid #cfd2e5; padding: 5px 10px 5px 10px;
+}
+div.Inputs div.ControlArea {
+background-color: #f3f3fb; border: 1px solid #c3d0f3;
+}
+div.SectionArea div.Graph {
+text-align: center;
+}
+div.SectionArea div.Source {
+font-size: smaller; margin-top: -12px; text-align: right; float: right;
+}
+div.SectionArea div.Notes {
+font-size: smaller; text-align: left;
+}
+div.Clearer {
+clear: left; line-height: 0; height: 0;
+}
+div.Footer {
+margin: 8px 8px;
+}
+div.Pagination {
+clear: both; margin: 0 8px -10px 8px; background-color: #ffffff; padding: 0; height: 31px;
+}
+table.ControlTable  tr td {
+padding: 3px;
+}
+table.ControlTable  tr td.LabelName {
+padding-bottom: 5px; padding-right: 2px; padding-top: 5px; padding-left: 3px;
+}
+table.ControlTable  tr td.Ele {
+padding-bottom: 5px; padding-right: 15px; padding-top: 5px; padding-left: 0px;
+}
+table.GridLayout div.ControlGroup {
+margin: 3px 15px 3px 0px; display: block; padding: 0; float: left;
+}
+div.ControlArea div.ControlGroup {
+margin: 3px 15px 3px 0px; display: block; padding: 0; float: left;
+}
+div.Pagination div.ControlGroup {
+margin: 3px 15px 3px 0px; display: block; padding: 0; float: left;
+}
+table.ContentTable  tr.FilterArea th div.ControlGroup {
+margin: 3px 15px 3px 0px; display: block; padding: 0; float: left;
+}
+div.ControlAreaMain div.ControlGroup {
+margin: 1px 15px 1px 0px; white-space: nowrap; display: block; padding: 0; float: left;
+}
+table.ContentTable tr.FilterArea div.ControlGroup2 {
+margin: 3px 0 3px 0px; display: block; padding: 0; text-align: right; float: right;
+}
+div.Pagination div.ControlGroup {
+margin-right: 0; margin-left: 0;
+}
+table.ContentTable tr.FilterArea img {
+margin: 2px; vertical-align: middle;
+}
+table.ContentTable tr.FilterArea input {
+margin: 2px; vertical-align: middle;
+}
+table.ContentTable tr.FilterArea select {
+margin: 2px; vertical-align: middle;
+}
+table.GridLayout img {
+margin: 2px; vertical-align: middle;
+}
+table.GridLayout input {
+margin: 2px; vertical-align: middle;
+}
+table.GridLayout select {
+margin: 2px; vertical-align: middle;
+}
+div.ControlArea table.ControlTable img {
+margin: 2px; vertical-align: middle;
+}
+div.ControlArea table.ControlTable input {
+margin: 2px; vertical-align: middle;
+}
+div.ControlArea table.ControlTable select {
+margin: 2px; vertical-align: middle;
+}
+div.ControlArea div.ControlGroup img {
+margin: 2px; vertical-align: middle;
+}
+div.ControlArea div.ControlGroup input {
+margin: 2px; vertical-align: middle;
+}
+div.ControlArea div.ControlGroup select {
+margin: 2px; vertical-align: middle;
+}
+div.Pagination div.ControlGroup img {
+margin: 2px; vertical-align: middle;
+}
+div.Pagination div.ControlGroup input {
+margin: 2px; vertical-align: middle;
+}
+div.Pagination div.ControlGroup select {
+margin: 2px; vertical-align: middle;
+}
+div.Pagination div.ControlGroup span.Items {
+font-weight: bold; margin-right: 15px; margin: 2px; color: #666ea5; vertical-align: middle;
+}
+table.ContentTable tr.FilterArea div.ControlGroup label {
+font-weight: normal; margin: 2px; color: #666ea5;
+}
+div.ControlArea div.ControlGroup label {
+margin: 2px; color: #666ea5; vertical-align: middle;
+}
+div.ControlArea table.ControlTable label {
+margin: 2px; color: #666ea5; vertical-align: middle;
+}
+div.Pagination div.ControlGroup label {
+margin: 2px; color: #666ea5; vertical-align: middle;
+}
+table.GridLayout label {
+margin: 2px; color: #666ea5; vertical-align: middle;
+}
+table.GridLayout label {
+color: #3d5bb1;
+}
+table.ContentTable tr.FilterArea div.ControlGroup label.Parent {
+font-weight: normal;
+}
+div.ControlArea div.ControlGroup label.Parent {
+font-weight: normal;
+}
+div.ControlArea table.ControlTable label.Parent {
+font-weight: normal;
+}
+div.ControlAreaMain div.ControlGroup label.Parent {
+font-weight: normal;
+}
+div.Pagination div.ControlGroup label.Parent {
+font-weight: normal;
+}
+table.GridLayout label.Parent {
+font-weight: normal;
+}
+div.ControlAreaMain div.ControlSection {
+clear: left;
+}
+div.ControlArea div.ControlSection {
+clear: left;
+}
+div.Pagination div.PageSection2 {
+text-align: right; float: right;
+}
+div.Pagination div.PageSection2 img.IconLink {
+cursor: pointer; text-align: right;
+}
+div.ControlArea div.ButtonArea {
+margin: 5px 0 7px 2px;
+}
+table.ControlTable div.ButtonArea {
+margin: 4px 0 6px 3px;
+}
+div.ButtonArea {
+margin: 11px 0 0 0;
+}
+table.ContentTable tr.FilterArea div.ButtonArea div.ButtonSection2 {
+margin-top: -22px; text-align: right; float: right;
+}
+table.GridLayout div.ButtonArea div.ButtonSection2 {
+margin-top: -22px; text-align: right; float: right;
+}
+div.ControlArea div.ButtonArea div.ButtonSection2 {
+margin-top: -22px; text-align: right; float: right;
+}
+table.ControlTable div.ButtonArea div.ButtonSection2 {
+margin-top: -22px; text-align: right; float: right;
+}
+div.ButtonArea div.ButtonSection2 {
+margin-top: -22px; text-align: right; float: right;
+}
+table.ContentTable tr.FilterArea div.ButtonArea div.ButtonSection2 {
+margin-top: 0;
+}
+table.ContentTable  tr.FilterArea input.ControlButton {
+font-weight: bold; overflow: visible; background: #989ccc url('http://ueg.tfn.com/user_experience/ib/p4/images/main_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid;
+}
+table.ContentTable  tr.FilterArea button.ControlButton {
+font-weight: bold; overflow: visible; background: #989ccc url('http://ueg.tfn.com/user_experience/ib/p4/images/main_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid;
+}
+table.GridLayout input.ControlButton {
+font-weight: bold; overflow: visible; background: #989ccc url('http://ueg.tfn.com/user_experience/ib/p4/images/main_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid;
+}
+table.GridLayout button.ControlButton {
+font-weight: bold; overflow: visible; background: #989ccc url('http://ueg.tfn.com/user_experience/ib/p4/images/main_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid;
+}
+div.ButtonArea input.ControlButton {
+font-weight: bold; overflow: visible; background: #989ccc url('http://ueg.tfn.com/user_experience/ib/p4/images/main_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid;
+}
+div.ButtonArea button.ControlButton {
+font-weight: bold; overflow: visible; background: #989ccc url('http://ueg.tfn.com/user_experience/ib/p4/images/main_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid;
+}
+div.ControlArea div.ButtonArea input.ControlButton {
+font-weight: bold; overflow: visible; background: #989ccc url('http://ueg.tfn.com/user_experience/ib/p4/images/main_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid;
+}
+div.ControlArea div.ButtonArea button.ControlButton {
+font-weight: bold; overflow: visible; background: #989ccc url('http://ueg.tfn.com/user_experience/ib/p4/images/main_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid;
+}
+table.ControlTable div.ButtonArea input.ControlButton {
+font-weight: bold; overflow: visible; background: #989ccc url('http://ueg.tfn.com/user_experience/ib/p4/images/main_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid;
+}
+table.ControlTable div.ButtonArea button.ControlButton {
+font-weight: bold; overflow: visible; background: #989ccc url('http://ueg.tfn.com/user_experience/ib/p4/images/main_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid;
+}
+table.ContentTable  tr.FilterArea button.ControlButton {
+margin-right: 3px; font-size: 1em;
+}
+table.GridLayout button.ControlButton {
+margin-right: 3px; font-size: 1em;
+}
+div.ButtonArea button.ControlButton {
+margin-right: 3px; font-size: 1em;
+}
+div.ControlArea div.ButtonArea button.ControlButton {
+margin-right: 3px; font-size: 1em;
+}
+table.ControlTable div.ButtonArea button.ControlButton {
+margin-right: 3px; font-size: 1em;
+}
+table.GridLayout td.TButtons button.ControlButton {
+margin: 0 0 3px 0; width: 75px;
+}
+table.GridLayout td.TButtons button.InlineControlButton {
+margin: 0 0 3px 0; width: 75px;
+}
+table.ContentTable thead tr.FilterArea input.SecondaryControlButton {
+font-weight: bold; overflow: visible; background: #b9bede url('http://ueg.tfn.com/user_experience/ib/p4/images/secondary_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+table.ContentTable thead tr.FilterArea button.SecondaryControlButton {
+font-weight: bold; overflow: visible; background: #b9bede url('http://ueg.tfn.com/user_experience/ib/p4/images/secondary_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+table.GridLayout input.SecondaryControlButton {
+font-weight: bold; overflow: visible; background: #b9bede url('http://ueg.tfn.com/user_experience/ib/p4/images/secondary_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+table.GridLayout button.SecondaryControlButton {
+font-weight: bold; overflow: visible; background: #b9bede url('http://ueg.tfn.com/user_experience/ib/p4/images/secondary_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+div.ButtonArea input.SecondaryControlButton {
+font-weight: bold; overflow: visible; background: #b9bede url('http://ueg.tfn.com/user_experience/ib/p4/images/secondary_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+div.ButtonArea button.SecondaryControlButton {
+font-weight: bold; overflow: visible; background: #b9bede url('http://ueg.tfn.com/user_experience/ib/p4/images/secondary_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+div.ControlArea div.ButtonArea input.SecondaryControlButton {
+font-weight: bold; overflow: visible; background: #b9bede url('http://ueg.tfn.com/user_experience/ib/p4/images/secondary_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+div.ControlAreaMain div.ButtonArea button.SecondaryControlButton {
+font-weight: bold; overflow: visible; background: #b9bede url('http://ueg.tfn.com/user_experience/ib/p4/images/secondary_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+table.ControlTable div.ButtonArea input.SecondaryControlButton {
+font-weight: bold; overflow: visible; background: #b9bede url('http://ueg.tfn.com/user_experience/ib/p4/images/secondary_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+table.ControlTable div.ButtonArea button.SecondaryControlButton {
+font-weight: bold; overflow: visible; background: #b9bede url('http://ueg.tfn.com/user_experience/ib/p4/images/secondary_gradient.gif') repeat-x; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+table.ContentTable thead tr.FilterArea input.InlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/inline_gradient.gif') repeat-x; margin: 0 0 -1px 0; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+table.ContentTable thead tr.FilterArea input.InlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/inline_gradient.gif') repeat-x; margin: 0 0 -1px 0; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+table.GridLayout input.InlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/inline_gradient.gif') repeat-x; margin: 0 0 -1px 0; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+table.GridLayout input.InlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/inline_gradient.gif') repeat-x; margin: 0 0 -1px 0; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+table.GridLayout button.InlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/inline_gradient.gif') repeat-x; margin: 0 0 -1px 0; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+div.ButtonArea input.InlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/inline_gradient.gif') repeat-x; margin: 0 0 -1px 0; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+div.ButtonArea input.InlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/inline_gradient.gif') repeat-x; margin: 0 0 -1px 0; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+div.ControlArea div.ControlGroup input.InlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/inline_gradient.gif') repeat-x; margin: 0 0 -1px 0; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+div.ControlAreaMain div.ControlGroup input.InlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/inline_gradient.gif') repeat-x; margin: 0 0 -1px 0; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+table.ControlTable input.InlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/inline_gradient.gif') repeat-x; margin: 0 0 -1px 0; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+table.ControlTable input.InlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/inline_gradient.gif') repeat-x; margin: 0 0 -1px 0; cursor: pointer; border-right: #24295e 1px solid; border-bottom: #24295e 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #bfc2e4 1px solid; border-top: #bfc2e4 1px solid; letter-spacing: 1px;
+}
+table.ContentTable thead tr.FilterArea input.DisabledControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_main.gif') repeat-x; cursor: default; border-right: #404040 1px solid; border-bottom: #404040 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid;
+}
+table.ContentTable thead tr.FilterArea button.DisabledControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_main.gif') repeat-x; cursor: default; border-right: #404040 1px solid; border-bottom: #404040 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid;
+}
+table.GridLayout input.DisabledControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_main.gif') repeat-x; cursor: default; border-right: #404040 1px solid; border-bottom: #404040 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid;
+}
+table.GridLayout button.DisabledControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_main.gif') repeat-x; cursor: default; border-right: #404040 1px solid; border-bottom: #404040 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid;
+}
+div.ButtonArea input.DisabledControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_main.gif') repeat-x; cursor: default; border-right: #404040 1px solid; border-bottom: #404040 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid;
+}
+div.ButtonArea button.DisabledControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_main.gif') repeat-x; cursor: default; border-right: #404040 1px solid; border-bottom: #404040 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid;
+}
+div.ControlArea div.ButtonArea input.DisabledControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_main.gif') repeat-x; cursor: default; border-right: #404040 1px solid; border-bottom: #404040 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid;
+}
+div.ControlAreaMain div.ButtonArea button.DisabledControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_main.gif') repeat-x; cursor: default; border-right: #404040 1px solid; border-bottom: #404040 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid;
+}
+table.ControlTable div.ButtonArea input.DisabledControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_main.gif') repeat-x; cursor: default; border-right: #404040 1px solid; border-bottom: #404040 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid;
+}
+table.ControlTable div.ButtonArea button.DisabledControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_main.gif') repeat-x; cursor: default; border-right: #404040 1px solid; border-bottom: #404040 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid;
+}
+table.ContentTable thead tr.FilterArea input.DisabledSecondaryControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_secondary.gif') repeat-x; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+table.ContentTable thead tr.FilterArea button.DisabledSecondaryControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_secondary.gif') repeat-x; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+table.GridLayout input.DisabledSecondaryControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_secondary.gif') repeat-x; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+table.GridLayout button.DisabledSecondaryControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_secondary.gif') repeat-x; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+div.ButtonArea input.DisabledSecondaryControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_secondary.gif') repeat-x; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+div.ButtonArea button.DisabledSecondaryControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_secondary.gif') repeat-x; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+div.ControlArea div.ButtonArea input.DisabledSecondaryControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_secondary.gif') repeat-x; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+div.ControlAreaMain div.ButtonArea button.DisabledSecondaryControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_secondary.gif') repeat-x; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+table.ControlTable div.ButtonArea input.DisabledSecondaryControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_secondary.gif') repeat-x; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+table.ControlTable div.ButtonArea button.DisabledSecondaryControlButton {
+font-weight: bold; overflow: visible; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_secondary.gif') repeat-x; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: capitalize; padding: 1px 9px 2px 9px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+table.ContentTable thead tr.FilterArea input.DisabledInlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_inline.gif') repeat-x; margin: 0 0 -1px 0; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+table.ContentTable thead tr.FilterArea button.DisabledInlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_inline.gif') repeat-x; margin: 0 0 -1px 0; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+table.GridLayout input.DisabledInlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_inline.gif') repeat-x; margin: 0 0 -1px 0; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+table.GridLayout button.DisabledInlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_inline.gif') repeat-x; margin: 0 0 -1px 0; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+div.ButtonArea input.DisabledInlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_inline.gif') repeat-x; margin: 0 0 -1px 0; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+div.ButtonArea button.DisabledInlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_inline.gif') repeat-x; margin: 0 0 -1px 0; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+div.ControlArea div.ButtonArea input.DisabledInlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_inline.gif') repeat-x; margin: 0 0 -1px 0; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+div.ControlAreaMain div.ButtonArea button.DisabledInlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_inline.gif') repeat-x; margin: 0 0 -1px 0; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+table.ControlTable div.ButtonArea input.DisabledInlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_inline.gif') repeat-x; margin: 0 0 -1px 0; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+table.ControlTable div.ButtonArea button.DisabledInlineControlButton {
+font-weight: bold; overflow: visible; font-size: 1em; background: #bbbfdf url('http://ueg.tfn.com/user_experience/ib/p4/images/gradient_disabled_inline.gif') repeat-x; margin: 0 0 -1px 0; cursor: default; border-right: #414141 1px solid; border-bottom: #414141 1px solid; text-transform: Capitalize; padding: 0px 5px 0px 5px; color: #ffffff; vertical-align: middle; border-left: #d1d1d1 1px solid; border-top: #d1d1d1 1px solid; letter-spacing: 1px;
+}
+table.GridLayout button.AddAll {
+margin-top: -12px; float: right;
+}
+table.ContentTable {
+clear: left; margin-top: 10px; border-bottom: 1px solid #d5d7e9; border: 0px; padding: 0px; border-left: 1px solid #d5d7e9; width: 100%;
+}
+table.ContentTable  tr td.RowDivider {
+border-bottom: 1px solid #777777;
+}
+table.ContentTable tfoot tr {
+font-weight: bold; background-color: #e6e6fa; border-right: 1px solid #d5d7e9; color: #000000;
+}
+table.ContentTable  tr.SubHeader {
+font-weight: bold; background-color: #e6e6fa; border-right: 1px solid #d5d7e9; color: #000000;
+}
+table.ContentTable img {
+margin: 0 4px 0 2px; vertical-align: middle;
+}
+table.ContentTable  tr.ColumnHeader th img.SortArrow {
+cursor: pointer;
+}
+table.ContentTable img.IconLink {
+cursor: pointer;
+}
+table.ContentTable  tr th {
+background-color: #ffffff;
+}
+table.ContentTable  tr.TopColumnHeader th {
+background-color: #ffffff;
+}
+table.ContentTable  tr td {
+border-right: 1px solid #d5d7e9; padding: 4px; text-align: left;
+}
+table.ContentTable  tr.ColumnHeader th {
+border-right: 1px solid #d5d7e9; padding: 4px; text-align: left;
+}
+table.ContentTable  tr.TopColumnHeader th {
+border-right: 1px solid #d5d7e9; padding: 4px; text-align: left;
+}
+table.ContentTable  tr.ColumnHeader th span.ColumnText {
+font-weight: normal; margin-top: -13px; float: right;
+}
+table.ContentTable  tr td.Child {
+padding-left: 15px;
+}
+table.ContentTable  tr td.Child2 {
+padding-left: 30px;
+}
+table.ContentTable  tr.ColumnHeader th.Center {
+text-align: center;
+}
+table.ContentTable  tr.ColumnHeader th.Right {
+text-align: right;
+}
+table.SelectTable tr th.Right {
+text-align: right;
+}
+table.ContentTable  tr.ColumnHeader th.Sorted {
+white-space: nowrap;
+}
+table.ContentTable  tr.FilterArea th {
+background-color: #f3f3fb; border-right: 1px solid #d5d7e9; padding: 3px 10px 5px 10px; border-top: 1px solid #d5d7e9; text-align: left;
+}
+table.ContentTable  tr.PaginationArea td {
+padding-bottom: 6px; border-right: 1px solid #d5d7e9; border-top: 1px solid #d5d7e9;
+}
+table.ContentTable  tr td.Center {
+text-align: center;
+}
+table.ContentTable  tr td.Right {
+text-align: right;
+}
+table.ContentTable tfoot tr td.Right {
+text-align: right;
+}
+table.SelectTable tr td.Right {
+text-align: right;
+}
+table.ContentTable  tr td.Definition {
+cursor: help;
+}
+table.ContentTable  tr td.ImgCol {
+white-space: nowrap;
+}
+table.ContentTable  tr td.Details {
+border-bottom: 1px solid #d5d7e9; padding-left: 38px; border-top: 1px solid #d5d7e9;
+}
+table.ContentTable  tr.ColumnHeader th {
+border-bottom: 1px solid #777777; vertical-align: bottom; color: #777777; border-top: 1px solid #d5d7e9;
+}
+table.ContentTable  tr.TopColumnHeader th {
+vertical-align: middle; color: #333333; border-top: 1px solid #d5d7e9; text-align: center;
+}
+table.ContentTable  tr.Odd {
+background-color: #f3f3fb;
+}
+table.ContentTable  tr.Even {
+background-color: #ffffff;
+}
+table.ContentTable tr td div.Headline {
+font-size: smaller;
+}
+table.ContentTable  tr.Total td {
+font-weight: bold; border-right: 1px solid #d5d7e9; vertical-align: top; height: 1.97 em; border-top: #000000 1px solid;
+}
+table.ContentTable  td.LabelName {
+font-weight: bold;
+}
+table.ContentTable tfoot tr td {
+padding-right: 4px; font-weight: normal; font-size: smaller; padding-left: 4px;
+}
+table.HeaderTable {
+clear: left; margin-bottom: 8px; margin-top: 8px; border: 0; padding: 0;
+}
+table.FooterTable {
+clear: left; margin-bottom: 8px; margin-top: 8px; border: 0; padding: 0;
+}
+table.FooterTable {
+margin: 0;
+}
+table.HeaderTable  td.LabelName {
+padding: 3px 0px 3px 0px; color: #666ea5;
+}
+table.FooterTable  td.LabelName {
+padding: 3px 0px 3px 0px; color: #666ea5;
+}
+table.HeaderTable  td.Right {
+text-align: right;
+}
+table.HeaderTable  td.Data {
+padding: 3px 25px 3px 7px;
+}
+table.FooterTable  td.Data {
+padding: 3px 25px 3px 7px;
+}
+div.PopupErrorArea {
+clear: both; background-color: #ffffdd; border: 1px solid #c1c1c1; padding: 8px; width: 350px;
+}
+div.PopupErrorAreaGrey {
+clear: both; background-color: #ece9d8; border: 1px solid #c1c1c1; padding: 8px; width: 350px;
+}
+table.GridLayout tr td.ErrorTitle {
+font-weight: bold;
+}
+div.PopupErrorArea table.GridLayout tr td {
+border-right: 0px;
+}
+table.GridLayout td.ErrorBox {
+text-align: right;
+}
+table.GridLayout input.ErrorButtons {
+height: 23px; width: 75px;
+}
+body.Popup {
+margin: 0; background-color: #ffffff;
+}
+table.GridLayout {
+width: 100%;
+}
+table.GridLayout  tr td {
+padding: 3px;
+}
+table.GridLayout  tr td.TBox {
+width: 50%;
+}
+table.GridLayout  tr td.TButtons {
+padding-left: 10px; width: 70px;
+}
+table.GridLayout td.TButtons button.Small {
+padding: 0 1px 0 2px; width: 0px;
+}
+table.GridLayout div.NewsContent {
+font-size: 1.1em; margin-bottom: 20px; line-height: 15px;
+}
+div.PopupArea {
+margin: 8px; background-color: #f3f3fb; border-right: 1px solid #9a9a9a; border-bottom: 1px solid #9a9a9a; display: block; padding: 4px; border-left: 1px solid #dddddd; border-top: 1px solid #dddddd;
+}
+div.ControlArea div.TOCBox {
+background-color: #ffffff; border: 1px solid #777777; overflow-x: hidden; height: 200px; overflow-y: auto; width: 100%;
+}
+div.SectionArea div.ContentBox {
+background-color: #ffffff; border: 1px solid #777777; overflow-x: hidden; height: 200px; overflow-y: auto; width: 100%;
+}
+div.SectionArea div.DisclaimerBox {
+background-color: #ffffff; border: 1px solid #777777; overflow-x: hidden; height: 200px; overflow-y: auto; width: 100%;
+}
+table.GridLayout  tr td div.AvailableBox {
+background-color: #ffffff; border: 1px solid #777777; overflow-x: hidden; height: 200px; overflow-y: auto; width: 100%;
+}
+table.GridLayout  tr td div.SelectedBox {
+background-color: #ffffff; border: 1px solid #777777; overflow-x: hidden; height: 200px; overflow-y: auto; width: 100%;
+}
+div.ControlArea div.TOCBox {
+border-top: 1px solid #cfd2e5;
+}
+div.SectionArea div.ContentBox {
+padding: 5px; width: auto;
+}
+div.SectionArea div.DisclaimerBox {
+padding: 5px; height: 50px; width: auto;
+}
+span.ExpandCollapse {
+font-size: .8em; margin-top: -1.3em; border: 0; * margin-top: -1.2em; padding: 0; text-align: right; float: right;
+}
+span.ExpandCollapse2 {
+font-size: .8em; margin-top: -1.3em; border: 0; * margin-top: -1.2em; padding: 0; text-align: right; float: right;
+}
+span.ExpandCollapse2 {
+margin: 0; position: relative; text-align: left; top: -3px; float: none;
+}
+span.ExpandCollapse img {
+cursor: pointer; vertical-align: middle;
+}
+span.ExpandCollapse2 img {
+cursor: pointer; vertical-align: middle;
+}
+ul.MkTree  li {
+list-style: none;
+}
+ul.MkTree {
+margin-top: 2px; padding: 1px; margin-left: 2px;
+}
+ul.MkTree ul {
+padding: 1px; margin-left: 6px;
+}
+ul.MkTree li {
+padding: 1px; margin-left: 6px;
+}
+ul.MkTree li .Bullet {
+padding-left: 10px;
+}
+ul.MkTree li.LiOpen .Bullet {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/menue.gif')  center left no-repeat; cursor: pointer;
+}
+ul.MkTree li.LiClosed .Bullet {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/menuc.gif') center left no-repeat; cursor: pointer;
+}
+ul.MkTree li.LiBullet .Bullet {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/bullet.gif') center left no-repeat; cursor: default;
+}
+ul.MkTree li.LiOpen ul {
+display: block;
+}
+ul.MkTree li.LiClosed ul {
+display: none;
+}
+ul.MkTree li ul li ul li {
+white-space: no-wrap; color: #000000;
+}
+ul.MkTree li span {
+cursor: pointer; padding: 1px;
+}
+ul.MkTree li span.Selected {
+background-color: #316ac5; padding: 1px; color: #ffffff;
+}
+span.Selected {
+background-color: #316ac5; padding: 1px; color: #ffffff;
+}
+div.TOCBox ul.MkTree li span.TreeHover {
+background-color: transparent; color: #000000;
+}
+ul.MkTree li span.TreeHover {
+background-color: #98b5e2; color: #ffffff;
+}
+table.SelectTable {
+border: 0; padding: 0; width: 100%;
+}
+table.SelectTable  tr td {
+padding: 1px 4px 1px 4px; text-align: left;
+}
+table.SelectTable  tr th {
+padding: 1px 4px 1px 4px; text-align: left;
+}
+table.SelectTable  tr.Odd {
+background-color: #f3f3fb;
+}
+table.ContentTable  tr.Even {
+background-color: #ffffff;
+}
+table.SelectTable tr {
+cursor: pointer;
+}
+table.SelectTable  tr.Selected {
+background-color: #316ac5; color: #ffffff;
+}
+table.SelectTable  tr.Hover {
+background-color: #98b5e2; color: #ffffff;
+}
+div.TabSection div.TabContainer {
+margin-bottom: -11px; background-color: #e9ecff; margin-top: 10px; border-right: 1px solid #cfd2e5; border-left: 1px solid #cfd2e5;
+}
+div.TabSection div.TabContainer ul li.Selected a:link {
+background-color: #f3f3fb; background-image: none;
+}
+div.TabSection div.TabContainer ul li.Selected a:visited {
+background-color: #f3f3fb; background-image: none;
+}
+div.TabSection div.TabContainer ul li.Selected a:hover {
+background-color: #f3f3fb; background-image: none;
+}
+div.TabContent {
+clear: both; margin-top: -8px; border-bottom: 1px solid #d5d7e9; border-right: 1px solid #d5d7e9; padding: 3px; border-left: 1px solid #d5d7e9;
+}
+div.TabContainerBorder {
+border-right: 1px solid #d5d7e9; border-left: 1px solid #d5d7e9;
+}
+div.TabContainer {
+clear: both; margin-bottom: 8px; padding-top: 8px; margin-top: 8px; border-bottom: 1px solid #939bcc; height: 2em; position: relative;
+}
+div.TabContainer ul {
+bottom: -1px; margin: 0 0 0 10px; padding: 0; position: absolute;
+}
+div.TabContainer ul li {
+list-style: none; display: inline;
+}
+div.TabContainer ul a {
+font-weight: normal; border-color: #bec5f1; background: #f8fdff; margin: 1px 2px 0 0; text-decoration: none; border-bottom: none; border: 1px solid; padding: 4px 10px 4px 10px; display: block; color: #557bad; text-align: center; float: left;
+}
+div.TabContainer ul a:hover {
+padding-bottom: 4px; border-color: #bec5f1; background: #f8fdff; margin-top: 1px; text-decoration: underline; color: #3368e8;
+}
+div.TabContainer ul li.Selected a:link {
+font-weight: bold; padding-bottom: 6px; border-color: #939bcc; background: url('http://ueg.tfn.com/user_experience/ib/p4/images/TabGradient.gif') top right repeat-x; cursor: default; margin-top: 0; text-decoration: none; border-bottom: none; color: #557bad;
+}
+div.TabContainer ul li.Selected a:visited {
+font-weight: bold; padding-bottom: 6px; border-color: #939bcc; background: url('http://ueg.tfn.com/user_experience/ib/p4/images/TabGradient.gif') top right repeat-x; cursor: default; margin-top: 0; text-decoration: none; border-bottom: none; color: #557bad;
+}
+div.TabContainer ul li.Selected a:hover {
+font-weight: bold; padding-bottom: 6px; border-color: #939bcc; background: url('http://ueg.tfn.com/user_experience/ib/p4/images/TabGradient.gif') top right repeat-x; cursor: default; margin-top: 0; text-decoration: none; border-bottom: none; color: #557bad;
+}
+div.Submenu {
+padding-bottom: 10px; margin: 10px; border-bottom: 1px solid #939bcc;
+}
+table.CalendarContentTable {
+border: 0px; padding: 0px; width: 100%;
+}
+.CalendarControl td {
+padding-right: 3px; padding-bottom: 2px; font-size: 1.0em; padding-top: 2px; background-color: #1f2a8e; border: 0px; vertical-align: middle; padding-left: 3px; color: #aec8f9;
+}
+td.CalendarControl {
+padding-right: 3px; padding-bottom: 2px; font-size: 1.0em; padding-top: 2px; background-color: #1f2a8e; border: 0px; vertical-align: middle; padding-left: 3px; color: #aec8f9;
+}
+.CalendarControl a:link {
+text-decoration: underline; color: #aec8f9;
+}
+.CalendarControl a:hover {
+text-decoration: none; color: #aec8f9;
+}
+.CalendarControl a:visited {
+text-decoration: underline; color: #aec8f9;
+}
+.CalendarControl a:visited:hover {
+text-decoration: none; color: #aec8f9;
+}
+table.CalendarTable {
+border-collapse: collapse; width: 100%;
+}
+.CalendarColumnHeader a:link {
+font-weight: bold; text-decoration: underline; color: #777777;
+}
+.CalendarColumnHeader a:hover {
+font-weight: bold; text-decoration: none; color: #777777;
+}
+.CalendarColumnHeader a:visited {
+font-weight: bold; text-decoration: underline; color: #777777;
+}
+.CalendarColumnHeader a:visited:hover {
+font-weight: bold; text-decoration: none; color: #777777;
+}
+.CalendarColumnHeader td {
+font-weight: bold; background-color: #ffffff; border-bottom: 1px solid #777777; padding: 4px; vertical-align: bottom; color: #777777;
+}
+td.CalendarColumnHeader {
+font-weight: bold; background-color: #ffffff; border-bottom: 1px solid #777777; padding: 4px; vertical-align: bottom; color: #777777;
+}
+td.CalendarOtherMonth {
+padding-right: 3px; padding-bottom: 2px; font-size: 1.0em; padding-top: 1px; background-color: #efefef; border: #cccccc 1px solid; padding-left: 3px;
+}
+td.today {
+padding-right: 3px; padding-bottom: 2px; font-weight: bold; font-size: 1.0em; padding-top: 1px; cursor: hand; background-color: #f3f3fb; border: #cccccc 1px solid; padding-left: 3px; color: #4f63d3;
+}
+td.CalendarThisMonth {
+padding-right: 3px; padding-bottom: 2px; font-size: 1.0em; padding-top: 1px; background-color: #f3f3fb; cursor: hand; border: #cccccc 1px solid; padding-left: 3px; color: #000000;
+}
+#FilterOps {
+left: 0; height: 140px; top: 92px; width: 99%;
+}
+div.FilterOps {
+visibility: hidden; background-color: #ffffff; border: 1px solid #777777; padding: 0; position: absolute;
+}
+div.FilterOps ul {
+margin: 0; padding: 0; float: left;
+}
+div.FilterOps ul li {
+display: inline;
+}
+div.FilterOps ul li a:link {
+background-color: transparent; text-decoration: none; border-bottom: 1px solid #dddddd; border-right: 1px solid #dddddd; padding: 5px 0 5px 0; height: 13px; color: #777777; float: left;
+}
+div.FilterOps ul li a:visited {
+background-color: transparent; text-decoration: none; border-bottom: 1px solid #dddddd; border-right: 1px solid #dddddd; padding: 5px 0 5px 0; height: 13px; color: #777777; float: left;
+}
+div.FilterOps ul li a:hover {
+background-color: transparent; text-decoration: none; border-bottom: 1px solid #dddddd; border-right: 1px solid #dddddd; padding: 5px 0 5px 0; height: 13px; color: #777777; float: left;
+}
+div.FilterOps ul li a:visited:hover {
+background-color: transparent; text-decoration: none; border-bottom: 1px solid #dddddd; border-right: 1px solid #dddddd; padding: 5px 0 5px 0; height: 13px; color: #777777; float: left;
+}
+div.FilterOps ul li a:hover {
+background-color: #98b5e2; color: #ffffff;
+}
+div.FilterOps ul li a:visited:hover {
+background-color: #98b5e2; color: #ffffff;
+}
+div.FilterOps ul li a.selected {
+background-color: #316ac5; background-image: url('http://ueg.tfn.com/user_experience/ib/p4/images/tselbg.gif'); color: #ffffff;
+}
+div.FilterOps ul li a.selected:visited {
+background-color: #316ac5; background-image: url('http://ueg.tfn.com/user_experience/ib/p4/images/tselbg.gif'); color: #ffffff;
+}
+div.FilterOps ul li a.selected:hover
+div.FilterOps ul li a.selected:visited:hover {
+background-color: #316ac5; background-image: url('http://ueg.tfn.com/user_experience/ib/p4/images/tselbg.gif'); color: #ffffff;
+}
+div.FilterOps ul li a span {
+margin: 0; padding: 5px 10px 5px 10px;
+}
+div.FilterOps ul li a input.MenuCheck {
+margin: 0 3px 0 7px; padding: 0; * margin: -5px 0 0 3px;
+}
+div.FilterOps ul li a span.selected {
+margin: 0; background: url('http://ueg.tfn.com/user_experience/ib/p4/images/tselbgleft.gif') no-repeat right top; padding: 5px 10px 5px 10px;
+}
+div.Ops {
+clear: both; margin: 8px; display: none; width: 100%; float: left;
+}
+div.OpsSelected {
+display: block;
+}
+div.FilterOps div.ButtonArea {
+clear: both; padding-left: 8px; width: 100%; float: left;
+}
+div.ControlArea div.CollapseButton {
+background: #979ec8 url('http://ueg.tfn.com/user_experience/ib/p4/images/SubtitleGradient.gif') repeat-x bottom left; cursor: pointer; border-right: 1px solid #777777; border-bottom: 1px solid #777777; padding: 2px 0 2px 0; color: #ffffff; vertical-align: middle; border-left: 1px solid #777777; width: 100%;
+}
+div.ControlArea div.CollapseSection {
+border-right: 1px solid #777777; border-left: 1px solid #777777; width: 100%;
+}
+div.ControlArea div.CollapseSection	table.HeaderTable {
+margin: 5px;
+}
+div.Dashboard div.ControlArea {
+margin-bottom: -15px; margin: 0; margin-top: 8px; padding: 0; height: 87px;
+}
+div.Dashboard div.ControlArea div.ControlGroup {
+margin: 0; padding: 2px;
+}
+div.Dashboard div.TableContainer {
+overflow: hidden; margin-top: 14px; border: 1px solid #d5d7e9; height: 225px;
+}
+div.Dashboard div.TableContainer table.ContentTable {
+margin-top: -1px; border: 0px;
+}
+div.Dashboard div.TableContainer table.ContentTable tr.ColumnHeader th.NoBorder {
+border-right: 0px;
+}
+div.Dashboard div.TableContainer table.ContentTable tr.Odd td.NoBorder {
+border-right: 0px;
+}
+div.Dashboard div.TableContainer table.ContentTable tr.Even td.NoBorder {
+border-right: 0px;
+}
+div.Dashboard div.ControlArea div.ButtonArea div.ButtonSection2 {
+position: relative; right: 5px; top: 20px; float: right;
+}
+h2 img.Criteria {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/criteriaBug.gif') no-repeat; border: 0; display: inline; height: 7px; text-align: left; width: 6px;
+}
+div.ControlArea img.Criteria {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/criteriaBug.gif') no-repeat; border: 0; display: inline; height: 7px; text-align: left; width: 6px;
+}
+div.ControlArea table.ControlTable  tr td span.CriteriaSelected {
+font-weight: normal; padding-left: 15px; color: #6f76a6; letter-spacing: 1px;
+}
+h2 span.CriteriaSelected {
+font-weight: normal; font-size: .9em; display: inline; padding-left: 10px; color: #6f76a6; letter-spacing: 1px;
+}
+div.ControlArea div.DottedSeparator {
+height: 1px; border-top: dashed 1px #c3d0f3; width: 100%;
+}
+h2 span.remove {
+margin-right: 5px; margin-top: -15px; vertical-align: middle; text-align: right; float: right;
+}
+h2 span.remove a:link {
+font-weight: normal; font-size: .7em; font-family: tahoma, arial, verdana, helvetica, sans-serif; color: #1f2a8e; vertical-align: middle; letter-spacing: 0;
+}
+h2 span.remove a:visited {
+font-weight: normal; font-size: .7em; font-family: tahoma, arial, verdana, helvetica, sans-serif; color: #1f2a8e; vertical-align: middle; letter-spacing: 0;
+}
+h2 span.remove a:hover {
+color: #5e71d9;
+}
+table.SelectTable  tr.SelectedHover {
+cursor: default; color: #b0afaf;
+}
+div.ControlArea img.DefinitionOut {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/DefinitionOut.gif') no-repeat; cursor: default; border: 0; height: 11px; width: 10px;
+}
+table.ContentTable img.DefinitionOut {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/DefinitionOut.gif') no-repeat; cursor: default; border: 0; height: 11px; width: 10px;
+}
+div.ControlArea img.DefinitionOver {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/DefinitionOver.gif') no-repeat; cursor: default; border: 0; height: 11px; width: 10px;
+}
+table.ContentTable img.DefinitionOver {
+background: url('http://ueg.tfn.com/user_experience/ib/p4/images/DefinitionOver.gif') no-repeat; cursor: default; border: 0; height: 11px; width: 10px;
+}
+#ToolTipDiv {
+background: #fff; border: #777 solid 1px; display: none; z-index: 10; position: absolute;
+}
+#ToolTipContentDiv {
+margin: 0; padding: 0; position: relative;
+}
+#DragToolTipDiv {
+margin: 1px; background: #fff url('http://ueg.tfn.com/user_experience/ib/p4/images/DefinitionHeaderBkg.gif') repeat-x top right; cursor: move; height: 16px;
+}
+div.ToolTipHeaderTitle {
+font-weight: bold; padding-bottom: 3px; font-size: 11px; padding-top: 3px; color: #557bad; padding-left: 6px; height: 16px; float: left;
+}
+div.ToolTipHeaderClose {
+font-weight: bold; padding-bottom: 3px; padding-right: 6px; padding-top: 3px; height: 16px; float: right;
+}
+div.ToolTipDefinitionArea {
+background-color: #ffffff; border: 0px solid red; padding: 5px 5px 0 5px;
+}
+div.ToolTipDefinitionArea div.ToolTipTerm {
+font-weight: bold; font-size: 1em; margin-bottom: 2px; font-family: tahoma; color: #000000;
+}
+div.ToolTipDefinitionArea div.ToolTipDefinition {
+margin-bottom: 8px;
+}
+table.ContentTable tr td.MoreInfo {
+border-right: none;
+}
+table.ContentTable tr th.MoreInfo {
+border-right: none;
+}
