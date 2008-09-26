@@ -148,6 +148,9 @@ padding-bottom: 30px; background: url('http://localhost:276/explorer/images/tab_
 #ViewNavigation .tabcontainer LI.tabon A {
 padding-bottom: 30px; font-size: 13px; padding-top: 5px; background: url('http://localhost:276/explorer/images/tab_left_on.gif') no-repeat left top; font-family: Arial,Helvetica,sans-serif; color: #FFF;
 }
+#ViewNavigation .tabcontainer LI.tabon.firstRound A {
+padding-bottom: 30px; font-size: 13px; padding-top: 5px; background: url('http://localhost:276/explorer/images/tab_left_on.gif') no-repeat left top; font-family: Arial,Helvetica,sans-serif; color: #FFF;
+}
 #ViewNavigation .tabcontainer TD.tabon A {
 padding-bottom: 30px; font-size: 13px; padding-top: 5px; background: url('http://localhost:276/explorer/images/tab_left_on.gif') no-repeat left top; font-family: Arial,Helvetica,sans-serif; color: #FFF;
 }
@@ -182,13 +185,13 @@ background: url('http://localhost:276/explorer/images/tab_right_off.gif') no-rep
 background: url('http://localhost:276/explorer/images/tab_right_off.gif') no-repeat  100% 2px;
 }
 #ViewNavigation .tabcontainer LI.taboff A {
-padding-bottom: 4px; padding-top: 5px; background: url('http://localhost:276/explorer/images/tab_left_off.gif') no-repeat  0 2px;
+padding-bottom: 4px; padding-top: 5px; background: url('http://localhost:276/explorer/images/tab_left_off.gif') no-repeat  0 2px; padding-left: 9px;
 }
 #ViewNavigation .tabcontainer TD.taboff A {
-padding-bottom: 4px; padding-top: 5px; background: url('http://localhost:276/explorer/images/tab_left_off.gif') no-repeat  0 2px;
+padding-bottom: 4px; padding-top: 5px; background: url('http://localhost:276/explorer/images/tab_left_off.gif') no-repeat  0 2px; padding-left: 9px;
 }
 .TabsTopMenu .tabcontainer LI.taboff A {
-padding-bottom: 4px; padding-top: 5px; background: url('http://localhost:276/explorer/images/tab_left_off.gif') no-repeat  0 2px;
+padding-bottom: 4px; padding-top: 5px; background: url('http://localhost:276/explorer/images/tab_left_off.gif') no-repeat  0 2px; padding-left: 9px;
 }
 #ViewNavigation UL.tabitems {
 background: #FFF url('http://localhost:276/explorer/images/subTabOpen.gif') no-repeat  10px 6px; min-width: 850px; margin-top: -25px; padding-left: 10px;
@@ -293,13 +296,13 @@ font-size: 12px; margin-top: 17px; height: auto;
 font-size: 12px; margin-top: 17px; height: auto;
 }
 .datatabletitle {
-padding: 5px 7px;
+padding: 5px 8px;
 }
 .altcolor3 .datatabletitle {
-padding: 5px 7px;
+padding: 5px 8px;
 }
 TABLE.datatabletitle TD {
-padding: 5px 7px;
+padding: 5px 8px;
 }
 DIV.topdatatabletitle .datatabletitleOuterWrapper {
 margin-top: 0;
@@ -411,6 +414,9 @@ background: url('http://localhost:276/explorer/images/noHeader_blue_special_left
 }
 .altcolor6 .noHeader {
 background: url('http://localhost:276/explorer/images/noHeader_blue_special_right.gif') bottom right no-repeat; border: none; height: 23px;
+}
+.altcolor .datatabletitle DIV {
+padding-right: 5px; font-weight: normal; font-size: 11px; padding-top: 0;
 }
 .altcolor6 .datatabletitle DIV {
 padding-right: 5px; font-weight: normal; font-size: 11px; padding-top: 0;
@@ -596,13 +602,19 @@ DIV.textareawrapper {
 background: url('http://localhost:276/explorer/images/bg_textarea_left.gif') top left no-repeat; float: left;
 }
 DIV.textareawrapper TEXTAREA {
-overflow: hidden; margin: 0; background: url('http://localhost:276/explorer/images/bg_textarea_right.gif') top right no-repeat; border: 0px none; padding: 2px 4px 0; font: normal 12px Tahoma, Arial, Helvetica, sans-serif;
+overflow: hidden; margin: 0; background: url('http://localhost:276/explorer/images/bg_textarea_right.gif') top right no-repeat; border: 0px none; padding: 2px 4px 0; font: normal 12px Tahoma, Arial, Helvetica, sans-serif; border-top: none;
 }
 DIV.textareabottom {
 background: url('http://localhost:276/explorer/images/bg_textfield_left.gif') 0 -14px no-repeat; float: left;
 }
 DIV.textareabottom DIV {
-background: url('http://localhost:276/explorer/images/bg_textfield_right.gif') 100% -14px no-repeat; height: 5px;
+background: url('http://localhost:276/explorer/images/bg_textfield_right.gif') 100% -14px no-repeat; height: 6px;
+}
+*html DIV.textareawrapper TEXTAREA {
+margin-top: -1px;
+}
+*+html DIV.textareawrapper TEXTAREA {
+margin-top: -1px;
 }
 .datatable.underwriters TR.hr {
 border: none;
@@ -661,6 +673,12 @@ display: none;
 TABLE.headlines TR.hr TD IMG {
 display: none;
 }
+TABLE.datatable TR.hr TD IMG.color {
+display: inline;
+}
+TABLE.headlines TR.hr TD IMG.color {
+display: inline;
+}
 TABLE.datatable TR.hr TD A {
 color: #5480A9;
 }
@@ -681,6 +699,9 @@ font-size: 12px;
 }
 TABLE.estimates TR.hr TD.head {
 font-size: 12px;
+}
+.altcolor4 TABLE.fundamentals {
+width: 100%;
 }
 .datatable TR.hr TD {
 background-color: #EFF3F8; border: none; padding: 0 6px 0 5px;
@@ -705,6 +726,9 @@ height: 15px;
 }
 .datatable TR.consensusSubHeader TD {
 font-weight: bold; font-size: 11px; padding-top: 1px; border-bottom: solid 1px #c7cdd9; color: #384D67;
+}
+DIV.value {
+background: none;
 }
 #criteriaTable.datatable TD {
 border-right: none;
@@ -781,7 +805,7 @@ font-size: 11px; height: 15px; color: #5480a9; text-align: auto;
 .altcolor6 TABLE.datatable TR.hr TD.numberCell {
 text-align: right;
 }
-.altcolor6 TABLE.datatable tr.hr td.sort {
+.altcolor6 TABLE.datatable TR.hr TD.sort {
 background-color: #6097C6; color: #FFF;
 }
 .altcolor6 TABLE.datatable TR.row-o TD {
@@ -1268,7 +1292,7 @@ vertical-align: top;
 vertical-align: middle;
 }
 DIV.regionComboBoxWrapper {
-font-weight: normal; font-family: Arial, helvetica, sans-serif; text-align: left; width: 172px;
+margin-right: -15px; font-weight: normal; font-family: Arial, helvetica, sans-serif; text-align: left; width: 172px;
 }
 DIV.regionComboBox {
 background: url('http://localhost:276/explorer/images/combo_select.gif') center right no-repeat; margin-top: 5px; cursor: pointer; background-color: #FFF; border: solid 1px #7F9DB9; padding: 3px; position: absolute; width: 150px;
@@ -1393,7 +1417,7 @@ font-weight: bold; border-bottom: none;
 TR.row-o.colspanHeading TD {
 font-weight: bold; border-bottom: none;
 }
-.altcolor2 .datatable tr.hr td.sort {
+.altcolor2 .datatable TR.hr TD.sort {
 background-color: #6097C6;
 }
 TABLE.tableLayout TD.contentColumn {
@@ -1678,6 +1702,12 @@ padding-left: 0px;
 .altcolor6 .datatabletitleOuterWrapper .datatabletitle TD {
 padding-left: 0px;
 }
+.altcolor3 DIV.realTimeLink {
+height: 100%; z-index: 1; text-align: right; width: 90%;
+}
+.altcolor3 DIV.realTimeLink A:hover {
+color: #00438A;
+}
 .altcolor1 DIV.realTimeLink {
 height: 100%; z-index: 1; text-align: right; width: 80%; top: 5px;
 }
@@ -1710,6 +1740,9 @@ background: url('http://localhost:276/explorer/images/bg_divet_gray.gif') center
 }
 .pagingNav .next {
 padding-right: 10px; background: url('http://localhost:276/explorer/images/arrow_dbl_orange_right.gif') center right no-repeat;
+}
+UL.horizontallist LI.first-child {
+padding-left: 0px;
 }
 UL.horizontallist LI.last-child {
 padding-right: 0px; background-image: none;
@@ -1795,7 +1828,7 @@ background: transparent url('http://localhost:276/explorer/images/buttons/button
 Table.FiHeaderTable {
 background: transparent url('http://localhost:276/explorer/images/bg_tabbar_fi_left.gif') no-repeat scroll left top; width: 100%;
 }
-Table.FiHeaderTable td.rightHeaderTD {
+Table.FiHeaderTable TD.rightHeaderTD {
 font-size: 12px; background: transparent url('http://localhost:276/explorer/images/bg_tabbar_fi_right.gif') no-repeat scroll right top; white-space: nowrap; padding: 7px 10px 0pt 0pt; vertical-align: top; color: #BCC4D1; text-align: right;
 }
 Table.FiHeaderTable .ctrEntityGuideTab li.selected {
@@ -2050,6 +2083,12 @@ color: #d90000;
 .leftNavColumn li ul.creditUlLeftNav LI {
 padding-bottom: 2px; padding-top: 4px;
 }
+.leftNavColumn DIV.newsSlider {
+background: url('http://localhost:276/explorer/images/slider.gif') 1px 5px no-repeat; border: solid 1px #E4EAF1; border-top: none;
+}
+.leftNavColumn DIV.newsSlider UL.creditUlLeftNav LI {
+padding-bottom: 0;
+}
 P.headerNews {
 font-weight: bold; font-size: 13px; margin: 0pt; line-height: 16px; padding: 0pt 0pt 15px; font-family: Arial; color: #4D6786; text-align: justify;
 }
@@ -2065,13 +2104,13 @@ color: #8E9DB6;
 .buttonsTdPopUp TABLE.button {
 margin: 1px 0;
 }
-DIV.buttonsLine table.buttonL input {
+DIV.buttonsLine TABLE.buttonL input {
 font-weight: bold; font-size: 13px; cursor: pointer; padding: 0 20px; color: white;
 }
-DIV.buttonsLine table.buttonL td {
+DIV.buttonsLine TABLE.buttonL td {
 background: transparent url('http://localhost:276/explorer/images/buttons/button_bg_left.gif') no-repeat scroll left top; margin: 0px; padding: 0px;
 }
-DIV.buttonsLine table.buttonL input {
+DIV.buttonsLine TABLE.buttonL input {
 background: transparent url('http://localhost:276/explorer/images/buttons/button_bg_right.gif') no-repeat scroll right center; border: none; height: 21px;
 }
 #chart .wrapper-inner .title {
@@ -2171,7 +2210,7 @@ background-color: transparent;
 background-color: transparent;
 }
 .results TABLE#resultstable {
-border-bottom: none;
+background: transparent url('http://localhost:276/explorer/images/bg_fa_table.gif') repeat-x scroll 0 bottom; border-bottom: none;
 }
 .datatable TR.dr {
 vertical-align: top;
@@ -2183,7 +2222,7 @@ background-image: none;
 padding: 3px 0 3px 25px;
 }
 DIV.chromeFooterWrapper {
-background: url('http://localhost:276/explorer/images/bg_chrome_footer_left.gif') top left no-repeat;
+background: #f1f5f9 url('http://localhost:276/explorer/images/bg_chrome_footer_left.gif') top left no-repeat;
 }
 DIV.chromeFooterWrapper DIV.chromeFooter {
 background: url('http://localhost:276/explorer/images/bg_chrome_footer_right.gif') top right no-repeat; height: 13px;
@@ -2221,7 +2260,7 @@ height: 450px; overflow-y: scroll;
 .wrapper-inner.analyzeAdvancedSearch .upperHeader {
 background-color: #CBD9E5;
 }
-.wrapper-inner.analyzeAdvancedSearch table#resultstable tr.hr td {
+.wrapper-inner.analyzeAdvancedSearch table#resultstable TR.hr td {
 font-weight: bold; font-size: 11px; background-color: #EFF3F8; border-right: medium none; height: 30px;
 }
 .wrapper-inner.analyzeAdvancedSearch table#resultstable td {
@@ -2327,7 +2366,7 @@ padding-left: 3px;
 background: url('http://localhost:276/explorer/images/bg_chartsetting_bottom_left.gif') bottom left no-repeat;
 }
 .chartsettingsBottomWrapper DIV {
-background: url('http://localhost:276/explorer/images/bg_chartsetting_bottom_right.gif') bottom right no-repeat; height: 4px;
+background: url('http://localhost:276/explorer/images/bg_chartsetting_bottom_right.gif') bottom right no-repeat; height: 100%;
 }
 .chartsettings SELECT {
 width: 100px;
@@ -2360,7 +2399,7 @@ background: none;
 background: none;
 }
 #chart .chartImageOuterWrapper {
-background: #FFF  url('http://localhost:276/explorer/images/bg_chart_image_left.gif') bottom left repeat-x;
+margin-bottom: 6px; background: #FFF  url('http://localhost:276/explorer/images/bg_chart_image_left.gif') bottom left repeat-x;
 }
 #chart .chartImageWrapper {
 padding-right: 3px; background: url('http://localhost:276/explorer/images/bg_chart_image_right.gif') bottom right no-repeat;
@@ -2382,6 +2421,27 @@ padding: 3px 5px 11px 5px;
 }
 .key {
 margin-top: 5px;
+}
+#chart #resultstablecontainer .key {
+padding-bottom: 2px; margin: 5px; background-color: #FFF; margin-left: 0;
+}
+#chart #resultstablecontainer TR.hr TD {
+background-color: #DBE0E9;
+}
+#chart #resultstablecontainer TD {
+border-right: solid 1px #CCC;
+}
+#chart DIV.buttoncontainer.LRBlock {
+padding-top: 10px; margin-top: 5px; background-image: url('http://localhost:276/explorer/images/bg_buttoncontainer.gif');
+}
+.buttoncontainer {
+padding-top: 10px; margin-top: 5px; background-image: url('http://localhost:276/explorer/images/bg_buttoncontainer.gif');
+}
+#chart DIV.factivaPopUpBlock {
+width: 270px;
+}
+#chart DIV.TextAreaContentDiv {
+overflow-y: auto;
 }
 .chartsettings DIV.buttonlistWrapper {
 background: url('http://localhost:276/explorer/images/bg_buttonlist_top_left.gif') top left no-repeat;
@@ -2484,6 +2544,9 @@ background: url('http://localhost:276/explorer/images/bg_chrome_criteria_right.g
 }
 .wrapper-outer {
 background: #EFF3F8 url('http://localhost:276/explorer/images/bg_advancedsearch_chrome_left.gif') no-repeat scroll left top;
+}
+.advancedSearchCriteriaWrapper TABLE TBODY TD {
+width: auto;
 }
 .tradeDate {
 margin-bottom: -10px; padding-top: 10px;
@@ -2914,6 +2977,54 @@ width: 80px;
 BUTTON.rightButton.ok {
 width: 80px;
 }
+DIV.wizard TABLE.button.middleButton {
+width: 67px;
+}
+DIV.wizard BUTTON.leftButton {
+width: 67px;
+}
+DIV.wizard BUTTON.rightButton {
+width: 67px;
+}
+TABLE.button.middleButton TD {
+padding-right: 0; background-image: url('http://localhost:276/explorer/images/buttons/button_middleButton_right.gif');
+}
+TABLE.button.middleButton BUTTON {
+background-image: url('http://localhost:276/explorer/images/buttons/button_middleButton_left.gif');
+}
+DIV.leftButton {
+float: left;
+}
+DIV.rightButton {
+float: left;
+}
+DIV.leftButton {
+background: url('http://localhost:276/explorer/images/buttons/button_middleButton_right.gif') center right no-repeat;
+}
+DIV.rightButton {
+background: url('http://localhost:276/explorer/images/buttons/button_rightButton_left.gif') center left no-repeat; padding-left: 2px;
+}
+.disabled TABLE.button.middleButton TD {
+background-image: url('http://localhost:276/explorer/images/buttons/button_disabled_middleButton_right.gif');
+}
+.disabled TABLE.button.middleButton BUTTON {
+background-image: url('http://localhost:276/explorer/images/buttons/button_disabled_middleButton_left.gif');
+}
+.disabled DIV.leftButton {
+background-image: url('http://localhost:276/explorer/images/buttons/button_disabled_middleButton_right.gif');
+}
+.disabled DIV.rightButton {
+background-image: url('http://localhost:276/explorer/images/buttons/button_disabled_rightButton_left.gif');
+}
+div.buttoncontainer.LRBlock .disabled BUTTON.leftButton {
+background-image: url('http://localhost:276/explorer/images/buttons/button_disabled_bg_left.gif');
+}
+div.buttoncontainer.LRBlock .disabled BUTTON.rightButton {
+background-image: url('http://localhost:276/explorer/images/buttons/button_disabled_bg_right.gif');
+}
+DIV.buttoncontainer.LRBlock DIV.leftButton BUTTON.leftButton {
+margin-right: 2px;
+}
 UL.graphUl {
 margin: 0pt; padding: 4px; list-style-type: none;
 }
@@ -3271,14 +3382,38 @@ background: transparent url('http://localhost:276/explorer/images/bg_advancedSea
 .advanceSearchMainBG {
 margin-bottom: 15px; background: #FFFFFF url('http://localhost:276/explorer/images/bg_advancedSearchcomBg.gif') repeat-x scroll left bottom;
 }
-div.advanceSearchDivContent table.button button {
+div.advanceSearchDivContent TABLE.button button {
 font-weight: bold; font-size: 13px; font-family: Arial,helvetica,sans-serif; margin-left: 110px;
 }
 #tbFreeText {
 margin: 5px 0pt 0pt; background: transparent url('http://localhost:276/explorer/images/bg_adTextbox.gif') no-repeat scroll left top; border: medium none; padding: 3px 5px; height: 20px; width: 605px;
 }
+DIV.advanceSearchDivContent DIV.buttoncontainer {
+text-align: left;
+}
+DIV.advanceSearchDivContent DIV.buttoncontainer TABLE#fsubmit BUTTON.butDef {
+margin-left: 75px;
+}
+DIV.advanceSearchDivContent DIV.buttoncontainer TABLE#fscancel BUTTON.butDef {
+margin-left: 4px;
+}
+DIV.alertChooser {
+padding: 0 10px;
+}
+DIV.alertChooserHeading {
+padding-bottom: 10px;
+}
+DIV.alertChooser DIV.factivaPopUpTextAreaDiv {
+width: 560px;
+}
+DIV.alertChooser DIV.factivaPopUpTextAreaDiv DIV.TextAreaContentDiv {
+overflow-y: auto; height: 150px;
+}
+DIV.alertChooser .datatable.advancedsearch {
+background: none; margin-top: 0;
+}
 DIV.factivaPopUpBlock {
-font-size: 12px; background: #FFFFFF url('http://localhost:276/explorer/images/bg_fapopup.gif') repeat-x scroll left bottom; min-height: 50px; width: 683px;
+font-size: 12px; background: #FFFFFF url('http://localhost:276/explorer/images/bg_fapopup.gif') repeat-x scroll left bottom; min-height: 50px; position: relative; width: 683px;
 }
 DIV.faPopUpHeader {
 font-size: 1px; background: transparent url('http://localhost:276/explorer/images/bg_fapopuptop.gif') no-repeat scroll left top; line-height: 5px; height: 5px;
@@ -3287,10 +3422,13 @@ DIV.faPopUpHeader DIV.faPopUpHeaderRight {
 font-size: 1px; background: transparent url('http://localhost:276/explorer/images/bg_fapopuptop.gif') no-repeat scroll right top; line-height: 5px; height: 5px; margin-left: 5px;
 }
 DIV.faPopUpContent {
-margin: 0pt; border-right: 1px solid #A9C0D0; min-height: 40px; padding: 0pt 4px; color: #000000; border-left: 1px solid #A9C0D0;
+margin: 0pt; border-right: 1px solid #A9C0D0; min-height: 40px; padding: 0pt 4px; color: #000000; border-left: 1px solid #A9C0D0; z-index: 100; position: relative;
 }
 DIV.faPopUpContent H2 {
-font-size: 16px; padding-top: 20px; padding-left: 7px;
+font-size: 16px; padding-top: 7px; padding-left: 7px;
+}
+DIV.popUpInnerContent {
+padding-left: 7px;
 }
 DIV.faPopUpFooter {
 font-size: 1px; background: transparent url('http://localhost:276/explorer/images/bg_fapopupbottom.gif') no-repeat scroll left top; line-height: 5px; height: 5px;
@@ -3301,8 +3439,26 @@ font-size: 1px; background: transparent url('http://localhost:276/explorer/image
 DIV.factivaPopUpTextAreaDiv {
 font-size: 11px; background: #FFFFFF url('http://localhost:276/explorer/images/bg_faTxtAreaCom.gif') repeat-x scroll left bottom; width: 200px;
 }
+DIV.factivaPopUpTextAreaDivHeader {
+font-weight: bold; margin-bottom: 5px; line-height: 25px;
+}
+DIV.TextAreaContentDiv UL.optionList LI {
+padding-bottom: 5px; padding-top: 6px; cursor: pointer;
+}
+DIV.TextAreaContentDiv UL.optionList LI.on {
+background-color: #F3F6F8;
+}
+DIV.TextAreaContentDiv UL.optionList LI.onactive {
+padding-top: 5px; background-color: #D7E0E9; border-top: solid 1px #FFF;
+}
+DIV.TextAreaContentDiv UL.optionList LI.activeon {
+padding-top: 5px; background-color: #D7E0E9; border-top: solid 1px #FFF;
+}
+DIV.TextAreaContentDiv UL.optionList LI.active {
+padding-top: 5px; background-color: #D7E0E9; border-top: solid 1px #FFF;
+}
 DIV.TextAreaHeader {
-font-size: 1px; background: transparent url('http://localhost:276/explorer/images/bg_faTxtAreaComTop.gif') no-repeat scroll left top; line-height: 5px; height: 5px;
+font-size: 1px; background: transparent url('http://localhost:276/explorer/images/bg_faTxtAreaComTop.gif') no-repeat scroll left top; line-height: 5px; height: 5px; margin-left: 1px;
 }
 DIV.TextAreaHeader DIV.TextAreaHeaderRight {
 font-size: 1px; background: transparent url('http://localhost:276/explorer/images/bg_faTxtAreaComTop.gif') no-repeat scroll right top; line-height: 5px; height: 5px; margin-left: 5px;
@@ -3379,6 +3535,9 @@ font-weight: bold; font-size: 13px; font-family: Arial,Helvetica,sans-serif;
 DIV.advancedSearchTitle TABLE.myPreferenceTable P {
 margin: 0pt; line-height: 16px; padding: 0pt; color: #576A82;
 }
+B.chart {
+padding-top: 2px; background: transparent url('http://localhost:276/Explorer/images/icon_chart.gif') no-repeat scroll left top; margin-top: -2px; display: block; height: 19px; padding-left: 25px; float: left;
+}
 .chart {
 padding-top: 3px; background: transparent url('http://localhost:276/Explorer/images/icon_chart.gif') no-repeat scroll left top; padding-left: 25px;
 }
@@ -3415,40 +3574,61 @@ padding-bottom: 2px; background: url('http://localhost:276/explorer/images/icon_
 .sIcoTbl {
 padding-bottom: 2px; background: url('http://localhost:276/explorer/images/icon_s.gif') no-repeat scroll left center; display: block; height: 17px; width: 20px;
 }
-form.filter table.noprint {
-background: transparent url('http://localhost:276/explorer/images/bg_comboGroup.gif') repeat-x scroll left top;
+FORM.filter {
+background: transparent url('http://localhost:276/explorer/images/bg_tabbarTable_topLeft.gif') -10px 0 no-repeat;
 }
-form.filter table.noPrint {
-background: transparent url('http://localhost:276/explorer/images/bg_comboGroup.gif') repeat-x scroll left top;
+DIV.filter {
+background: transparent url('http://localhost:276/explorer/images/bg_tabbarTable_topLeft.gif') -10px 0 no-repeat;
 }
-.fmrl {
-background: transparent url('http://localhost:276/explorer/images/bg_comboGroup.gif') repeat-x scroll left bottom; padding-left: 5px;
+FORM.filter TABLE.noprint {
+background: transparent url('http://localhost:276/explorer/images/bg_tabbarTable_right.gif') top right no-repeat; width: 100%;
 }
-.fbrl {
-background: transparent url('http://localhost:276/explorer/images/bg_comboGroup.gif') repeat-x scroll left bottom; padding-left: 5px;
+FORM.filter TABLE.noPrint {
+background: transparent url('http://localhost:276/explorer/images/bg_tabbarTable_right.gif') top right no-repeat; width: 100%;
 }
-.fmrl {
-background: transparent url('http://localhost:276/explorer/images/bg_comboGroup.gif') repeat-x scroll left -30px;
+DIV.filter TABLE.noprint {
+background: transparent url('http://localhost:276/explorer/images/bg_tabbarTable_right.gif') top right no-repeat; width: 100%;
 }
-.fbrm {
-background: transparent url('http://localhost:276/explorer/images/bg_comboGroup.gif') repeat-x scroll -5px bottom;
+DIV.filter TABLE.noPrint {
+background: transparent url('http://localhost:276/explorer/images/bg_tabbarTable_right.gif') top right no-repeat; width: 100%;
 }
-.fbrr {
-padding-right: 5px; background: transparent url('http://localhost:276/explorer/images/bg_comboGroup.gif') repeat-x scroll right bottom;
+TD.ftrm {
+background: none;
 }
-.ftworr {
-background: transparent url('http://localhost:276/explorer/images/bg_comboGroup.gif') repeat-x scroll right top;
+TD.ftworr {
+text-align: left; width: 100%;
 }
-.forr {
-background: transparent url('http://localhost:276/explorer/images/bg_comboGroup.gif') repeat-x scroll right top;
+TD.forr {
+background: none;
 }
-.altcolor4 table.datatable tr.group td.rh {
+TD.ftworr {
+background: none;
+}
+TD.fbrr {
+background: none;
+}
+TD.fbrl {
+background: none;
+}
+TD.forr {
+padding-right: 5px;
+}
+TD.fbrm {
+border-bottom: solid 1px #E0E6EC; height: 4px;
+}
+TD.fbrl {
+background: #FFF url('http://localhost:276/explorer/images/bg_accordion_bottom_left.gif') bottom left no-repeat; height: 4px;
+}
+TD.fbrr {
+background: #FFF url('http://localhost:276/explorer/images/bg_accordion_bottom_left.gif') bottom right no-repeat; height: 4px;
+}
+.altcolor4 TABLE.datatable TR.group TD.rh {
 background-color: #E6F3FC; border-bottom: 1px solid #E2E8F4;
 }
-.altcolor4 table.datatable tr.dr td.rh {
+.altcolor4 TABLE.datatable TR.dr TD.rh {
 background-color: #E6F3FC; border-bottom: 1px solid #E2E8F4;
 }
-.altcolor10 table.datatable {
+.altcolor10 TABLE.datatable {
 border-collapse: collapse; background-color: transparent; border: none 0;
 }
 .altcolor10 DIV.outerWrapper {
@@ -3469,7 +3649,7 @@ font-size: 8pt; color: black;
 .altcolor10 TABLE.datatable TR.dr TD.rh {
 font-size: 8pt; color: #646c77; text-align: left;
 }
-.altcolor10 TABLE.datatable tr.dr td.math {
+.altcolor10 TABLE.datatable TR.dr TD.math {
 font-size: 8pt; color: #646c77; text-align: left;
 }
 .altcolor10 TABLE.datatable .neg {
@@ -3718,16 +3898,16 @@ text-align: center;
 .altcolor3 TABLE.headlines TR.row-o TD.rh {
 background-color: #EEEEEE;
 }
-.altcolor3 .datatable tr.hr {
+.altcolor3 .datatable TR.hr {
 font-weight: bold; background-color: #E6E8EC; border-bottom: none; color: #3E4A66;
 }
-.altcolor3 .datatable tr.hr td {
+.altcolor3 .datatable TR.hr td {
 font-weight: bold; background-color: #E6E8EC; border-bottom: none; color: #3E4A66;
 }
-.altcolor3 .datatable tr.hr {
+.altcolor3 .datatable TR.hr {
 color: #003B94;
 }
-.altcolor3 .datatable tr.hr td A {
+.altcolor3 .datatable TR.hr td A {
 color: #003B94;
 }
 .altcolor3 TABLE.headlines TR {
@@ -3805,8 +3985,8 @@ background: #EFF3F8 url('http://localhost:276/explorer/images/bg_advancedsearch_
 .barContainer DIV.perfblueWrapper {
 margin-top: 0px; float: left;
 }
-.barContainer DIV.value {
-padding-left: 5px; float: left;
+TABLE.estimates TD.bar DIV.barContainer DIV.value {
+padding: 0 0 0 5px; float: left;
 }
 .up {
 padding-right: 15px; background: transparent url('http://localhost:276/explorer/images/icon_up.gif') no-repeat scroll right center;
@@ -3820,7 +4000,7 @@ padding: 2px 0;
 .mynewsitem-hover .horizontallist {
 padding: 2px 0;
 }
-div.BlueGradientBlock .BlueGradientBlockContent table.BlueGradientBlockTable .underlinedTR {
+div.BlueGradientBlock .BlueGradientBlockContent TABLE.BlueGradientBlockTable .underlinedTR {
 background: transparent url('http://localhost:276/explorer/images/hr_border_bottom.gif') left bottom repeat-x; border: none 0;
 }
 .morelink {
@@ -3949,10 +4129,10 @@ background-color: transparent; background-image: none;
 td.ftrl {
 background-color: transparent; background-image: none;
 }
-td.fmrl {
+TD.fmrl {
 background-color: transparent; background-image: none;
 }
-td.fmrl {
+TD.fmrl {
 background-color: transparent; background-image: none;
 }
 #AdvSearchDropDownBlock {
@@ -3964,7 +4144,7 @@ font-weight: bold; margin: 2px 5px 2px 5px;
 UL.DropDownMenu A {
 font-weight: normal; font-size: 8pt;
 }
-div.datatable table tr.dr td.rh.sel {
+div.datatable table TR.dr TD.rh.sel {
 text-align: left;
 }
 .fundamentals.officers.datatable .hr TD {
@@ -3976,7 +4156,7 @@ background-color: #F4F7FC;
 .fundamentals.officers.datatable .dr TD.row-o {
 background-color: #F4F7FC;
 }
-table.fundamentals td.topBorder {
+table.fundamentals TD.topBorder {
 border-top: solid 3px #E2E8F4;
 }
 .datatable.headerBorders .hr TD {
@@ -3990,6 +4170,9 @@ overflow-y: scroll;
 }
 .TextAreaContentDiv UL LI {
 font-size: 12px; font-family: Tahoma,Arial,Helvetica,sans-serif;
+}
+.wrapper-inner .TextAreaContentDiv DIV.advancedsearch {
+background: none; margin-top: 0;
 }
 .tableHeightTD25 TD {
 height: 30px;
@@ -4044,6 +4227,15 @@ padding-right: 12px;
 }
 .factivaHomeContentTable TD {
 padding-right: 50px; vertical-align: top; height: 210px;
+}
+.factivaHomeContentTable UL.arrowlist {
+margin-top: 3px;
+}
+.factivaHomeContentTable UL.arrowlist LI A {
+font-weight: bold;
+}
+.factivaHomeContentTable UL.arrowlist LI {
+margin-bottom: 8px;
 }
 .vertAlignTop {
 vertical-align: top;
@@ -4250,5 +4442,23 @@ color: #003A78;
 background-image: url('http://localhost:276/explorer/images/arrow_orange_large_down.gif');
 }
 DIV.closeButtonX {
-margin-right: 7px; background: transparent url('http://localhost:276/explorer/images/login/close.gif') no-repeat left top; margin-top: 5px; cursor: pointer; height: 7px; float: right; width: 7px;
+background: transparent url('http://localhost:276/explorer/images/login/close.gif') no-repeat left top; cursor: pointer; height: 7px; position: absolute; right: 10px; top: 10px; width: 7px;
+}
+TABLE.haspadding TD {
+padding: 3px;
+}
+DIV.shadowBlock {
+bottom: -5px; background: transparent url('http://localhost:276/explorer/images/bg_shadow.png') right bottom; height: 100%; position: absolute; z-index: 99; width: 100%; right: -4px;
+}
+TD.noPadding {
+padding: 0;
+}
+DIV.VodafoneLogo {
+background: transparent url('http://localhost:276/explorer/images/logos/vodafone.gif') no-repeat top left; height: 56px; position: absolute; right: 30px; top: 15px; width: 80px;
+}
+TABLE.RefineResultsTable TD {
+height: 20px;
+}
+div.paging div {
+margin-top: -17px; position: relative; top: 3px; right: 0; float: right;
 }
